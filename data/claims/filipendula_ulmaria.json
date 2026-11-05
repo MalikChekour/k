@@ -95,5 +95,77 @@
   "applies_to": [
    "age_lt_18"
   ]
+ },
+ {
+  "id": "filipendula_ulmaria-ind-01",
+  "plant": "filipendula_ulmaria",
+  "type": "indication",
+  "statement": "Usage traditionnel : traitement d'appoint du rhume.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Traditional herbal medicinal product for the supportive treatment of common cold."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "filipendula_ulmaria-ind-02",
+  "plant": "filipendula_ulmaria",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Traditional herbal medicinal product for the relief of minor articular pain."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "filipendula_ulmaria-pos-01",
+  "plant": "filipendula_ulmaria",
+  "type": "posology",
+  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1,5 à 6 g par dose unique, 2 à 18 g par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Comminuted herbal substance as herbal tea: single dose: 1.5-6 g, as an infusion daily dose: 2-18 g"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "filipendula_ulmaria-pos-02",
+  "plant": "filipendula_ulmaria",
+  "type": "posology",
+  "statement": "Durée (rhume) : si les symptômes persistent plus de 7 jours, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "If the symptoms persist longer than 7 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

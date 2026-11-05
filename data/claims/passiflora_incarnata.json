@@ -97,5 +97,59 @@
   "applies_to": [
    "age_lt_12"
   ]
+ },
+ {
+  "id": "passiflora_incarnata-ind-01",
+  "plant": "passiflora_incarnata",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+   "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "passiflora_incarnata-pos-01",
+  "plant": "passiflora_incarnata",
+  "type": "posology",
+  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1 à 2 g dans 150 ml d'eau bouillante, 1 à 4 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+   "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion, 1-4 times daily"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "passiflora_incarnata-pos-02",
+  "plant": "passiflora_incarnata",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

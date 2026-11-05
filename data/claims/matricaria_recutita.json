@@ -75,5 +75,77 @@
    "pregnant",
    "lactating"
   ]
+ },
+ {
+  "id": "matricaria_recutita-ind-01",
+  "plant": "matricaria_recutita",
+  "type": "indication",
+  "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux mineurs (ballonnements, petits spasmes).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "Traditional herbal medicinal product used for the symptomatic treatment of minor gastro-intestinal complaints such as bloating and minor spasms."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "matricaria_recutita-ind-02",
+  "plant": "matricaria_recutita",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "matricaria_recutita-pos-01",
+  "plant": "matricaria_recutita",
+  "type": "posology",
+  "statement": "Usage traditionnel, infusion (indication 1) : dose unique de 1,5 à 4 g dans 150 ml d'eau bouillante, 3 à 4 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "Single dose: 1.5-4 g of the herbal substance or comminuted herbal substance in 150 ml of boiling water as a herbal infusion"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "matricaria_recutita-pos-02",
+  "plant": "matricaria_recutita",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus d'une semaine, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "If the symptoms persist more than one week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

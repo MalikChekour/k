@@ -97,5 +97,95 @@
   "applies_to": [
    "age_lt_18"
   ]
+ },
+ {
+  "id": "urtica_dioica-ind-01",
+  "plant": "urtica_dioica",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes des petits troubles urinaires, en complément d'un apport hydrique suffisant.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product used for the relief of symptoms associated with minor urinary complaints in addition to the general recommendation of a sufficient fluid intake to increase the amount of urine."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "urtica_dioica-ind-02",
+  "plant": "urtica_dioica",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for the relief of minor articular pain."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "urtica_dioica-ind-03",
+  "plant": "urtica_dioica",
+  "type": "indication",
+  "statement": "Usage traditionnel : affections cutanées séborrhéiques.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product used in seborrhoeic skin conditions."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "urtica_dioica-pos-01",
+  "plant": "urtica_dioica",
+  "type": "posology",
+  "statement": "Usage traditionnel (indication 1), adolescents à partir de 12 ans et adultes : tisane de 1,5 g dans 150 ml d'eau bouillante, 3 à 4 fois par jour (dose journalière 4,5 à 6 g).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "SD=1.5 g of the comminuted herbal substance in 150 ml of boiling water as infusion, 3-4 times daily DD=4.5-6 g"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "urtica_dioica-pos-02",
+  "plant": "urtica_dioica",
+  "type": "posology",
+  "statement": "Durée (indication 1) : si les symptômes persistent plus de deux semaines, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "If symptoms persist longer than two weeks during the use of the medicinal product"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

@@ -112,5 +112,77 @@
   "reviewed_by": null,
   "reviewed_on": null,
   "applies_to": []
+ },
+ {
+  "id": "ginkgo_biloba-ind-01",
+  "plant": "ginkgo_biloba",
+  "type": "indication",
+  "statement": "Usage bien établi : amélioration des troubles cognitifs (liés à l'âge) et de la qualité de vie dans la démence légère.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "Herbal medicinal product for the improvement of (age-associated) cognitive impairment and of quality of life in mild dementia."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "ginkgo_biloba-ind-02",
+  "plant": "ginkgo_biloba",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des jambes lourdes et des sensations de froid aux mains et aux pieds liées à des troubles circulatoires mineurs, après exclusion de pathologies graves par un médecin.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "Traditional herbal medicinal product for the relief of heaviness of legs and the sensation of cold hands and feet associated with minor circulatory disorders, after serious conditions have been excluded by a medical doctor."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "ginkgo_biloba-pos-01",
+  "plant": "ginkgo_biloba",
+  "type": "posology",
+  "statement": "Usage bien établi, adultes et personnes âgées : dose unique de 120 à 240 mg, dose journalière de 240 mg.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "Single dose: 120-240 mg Daily dose: 240 mg"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "ginkgo_biloba-pos-02",
+  "plant": "ginkgo_biloba",
+  "type": "posology",
+  "statement": "Durée (usage bien établi) : le traitement doit durer au moins 8 semaines.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "Treatment should last for at least 8 weeks."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

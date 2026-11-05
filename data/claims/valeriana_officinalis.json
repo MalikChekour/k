@@ -57,5 +57,95 @@
    "pregnant",
    "lactating"
   ]
+ },
+ {
+  "id": "valeriana_officinalis-ind-01",
+  "plant": "valeriana_officinalis",
+  "type": "indication",
+  "statement": "Usage bien établi : soulagement des tensions nerveuses légères et des troubles du sommeil.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "Herbal medicinal product for the relief of mild nervous tension and sleep disorders."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "valeriana_officinalis-ind-02",
+  "plant": "valeriana_officinalis",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "valeriana_officinalis-pos-01",
+  "plant": "valeriana_officinalis",
+  "type": "posology",
+  "statement": "Usage bien établi, adolescents, adultes et personnes âgées : dose unique de 400 à 600 mg d'extrait sec, jusqu'à 3 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "Single dose: 400-600 mg dry extract; For relief of mild nervous tension up to 3 times daily."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "valeriana_officinalis-pos-02",
+  "plant": "valeriana_officinalis",
+  "type": "posology",
+  "statement": "Usage traditionnel (sommeil) : une dose unique une demi-heure à une heure avant le coucher, une dose plus tôt le soir si nécessaire.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "For relief of sleep disorders, a single dose half to one hour before bedtime with an earlier dose during the evening if necessary."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "valeriana_officinalis-pos-03",
+  "plant": "valeriana_officinalis",
+  "type": "posology",
+  "statement": "Durée : pour un effet optimal, une utilisation continue de 2 à 4 semaines est recommandée.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "To achieve an optimal treatment effect, continued use over 2-4 weeks is recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

@@ -97,5 +97,77 @@
   "applies_to": [
    "age_lt_18"
   ]
+ },
+ {
+  "id": "crataegus_spp-ind-01",
+  "plant": "crataegus_spp",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes de plaintes cardiaques nerveuses passagères (ex. palpitations dues à une légère anxiété), après exclusion de pathologies graves par un médecin.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "Traditional herbal medicinal product used to relieve symptoms of temporary nervous cardiac complaints (e.g. palpitations, perceived extra heart beat due to mild anxiety) after serious conditions have been excluded by a medical doctor."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "crataegus_spp-ind-02",
+  "plant": "crataegus_spp",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "crataegus_spp-pos-01",
+  "plant": "crataegus_spp",
+  "type": "posology",
+  "statement": "Usage traditionnel, adultes et personnes âgées (indication 1) : tisane de 1 à 2 g dans 150 ml d'eau bouillante, jusqu'à 4 fois par jour (maximum 6 g).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion up to 4 times daily (max. 6 g)"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "crataegus_spp-pos-02",
+  "plant": "crataegus_spp",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

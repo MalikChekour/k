@@ -113,5 +113,95 @@
   "reviewed_by": null,
   "reviewed_on": null,
   "applies_to": []
+ },
+ {
+  "id": "hypericum_perforatum-ind-01",
+  "plant": "hypericum_perforatum",
+  "type": "indication",
+  "statement": "Usage bien établi : traitement des épisodes dépressifs légers à modérés (à discuter avec un médecin).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+   "quote": "Herbal medicinal product for the treatment of mild to moderate depressive episodes."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "hypericum_perforatum-ind-02",
+  "plant": "hypericum_perforatum",
+  "type": "indication",
+  "statement": "Usage bien établi : traitement de courte durée des symptômes des troubles dépressifs légers (à discuter avec un médecin).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+   "quote": "Herbal medicinal product for the short-term treatment of symptoms in mild depressive disorders."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "hypericum_perforatum-ind-03",
+  "plant": "hypericum_perforatum",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement de l'épuisement mental passager.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for the relief of temporary mental exhaustion."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "hypericum_perforatum-pos-01",
+  "plant": "hypericum_perforatum",
+  "type": "posology",
+  "statement": "Usage bien établi, adultes et personnes âgées (préparation a) : dose unique de 300 à 600 mg, 1 à 3 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+   "quote": "Single dose: 300-600 mg Dosage frequency: 1-3 times daily Daily dose: 600-1800 mg"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "hypericum_perforatum-pos-02",
+  "plant": "hypericum_perforatum",
+  "type": "posology",
+  "statement": "Durée : un effet peut être attendu dans les 4 semaines ; si les symptômes persistent, consulter un médecin.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+   "quote": "The onset of the effect can be expected within 4 weeks of treatment. If the symptoms persist during the use of the medicinal product, a doctor should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

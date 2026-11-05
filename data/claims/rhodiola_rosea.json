@@ -77,5 +77,59 @@
   "applies_to": [
    "age_lt_18"
   ]
+ },
+ {
+  "id": "rhodiola_rosea-ind-01",
+  "plant": "rhodiola_rosea",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes de stress, comme la fatigue et l'épuisement.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for the relief of symptoms of stress, such as fatigue and exhaustion."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "rhodiola_rosea-pos-01",
+  "plant": "rhodiola_rosea",
+  "type": "posology",
+  "statement": "Usage traditionnel, adultes et personnes âgées : dose unique de 144 à 200 mg, 1 à 2 fois par jour (144 à 400 mg par jour).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+   "quote": "Single dose: 144-200 mg Dosage frequency: 1-2 times daily Daily dose: 144 - 400 mg"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "rhodiola_rosea-pos-02",
+  "plant": "rhodiola_rosea",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

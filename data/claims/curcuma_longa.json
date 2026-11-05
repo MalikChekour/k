@@ -97,5 +97,59 @@
   "applies_to": [
    "age_lt_18"
   ]
+ },
+ {
+  "id": "curcuma_longa-ind-01",
+  "plant": "curcuma_longa",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des troubles digestifs (sensation de plénitude, digestion lente, flatulences).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product used for the relief of digestive disturbances, such as feelings of fullness, slow digestion and flatulence."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "curcuma_longa-pos-01",
+  "plant": "curcuma_longa",
+  "type": "posology",
+  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 0,5 à 1,0 g dans 150 ml d'eau bouillante, 2 à 3 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+   "quote": "Herbal tea: 0.5-1.0 g comminuted herbal substance in 150 ml of boiling water as an infusion, 2-3 times daily;"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "curcuma_longa-pos-02",
+  "plant": "curcuma_longa",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]
