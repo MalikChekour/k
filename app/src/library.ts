@@ -1,0 +1,51 @@
+import { normalize } from './safety.ts';
+import type { Claim, PlantData } from './safety.ts';
+
+export type Rubric = 'indication' | 'posologie' | 'precautions' | 'interactions' | 'grossesse';
+export const RUBRICS: { id: Rubric; fr: string }[] = [
+  { id: 'indication', fr: 'Indications' },
+  { id: 'posologie', fr: 'Posologie' },
+  { id: 'precautions', fr: 'Précautions' },
+  { id: 'interactions', fr: 'Interactions' },
+  { id: 'grossesse', fr: 'Grossesse' },
+];
+
+/** Type d'affirmation -> rubrique de la fiche. Un type inconnu tombe dans « Précautions » (jamais masqué). */
+export function rubricOf(type: string): Rubric {
+  switch (type) {
+    case 'indication': return 'indication';
+    case 'posology': return 'posologie';
+    case 'interaction': return 'interactions';
+    case 'pregnancy':
+    case 'lactation': return 'grossesse';
+    default: return 'precautions';
+  }
+}
+
+export function groupClaims(claims: Claim[]): Record<Rubric, Claim[]> {
+  const out: Record<Rubric, Claim[]> = { indication: [], posologie: [], precautions: [], interactions: [], grossesse: [] };
+  for (const c of claims) out[rubricOf(c.type)].push(c);
+  return out;
+}
+
+export const SEVERITY_LABEL: Record<string, string> = {
+  contraindiquee: 'Contre-indiquée',
+  majeure: 'Interaction majeure',
+  moderee: 'Interaction modérée',
+  precaution: 'Précaution',
+  donnees_absentes: 'Données absentes',
+  aucune_rapportee: 'Aucune rapportée',
+};
+export function severityLabel(sev?: string | null): string {
+  return sev ? SEVERITY_LABEL[sev] ?? sev : 'Information';
+}
+
+/** Recherche insensible à la casse et aux accents, sur le nom français, le nom latin et la partie utilisée. */
+export function filterPlants(plants: PlantData[], query: string, rubric: Rubric | null): PlantData[] {
+  const q = normalize(query);
+  return plants.filter(p => {
+    if (rubric && !p.claims.some(c => rubricOf(c.type) === rubric)) return false;
+    if (!q) return true;
+    return normalize(`${p.fr} ${p.latin} ${p.part}`).includes(q);
+  });
+}

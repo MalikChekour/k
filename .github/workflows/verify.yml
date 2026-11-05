@@ -39,7 +39,7 @@ jobs:
         run: npx tsc --noEmit --pretty false 2>&1 | sed 's/^/::error::/'
         working-directory: app
       - name: Tests du calculateur
-        run: node --test src/tincture.test.ts src/safety.test.ts
+        run: node --test src/tincture.test.ts src/safety.test.ts src/usages.test.ts src/infusion.test.ts src/library.test.ts src/armoire.test.ts
         working-directory: app
   server:
     runs-on: ubuntu-24.04

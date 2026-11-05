@@ -1,0 +1,11 @@
+{
+ "_note": "Doses UNITAIRES d'infusion (tisane) reprises de la section 4.2 de la monographie EMA citee. Le calculateur ne compose rien : il compare la dose saisie a la fourchette EMA. quote_fragment doit figurer mot pour mot dans l'extrait de l'affirmation (verifie par build_bundle.py), ainsi que le volume d'eau.",
+ "infusions": [
+  {"plant": "matricaria_recutita", "claim": "matricaria_recutita-pos-01", "min_g": 1.5, "max_g": 4, "water_ml": 150, "quote_fragment": "1.5-4 g", "label": "Camomille : infusion, usage traditionnel"},
+  {"plant": "melissa_officinalis", "claim": "melissa_officinalis-pos-01", "min_g": 1.5, "max_g": 4.5, "water_ml": 150, "quote_fragment": "1.5-4.5 g", "label": "Mélisse : tisane, usage traditionnel"},
+  {"plant": "passiflora_incarnata", "claim": "passiflora_incarnata-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Passiflore : tisane, usage traditionnel"},
+  {"plant": "crataegus_spp", "claim": "crataegus_spp-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Aubépine : tisane, usage traditionnel"},
+  {"plant": "curcuma_longa", "claim": "curcuma_longa-pos-01", "min_g": 0.5, "max_g": 1, "water_ml": 150, "quote_fragment": "0.5-1.0 g", "label": "Curcuma : infusion, usage traditionnel"},
+  {"plant": "urtica_dioica", "claim": "urtica_dioica-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 150, "quote_fragment": "SD=1.5 g", "label": "Ortie : tisane, dose unitaire (usage traditionnel)"}
+ ]
+}

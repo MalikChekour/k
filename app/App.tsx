@@ -1,29 +1,16 @@
 import React, { useState } from 'react';
-import { Linking, Modal, Pressable, SafeAreaView, ScrollView, StatusBar, StyleSheet, Text, TextInput, View } from 'react-native';
-import bundle from './src/data/bundle.json';
+import { Linking, Modal, Pressable, SafeAreaView, ScrollView, StatusBar, Text, TextInput, View } from 'react-native';
 import { tincture } from './src/tincture';
-import { assess } from './src/safety';
-import type { Bundle } from './src/safety';
-import type { Plant } from './src/types';
+import type { Profile } from './src/safety';
+import type { PlantData } from './src/safety';
+import { plants } from './src/bundle';
+import { Badge, C, Notice, s } from './src/screens/shared';
+import { Mix } from './src/screens/Mix';
+import { Safety } from './src/screens/Safety';
 
-const plants = bundle.plants as Plant[];
-const data = bundle as unknown as Bundle;
-const SEV: Record<string, string> = {
-  contraindiquee: '#E5484D', majeure: '#E5484D', moderee: '#F5A524', precaution: '#F5A524', aucune_rapportee: '#8B8B8B',
-};
-
-function Disclaimer() {
-  return (
-    <Text style={s.disc}>
-      Information éducative, non médicale. Ne remplace pas l’avis d’un pharmacien ou d’un médecin. Contenu en cours de relecture professionnelle.
-    </Text>
-  );
-}
-
-function Library({ onOpen }: { onOpen: (p: Plant) => void }) {
+function Library({ onOpen }: { onOpen: (p: PlantData) => void }) {
   return (
     <ScrollView contentContainerStyle={s.pad}>
-      <Disclaimer />
       {plants.map(p => (
         <Pressable key={p.id} style={s.card} onPress={() => onOpen(p)} accessibilityRole="button" accessibilityLabel={`Fiche ${p.fr}`}>
           <Text style={s.h2}>{p.fr}</Text>
@@ -35,26 +22,27 @@ function Library({ onOpen }: { onOpen: (p: Plant) => void }) {
   );
 }
 
-function Sheet({ plant, onClose }: { plant: Plant | null; onClose: () => void }) {
+function Sheet({ plant, onClose }: { plant: PlantData | null; onClose: () => void }) {
   return (
     <Modal visible={!!plant} animationType="slide" transparent onRequestClose={onClose}>
       <View style={s.backdrop}>
         <View style={s.sheet}>
-          <Pressable onPress={onClose} accessibilityLabel="Fermer"><Text style={s.close}>Fermer ✕</Text></Pressable>
+          <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer la fiche"><Text style={s.close}>Fermer ✕</Text></Pressable>
           {plant && (
             <ScrollView>
               <Text style={s.h1}>{plant.fr}</Text>
               <Text style={s.latin}>{plant.latin}</Text>
               {plant.claims.map(c => (
-                <View key={c.id} style={[s.claim, { borderLeftColor: SEV[c.severity ?? ''] ?? '#52B788' }]}>
-                  <Text style={s.tag}>
-                    {c.type.toUpperCase()}{c.severity ? ` · ${c.severity}` : ''}{c.population ? ` · ${c.population}` : ''}
-                  </Text>
+                <View key={c.id} style={[s.claim, { borderLeftColor: C.green }]}>
+                  <Text style={s.tag}>{c.type.toUpperCase()}</Text>
+                  {c.severity ? <Badge severity={c.severity} /> : null}
                   <Text style={s.body}>{c.statement}</Text>
                   <Text style={s.muted}>« {c.quote} »</Text>
-                  <Pressable onPress={() => Linking.openURL(c.url)}><Text style={s.link}>{c.source}</Text></Pressable>
+                  <Pressable onPress={() => Linking.openURL(c.url)} accessibilityRole="link" accessibilityLabel={`Source : ${c.source}`}>
+                    <Text style={s.link}>{c.source}</Text>
+                  </Pressable>
                   <Text style={c.reviewed_by ? s.ok : s.warn}>
-                    {c.reviewed_by ? `Relu par ${c.reviewed_by}` : 'Source vérifiée automatiquement — pas encore relu par un professionnel'}
+                    {c.reviewed_by ? `Relu par ${c.reviewed_by}` : 'Source vérifiée automatiquement : pas encore relue par un professionnel'}
                   </Text>
                 </View>
               ))}
@@ -101,90 +89,32 @@ function Lab() {
   );
 }
 
-const VERDICT: Record<string, { t: string; c: string }> = {
-  aucune_selection: { t: 'Choisissez au moins une plante.', c: '#9AA5A0' },
-  contre_indication: { t: 'Contre-indication signalée', c: '#E5484D' },
-  alertes: { t: 'Alertes à lire avant tout usage', c: '#F5A524' },
-  incomplet: { t: 'Évaluation incomplète : médicament non reconnu', c: '#F5A524' },
-  aucune_alerte_dans_notre_base: { t: 'Aucune alerte dans notre base (ce n’est pas une garantie)', c: '#52B788' },
-};
-const FLAGS: [string, string][] = [
-  ['asteraceae_allergy', 'Allergie aux Astéracées'], ['salicylate_allergy', 'Allergie aux salicylés'], ['bleeding_disorder', 'Trouble de la coagulation'],
-  ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'],
+type Tab = 'lib' | 'mix' | 'secu' | 'lab';
+const TABS: { id: Tab; label: string }[] = [
+  { id: 'lib', label: 'Plantes' }, { id: 'mix', label: 'Mélange' }, { id: 'secu', label: 'Sécurité' }, { id: 'lab', label: 'Laboratoire' },
 ];
 
-function Chip({ label, on, onPress }: { label: string; on: boolean; onPress: () => void }) {
-  return (
-    <Pressable onPress={onPress} style={[s.chip, on && s.chipOn]} accessibilityRole="checkbox" accessibilityState={{ checked: on }} accessibilityLabel={label}>
-      <Text style={on ? s.chipTxtOn : s.chipTxt}>{label}</Text>
-    </Pressable>
-  );
-}
-
-function Safety() {
-  const [sel, setSel] = useState<string[]>([]);
-  const [flags, setFlags] = useState<string[]>([]);
-  const [pregnant, setPregnant] = useState(false);
-  const [lactating, setLactating] = useState(false);
-  const [age, setAge] = useState('');
-  const [meds, setMeds] = useState('');
-  const toggle = (arr: string[], set: (a: string[]) => void, id: string) => set(arr.includes(id) ? arr.filter(x => x !== id) : [...arr, id]);
-  const ageN = parseInt(age, 10);
-  const r = assess(data, sel, {
-    pregnant, lactating, flags, ageYears: Number.isFinite(ageN) ? ageN : null,
-    meds: meds.split(/[,;\n]/).map(x => x.trim()).filter(Boolean),
-  });
-  const v = VERDICT[r.verdict];
-  return (
-    <ScrollView contentContainerStyle={s.pad}>
-      <Text style={s.h1}>Vérificateur de sécurité</Text>
-      <Disclaimer />
-      <Text style={s.tag}>PLANTES</Text>
-      <View style={s.wrap}>{plants.map(p => <Chip key={p.id} label={p.fr} on={sel.includes(p.id)} onPress={() => toggle(sel, setSel, p.id)} />)}</View>
-      <Text style={s.tag}>PROFIL (reste sur ce téléphone)</Text>
-      <View style={s.wrap}>
-        <Chip label="Enceinte" on={pregnant} onPress={() => setPregnant(!pregnant)} />
-        <Chip label="Allaitement" on={lactating} onPress={() => setLactating(!lactating)} />
-        {FLAGS.map(([id, label]) => <Chip key={id} label={label} on={flags.includes(id)} onPress={() => toggle(flags, setFlags, id)} />)}
-      </View>
-      <View style={s.row}>
-        <Text style={s.body}>Âge (ans)</Text>
-        <TextInput style={s.input} value={age} onChangeText={setAge} keyboardType="number-pad" accessibilityLabel="Âge" />
-      </View>
-      <Text style={s.tag}>MÉDICAMENTS (séparés par une virgule)</Text>
-      <TextInput style={[s.input, s.wide]} value={meds} onChangeText={setMeds} placeholder="ex. warfarine, pilule contraceptive" placeholderTextColor="#5C6862" accessibilityLabel="Médicaments" />
-      <View style={[s.card, { borderLeftWidth: 4, borderLeftColor: v.c }]}>
-        <Text style={[s.h2, { color: v.c }]}>{v.t}</Text>
-        {r.unknownMeds.length > 0 && <Text style={s.warn}>Non reconnu : {r.unknownMeds.join(', ')}. Demandez à votre pharmacien.</Text>}
-      </View>
-      {r.alerts.map(a => (
-        <View key={a.plantId + a.claimId} style={[s.claim, { borderLeftColor: SEV[a.severity] ?? '#52B788' }]}>
-          <Text style={s.tag}>{a.plantFr.toUpperCase()} · {a.severity.toUpperCase()}</Text>
-          <Text style={s.body}>{a.statement}</Text>
-          <Text style={s.muted}>{a.cause}</Text>
-          <Text style={s.muted}>« {a.quote} »</Text>
-          <Pressable onPress={() => Linking.openURL(a.url)}><Text style={s.link}>{a.source}</Text></Pressable>
-          {!a.reviewed && <Text style={s.warn}>Pas encore relu par un professionnel</Text>}
-        </View>
-      ))}
-      {r.notes.map((n, i) => <Text key={i} style={s.muted}>• {n.plantFr} : {n.text}</Text>)}
-      <Text style={s.muted}>{r.coverage}</Text>
-    </ScrollView>
-  );
-}
-
 export default function App() {
-  const [tab, setTab] = useState<'lib' | 'secu' | 'lab'>('lib');
-  const [open, setOpen] = useState<Plant | null>(null);
+  const [tab, setTab] = useState<Tab>('lib');
+  const [open, setOpen] = useState<PlantData | null>(null);
+  const [profile, setProfile] = useState<Profile>({ pregnant: false, lactating: false, ageYears: null, flags: [], meds: [] });
   return (
     <SafeAreaView style={s.root}>
       <StatusBar barStyle="light-content" />
-      <Text style={s.brand}>Apothecaria</Text>
-      <View style={{ flex: 1 }}>{tab === 'lib' ? <Library onOpen={setOpen} /> : tab === 'secu' ? <Safety /> : <Lab />}</View>
-      <View style={s.tabs}>
-        {(['lib', 'secu', 'lab'] as const).map(k => (
-          <Pressable key={k} style={s.tab} onPress={() => setTab(k)} accessibilityRole="tab" accessibilityState={{ selected: tab === k }}>
-            <Text style={[s.tabTxt, tab === k && s.tabOn]}>{k === 'lib' ? 'Plantes' : k === 'secu' ? 'Sécurité' : 'Laboratoire'}</Text>
+      <View style={s.header}>
+        <Text style={s.brand}>Apothecaria</Text>
+        <Notice />
+      </View>
+      <View style={{ flex: 1 }}>
+        {tab === 'lib' && <Library onOpen={setOpen} />}
+        {tab === 'mix' && <Mix profile={profile} />}
+        {tab === 'secu' && <Safety profile={profile} onProfile={setProfile} />}
+        {tab === 'lab' && <Lab />}
+      </View>
+      <View style={s.tabs} accessibilityRole="tablist">
+        {TABS.map(k => (
+          <Pressable key={k.id} style={s.tab} onPress={() => setTab(k.id)} accessibilityRole="tab" accessibilityState={{ selected: tab === k.id }} accessibilityLabel={k.label}>
+            <Text style={[s.tabTxt, tab === k.id && s.tabOn]}>{k.label}</Text>
           </Pressable>
         ))}
       </View>
@@ -192,35 +122,3 @@ export default function App() {
     </SafeAreaView>
   );
 }
-
-const s = StyleSheet.create({
-  root: { flex: 1, backgroundColor: '#060B08' },
-  pad: { padding: 16, gap: 12 },
-  brand: { color: '#D4AF37', fontSize: 22, fontWeight: '600', padding: 16, paddingBottom: 4 },
-  h1: { color: '#F2F5F3', fontSize: 24, fontWeight: '600' },
-  h2: { color: '#F2F5F3', fontSize: 18, fontWeight: '600' },
-  latin: { color: '#52B788', fontStyle: 'italic' },
-  body: { color: '#E4E9E6', fontSize: 15, lineHeight: 21 },
-  muted: { color: '#9AA5A0', fontSize: 13, lineHeight: 18 },
-  link: { color: '#52B788', textDecorationLine: 'underline', fontSize: 13 },
-  ok: { color: '#52B788', fontSize: 12 },
-  warn: { color: '#F5A524', fontSize: 12 },
-  disc: { color: '#9AA5A0', fontSize: 12 },
-  card: { backgroundColor: '#0E1712', borderRadius: 14, padding: 16, gap: 4 },
-  backdrop: { flex: 1, backgroundColor: '#000A', justifyContent: 'flex-end' },
-  sheet: { backgroundColor: '#0E1712', borderTopLeftRadius: 24, borderTopRightRadius: 24, padding: 20, maxHeight: '88%' },
-  close: { color: '#9AA5A0', alignSelf: 'flex-end', padding: 8 },
-  claim: { borderLeftWidth: 3, paddingLeft: 12, marginTop: 16, gap: 4 },
-  tag: { color: '#D4AF37', fontSize: 11, letterSpacing: 1 },
-  row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' },
-  input: { backgroundColor: '#0E1712', color: '#F2F5F3', borderRadius: 10, padding: 10, width: 100, textAlign: 'right' },
-  tabs: { flexDirection: 'row', borderTopWidth: 1, borderTopColor: '#1B2A21' },
-  tab: { flex: 1, padding: 16, alignItems: 'center' },
-  wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
-  chip: { borderWidth: 1, borderColor: '#2A3A31', borderRadius: 20, paddingVertical: 8, paddingHorizontal: 14 },
-  chipOn: { backgroundColor: '#52B788', borderColor: '#52B788' },
-  chipTxt: { color: '#C9D2CD', fontSize: 13 }, chipTxtOn: { color: '#06140C', fontSize: 13, fontWeight: '600' },
-  wide: { width: '100%', textAlign: 'left' },
-  tabTxt: { color: '#9AA5A0' },
-  tabOn: { color: '#52B788', fontWeight: '600' },
-});

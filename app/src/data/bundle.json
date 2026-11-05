@@ -1724,5 +1724,155 @@
    "class": "ains_salicyles",
    "claim": "filipendula_ulmaria-02"
   }
+ ],
+ "usages": [
+  {
+   "id": "stress",
+   "fr": "Stress léger et tension nerveuse",
+   "claims": [
+    "valeriana_officinalis-ind-01",
+    "valeriana_officinalis-ind-02",
+    "melissa_officinalis-ind-01",
+    "passiflora_incarnata-ind-01",
+    "crataegus_spp-ind-02",
+    "rhodiola_rosea-ind-01"
+   ]
+  },
+  {
+   "id": "sommeil",
+   "fr": "Aide au sommeil",
+   "claims": [
+    "valeriana_officinalis-ind-01",
+    "valeriana_officinalis-ind-02",
+    "melissa_officinalis-ind-01",
+    "passiflora_incarnata-ind-01",
+    "crataegus_spp-ind-02"
+   ]
+  },
+  {
+   "id": "digestion",
+   "fr": "Troubles digestifs légers",
+   "claims": [
+    "matricaria_recutita-ind-01",
+    "melissa_officinalis-ind-02",
+    "curcuma_longa-ind-01",
+    "silybum_marianum-ind-01"
+   ]
+  },
+  {
+   "id": "voies_urinaires",
+   "fr": "Petits troubles urinaires",
+   "claims": [
+    "urtica_dioica-ind-01"
+   ]
+  },
+  {
+   "id": "rhume",
+   "fr": "Symptômes du rhume",
+   "claims": [
+    "matricaria_recutita-ind-02",
+    "filipendula_ulmaria-ind-01"
+   ]
+  },
+  {
+   "id": "douleurs_articulaires",
+   "fr": "Douleurs articulaires mineures",
+   "claims": [
+    "filipendula_ulmaria-ind-02",
+    "urtica_dioica-ind-02"
+   ]
+  },
+  {
+   "id": "peau",
+   "fr": "Affections cutanées séborrhéiques",
+   "claims": [
+    "urtica_dioica-ind-03"
+   ]
+  },
+  {
+   "id": "humeur",
+   "fr": "Humeur : épisodes dépressifs légers à modérés (avis médical requis)",
+   "claims": [
+    "hypericum_perforatum-ind-01",
+    "hypericum_perforatum-ind-02"
+   ]
+  },
+  {
+   "id": "memoire",
+   "fr": "Mémoire et troubles cognitifs liés à l'âge",
+   "claims": [
+    "ginkgo_biloba-ind-01"
+   ]
+  },
+  {
+   "id": "jambes_lourdes",
+   "fr": "Jambes lourdes et sensation de froid aux extrémités",
+   "claims": [
+    "ginkgo_biloba-ind-02"
+   ]
+  },
+  {
+   "id": "palpitations",
+   "fr": "Palpitations nerveuses passagères",
+   "claims": [
+    "crataegus_spp-ind-01"
+   ]
+  }
+ ],
+ "infusions": [
+  {
+   "plant": "matricaria_recutita",
+   "claim": "matricaria_recutita-pos-01",
+   "min_g": 1.5,
+   "max_g": 4,
+   "water_ml": 150,
+   "quote_fragment": "1.5-4 g",
+   "label": "Camomille : infusion, usage traditionnel"
+  },
+  {
+   "plant": "melissa_officinalis",
+   "claim": "melissa_officinalis-pos-01",
+   "min_g": 1.5,
+   "max_g": 4.5,
+   "water_ml": 150,
+   "quote_fragment": "1.5-4.5 g",
+   "label": "Mélisse : tisane, usage traditionnel"
+  },
+  {
+   "plant": "passiflora_incarnata",
+   "claim": "passiflora_incarnata-pos-01",
+   "min_g": 1,
+   "max_g": 2,
+   "water_ml": 150,
+   "quote_fragment": "1-2 g",
+   "label": "Passiflore : tisane, usage traditionnel"
+  },
+  {
+   "plant": "crataegus_spp",
+   "claim": "crataegus_spp-pos-01",
+   "min_g": 1,
+   "max_g": 2,
+   "water_ml": 150,
+   "quote_fragment": "1-2 g",
+   "label": "Aubépine : tisane, usage traditionnel"
+  },
+  {
+   "plant": "curcuma_longa",
+   "claim": "curcuma_longa-pos-01",
+   "min_g": 0.5,
+   "max_g": 1,
+   "water_ml": 150,
+   "quote_fragment": "0.5-1.0 g",
+   "label": "Curcuma : infusion, usage traditionnel"
+  },
+  {
+   "plant": "urtica_dioica",
+   "claim": "urtica_dioica-pos-01",
+   "min_g": 1.5,
+   "max_g": 1.5,
+   "water_ml": 150,
+   "quote_fragment": "SD=1.5 g",
+   "label": "Ortie : tisane, dose unitaire (usage traditionnel)"
+  }
  ]
 }
