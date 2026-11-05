@@ -6,6 +6,11 @@
   {"plant": "passiflora_incarnata", "claim": "passiflora_incarnata-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Passiflore : tisane, usage traditionnel"},
   {"plant": "crataegus_spp", "claim": "crataegus_spp-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Aubépine : tisane, usage traditionnel"},
   {"plant": "curcuma_longa", "claim": "curcuma_longa-pos-01", "min_g": 0.5, "max_g": 1, "water_ml": 150, "quote_fragment": "0.5-1.0 g", "label": "Curcuma : infusion, usage traditionnel"},
-  {"plant": "urtica_dioica", "claim": "urtica_dioica-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 150, "quote_fragment": "SD=1.5 g", "label": "Ortie : tisane, dose unitaire (usage traditionnel)"}
+  {"plant": "urtica_dioica", "claim": "urtica_dioica-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 150, "quote_fragment": "SD=1.5 g", "label": "Ortie : tisane, dose unitaire (usage traditionnel)"},
+  {"plant": "thymus_vulgaris", "claim": "thymus_vulgaris-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Thym : tisane, usage traditionnel"},
+  {"plant": "lavandula_angustifolia", "claim": "lavandula_angustifolia-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Lavande : infusion, usage traditionnel"},
+  {"plant": "tilia_cordata", "claim": "tilia_cordata-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 150, "quote_fragment": "1.5 g", "label": "Tilleul : infusion, dose unitaire (usage traditionnel)"},
+  {"plant": "foeniculum_vulgare", "claim": "foeniculum_vulgare-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 250, "quote_fragment": "1.5 g", "label": "Fenouil : tisane, adultes et adolescents (usage traditionnel)"},
+  {"plant": "foeniculum_vulgare", "claim": "foeniculum_vulgare-pos-02", "min_g": 1, "max_g": 1, "water_ml": 100, "quote_fragment": "1.0 g", "label": "Fenouil : tisane, enfants de 4 à 12 ans (usage traditionnel)"}
  ]
 }

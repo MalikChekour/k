@@ -1,0 +1,249 @@
+[
+  {
+    "id": "plantago_lanceolata-ind-01",
+    "plant": "plantago_lanceolata",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des irritations de la bouche ou du pharynx et de la toux sèche associée (effet émollient).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product as a demulcent for the symptomatic treatment of oral or pharyngeal irritations and associated dry cough."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-ind-02",
+    "plant": "plantago_lanceolata",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement de la toux associée à un rhume.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of cough associated with cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-ind-03",
+    "plant": "plantago_lanceolata",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement d'une inflammation cutanée mineure.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the treatment of minor inflammation of the skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-pos-01",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Indications 1 et 2, adolescents, adultes et personnes âgées : tisane de 1,4 à 2 g de feuilles broyées dans 150 à 250 ml d'eau bouillante, 2 à 3 fois par jour (4 à 6 g par jour).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Herbal tea: 1.4 - 2 g of the comminuted herbal substance in 150-250 ml of boiling water as an herbal infusion Dosage frequency: 2-3 times daily Daily dose: 4 - 6 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-pos-02",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Indication 3 (usage cutané), enfants à partir de 3 ans, adolescents, adultes et personnes âgées : macérat dans 150 ml d'eau froide, 1,4 g par prise, 3 à 4 fois par jour, appliqué sur la zone concernée avec un pansement propre.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Children from 3 years of age, adolescents, adults and elderly: Preparation a) as macerate in 150 ml of cold water Single dose: 1.4 g Dosage frequency: 3-4 times daily Daily dose: 4.2-5.6 g The macerate is applied on the affected area with a clean dressing."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-pos-03",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-01",
+    "plant": "plantago_lanceolata",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active ou au pollen de plantain lancéolé.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance or to ribwort plantain pollen."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-02",
+    "plant": "plantago_lanceolata",
+    "type": "age",
+    "statement": "Usage oral non recommandé chez les moins de 12 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 12 ans (voie orale)",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "The oral use in children under 12 years of age is not recommended due to the lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-03",
+    "plant": "plantago_lanceolata",
+    "type": "age",
+    "statement": "Usage oral ou oromuqueux non recommandé chez les moins de 3 ans, en raison de risques nécessitant un avis médical.",
+    "severity": "precaution",
+    "population": "moins de 3 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "The oral and oromucosal use in children under 3 years of age is not recommended because of concerns requiring medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-04",
+    "plant": "plantago_lanceolata",
+    "type": "warning",
+    "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "If dyspnoea, fever or purulent sputum occurs during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-05",
+    "plant": "plantago_lanceolata",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Traditional use None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-06",
+    "plant": "plantago_lanceolata",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-07",
+    "plant": "plantago_lanceolata",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

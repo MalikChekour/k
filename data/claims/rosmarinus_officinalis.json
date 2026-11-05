@@ -1,0 +1,289 @@
+[
+  {
+    "id": "rosmarinus_officinalis-01",
+    "plant": "rosmarinus_officinalis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-02",
+    "plant": "rosmarinus_officinalis",
+    "type": "contraindication",
+    "statement": "Ne pas appliquer sur une peau lésée ou irritée (usage en bain).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Do not apply to broken or irritated skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-ind-01",
+    "plant": "rosmarinus_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique de la dyspepsie et des troubles spasmodiques légers du tractus gastro-intestinal.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic relief of dyspepsia and mild spasmodic disorders of the gastrointestinal tract."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-ind-02",
+    "plant": "rosmarinus_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des douleurs musculaires et articulaires mineures et des troubles circulatoires périphériques mineurs.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of minor muscular and articular pain and in minor peripheral circulatory disorders."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-pos-01",
+    "plant": "rosmarinus_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, adolescents, adultes et personnes âgées, voie orale : 1 à 2 g dans 150 à 250 ml d'eau bouillante en tisane, 2 à 3 fois par jour ; dose journalière 2 à 6 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Single dose: 1-2 g in 150-250 ml of boiling water as herbal tea, 2-3 times daily Daily dose: 2-6 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-pos-02",
+    "plant": "rosmarinus_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, bain, adolescents, adultes et personnes âgées : 50 g en décoction (dans 1 l d'eau bouillante) ou directement dans le bain, 2 à 3 fois par semaine, si nécessaire tous les jours.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "50 g either as decoction (in 1 l of boiling water) or direct in the bath. Usage should be 2-3 times a week, if necessary daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-pos-03",
+    "plant": "rosmarinus_officinalis",
+    "type": "posology",
+    "statement": "Durée (indication 1) : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-pos-04",
+    "plant": "rosmarinus_officinalis",
+    "type": "posology",
+    "statement": "Durée (indication 2, bain) : si les symptômes persistent plus de 4 semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 4 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-02-warn",
+    "plant": "rosmarinus_officinalis",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If symptoms worsen during the use of the medicinal product, a doctor or a qualified health practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-03-warn",
+    "plant": "rosmarinus_officinalis",
+    "type": "warning",
+    "statement": "Par voie orale : obstruction des voies biliaires, cholangite, maladie du foie, calculs biliaires ou autres troubles biliaires nécessitant une surveillance médicale.",
+    "severity": "moderee",
+    "population": "troubles biliaires",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Obstruction of bile duct, cholangitis, liver disease, gallstones and any other biliary disorders that require medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "biliary_disease"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-04-warn",
+    "plant": "rosmarinus_officinalis",
+    "type": "warning",
+    "statement": "En cas d'insuffisance cardiaque ou rénale, d'ulcères, de gonflement soudain d'une ou des deux jambes, d'inflammation de la peau ou de douleur soudaine à la jambe au repos : consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If there is inflammation of the skin or subcutaneous induration, ulcers, sudden swelling of one or both legs particularly associated with redness and heat, cardiac or renal insufficiency, or a sudden sharp pain in the leg when at rest, a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-age-01",
+    "plant": "rosmarinus_officinalis",
+    "type": "age",
+    "statement": "Non recommandé chez les moins de 12 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-05-inter",
+    "plant": "rosmarinus_officinalis",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-06-preg",
+    "plant": "rosmarinus_officinalis",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-07-drive",
+    "plant": "rosmarinus_officinalis",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

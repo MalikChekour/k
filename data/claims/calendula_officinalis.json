@@ -1,0 +1,232 @@
+[
+  {
+    "id": "calendula_officinalis-ind-01",
+    "plant": "calendula_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des petites inflammations de la peau (comme les coups de soleil) et aide à la cicatrisation des petites plaies.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of minor inflammations of the skin (such as sunburn) and as an aid in healing of minor wounds."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "calendula_officinalis-ind-02",
+    "plant": "calendula_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des petites inflammations de la bouche ou de la gorge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of minor inflammations in the mouth or the throat."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "calendula_officinalis-pos-01",
+    "plant": "calendula_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, indication 1 : 1 à 2 g de fleurs dans 150 ml d'eau, infusion encore tiède pour compresses imprégnées ; 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "Single dose: 1-2 g herbal substance or comminuted herbal substance in 150 ml water."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "calendula_officinalis-pos-02",
+    "plant": "calendula_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, indication 2 : 1 à 2 g dans 150 ml d'eau, infusion encore tiède en rinçage ou gargarisme ; 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "1-2 g in 150 ml water; the still warm infusion is used for rinsing and gargling"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "calendula_officinalis-pos-03",
+    "plant": "calendula_officinalis",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "calendula_officinalis-age-01",
+    "plant": "calendula_officinalis",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 6 ans pour l'indication cutanée (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 6 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "The use in children under 6 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "calendula_officinalis-age-02",
+    "plant": "calendula_officinalis",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 12 ans pour l'indication bouche et gorge (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "calendula_officinalis-01",
+    "plant": "calendula_officinalis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active et aux autres plantes de la famille des Astéracées (Composées).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy",
+      "asteraceae_allergy"
+    ]
+  },
+  {
+    "id": "calendula_officinalis-warn-01",
+    "plant": "calendula_officinalis",
+    "type": "warning",
+    "statement": "Si des signes d'infection cutanée apparaissent ou si les symptômes s'aggravent, consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "If signs of skin infection are observed or the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "calendula_officinalis-inter-01",
+    "plant": "calendula_officinalis",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "calendula_officinalis-preg-01",
+    "plant": "calendula_officinalis",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "calendula_officinalis-drive-01",
+    "plant": "calendula_officinalis",
+    "type": "driving",
+    "statement": "La monographie indique « Not relevant » (sans objet) pour la conduite et l'utilisation de machines.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+      "quote": "Not relevant"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

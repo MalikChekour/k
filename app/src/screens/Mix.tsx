@@ -5,7 +5,8 @@ import { assess } from '../safety';
 import type { Profile } from '../safety';
 import { bundle, plants } from '../bundle';
 import { plantsForUsage } from '../usages';
-import { Chip, C, SafetyReport, s } from './shared';
+import { styleFor } from '../plantStyle';
+import { Chip, C, SafetyReport, Source, s } from './shared';
 import { ProfileSummary } from './ProfileEditor';
 
 /** Mélange par symptôme. Le contrôle de sécurité tourne à chaque modification, AVANT la composition. */
@@ -76,14 +77,11 @@ export function Mix({ profile }: { profile: Profile }) {
       </View>
       {hits.length === 0 && <Text style={s.muted}>Aucune plante de notre base pour cet usage.</Text>}
       {hits.map(h => (
-        <View key={h.claimId} style={s.card}>
+        <View key={h.claimId} style={[s.card, { borderTopWidth: 5, borderTopColor: styleFor({ id: h.plantId, part: '' }).color }]}>
           <Text style={s.h2}>{h.plantFr}</Text>
           <Text style={s.latin}>{h.latin}</Text>
           <Text style={s.body}>{h.statement}</Text>
-          <Text style={s.quote}>« {h.quote} »</Text>
-          <Pressable onPress={() => Linking.openURL(h.url)} accessibilityRole="link" accessibilityLabel={`Source : ${h.source}`}>
-            <Text style={s.link}>{h.source}</Text>
-          </Pressable>
+          <Source quote={h.quote} url={h.url} source={h.source} />
           <Chip label={mix[h.plantId] !== undefined ? `Dans le mélange : ${h.plantFr}` : `Ajouter ${h.plantFr}`} on={mix[h.plantId] !== undefined} onPress={() => toggle(h.plantId)} />
         </View>
       ))}

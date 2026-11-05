@@ -1,29 +1,146 @@
 {
- "_note": "Catégories d'usage pour le mélange par symptôme. Chaque catégorie pointe UNIQUEMENT vers des affirmations de type indication (section 4.1 de la monographie EMA). Une plante est proposée dans une catégorie seulement si l'une de ses indications y figure. Le build refuse toute référence inconnue ou d'un autre type.",
- "categories": [
-  {"id": "stress", "fr": "Stress léger et tension nerveuse", "claims": [
-    "valeriana_officinalis-ind-01", "valeriana_officinalis-ind-02", "melissa_officinalis-ind-01",
-    "passiflora_incarnata-ind-01", "crataegus_spp-ind-02", "rhodiola_rosea-ind-01"]},
-  {"id": "sommeil", "fr": "Aide au sommeil", "claims": [
-    "valeriana_officinalis-ind-01", "valeriana_officinalis-ind-02", "melissa_officinalis-ind-01",
-    "passiflora_incarnata-ind-01", "crataegus_spp-ind-02"]},
-  {"id": "digestion", "fr": "Troubles digestifs légers", "claims": [
-    "matricaria_recutita-ind-01", "melissa_officinalis-ind-02", "curcuma_longa-ind-01", "silybum_marianum-ind-01"]},
-  {"id": "voies_urinaires", "fr": "Petits troubles urinaires", "claims": [
-    "urtica_dioica-ind-01"]},
-  {"id": "rhume", "fr": "Symptômes du rhume", "claims": [
-    "matricaria_recutita-ind-02", "filipendula_ulmaria-ind-01"]},
-  {"id": "douleurs_articulaires", "fr": "Douleurs articulaires mineures", "claims": [
-    "filipendula_ulmaria-ind-02", "urtica_dioica-ind-02"]},
-  {"id": "peau", "fr": "Affections cutanées séborrhéiques", "claims": [
-    "urtica_dioica-ind-03"]},
-  {"id": "humeur", "fr": "Humeur : épisodes dépressifs légers à modérés (avis médical requis)", "claims": [
-    "hypericum_perforatum-ind-01", "hypericum_perforatum-ind-02"]},
-  {"id": "memoire", "fr": "Mémoire et troubles cognitifs liés à l'âge", "claims": [
-    "ginkgo_biloba-ind-01"]},
-  {"id": "jambes_lourdes", "fr": "Jambes lourdes et sensation de froid aux extrémités", "claims": [
-    "ginkgo_biloba-ind-02"]},
-  {"id": "palpitations", "fr": "Palpitations nerveuses passagères", "claims": [
-    "crataegus_spp-ind-01"]}
- ]
+  "_note": "Catégories d'usage pour le mélange par symptôme. Chaque catégorie pointe UNIQUEMENT vers des affirmations de type indication (section 4.1 de la monographie EMA). Une plante est proposée dans une catégorie seulement si l'une de ses indications y figure. Le build refuse toute référence inconnue ou d'un autre type.",
+  "categories": [
+    {
+      "id": "stress",
+      "fr": "Stress léger et tension nerveuse",
+      "claims": [
+        "valeriana_officinalis-ind-01",
+        "valeriana_officinalis-ind-02",
+        "melissa_officinalis-ind-01",
+        "passiflora_incarnata-ind-01",
+        "crataegus_spp-ind-02",
+        "rhodiola_rosea-ind-01",
+        "lavandula_angustifolia-ind-01",
+        "tilia_cordata-ind-02"
+      ]
+    },
+    {
+      "id": "sommeil",
+      "fr": "Aide au sommeil",
+      "claims": [
+        "valeriana_officinalis-ind-01",
+        "valeriana_officinalis-ind-02",
+        "melissa_officinalis-ind-01",
+        "passiflora_incarnata-ind-01",
+        "crataegus_spp-ind-02",
+        "lavandula_angustifolia-ind-01"
+      ]
+    },
+    {
+      "id": "digestion",
+      "fr": "Troubles digestifs légers",
+      "claims": [
+        "matricaria_recutita-ind-01",
+        "melissa_officinalis-ind-02",
+        "curcuma_longa-ind-01",
+        "silybum_marianum-ind-01",
+        "zingiber_officinale-ind-02",
+        "mentha_piperita-ind-01",
+        "foeniculum_vulgare-ind-01",
+        "harpagophytum_procumbens-ind-02",
+        "rosmarinus_officinalis-ind-01",
+        "salvia_officinalis-ind-01",
+        "taraxacum_officinale-ind-01",
+        "taraxacum_officinale-ind-02",
+        "cynara_scolymus-ind-01"
+      ]
+    },
+    {
+      "id": "nausees",
+      "fr": "Nausées et mal des transports",
+      "claims": [
+        "zingiber_officinale-ind-01"
+      ]
+    },
+    {
+      "id": "regles",
+      "fr": "Spasmes légers liés aux règles",
+      "claims": [
+        "foeniculum_vulgare-ind-02"
+      ]
+    },
+    {
+      "id": "plaies",
+      "fr": "Petites plaies superficielles (usage cutané)",
+      "claims": [
+        "echinacea_purpurea-ind-02"
+      ]
+    },
+    {
+      "id": "voies_urinaires",
+      "fr": "Petits troubles urinaires",
+      "claims": [
+        "urtica_dioica-ind-01",
+        "taraxacum_officinale-ind-03"
+      ]
+    },
+    {
+      "id": "rhume",
+      "fr": "Symptômes du rhume",
+      "claims": [
+        "matricaria_recutita-ind-02",
+        "filipendula_ulmaria-ind-01",
+        "zingiber_officinale-ind-05",
+        "thymus_vulgaris-ind-01",
+        "foeniculum_vulgare-ind-03",
+        "echinacea_purpurea-ind-01",
+        "tilia_cordata-ind-01",
+        "sambucus_nigra-ind-01",
+        "plantago_lanceolata-ind-02",
+        "plantago_lanceolata-ind-01",
+        "salvia_officinalis-ind-03"
+      ]
+    },
+    {
+      "id": "douleurs_articulaires",
+      "fr": "Douleurs articulaires mineures",
+      "claims": [
+        "filipendula_ulmaria-ind-02",
+        "urtica_dioica-ind-02",
+        "zingiber_officinale-ind-04",
+        "harpagophytum_procumbens-ind-01",
+        "rosmarinus_officinalis-ind-02"
+      ]
+    },
+    {
+      "id": "peau",
+      "fr": "Affections cutanées séborrhéiques",
+      "claims": [
+        "urtica_dioica-ind-03",
+        "calendula_officinalis-ind-01",
+        "plantago_lanceolata-ind-03",
+        "salvia_officinalis-ind-04"
+      ]
+    },
+    {
+      "id": "humeur",
+      "fr": "Humeur : épisodes dépressifs légers à modérés (avis médical requis)",
+      "claims": [
+        "hypericum_perforatum-ind-01",
+        "hypericum_perforatum-ind-02"
+      ]
+    },
+    {
+      "id": "memoire",
+      "fr": "Mémoire et troubles cognitifs liés à l'âge",
+      "claims": [
+        "ginkgo_biloba-ind-01"
+      ]
+    },
+    {
+      "id": "jambes_lourdes",
+      "fr": "Jambes lourdes et sensation de froid aux extrémités",
+      "claims": [
+        "ginkgo_biloba-ind-02"
+      ]
+    },
+    {
+      "id": "palpitations",
+      "fr": "Palpitations nerveuses passagères",
+      "claims": [
+        "crataegus_spp-ind-01"
+      ]
+    }
+  ]
 }

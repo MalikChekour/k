@@ -1,0 +1,319 @@
+[
+  {
+    "id": "salvia_officinalis-ind-01",
+    "plant": "salvia_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des troubles dyspeptiques légers tels que brûlures d'estomac et ballonnements.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of mild dyspeptic complaints such as heartburn and bloating."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-ind-02",
+    "plant": "salvia_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des sueurs excessives.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of excessive sweating."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-ind-03",
+    "plant": "salvia_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des inflammations de la bouche ou de la gorge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of inflammations in the mouth or the throat."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-ind-04",
+    "plant": "salvia_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des petites inflammations cutanées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of minor skin inflammations."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-01",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées (indication 1) : tisane de 1 à 2 g de feuille dans 150 ml d'eau bouillante.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 150 ml boiling water"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-01b",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1) : fréquence de 3 prises par jour, sous forme d'infusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "infusion 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-02",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées (indication 2) : tisane de 2 g de feuille dans 150 ml d'eau bouillante.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Herbal tea: 2 g of comminuted herbal substance in 150 ml boiling water as herbal infusion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-03",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées (indication 3, gargarisme) : infusion de 2,5 g dans 100 ml d'eau bouillante, tiède, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "2.5 g comminuted herbal substance in 100 ml boiling water as an infusion. The infusion is used warm for gargle 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-04",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel, application cutanée (indication 4) : infusion de 2,5 g dans 100 ml d'eau, à appliquer sur la zone affectée 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "2.5 g of the comminuted herbal substance in 100 ml water as herbal infusion to be applied on the affected area of the skin 2-4 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-05",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Durée (indications 1 et 4) : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-pos-06",
+    "plant": "salvia_officinalis",
+    "type": "posology",
+    "statement": "Durée (indication 2, sueurs) : si les symptômes ne s'améliorent pas en 6 semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms do not improve within 6 weeks of use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-01",
+    "plant": "salvia_officinalis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la (aux) substance(s) active(s).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "salvia_officinalis-age-01",
+    "plant": "salvia_officinalis",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 18 ans (données insuffisantes) ; non recommandé.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "salvia_officinalis-warn-01",
+    "plant": "salvia_officinalis",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "salvia_officinalis-inter-01",
+    "plant": "salvia_officinalis",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salvia_officinalis-preg-01",
+    "plant": "salvia_officinalis",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "salvia_officinalis-drive-01",
+    "plant": "salvia_officinalis",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

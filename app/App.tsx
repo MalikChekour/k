@@ -4,7 +4,7 @@ import type { PlantData } from './src/safety';
 import { EMPTY_ARMOIRE, toggleFavorite } from './src/armoire';
 import type { Armoire as ArmoireData } from './src/armoire';
 import { clearArmoire, loadArmoire, saveArmoire } from './src/storage';
-import { Notice, s } from './src/screens/shared';
+import { C, Notice, s } from './src/screens/shared';
 import { Library } from './src/screens/Library';
 import { PlantSheet } from './src/screens/PlantSheet';
 import { Mix } from './src/screens/Mix';
@@ -52,7 +52,7 @@ export default function App() {
       <StatusBar barStyle="dark-content" />
       <View style={s.header}>
         <View style={s.row}>
-          <Text style={s.brand} accessibilityRole="header">Apothecaria</Text>
+          <Text style={s.brand} accessibilityRole="header">Apothecaria<Text style={{ color: C.gold }}>.</Text></Text>
           <Pressable onPress={() => setAbout(true)} accessibilityRole="button" accessibilityLabel="Ouvrir Sources et méthode" style={{ minHeight: 44, justifyContent: 'center' }}>
             <Text style={s.link}>Sources</Text>
           </Pressable>

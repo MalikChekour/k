@@ -2993,6 +2993,1384 @@
      "quote": "For prevention and treatment, do not use the medicinal product for more than 10 days."
     }
    ]
+  },
+  {
+   "id": "rosmarinus_officinalis",
+   "fr": "Romarin",
+   "latin": "Rosmarinus officinalis L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "rosmarinus_officinalis-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "rosmarinus_officinalis-02",
+     "type": "contraindication",
+     "statement": "Ne pas appliquer sur une peau lésée ou irritée (usage en bain).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Do not apply to broken or irritated skin."
+    },
+    {
+     "id": "rosmarinus_officinalis-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique de la dyspepsie et des troubles spasmodiques légers du tractus gastro-intestinal.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for the symptomatic relief of dyspepsia and mild spasmodic disorders of the gastrointestinal tract."
+    },
+    {
+     "id": "rosmarinus_officinalis-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des douleurs musculaires et articulaires mineures et des troubles circulatoires périphériques mineurs.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for the relief of minor muscular and articular pain and in minor peripheral circulatory disorders."
+    },
+    {
+     "id": "rosmarinus_officinalis-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées, voie orale : 1 à 2 g dans 150 à 250 ml d'eau bouillante en tisane, 2 à 3 fois par jour ; dose journalière 2 à 6 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Single dose: 1-2 g in 150-250 ml of boiling water as herbal tea, 2-3 times daily Daily dose: 2-6 g"
+    },
+    {
+     "id": "rosmarinus_officinalis-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, bain, adolescents, adultes et personnes âgées : 50 g en décoction (dans 1 l d'eau bouillante) ou directement dans le bain, 2 à 3 fois par semaine, si nécessaire tous les jours.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "50 g either as decoction (in 1 l of boiling water) or direct in the bath. Usage should be 2-3 times a week, if necessary daily."
+    },
+    {
+     "id": "rosmarinus_officinalis-pos-03",
+     "type": "posology",
+     "statement": "Durée (indication 1) : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "rosmarinus_officinalis-pos-04",
+     "type": "posology",
+     "statement": "Durée (indication 2, bain) : si les symptômes persistent plus de 4 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 4 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "rosmarinus_officinalis-02-warn",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If symptoms worsen during the use of the medicinal product, a doctor or a qualified health practitioner should be consulted."
+    },
+    {
+     "id": "rosmarinus_officinalis-03-warn",
+     "type": "warning",
+     "statement": "Par voie orale : obstruction des voies biliaires, cholangite, maladie du foie, calculs biliaires ou autres troubles biliaires nécessitant une surveillance médicale.",
+     "severity": "moderee",
+     "population": "troubles biliaires",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Obstruction of bile duct, cholangitis, liver disease, gallstones and any other biliary disorders that require medical supervision."
+    },
+    {
+     "id": "rosmarinus_officinalis-04-warn",
+     "type": "warning",
+     "statement": "En cas d'insuffisance cardiaque ou rénale, d'ulcères, de gonflement soudain d'une ou des deux jambes, d'inflammation de la peau ou de douleur soudaine à la jambe au repos : consulter un médecin.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If there is inflammation of the skin or subcutaneous induration, ulcers, sudden swelling of one or both legs particularly associated with redness and heat, cardiac or renal insufficiency, or a sudden sharp pain in the leg when at rest, a doctor should be consulted."
+    },
+    {
+     "id": "rosmarinus_officinalis-age-01",
+     "type": "age",
+     "statement": "Non recommandé chez les moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended due to lack of adequate data."
+    },
+    {
+     "id": "rosmarinus_officinalis-05-inter",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "rosmarinus_officinalis-06-preg",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "rosmarinus_officinalis-07-drive",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "salvia_officinalis",
+   "fr": "Sauge officinale",
+   "latin": "Salvia officinalis L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "salvia_officinalis-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des troubles dyspeptiques légers tels que brûlures d'estomac et ballonnements.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of mild dyspeptic complaints such as heartburn and bloating."
+    },
+    {
+     "id": "salvia_officinalis-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des sueurs excessives.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of excessive sweating."
+    },
+    {
+     "id": "salvia_officinalis-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des inflammations de la bouche ou de la gorge.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of inflammations in the mouth or the throat."
+    },
+    {
+     "id": "salvia_officinalis-ind-04",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des petites inflammations cutanées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of minor skin inflammations."
+    },
+    {
+     "id": "salvia_officinalis-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et personnes âgées (indication 1) : tisane de 1 à 2 g de feuille dans 150 ml d'eau bouillante.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 150 ml boiling water"
+    },
+    {
+     "id": "salvia_officinalis-pos-01b",
+     "type": "posology",
+     "statement": "Usage traditionnel (indication 1) : fréquence de 3 prises par jour, sous forme d'infusion.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "infusion 3 times daily."
+    },
+    {
+     "id": "salvia_officinalis-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et personnes âgées (indication 2) : tisane de 2 g de feuille dans 150 ml d'eau bouillante.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Herbal tea: 2 g of comminuted herbal substance in 150 ml boiling water as herbal infusion."
+    },
+    {
+     "id": "salvia_officinalis-pos-03",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et personnes âgées (indication 3, gargarisme) : infusion de 2,5 g dans 100 ml d'eau bouillante, tiède, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "2.5 g comminuted herbal substance in 100 ml boiling water as an infusion. The infusion is used warm for gargle 3 times daily."
+    },
+    {
+     "id": "salvia_officinalis-pos-04",
+     "type": "posology",
+     "statement": "Usage traditionnel, application cutanée (indication 4) : infusion de 2,5 g dans 100 ml d'eau, à appliquer sur la zone affectée 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "2.5 g of the comminuted herbal substance in 100 ml water as herbal infusion to be applied on the affected area of the skin 2-4 times daily."
+    },
+    {
+     "id": "salvia_officinalis-pos-05",
+     "type": "posology",
+     "statement": "Durée (indications 1 et 4) : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "salvia_officinalis-pos-06",
+     "type": "posology",
+     "statement": "Durée (indication 2, sueurs) : si les symptômes ne s'améliorent pas en 6 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms do not improve within 6 weeks of use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "salvia_officinalis-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la (aux) substance(s) active(s).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance(s)."
+    },
+    {
+     "id": "salvia_officinalis-age-01",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 18 ans (données insuffisantes) ; non recommandé.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "salvia_officinalis-warn-01",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "salvia_officinalis-inter-01",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "None reported"
+    },
+    {
+     "id": "salvia_officinalis-preg-01",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established."
+    },
+    {
+     "id": "salvia_officinalis-drive-01",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "calendula_officinalis",
+   "fr": "Calendula (souci)",
+   "latin": "Calendula officinalis L.",
+   "part": "fleur",
+   "claims": [
+    {
+     "id": "calendula_officinalis-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique des petites inflammations de la peau (comme les coups de soleil) et aide à la cicatrisation des petites plaies.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for the symptomatic treatment of minor inflammations of the skin (such as sunburn) and as an aid in healing of minor wounds."
+    },
+    {
+     "id": "calendula_officinalis-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des petites inflammations de la bouche ou de la gorge.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for the symptomatic treatment of minor inflammations in the mouth or the throat."
+    },
+    {
+     "id": "calendula_officinalis-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1 : 1 à 2 g de fleurs dans 150 ml d'eau, infusion encore tiède pour compresses imprégnées ; 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Single dose: 1-2 g herbal substance or comminuted herbal substance in 150 ml water."
+    },
+    {
+     "id": "calendula_officinalis-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 2 : 1 à 2 g dans 150 ml d'eau, infusion encore tiède en rinçage ou gargarisme ; 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "1-2 g in 150 ml water; the still warm infusion is used for rinsing and gargling"
+    },
+    {
+     "id": "calendula_officinalis-pos-03",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "calendula_officinalis-age-01",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 6 ans pour l'indication cutanée (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 6 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "The use in children under 6 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "calendula_officinalis-age-02",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans pour l'indication bouche et gorge (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "calendula_officinalis-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active et aux autres plantes de la famille des Astéracées (Composées).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy",
+      "asteraceae_allergy"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+    },
+    {
+     "id": "calendula_officinalis-warn-01",
+     "type": "warning",
+     "statement": "Si des signes d'infection cutanée apparaissent ou si les symptômes s'aggravent, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "If signs of skin infection are observed or the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "calendula_officinalis-inter-01",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "None reported"
+    },
+    {
+     "id": "calendula_officinalis-preg-01",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "calendula_officinalis-drive-01",
+     "type": "driving",
+     "statement": "La monographie indique « Not relevant » (sans objet) pour la conduite et l'utilisation de machines.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Not relevant"
+    }
+   ]
+  },
+  {
+   "id": "taraxacum_officinale",
+   "fr": "Pissenlit",
+   "latin": "Taraxacum officinale F.H. Wigg.",
+   "part": "racine",
+   "claims": [
+    {
+     "id": "taraxacum_officinale-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des symptômes de troubles digestifs légers (sensation de plénitude abdominale, flatulences, digestion lente).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the relief of symptoms related to mild digestive disorders (such as feeling of abdominal fullness, flatulence, and slow digestion)."
+    },
+    {
+     "id": "taraxacum_officinale-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : perte d'appétit passagère.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product for temporary loss of appetite."
+    },
+    {
+     "id": "taraxacum_officinale-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : augmentation de la quantité d'urine pour rincer les voies urinaires, en adjuvant dans les troubles urinaires mineurs.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product to increase the amount of urine to achieve flushing of the urinary tract as an adjuvant in minor urinary complaints."
+    },
+    {
+     "id": "taraxacum_officinale-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : décoction de 1 à 5 g de racine (drogue) dans 150 ml d'eau, 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Comminuted herbal substance for decoction: single dose of 1-5 g in 150 ml of water, 2-3 times daily"
+    },
+    {
+     "id": "taraxacum_officinale-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, extrait liquide (DER 1:1, éthanol 30 %) : dose unique de 2 à 8 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 30% V/V: single dose 2-8 ml, 3 times daily"
+    },
+    {
+     "id": "taraxacum_officinale-pos-03",
+     "type": "posology",
+     "statement": "Prendre les préparations une demi-heure avant le repas (indication 2, perte d'appétit).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Preparations are to be taken ½ hour before meal."
+    },
+    {
+     "id": "taraxacum_officinale-pos-04",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "taraxacum_officinale-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou aux plantes de la famille des Astéracées (Composées).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy",
+      "asteraceae_allergy"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to plants of the Asteraceae (Compositae) family."
+    },
+    {
+     "id": "taraxacum_officinale-02-contra",
+     "type": "contraindication",
+     "statement": "Non recommandée en cas d'obstruction des voies biliaires, de cholangite, de maladie du foie, de calculs biliaires ou d'autres troubles biliaires (stimulation possible de la sécrétion biliaire).",
+     "severity": "moderee",
+     "population": "troubles biliaires",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "obstruction of the bile duct, cholangitis, liver disease, gallstones and any other biliary diseases."
+    },
+    {
+     "id": "taraxacum_officinale-03-contra",
+     "type": "contraindication",
+     "statement": "Non recommandée chez les patients dont un médecin a conseillé de réduire l'apport hydrique.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "fluid_restriction"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "dandelion root is not recommended for patients with conditions where reduced fluid intake is advised by a medical doctor."
+    },
+    {
+     "id": "taraxacum_officinale-age-01",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "taraxacum_officinale-warn-01",
+     "type": "warning",
+     "statement": "Si des signes de fièvre, des brûlures urinaires, des spasmes ou du sang dans les urines apparaissent (indication 3, voies urinaires), consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "If complaints or symptoms such as fever, dysuria, spasms or blood in urine occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "taraxacum_officinale-inter-01",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "taraxacum_officinale-preg-01",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "taraxacum_officinale-drive-01",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "sambucus_nigra",
+   "fr": "Sureau noir (fleur)",
+   "latin": "Sambucus nigra L.",
+   "part": "fleur",
+   "claims": [
+    {
+     "id": "sambucus_nigra-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des premiers symptômes du rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the relief of early symptoms of common cold."
+    },
+    {
+     "id": "sambucus_nigra-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : tisane de 2 à 5 g de fleurs dans 150 ml d'eau bouillante, trois fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "Herbal tea: 2-5 g of the herbal substance or comminuted herbal substance in 150 ml boiling water as a herbal infusion three times daily."
+    },
+    {
+     "id": "sambucus_nigra-pos-02",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "sambucus_nigra-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "sambucus_nigra-02",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "sambucus_nigra-03",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "sambucus_nigra-04",
+     "type": "warning",
+     "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "If dyspnoea, fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "sambucus_nigra-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "sambucus_nigra-06",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "sambucus_nigra-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "plantago_lanceolata",
+   "fr": "Plantain lancéolé (feuille)",
+   "latin": "Plantago lanceolata L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "plantago_lanceolata-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des irritations de la bouche ou du pharynx et de la toux sèche associée (effet émollient).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product as a demulcent for the symptomatic treatment of oral or pharyngeal irritations and associated dry cough."
+    },
+    {
+     "id": "plantago_lanceolata-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement de la toux associée à un rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the relief of cough associated with cold."
+    },
+    {
+     "id": "plantago_lanceolata-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement d'une inflammation cutanée mineure.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the treatment of minor inflammation of the skin."
+    },
+    {
+     "id": "plantago_lanceolata-pos-01",
+     "type": "posology",
+     "statement": "Indications 1 et 2, adolescents, adultes et personnes âgées : tisane de 1,4 à 2 g de feuilles broyées dans 150 à 250 ml d'eau bouillante, 2 à 3 fois par jour (4 à 6 g par jour).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Herbal tea: 1.4 - 2 g of the comminuted herbal substance in 150-250 ml of boiling water as an herbal infusion Dosage frequency: 2-3 times daily Daily dose: 4 - 6 g"
+    },
+    {
+     "id": "plantago_lanceolata-pos-02",
+     "type": "posology",
+     "statement": "Indication 3 (usage cutané), enfants à partir de 3 ans, adolescents, adultes et personnes âgées : macérat dans 150 ml d'eau froide, 1,4 g par prise, 3 à 4 fois par jour, appliqué sur la zone concernée avec un pansement propre.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Children from 3 years of age, adolescents, adults and elderly: Preparation a) as macerate in 150 ml of cold water Single dose: 1.4 g Dosage frequency: 3-4 times daily Daily dose: 4.2-5.6 g The macerate is applied on the affected area with a clean dressing."
+    },
+    {
+     "id": "plantago_lanceolata-pos-03",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "plantago_lanceolata-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active ou au pollen de plantain lancéolé.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to ribwort plantain pollen."
+    },
+    {
+     "id": "plantago_lanceolata-02",
+     "type": "age",
+     "statement": "Usage oral non recommandé chez les moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans (voie orale)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "The oral use in children under 12 years of age is not recommended due to the lack of adequate data."
+    },
+    {
+     "id": "plantago_lanceolata-03",
+     "type": "age",
+     "statement": "Usage oral ou oromuqueux non recommandé chez les moins de 3 ans, en raison de risques nécessitant un avis médical.",
+     "severity": "precaution",
+     "population": "moins de 3 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "The oral and oromucosal use in children under 3 years of age is not recommended because of concerns requiring medical advice."
+    },
+    {
+     "id": "plantago_lanceolata-04",
+     "type": "warning",
+     "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "If dyspnoea, fever or purulent sputum occurs during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "plantago_lanceolata-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Traditional use None reported."
+    },
+    {
+     "id": "plantago_lanceolata-06",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "plantago_lanceolata-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "cynara_scolymus",
+   "fr": "Artichaut (feuille)",
+   "latin": "Cynara scolymus L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "cynara_scolymus-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique des troubles digestifs tels que la dyspepsie avec sensation de plénitude, ballonnements et flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Traditional herbal medicinal product for the symptomatic relief of digestive disorders such as dyspepsia with a sensation of fullness, bloating and flatulence."
+    },
+    {
+     "id": "cynara_scolymus-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : tisane de feuilles sèches coupées, 1,5 g dans 150 ml d'eau bouillante 4 fois par jour, ou 3 g dans 150 ml 1 à 2 fois par jour ; dose journalière de 3 à 6 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Comminuted dried leaves for herbal tea: 1.5 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 4 times daily or 3 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 1-2 times daily Daily dose 3-6 g"
+    },
+    {
+     "id": "cynara_scolymus-pos-02",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : extrait sec de feuilles sèches (DER 2-7,5:1, solvant eau), 200 à 640 mg par prise, dose journalière de 400 à 1320 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "c) Dry extract of dried leaves (DER 2-7.5:1), extraction solvent water Single dose 200-640 mg Daily dose 400-1320 mg"
+    },
+    {
+     "id": "cynara_scolymus-pos-03",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "cynara_scolymus-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active ou aux plantes de la famille des Astéracées (Composées).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "asteraceae_allergy",
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to plants of the Asteraceae family (Compositae)."
+    },
+    {
+     "id": "cynara_scolymus-02",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'obstruction des voies biliaires, de cholangite, de maladie du foie, de calculs biliaires ou de tout autre trouble biliaire nécessitant un suivi médical.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Obstruction of bile duct, cholangitis, liver disease, gallstones and any other biliary disorders that require medical supervision and advice."
+    },
+    {
+     "id": "cynara_scolymus-03",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "cynara_scolymus-04",
+     "type": "warning",
+     "statement": "Des réactions allergiques peuvent survenir.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Allergic reactions may occur."
+    },
+    {
+     "id": "cynara_scolymus-05",
+     "type": "warning",
+     "statement": "Une diarrhée légère avec crampes abdominales, des troubles épigastriques tels que nausées, et des brûlures d'estomac ont été rapportés (fréquence inconnue).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Slight diarrhoea with abdominal spasm, epigastric complaints like nausea, and heartburn have been reported."
+    },
+    {
+     "id": "cynara_scolymus-06",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "cynara_scolymus-07",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "cynara_scolymus-08",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
   }
  ],
  "classes": [
@@ -3202,7 +4580,9 @@
     "melissa_officinalis-ind-01",
     "passiflora_incarnata-ind-01",
     "crataegus_spp-ind-02",
-    "rhodiola_rosea-ind-01"
+    "rhodiola_rosea-ind-01",
+    "lavandula_angustifolia-ind-01",
+    "tilia_cordata-ind-02"
    ]
   },
   {
@@ -3213,7 +4593,8 @@
     "valeriana_officinalis-ind-02",
     "melissa_officinalis-ind-01",
     "passiflora_incarnata-ind-01",
-    "crataegus_spp-ind-02"
+    "crataegus_spp-ind-02",
+    "lavandula_angustifolia-ind-01"
    ]
   },
   {
@@ -3223,14 +4604,45 @@
     "matricaria_recutita-ind-01",
     "melissa_officinalis-ind-02",
     "curcuma_longa-ind-01",
-    "silybum_marianum-ind-01"
+    "silybum_marianum-ind-01",
+    "zingiber_officinale-ind-02",
+    "mentha_piperita-ind-01",
+    "foeniculum_vulgare-ind-01",
+    "harpagophytum_procumbens-ind-02",
+    "rosmarinus_officinalis-ind-01",
+    "salvia_officinalis-ind-01",
+    "taraxacum_officinale-ind-01",
+    "taraxacum_officinale-ind-02",
+    "cynara_scolymus-ind-01"
+   ]
+  },
+  {
+   "id": "nausees",
+   "fr": "Nausées et mal des transports",
+   "claims": [
+    "zingiber_officinale-ind-01"
+   ]
+  },
+  {
+   "id": "regles",
+   "fr": "Spasmes légers liés aux règles",
+   "claims": [
+    "foeniculum_vulgare-ind-02"
+   ]
+  },
+  {
+   "id": "plaies",
+   "fr": "Petites plaies superficielles (usage cutané)",
+   "claims": [
+    "echinacea_purpurea-ind-02"
    ]
   },
   {
    "id": "voies_urinaires",
    "fr": "Petits troubles urinaires",
    "claims": [
-    "urtica_dioica-ind-01"
+    "urtica_dioica-ind-01",
+    "taraxacum_officinale-ind-03"
    ]
   },
   {
@@ -3238,7 +4650,16 @@
    "fr": "Symptômes du rhume",
    "claims": [
     "matricaria_recutita-ind-02",
-    "filipendula_ulmaria-ind-01"
+    "filipendula_ulmaria-ind-01",
+    "zingiber_officinale-ind-05",
+    "thymus_vulgaris-ind-01",
+    "foeniculum_vulgare-ind-03",
+    "echinacea_purpurea-ind-01",
+    "tilia_cordata-ind-01",
+    "sambucus_nigra-ind-01",
+    "plantago_lanceolata-ind-02",
+    "plantago_lanceolata-ind-01",
+    "salvia_officinalis-ind-03"
    ]
   },
   {
@@ -3246,14 +4667,20 @@
    "fr": "Douleurs articulaires mineures",
    "claims": [
     "filipendula_ulmaria-ind-02",
-    "urtica_dioica-ind-02"
+    "urtica_dioica-ind-02",
+    "zingiber_officinale-ind-04",
+    "harpagophytum_procumbens-ind-01",
+    "rosmarinus_officinalis-ind-02"
    ]
   },
   {
    "id": "peau",
    "fr": "Affections cutanées séborrhéiques",
    "claims": [
-    "urtica_dioica-ind-03"
+    "urtica_dioica-ind-03",
+    "calendula_officinalis-ind-01",
+    "plantago_lanceolata-ind-03",
+    "salvia_officinalis-ind-04"
    ]
   },
   {
@@ -3340,6 +4767,51 @@
    "water_ml": 150,
    "quote_fragment": "SD=1.5 g",
    "label": "Ortie : tisane, dose unitaire (usage traditionnel)"
+  },
+  {
+   "plant": "thymus_vulgaris",
+   "claim": "thymus_vulgaris-pos-01",
+   "min_g": 1,
+   "max_g": 2,
+   "water_ml": 150,
+   "quote_fragment": "1-2 g",
+   "label": "Thym : tisane, usage traditionnel"
+  },
+  {
+   "plant": "lavandula_angustifolia",
+   "claim": "lavandula_angustifolia-pos-01",
+   "min_g": 1,
+   "max_g": 2,
+   "water_ml": 150,
+   "quote_fragment": "1-2 g",
+   "label": "Lavande : infusion, usage traditionnel"
+  },
+  {
+   "plant": "tilia_cordata",
+   "claim": "tilia_cordata-pos-01",
+   "min_g": 1.5,
+   "max_g": 1.5,
+   "water_ml": 150,
+   "quote_fragment": "1.5 g",
+   "label": "Tilleul : infusion, dose unitaire (usage traditionnel)"
+  },
+  {
+   "plant": "foeniculum_vulgare",
+   "claim": "foeniculum_vulgare-pos-01",
+   "min_g": 1.5,
+   "max_g": 1.5,
+   "water_ml": 250,
+   "quote_fragment": "1.5 g",
+   "label": "Fenouil : tisane, adultes et adolescents (usage traditionnel)"
+  },
+  {
+   "plant": "foeniculum_vulgare",
+   "claim": "foeniculum_vulgare-pos-02",
+   "min_g": 1,
+   "max_g": 1,
+   "water_ml": 100,
+   "quote_fragment": "1.0 g",
+   "label": "Fenouil : tisane, enfants de 4 à 12 ans (usage traditionnel)"
   }
  ]
 }

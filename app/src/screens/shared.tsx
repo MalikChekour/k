@@ -1,14 +1,14 @@
 import React from 'react';
-import { Linking, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Animated, Linking, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 import type { Assessment, Alert as SafetyAlert } from '../safety';
 import { severityLabel } from '../library';
 
-// Direction : planche d'herbier. Papier chaud, encre, un seul accent terre cuite ; filets fins plutôt que cartes ;
-// serif pour ce qu'on LIT (titres, affirmations), sans-serif pour ce qu'on UTILISE (étiquettes, boutons).
+// Direction : l'étal du marché. Crème chaud, vert profond pour l'encre, corail et safran pour la bonne humeur,
+// une couleur propre à chaque plante. Mots clés en gras, extraits officiels repliés (un toucher pour les lire).
 // Les noms de clés historiques (green, gold…) sont conservés pour les écrans : seules les valeurs ont changé.
 export const C = {
-  bg: '#F3EDDF', card: '#FAF6EB', line: '#CBC1A8', ink: '#1B2620', text: '#1B2620', body: '#27302A', muted: '#5C655D',
-  gold: '#9C3F24', green: '#43603B', amber: '#8A5C0B', red: '#A3231B', grey: '#5C655D', rule: '#8E8774',
+  bg: '#FFF8EA', card: '#FFFFFF', line: '#EADFC9', ink: '#17382F', text: '#17382F', body: '#2B3B35', muted: '#5F6D66',
+  gold: '#C8402A', green: '#2F7D4F', amber: '#965800', red: '#B3261E', grey: '#5F6D66', rule: '#D9CDB4', sun: '#F5B731', soft: '#FFE9C7',
 };
 export const SERIF = Platform.select({ ios: 'Georgia', android: 'serif', default: 'Georgia, "Times New Roman", serif' }) as string;
 export const SEV_COLOR: Record<string, string> = {
@@ -16,12 +16,54 @@ export const SEV_COLOR: Record<string, string> = {
 };
 export const EDU = 'Information éducative, non médicale. Ne remplace pas l’avis d’un pharmacien ou d’un médecin.';
 
-const VERDICT: Record<string, { t: string; c: string }> = {
-  aucune_selection: { t: 'Choisissez au moins une plante.', c: C.muted },
-  contre_indication: { t: 'Contre-indication signalée', c: C.red },
-  alertes: { t: 'Alertes à lire avant tout usage', c: C.amber },
-  incomplet: { t: 'Évaluation incomplète : médicament non reconnu', c: C.amber },
-  aucune_alerte_dans_notre_base: { t: 'Aucune alerte dans notre base (ce n’est pas une garantie)', c: C.green },
+/** Bouton qui répond au toucher : léger rebond au lieu d'un simple changement d'opacité. */
+export function Tap({ onPress, style, children, ...rest }: React.ComponentProps<typeof Pressable> & { children?: React.ReactNode }) {
+  const v = React.useRef(new Animated.Value(1)).current;
+  const to = (x: number) => Animated.spring(v, { toValue: x, useNativeDriver: true, speed: 40, bounciness: 8 }).start();
+  return (
+    <Pressable onPress={onPress} onPressIn={() => to(0.96)} onPressOut={() => to(1)} {...rest}>
+      <Animated.View style={[style as object, { transform: [{ scale: v }] }]}>{children as React.ReactNode}</Animated.View>
+    </Pressable>
+  );
+}
+
+/** Apparition en fondu + glissement, échelonnée par l'index. */
+export function Reveal({ i = 0, children }: { i?: number; children: React.ReactNode }) {
+  const v = React.useRef(new Animated.Value(0)).current;
+  React.useEffect(() => {
+    Animated.timing(v, { toValue: 1, duration: 380, delay: Math.min(i, 8) * 55, useNativeDriver: true }).start();
+  }, []);
+  return <Animated.View style={{ opacity: v, transform: [{ translateY: v.interpolate({ inputRange: [0, 1], outputRange: [14, 0] }) }] }}>{children}</Animated.View>;
+}
+
+/** Extrait officiel + lien, repliés par défaut : on lit d'abord l'essentiel, la preuve est à un toucher. */
+export function Source({ quote, url, source, reviewed }: { quote: string; url: string; source: string; reviewed?: boolean }) {
+  const [open, setOpen] = React.useState(false);
+  return (
+    <View style={{ gap: 6 }}>
+      <Pressable onPress={() => setOpen(o => !o)} accessibilityRole="button" accessibilityState={{ expanded: open }}
+        accessibilityLabel="Extrait officiel" style={{ minHeight: 40, justifyContent: 'center' }}>
+        <Text style={s.link}>{open ? '▾ Masquer l’extrait officiel' : '▸ Voir l’extrait officiel'}</Text>
+      </Pressable>
+      {open && (
+        <View style={{ gap: 6 }}>
+          <Text style={s.quote}>« {quote} »</Text>
+          <Pressable onPress={() => Linking.openURL(url)} accessibilityRole="link" accessibilityLabel={`Source : ${source}`}>
+            <Text style={s.link}>{source} ↗</Text>
+          </Pressable>
+          <Text style={reviewed ? s.ok : s.warn}>{reviewed ? 'Relu par un professionnel' : 'Source vérifiée automatiquement : pas encore relue par un professionnel'}</Text>
+        </View>
+      )}
+    </View>
+  );
+}
+
+const VERDICT: Record<string, { t: string; bg: string; fg: string; glyph: string }> = {
+  aucune_selection: { t: 'Choisissez au moins une plante.', bg: C.line, fg: C.muted, glyph: '·' },
+  contre_indication: { t: 'Contre-indication signalée', bg: C.red, fg: '#FFFFFF', glyph: '!' },
+  alertes: { t: 'Alertes à lire avant tout usage', bg: C.sun, fg: C.ink, glyph: '!' },
+  incomplet: { t: 'Évaluation incomplète : médicament ou plante non reconnu', bg: C.sun, fg: C.ink, glyph: '?' },
+  aucune_alerte_dans_notre_base: { t: 'Aucune alerte dans notre base (ce n’est pas une garantie)', bg: '#DDF0E3', fg: '#14502F', glyph: '✓' },
 };
 
 export function Notice() {
@@ -30,18 +72,19 @@ export function Notice() {
 
 export function Badge({ severity }: { severity?: string | null }) {
   const color = SEV_COLOR[severity ?? ''] ?? C.green;
+  const strong = severity === 'contraindiquee';
   return (
-    <View style={[s.badge, { borderColor: color }, (severity === 'contraindiquee' || severity === 'majeure') && { transform: [{ rotate: '-2deg' }] }]} accessible accessibilityLabel={`Gravité : ${severityLabel(severity)}`}>
-      <Text style={[s.badgeTxt, { color }]}>{severityLabel(severity)}</Text>
+    <View style={[s.badge, strong ? { backgroundColor: color } : { backgroundColor: color + '1F' }]} accessible accessibilityLabel={`Gravité : ${severityLabel(severity)}`}>
+      <Text style={[s.badgeTxt, { color: strong ? '#FFFFFF' : color }]}>{severityLabel(severity)}</Text>
     </View>
   );
 }
 
 export function Chip({ label, on, onPress }: { label: string; on: boolean; onPress: () => void }) {
   return (
-    <Pressable onPress={onPress} style={[s.chip, on && s.chipOn]} accessibilityRole="checkbox" accessibilityState={{ checked: on }} accessibilityLabel={label}>
+    <Tap onPress={onPress} style={[s.chip, on && s.chipOn]} accessibilityRole="checkbox" accessibilityState={{ checked: on }} accessibilityLabel={label}>
       <Text style={on ? s.chipTxtOn : s.chipTxt}>{label}</Text>
-    </Pressable>
+    </Tap>
   );
 }
 
@@ -54,11 +97,7 @@ export function AlertCard({ a }: { a: SafetyAlert }) {
       </View>
       <Text style={s.body}>{a.statement}</Text>
       <Text style={s.muted}>{a.cause}</Text>
-      <Text style={s.quote}>« {a.quote} »</Text>
-      <Pressable onPress={() => Linking.openURL(a.url)} accessibilityRole="link" accessibilityLabel={`Source : ${a.source}`}>
-        <Text style={s.link}>{a.source}</Text>
-      </Pressable>
-      {!a.reviewed && <Text style={s.warn}>Pas encore relu par un professionnel</Text>}
+      <Source quote={a.quote} url={a.url} source={a.source} reviewed={a.reviewed} />
     </View>
   );
 }
@@ -68,10 +107,10 @@ export function SafetyReport({ r }: { r: Assessment }) {
   const v = VERDICT[r.verdict];
   return (
     <View style={{ gap: 12 }}>
-      <View style={[s.verdict, { borderTopColor: v.c }]} accessibilityLiveRegion="polite">
-        <Text style={s.tag}>Constat</Text>
-        <Text style={[s.verdictTxt, { color: v.c }]}>{v.t}</Text>
-        {r.unknownMeds.length > 0 && <Text style={s.warn}>Non reconnu : {r.unknownMeds.join(', ')}. Demandez à votre pharmacien.</Text>}
+      <View style={[s.verdict, { backgroundColor: v.bg }]} accessibilityLiveRegion="polite">
+        <View style={[s.glyph, { backgroundColor: v.fg + '26' }]}><Text style={[s.glyphTxt, { color: v.fg }]}>{v.glyph}</Text></View>
+        <Text style={[s.verdictTxt, { color: v.fg }]}>{v.t}</Text>
+        {r.unknownMeds.length > 0 && <Text style={[s.warn, { color: v.fg }]}>Non reconnu : {r.unknownMeds.join(', ')}. Demandez à votre pharmacien.</Text>}
       </View>
       {r.alerts.map(a => <AlertCard key={a.plantId + a.claimId} a={a} />)}
       {r.notes.map((n, i) => <Text key={i} style={s.muted}>• {n.plantFr} : {n.text}</Text>)}
@@ -80,45 +119,49 @@ export function SafetyReport({ r }: { r: Assessment }) {
   );
 }
 
+const SHADOW = { shadowColor: '#7A5C1E', shadowOpacity: 0.12, shadowRadius: 14, shadowOffset: { width: 0, height: 5 }, elevation: 3 } as const;
+
 export const s = StyleSheet.create({
   root: { flex: 1, backgroundColor: C.bg },
   pad: { padding: 20, gap: 14, paddingBottom: 40 },
-  h1: { color: C.ink, fontFamily: SERIF, fontSize: 32, lineHeight: 38, letterSpacing: -0.5 },
-  h2: { color: C.ink, fontFamily: SERIF, fontSize: 21, lineHeight: 27 },
-  h3: { color: C.gold, fontSize: 11.5, fontWeight: '700', letterSpacing: 1.8, textTransform: 'uppercase', marginTop: 10, paddingBottom: 6, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: C.rule },
-  latin: { color: C.muted, fontFamily: SERIF, fontStyle: 'italic', fontSize: 16 },
-  body: { color: C.body, fontFamily: SERIF, fontSize: 16.5, lineHeight: 25 },
-  quote: { color: C.muted, fontFamily: SERIF, fontStyle: 'italic', fontSize: 14, lineHeight: 21, paddingLeft: 12, borderLeftWidth: StyleSheet.hairlineWidth, borderLeftColor: C.rule },
+  h1: { color: C.ink, fontSize: 30, lineHeight: 35, fontWeight: '800', letterSpacing: -0.8 },
+  h2: { color: C.ink, fontSize: 19, lineHeight: 24, fontWeight: '800', letterSpacing: -0.3 },
+  h3: { color: C.gold, fontSize: 13, fontWeight: '800', letterSpacing: 1.2, textTransform: 'uppercase', marginTop: 18 },
+  latin: { color: C.muted, fontFamily: SERIF, fontStyle: 'italic', fontSize: 15.5 },
+  body: { color: C.body, fontSize: 16, lineHeight: 24 },
+  quote: { color: C.muted, fontFamily: SERIF, fontStyle: 'italic', fontSize: 14, lineHeight: 21, paddingLeft: 12, borderLeftWidth: 3, borderLeftColor: C.sun },
   muted: { color: C.muted, fontSize: 13.5, lineHeight: 19 },
-  link: { color: C.gold, textDecorationLine: 'underline', fontSize: 13.5 },
+  link: { color: C.gold, fontWeight: '700', fontSize: 13.5 },
   ok: { color: C.green, fontSize: 12.5 },
   warn: { color: C.amber, fontSize: 12.5, lineHeight: 18 },
-  notice: { color: C.muted, fontSize: 12, lineHeight: 17, fontStyle: 'italic' },
-  card: { backgroundColor: C.card, borderWidth: StyleSheet.hairlineWidth, borderColor: C.rule, borderRadius: 2, padding: 16, gap: 6 },
-  verdict: { backgroundColor: C.card, borderTopWidth: 4, borderWidth: StyleSheet.hairlineWidth, borderColor: C.rule, padding: 16, gap: 6 },
-  verdictTxt: { fontFamily: SERIF, fontSize: 23, lineHeight: 29 },
+  notice: { color: C.muted, fontSize: 12, lineHeight: 17 },
+  card: { backgroundColor: C.card, borderRadius: 20, padding: 16, gap: 6, ...SHADOW },
+  verdict: { borderRadius: 22, padding: 18, gap: 10 },
+  verdictTxt: { fontSize: 22, lineHeight: 27, fontWeight: '800', letterSpacing: -0.4 },
+  glyph: { width: 34, height: 34, borderRadius: 17, alignItems: 'center', justifyContent: 'center' },
+  glyphTxt: { fontSize: 19, fontWeight: '800' },
   backdrop: { flex: 1, backgroundColor: C.bg },
-  sheet: { flex: 1, backgroundColor: C.bg, paddingHorizontal: 20, paddingTop: 12 },
-  close: { color: C.ink, fontSize: 12, fontWeight: '700', letterSpacing: 1.6, textTransform: 'uppercase', padding: 12, paddingRight: 0 },
-  claim: { borderTopWidth: StyleSheet.hairlineWidth, borderTopColor: C.line, paddingTop: 14, marginTop: 6, gap: 6 },
-  tag: { color: C.gold, fontSize: 11, fontWeight: '700', letterSpacing: 1.8, textTransform: 'uppercase' },
-  badge: { alignSelf: 'flex-start', borderWidth: 1.5, borderRadius: 2, paddingVertical: 2, paddingHorizontal: 7 },
-  badgeTxt: { fontSize: 10.5, fontWeight: '800', letterSpacing: 1.3, textTransform: 'uppercase' },
+  sheet: { flex: 1, backgroundColor: C.bg },
+  close: { color: C.ink, fontSize: 14, fontWeight: '800', padding: 12 },
+  claim: { backgroundColor: C.card, borderRadius: 18, padding: 16, gap: 8, ...SHADOW },
+  tag: { color: C.gold, fontSize: 11.5, fontWeight: '800', letterSpacing: 1.3, textTransform: 'uppercase' },
+  badge: { alignSelf: 'flex-start', borderRadius: 8, paddingVertical: 3, paddingHorizontal: 9 },
+  badgeTxt: { fontSize: 11, fontWeight: '800', letterSpacing: 0.4 },
   row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', minHeight: 44, gap: 12 },
-  input: { backgroundColor: C.card, color: C.ink, fontFamily: SERIF, borderWidth: StyleSheet.hairlineWidth, borderColor: C.rule, borderRadius: 2, paddingHorizontal: 12, minWidth: 100, minHeight: 48, textAlign: 'right', fontSize: 17 },
+  input: { backgroundColor: C.card, color: C.ink, borderWidth: 1.5, borderColor: C.line, borderRadius: 16, paddingHorizontal: 14, minWidth: 100, minHeight: 50, textAlign: 'right', fontSize: 16 },
   inputWide: { width: '100%', textAlign: 'left' },
-  tabs: { flexDirection: 'row', borderTopWidth: 1, borderTopColor: C.ink, backgroundColor: C.card },
-  tab: { flex: 1, paddingVertical: 14, alignItems: 'center', minHeight: 52, justifyContent: 'center', borderTopWidth: 3, borderTopColor: 'transparent', marginTop: -1 },
-  tabActive: { borderTopColor: C.gold },
-  tabTxt: { color: C.muted, fontSize: 11, fontWeight: '600', letterSpacing: 1.4, textTransform: 'uppercase' },
+  tabs: { flexDirection: 'row', backgroundColor: C.card, borderTopLeftRadius: 26, borderTopRightRadius: 26, paddingHorizontal: 8, paddingTop: 8, paddingBottom: 10, ...SHADOW, shadowOffset: { width: 0, height: -4 } },
+  tab: { flex: 1, paddingVertical: 10, alignItems: 'center', minHeight: 48, justifyContent: 'center', borderRadius: 18 },
+  tabActive: { backgroundColor: C.soft },
+  tabTxt: { color: C.muted, fontSize: 12.5, fontWeight: '600' },
   tabOn: { color: C.gold, fontWeight: '800' },
   wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
-  chip: { borderWidth: 1, borderColor: C.rule, borderRadius: 2, paddingVertical: 8, paddingHorizontal: 12, minHeight: 44, justifyContent: 'center' },
+  chip: { backgroundColor: C.card, borderWidth: 1.5, borderColor: C.line, borderRadius: 14, paddingVertical: 8, paddingHorizontal: 14, minHeight: 44, justifyContent: 'center' },
   chipOn: { backgroundColor: C.ink, borderColor: C.ink },
-  chipTxt: { color: C.ink, fontSize: 13, letterSpacing: 0.2 },
-  chipTxtOn: { color: C.bg, fontSize: 13, fontWeight: '700', letterSpacing: 0.2 },
-  brand: { color: C.ink, fontFamily: SERIF, fontSize: 27, letterSpacing: 0.3 },
-  header: { paddingHorizontal: 20, paddingTop: 10, paddingBottom: 10, gap: 6, borderBottomWidth: 3, borderBottomColor: C.ink, borderStyle: 'solid' },
-  index: { flexDirection: 'row', alignItems: 'baseline', gap: 14, paddingVertical: 14, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: C.rule },
-  num: { color: C.gold, fontFamily: SERIF, fontSize: 14, width: 26, fontVariant: ['tabular-nums'] },
+  chipTxt: { color: C.ink, fontSize: 14, fontWeight: '600' },
+  chipTxtOn: { color: '#FFFFFF', fontSize: 14, fontWeight: '700' },
+  brand: { color: C.ink, fontSize: 25, fontWeight: '800', letterSpacing: -0.6 },
+  header: { paddingHorizontal: 20, paddingTop: 10, paddingBottom: 8, gap: 4 },
+  index: { flexDirection: 'row', alignItems: 'baseline', gap: 14, paddingVertical: 14 },
+  num: { color: C.gold, fontSize: 14, width: 26 },
 });

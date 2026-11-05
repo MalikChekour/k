@@ -311,5 +311,121 @@
    "échinacée",
    "echinacee"
   ]
+ },
+ {
+  "id": "rosmarinus_officinalis",
+  "fr": "Romarin",
+  "latin": "Rosmarinus officinalis L.",
+  "part": "feuille",
+  "queries": [
+   "Rosmarinus officinalis",
+   "rosemary leaf rosmarinus",
+   "rosemary herb"
+  ],
+  "keys": [
+   "rosmarinus",
+   "rosemary",
+   "romarin"
+  ]
+ },
+ {
+  "id": "salvia_officinalis",
+  "fr": "Sauge officinale",
+  "latin": "Salvia officinalis L.",
+  "part": "feuille",
+  "queries": [
+   "Salvia officinalis",
+   "sage leaf salvia officinalis",
+   "common sage salvia"
+  ],
+  "keys": [
+   "salvia",
+   "sage",
+   "sauge"
+  ]
+ },
+ {
+  "id": "calendula_officinalis",
+  "fr": "Calendula (souci)",
+  "latin": "Calendula officinalis L.",
+  "part": "fleur",
+  "queries": [
+   "Calendula officinalis",
+   "calendula flower",
+   "pot marigold calendula"
+  ],
+  "keys": [
+   "calendula",
+   "souci",
+   "marigold"
+  ]
+ },
+ {
+  "id": "taraxacum_officinale",
+  "fr": "Pissenlit",
+  "latin": "Taraxacum officinale F.H. Wigg.",
+  "part": "racine",
+  "queries": [
+   "Taraxacum officinale",
+   "dandelion root taraxacum",
+   "taraxaci radix"
+  ],
+  "keys": [
+   "taraxacum",
+   "dandelion",
+   "pissenlit"
+  ]
+ },
+ {
+  "id": "sambucus_nigra",
+  "fr": "Sureau noir (fleur)",
+  "latin": "Sambucus nigra L.",
+  "part": "fleur",
+  "queries": [
+   "Sambucus nigra",
+   "sureau noir fleur",
+   "elder flower"
+  ],
+  "keys": [
+   "sambucus",
+   "sureau",
+   "elder",
+   "elderflower"
+  ]
+ },
+ {
+  "id": "plantago_lanceolata",
+  "fr": "Plantain lancéolé (feuille)",
+  "latin": "Plantago lanceolata L.",
+  "part": "feuille",
+  "queries": [
+   "Plantago lanceolata",
+   "ribwort plantain",
+   "plantain lancéolé feuille"
+  ],
+  "keys": [
+   "plantago",
+   "ribwort",
+   "plantain lancéolé",
+   "plantain lanceole"
+  ]
+ },
+ {
+  "id": "cynara_scolymus",
+  "fr": "Artichaut (feuille)",
+  "latin": "Cynara scolymus L.",
+  "part": "feuille",
+  "queries": [
+   "Cynara scolymus",
+   "Cynara cardunculus",
+   "artichaut feuille",
+   "artichoke leaf"
+  ],
+  "keys": [
+   "cynara",
+   "artichaut",
+   "artichoke",
+   "cynarae"
+  ]
  }
 ]
