@@ -16,16 +16,21 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
   const list = filterPlants(plants, q, rubric);
   return (
     <ScrollView contentContainerStyle={s.pad} keyboardShouldPersistTaps="handled">
+      <View style={{ gap: 4 }}>
+        <Text style={s.tag}>Apothecaria · Herbier</Text>
+        <Text style={s.h1} accessibilityRole="header">Plantes médicinales</Text>
+        <Text style={s.muted}>{plants.length} plantes. Chaque affirmation cite un extrait exact d’un document officiel.</Text>
+      </View>
       <TextInput
         style={[s.input, s.inputWide]}
         value={q}
         onChangeText={setQ}
-        placeholder="Rechercher (nom français, nom latin)"
+        placeholder="Rechercher une plante…"
         placeholderTextColor={C.muted}
         accessibilityLabel="Rechercher une plante"
         autoCorrect={false}
       />
-      <Text style={s.tag}>RUBRIQUE</Text>
+      <Text style={s.tag}>Filtrer par rubrique</Text>
       <View style={s.wrap}>
         <Chip label="Toutes" on={rubric === null} onPress={() => setRubric(null)} />
         {RUBRICS.map(r => (
@@ -33,20 +38,26 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
         ))}
       </View>
       {list.length === 0 && <Text style={s.muted}>Aucune plante ne correspond à ces critères.</Text>}
-      {list.map(p => (
-        <View key={p.id} style={s.card}>
-          <Pressable onPress={() => onOpen(p)} accessibilityRole="button" accessibilityLabel={`Ouvrir la fiche ${p.fr}`}>
-            <Text style={s.h2}>{p.fr}</Text>
-            <Text style={s.latin}>{p.latin} · {p.part}</Text>
-            <Text style={s.muted}>{p.claims.length} affirmation(s) sourcée(s)</Text>
-          </Pressable>
-          <Chip
-            label={favorites.includes(p.id) ? `Dans mon armoire : ${p.fr}` : `Ajouter ${p.fr} à mon armoire`}
-            on={favorites.includes(p.id)}
-            onPress={() => writable && onToggleFav(p.id)}
-          />
-        </View>
-      ))}
+      <View style={{ borderTopWidth: 1, borderTopColor: C.ink }}>
+        {list.map((p, i) => {
+          const fav = favorites.includes(p.id);
+          return (
+            <Pressable key={p.id} onPress={() => onOpen(p)} style={s.index} accessibilityRole="button"
+              accessibilityLabel={`Ouvrir la fiche ${p.fr}`}>
+              <Text style={s.num}>{String(i + 1).padStart(2, '0')}</Text>
+              <View style={{ flex: 1, gap: 2 }}>
+                <Text style={s.h2}>{p.fr}</Text>
+                <Text style={s.latin}>{p.latin}</Text>
+                <Text style={s.muted}>{p.part} · {p.claims.length} affirmations sourcées</Text>
+              </View>
+              <Pressable onPress={() => writable && onToggleFav(p.id)} hitSlop={10} accessibilityRole="checkbox" accessibilityState={{ checked: fav }}
+                accessibilityLabel={fav ? `Retirer ${p.fr} de mon armoire` : `Ajouter ${p.fr} à mon armoire`} style={{ minHeight: 44, justifyContent: 'center' }}>
+                <Text style={[s.tag, { color: fav ? C.gold : C.muted }]}>{fav ? 'En armoire' : '+ Armoire'}</Text>
+              </Pressable>
+            </Pressable>
+          );
+        })}
+      </View>
     </ScrollView>
   );
 }

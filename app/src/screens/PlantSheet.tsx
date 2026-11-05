@@ -11,11 +11,11 @@ const EMPTY_NOTE: Record<string, string> = {
 
 function ClaimView({ c }: { c: Claim }) {
   return (
-    <View style={[s.claim, { borderLeftColor: C.green }]}>
+    <View style={s.claim}>
       {c.severity ? <Badge severity={c.severity} /> : null}
-      {c.population ? <Text style={s.muted}>Public : {c.population}</Text> : null}
+      {c.population ? <Text style={s.tag}>{c.population}</Text> : null}
       <Text style={s.body}>{c.statement}</Text>
-      <Text style={s.muted}>« {c.quote} »</Text>
+      <Text style={s.quote}>« {c.quote} »</Text>
       <Pressable onPress={() => Linking.openURL(c.url)} accessibilityRole="link" accessibilityLabel={`Source : ${c.source}`}>
         <Text style={s.link}>{c.source}</Text>
       </Pressable>
@@ -32,14 +32,15 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
 }) {
   const groups = plant ? groupClaims(plant.claims) : null;
   return (
-    <Modal visible={!!plant} animationType="slide" transparent onRequestClose={onClose}>
+    <Modal visible={!!plant} animationType="slide" onRequestClose={onClose}>
       <View style={s.backdrop}>
-        <View style={s.sheet}>
-          <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer la fiche"><Text style={s.close}>Fermer ✕</Text></Pressable>
+        <View style={[s.sheet, { paddingTop: 36 }]}>
+          <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer la fiche"><Text style={s.close}>Fermer</Text></Pressable>
           {plant && groups && (
-            <ScrollView>
+            <ScrollView contentContainerStyle={{ paddingBottom: 48 }}>
+              <Text style={s.tag}>Planche · {plant.part}</Text>
               <Text style={s.h1} accessibilityRole="header">{plant.fr}</Text>
-              <Text style={s.latin}>{plant.latin} · {plant.part}</Text>
+              <Text style={s.latin}>{plant.latin}</Text>
               <View style={{ marginTop: 8 }}>
                 <Chip
                   label={favorites.includes(plant.id) ? `Dans mon armoire : ${plant.fr}` : `Ajouter ${plant.fr} à mon armoire`}

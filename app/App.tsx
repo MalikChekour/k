@@ -49,7 +49,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={s.root}>
-      <StatusBar barStyle="light-content" />
+      <StatusBar barStyle="dark-content" />
       <View style={s.header}>
         <View style={s.row}>
           <Text style={s.brand} accessibilityRole="header">Apothecaria</Text>
@@ -70,7 +70,7 @@ export default function App() {
       </View>
       <View style={s.tabs} accessibilityRole="tablist">
         {TABS.map(k => (
-          <Pressable key={k.id} style={s.tab} onPress={() => setTab(k.id)} accessibilityRole="tab" accessibilityState={{ selected: tab === k.id }} accessibilityLabel={k.label}>
+          <Pressable key={k.id} style={[s.tab, tab === k.id && s.tabActive]} onPress={() => setTab(k.id)} accessibilityRole="tab" accessibilityState={{ selected: tab === k.id }} accessibilityLabel={k.label}>
             <Text style={[s.tabTxt, tab === k.id && s.tabOn]}>{k.label}</Text>
           </Pressable>
         ))}

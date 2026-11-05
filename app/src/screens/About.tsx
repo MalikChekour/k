@@ -16,7 +16,7 @@ const METHOD = [
 export function About({ visible, onClose }: { visible: boolean; onClose: () => void }) {
   const sources = sourcesOf(plants);
   return (
-    <Modal visible={visible} animationType="slide" transparent onRequestClose={onClose}>
+    <Modal visible={visible} animationType="slide" onRequestClose={onClose}>
       <View style={s.backdrop}>
         <View style={s.sheet}>
           <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer Sources et méthode"><Text style={s.close}>Fermer ✕</Text></Pressable>

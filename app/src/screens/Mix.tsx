@@ -76,11 +76,11 @@ export function Mix({ profile }: { profile: Profile }) {
       </View>
       {hits.length === 0 && <Text style={s.muted}>Aucune plante de notre base pour cet usage.</Text>}
       {hits.map(h => (
-        <View key={h.claimId} style={[s.card, { borderLeftWidth: 3, borderLeftColor: C.green }]}>
+        <View key={h.claimId} style={s.card}>
           <Text style={s.h2}>{h.plantFr}</Text>
           <Text style={s.latin}>{h.latin}</Text>
           <Text style={s.body}>{h.statement}</Text>
-          <Text style={s.muted}>« {h.quote} »</Text>
+          <Text style={s.quote}>« {h.quote} »</Text>
           <Pressable onPress={() => Linking.openURL(h.url)} accessibilityRole="link" accessibilityLabel={`Source : ${h.source}`}>
             <Text style={s.link}>{h.source}</Text>
           </Pressable>

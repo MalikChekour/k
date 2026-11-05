@@ -1,25 +1,34 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "Apothecaria",
+    "slug": "apothecaria",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.apothecaria.app"
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#F3EDDF",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.apothecaria.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "scheme": "apothecaria",
+    "backgroundColor": "#F3EDDF",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F3EDDF"
     }
   }
 }
