@@ -1,0 +1,53 @@
+[
+ {
+  "id": "valeriana_officinalis-01",
+  "plant": "valeriana_officinalis",
+  "type": "contraindication",
+  "statement": "Contre-indiquee en cas d'hypersensibilite a la substance active.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "Hypersensitivity to the active substance."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ },
+ {
+  "id": "valeriana_officinalis-02",
+  "plant": "valeriana_officinalis",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportee dans la monographie EMA (usage etabli et traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "Traditional use None reported"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ },
+ {
+  "id": "valeriana_officinalis-03",
+  "plant": "valeriana_officinalis",
+  "type": "pregnancy",
+  "statement": "Securite pendant la grossesse et l'allaitement non etablie ; usage non recommande.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+   "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ }
+]
