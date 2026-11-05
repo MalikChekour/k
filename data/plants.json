@@ -1,5 +1,8 @@
 [
- {"id":"matricaria_recutita","fr":"Camomille matricaire","latin":"Matricaria recutita L.","part":"fleur"},
- {"id":"valeriana_officinalis","fr":"Valériane","latin":"Valeriana officinalis L.","part":"racine"},
- {"id":"hypericum_perforatum","fr":"Millepertuis","latin":"Hypericum perforatum L.","part":"sommité fleurie"}
+ {"id":"matricaria_recutita","fr":"Camomille matricaire","latin":"Matricaria recutita L.","part":"fleur",
+  "queries":["Matricaria chamomilla","Matricaria recutita","german chamomile flower"],"keys":["matricaria","chamomile","camomile"]},
+ {"id":"valeriana_officinalis","fr":"Valériane","latin":"Valeriana officinalis L.","part":"racine",
+  "queries":["Valeriana officinalis","valerian flower","valerian root"],"keys":["valeriana","valerian"]},
+ {"id":"hypericum_perforatum","fr":"Millepertuis","latin":"Hypericum perforatum L.","part":"sommité fleurie",
+  "queries":["Hypericum perforatum","st john's wort flower","perforate st john's wort"],"keys":["hypericum","wort"]}
 ]

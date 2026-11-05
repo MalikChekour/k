@@ -3,7 +3,7 @@
 import json, glob, os, sys
 
 root = os.path.join(os.path.dirname(__file__), "..")
-plants = json.load(open(f"{root}/data/plants.json", encoding="utf-8"))
+plants = [{k: p[k] for k in ("id", "fr", "latin", "part")} for p in json.load(open(f"{root}/data/plants.json", encoding="utf-8"))]
 claims = [c for f in sorted(glob.glob(f"{root}/data/claims/*.json")) for c in json.load(open(f, encoding="utf-8"))]
 bad = [c["id"] for c in claims if c["status"] not in ("verifie", "publie")]
 if bad:
