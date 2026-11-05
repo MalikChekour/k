@@ -11,6 +11,8 @@
   {"plant": "lavandula_angustifolia", "claim": "lavandula_angustifolia-pos-01", "min_g": 1, "max_g": 2, "water_ml": 150, "quote_fragment": "1-2 g", "label": "Lavande : infusion, usage traditionnel"},
   {"plant": "tilia_cordata", "claim": "tilia_cordata-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 150, "quote_fragment": "1.5 g", "label": "Tilleul : infusion, dose unitaire (usage traditionnel)"},
   {"plant": "foeniculum_vulgare", "claim": "foeniculum_vulgare-pos-01", "min_g": 1.5, "max_g": 1.5, "water_ml": 250, "quote_fragment": "1.5 g", "label": "Fenouil : tisane, adultes et adolescents (usage traditionnel)"},
-  {"plant": "foeniculum_vulgare", "claim": "foeniculum_vulgare-pos-02", "min_g": 1, "max_g": 1, "water_ml": 100, "quote_fragment": "1.0 g", "label": "Fenouil : tisane, enfants de 4 à 12 ans (usage traditionnel)"}
+  {"plant": "foeniculum_vulgare", "claim": "foeniculum_vulgare-pos-02", "min_g": 1, "max_g": 1, "water_ml": 100, "quote_fragment": "1.0 g", "label": "Fenouil : tisane, enfants de 4 à 12 ans (usage traditionnel)"},
+  {"plant": "glycyrrhiza_glabra", "claim": "glycyrrhiza_glabra-pos-01", "min_g": 1.5, "max_g": 2, "water_ml": 150, "quote_fragment": "1.5 - 2 g", "label": "Réglisse : tisane, adultes et personnes âgées (usage traditionnel)"},
+  {"plant": "equisetum_arvense", "claim": "equisetum_arvense-pos-01", "min_g": 1, "max_g": 4, "water_ml": 150, "quote_fragment": "1-4 g", "label": "Prêle : tisane, adolescents et adultes (usage traditionnel)"}
  ]
 }

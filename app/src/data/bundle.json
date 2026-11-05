@@ -6549,7 +6549,8 @@
     "crataegus_spp-ind-02",
     "rhodiola_rosea-ind-01",
     "lavandula_angustifolia-ind-01",
-    "tilia_cordata-ind-02"
+    "tilia_cordata-ind-02",
+    "humulus_lupulus-ind-01"
    ]
   },
   {
@@ -6561,7 +6562,8 @@
     "melissa_officinalis-ind-01",
     "passiflora_incarnata-ind-01",
     "crataegus_spp-ind-02",
-    "lavandula_angustifolia-ind-01"
+    "lavandula_angustifolia-ind-01",
+    "humulus_lupulus-ind-01"
    ]
   },
   {
@@ -6580,7 +6582,8 @@
     "salvia_officinalis-ind-01",
     "taraxacum_officinale-ind-01",
     "taraxacum_officinale-ind-02",
-    "cynara_scolymus-ind-01"
+    "cynara_scolymus-ind-01",
+    "glycyrrhiza_glabra-ind-01"
    ]
   },
   {
@@ -6601,7 +6604,8 @@
    "id": "plaies",
    "fr": "Petites plaies superficielles (usage cutané)",
    "claims": [
-    "echinacea_purpurea-ind-02"
+    "echinacea_purpurea-ind-02",
+    "equisetum_arvense-ind-02"
    ]
   },
   {
@@ -6609,7 +6613,10 @@
    "fr": "Petits troubles urinaires",
    "claims": [
     "urtica_dioica-ind-01",
-    "taraxacum_officinale-ind-03"
+    "taraxacum_officinale-ind-03",
+    "equisetum_arvense-ind-01",
+    "betula_pendula-ind-01",
+    "arctostaphylos_uva_ursi-ind-01"
    ]
   },
   {
@@ -6626,7 +6633,9 @@
     "sambucus_nigra-ind-01",
     "plantago_lanceolata-ind-02",
     "plantago_lanceolata-ind-01",
-    "salvia_officinalis-ind-03"
+    "salvia_officinalis-ind-03",
+    "glycyrrhiza_glabra-ind-02",
+    "pelargonium_sidoides-ind-01"
    ]
   },
   {
@@ -6669,7 +6678,11 @@
    "id": "jambes_lourdes",
    "fr": "Jambes lourdes et sensation de froid aux extrémités",
    "claims": [
-    "ginkgo_biloba-ind-02"
+    "ginkgo_biloba-ind-02",
+    "aesculus_hippocastanum-ind-01",
+    "aesculus_hippocastanum-ind-02",
+    "vitis_vinifera-ind-01",
+    "vitis_vinifera-ind-02"
    ]
   },
   {
@@ -6677,6 +6690,21 @@
    "fr": "Palpitations nerveuses passagères",
    "claims": [
     "crataegus_spp-ind-01"
+   ]
+  },
+  {
+   "id": "ecchymoses_capillaires",
+   "fr": "Petits bleus et fragilité des petits vaisseaux",
+   "claims": [
+    "aesculus_hippocastanum-ind-03",
+    "vitis_vinifera-ind-04"
+   ]
+  },
+  {
+   "id": "hemorroides",
+   "fr": "Hémorroïdes : démangeaisons et brûlures légères",
+   "claims": [
+    "vitis_vinifera-ind-03"
    ]
   }
  ],
@@ -6779,6 +6807,24 @@
    "water_ml": 100,
    "quote_fragment": "1.0 g",
    "label": "Fenouil : tisane, enfants de 4 à 12 ans (usage traditionnel)"
+  },
+  {
+   "plant": "glycyrrhiza_glabra",
+   "claim": "glycyrrhiza_glabra-pos-01",
+   "min_g": 1.5,
+   "max_g": 2,
+   "water_ml": 150,
+   "quote_fragment": "1.5 - 2 g",
+   "label": "Réglisse : tisane, adultes et personnes âgées (usage traditionnel)"
+  },
+  {
+   "plant": "equisetum_arvense",
+   "claim": "equisetum_arvense-pos-01",
+   "min_g": 1,
+   "max_g": 4,
+   "water_ml": 150,
+   "quote_fragment": "1-4 g",
+   "label": "Prêle : tisane, adolescents et adultes (usage traditionnel)"
   }
  ]
 }
