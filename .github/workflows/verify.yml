@@ -1,0 +1,20 @@
+name: verify-sources
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 6 * * 1"   # lundi : les sources EMA/PubMed peuvent changer
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installer pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Tests du verificateur
+        run: python tests/test_verify.py
+      - name: Verifier toutes les affirmations
+        run: python tools/verify.py
