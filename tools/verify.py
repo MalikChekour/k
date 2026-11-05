@@ -19,6 +19,11 @@ def norm(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+def squash(s):
+    """Sans espaces ni ponctuation : insensible aux coupures de mots et a la version de pdftotext."""
+    return re.sub(r"[^a-z0-9à-ÿ]", "", s.lower().replace("­", ""))
+
+
 def title_match(cited, actual):
     a, b = set(norm(cited).split()), set(norm(actual).split())
     if not a or not b:
@@ -78,11 +83,11 @@ def check(claims, offline=False):
                 errors.append(f"{cid}: PMID {s['pmid']} = «{actual[:70]}» ≠ titre cite «{s['title'][:70]}»")
         elif s["kind"] == "doc":
             try:
-                txt = norm(doc_text(s["url"]))
+                txt = squash(doc_text(s["url"]))
             except Exception as e:
                 errors.append(f"{cid}: document illisible ({e})")
                 continue
-            if norm(s["quote"]) not in txt:
+            if squash(s["quote"]) not in txt:
                 errors.append(f"{cid}: extrait absent du document {s['url']}")
         else:
             errors.append(f"{cid}: kind inconnu {s['kind']}")
