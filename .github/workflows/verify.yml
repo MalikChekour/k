@@ -18,3 +18,26 @@ jobs:
         run: python tests/test_verify.py
       - name: Verifier toutes les affirmations
         run: python tools/verify.py
+  app:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Le bundle de donnees est a jour
+        run: |
+          python tools/build_bundle.py
+          git diff --exit-code app/src/data/bundle.json
+      - name: Installer les dependances
+        run: npm install --no-audit --no-fund
+        working-directory: app
+      - name: Verification des types
+        run: npx tsc --noEmit
+        working-directory: app
+      - name: Tests du calculateur
+        run: node --test src/tincture.test.ts
+        working-directory: app
