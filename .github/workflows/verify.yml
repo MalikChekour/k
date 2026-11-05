@@ -1,4 +1,7 @@
 name: verify-sources
+permissions:
+  contents: read
+  issues: write
 on:
   push:
   pull_request:
@@ -18,6 +21,11 @@ jobs:
         run: python tests/test_verify.py
       - name: Verifier toutes les affirmations
         run: python tools/verify.py
+      - name: Ouvrir un ticket si la verification hebdomadaire echoue (source EMA modifiee ou retiree)
+        if: failure() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Verification hebdomadaire des sources en echec" --body "Une monographie EMA ou une reference PubMed a change ou disparu. Voir ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}. Aucune affirmation ne doit passer en publie tant que ce n'est pas traite."
   app:
     runs-on: ubuntu-24.04
     steps:
@@ -39,7 +47,7 @@ jobs:
         run: npx tsc --noEmit --pretty false 2>&1 | sed 's/^/::error::/'
         working-directory: app
       - name: Tests du calculateur
-        run: node --test src/tincture.test.ts src/safety.test.ts src/usages.test.ts src/infusion.test.ts src/library.test.ts src/armoire.test.ts
+        run: node --test src/tincture.test.ts src/safety.test.ts src/usages.test.ts src/infusion.test.ts src/library.test.ts src/armoire.test.ts src/safety.extra.test.ts
         working-directory: app
   server:
     runs-on: ubuntu-24.04

@@ -1,0 +1,22 @@
+name: eas-build
+# Build Android (APK interne, installable par QR code). INACTIF tant que le secret EXPO_TOKEN n'existe pas.
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    env:
+      EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Build (ignore si pas de jeton)
+        run: |
+          if [ -z "$EXPO_TOKEN" ]; then echo "Pas de jeton Expo : build ignore."; exit 0; fi
+          npm install --no-audit --no-fund
+          npx --yes eas-cli@latest build --platform android --profile preview --non-interactive --no-wait
+        working-directory: app

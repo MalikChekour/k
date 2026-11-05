@@ -1,0 +1,25 @@
+name: deploy-api
+# Deploiement automatique du Worker. INACTIF tant que le secret CLOUDFLARE_API_TOKEN n'existe pas.
+on:
+  push:
+    branches: [main]
+    paths: ["server/**", "data/sale_policy.json", "app/src/data/bundle.json"]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Tests du Worker
+        run: node --test server/src/worker.test.ts
+      - name: Deploiement (ignore si pas de jeton ou base D1 non creee)
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then echo "Pas de jeton Cloudflare : deploiement ignore."; exit 0; fi
+          if grep -q REMPLACER server/wrangler.toml; then echo "::warning::database_id non renseigne : deploiement ignore."; exit 0; fi
+          npx --yes wrangler@4 deploy
+        working-directory: server
