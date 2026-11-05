@@ -41,3 +41,12 @@ jobs:
       - name: Tests du calculateur
         run: node --test src/tincture.test.ts src/safety.test.ts
         working-directory: app
+  server:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Tests du Worker (D1 simule)
+        run: node --test server/src/worker.test.ts

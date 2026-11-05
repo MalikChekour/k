@@ -1,0 +1,6 @@
+{
+ "_note": "Une plante ne peut entrer dans une commande de melange physique QUE si son statut de vente a ete verifie par un juriste / le pharmacien partenaire (liste des plantes medicinales libres, decret 2008-841, ou preparation par officine). Liste volontairement VIDE : la vente est bloquee dans le code tant qu'elle n'est pas remplie, plante par plante.",
+ "verified_plants": [],
+ "max_total_grams": 500,
+ "max_lines": 8
+}

@@ -1,0 +1,13 @@
+name = "apothecaria-api"
+main = "src/index.ts"
+compatibility_date = "2026-11-01"
+
+# NON DEPLOYE. Avant : `wrangler d1 create apothecaria` puis coller l'identifiant ci-dessous,
+# `wrangler d1 execute apothecaria --file=schema.sql`, puis les 3 secrets :
+#   wrangler secret put REVENUECAT_WEBHOOK_SECRET
+#   wrangler secret put ORDER_CODE_SECRET
+#   wrangler secret put ARTISAN_TOKEN
+[[d1_databases]]
+binding = "DB"
+database_name = "apothecaria"
+database_id = "REMPLACER_APRES_wrangler_d1_create"
