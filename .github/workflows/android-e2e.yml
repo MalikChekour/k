@@ -1,0 +1,48 @@
+name: android-e2e
+# Compile un APK x86_64 et le fait tourner sur un émulateur Android : chaque onglet est touché, captures et journaux en artefact.
+on:
+  workflow_dispatch:
+  push:
+    tags: ["e2e-*"]
+jobs:
+  e2e:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - name: Dependances
+        run: npm install --no-audit --no-fund
+        working-directory: app
+      - name: Projet Android
+        run: npx expo prebuild --platform android --no-install
+        working-directory: app
+      - name: Compiler (x86_64 pour l'emulateur)
+        run: ./gradlew assembleRelease -PreactNativeArchitectures=x86_64 --no-daemon -q
+        working-directory: app/android
+      - name: Activer KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+      - name: Emulateur et parcours des onglets
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 34
+          arch: x86_64
+          target: google_apis
+          profile: pixel_6
+          disable-animations: true
+          script: bash e2e/run.sh
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: e2e-resultats
+          path: /tmp/e2e
+          retention-days: 7
