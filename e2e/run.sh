@@ -4,6 +4,10 @@ set -u
 OUT=/tmp/e2e; mkdir -p "$OUT"
 APK=app/android/app/build/outputs/apk/release/app-release.apk
 adb install -r "$APK" > "$OUT/install.txt" 2>&1; cat "$OUT/install.txt"
+adb wait-for-device
+until [ "$(adb shell getprop sys.boot_completed | tr -d '')" = "1" ]; do sleep 3; done
+sleep 40
+adb shell input keyevent 3
 adb logcat -c
 adb shell monkey -p com.apothecaria.app -c android.intent.category.LAUNCHER 1 > /dev/null 2>&1
 sleep 15

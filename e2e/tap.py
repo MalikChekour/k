@@ -1,7 +1,25 @@
 import re, subprocess, sys, time, xml.etree.ElementTree as ET
 OUT = sys.argv[1]
 
+def clear_anr():
+    # Ferme les boites « ... ne répond pas » du système (émulateur lent au démarrage) qui masquent l'app.
+    for _ in range(4):
+        subprocess.run(['adb', 'shell', 'uiautomator', 'dump', '/sdcard/a.xml'], capture_output=True)
+        subprocess.run(['adb', 'pull', '/sdcard/a.xml', f'{OUT}/a.xml'], capture_output=True)
+        try:
+            r = ET.parse(f'{OUT}/a.xml').getroot()
+        except Exception:
+            return
+        if not any("responding" in (n.get('text') or '') for n in r.iter('node')):
+            return
+        c = center(r, 'Wait')
+        if c:
+            subprocess.run(['adb', 'shell', 'input', 'tap', str(c[0]), str(c[1])])
+        time.sleep(2)
+
+
 def dump(name):
+    clear_anr()
     subprocess.run(['adb', 'shell', 'uiautomator', 'dump', '/sdcard/ui.xml'], capture_output=True)
     subprocess.run(['adb', 'pull', '/sdcard/ui.xml', f'{OUT}/{name}.xml'], capture_output=True)
     subprocess.run(f'adb exec-out screencap -p > {OUT}/{name}.png', shell=True)

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { Pressable, SafeAreaView, StatusBar, Text, View } from 'react-native';
+import { Pressable, StatusBar, Text, View } from 'react-native';
+import { SafeAreaProvider, SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { PlantData } from './src/safety';
 import { EMPTY_ARMOIRE, toggleFavorite } from './src/armoire';
 import type { Armoire as ArmoireData } from './src/armoire';
@@ -20,7 +21,8 @@ const TABS: { id: Tab; label: string }[] = [
   { id: 'armoire', label: 'Armoire' }, { id: 'lab', label: 'Labo' },
 ];
 
-export default function App() {
+function Shell() {
+  const insets = useSafeAreaInsets();
   const [tab, setTab] = useState<Tab>('lib');
   const [open, setOpen] = useState<PlantData | null>(null);
   const [armoire, setArmoire] = useState<ArmoireData>(EMPTY_ARMOIRE);
@@ -51,7 +53,7 @@ export default function App() {
 
   if (!fontsReady) return <View style={s.root} />;
   return (
-    <SafeAreaView style={s.root}>
+    <SafeAreaView style={s.root} edges={['top']}>
       <StatusBar barStyle="dark-content" />
       <View style={s.header}>
         <View style={s.row}>
@@ -71,7 +73,7 @@ export default function App() {
         )}
         {tab === 'lab' && <Lab />}
       </View>
-      <View style={s.tabs} accessibilityRole="tablist">
+      <View style={[s.tabs, { paddingBottom: 10 + insets.bottom }]} accessibilityRole="tablist">
         {TABS.map(k => (
           <Pressable key={k.id} style={[s.tab, tab === k.id && s.tabActive]} onPress={() => setTab(k.id)} accessibilityRole="tab" accessibilityState={{ selected: tab === k.id }} accessibilityLabel={k.label}>
             <Text style={[s.tabTxt, tab === k.id && s.tabOn]}>{k.label}</Text>
@@ -81,5 +83,13 @@ export default function App() {
       <PlantSheet plant={open} onClose={() => setOpen(null)} favorites={armoire.favorites} writable={writable && ready} onToggleFav={id => update(toggleFavorite(armoire, id))} />
       <About visible={about} onClose={() => setAbout(false)} />
     </SafeAreaView>
+  );
+}
+
+export default function App() {
+  return (
+    <SafeAreaProvider>
+      <Shell />
+    </SafeAreaProvider>
   );
 }

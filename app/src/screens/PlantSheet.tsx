@@ -1,5 +1,6 @@
 import React from 'react';
 import { Image, Modal, Pressable, ScrollView, Text, View } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { Claim, PlantData } from '../safety';
 import { POSOLOGY_NOTE, RUBRICS, groupClaims } from '../library';
 import { styleFor } from '../plantStyle';
@@ -27,6 +28,7 @@ function ClaimView({ c }: { c: Claim }) {
 export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }: {
   plant: PlantData | null; onClose: () => void; favorites: string[]; writable: boolean; onToggleFav: (id: string) => void;
 }) {
+  const insets = useSafeAreaInsets();
   const groups = plant ? groupClaims(plant.claims) : null;
   const st = plant ? styleFor(plant) : null;
   const photo = plant ? PLANT_PHOTOS[plant.id] : undefined;
@@ -34,13 +36,13 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
     <Modal visible={!!plant} animationType="slide" onRequestClose={onClose}>
       <View style={s.sheet}>
         {plant && groups && st && (
-          <ScrollView contentContainerStyle={{ paddingBottom: 56 }}>
+          <ScrollView contentContainerStyle={{ paddingBottom: 56 + insets.bottom }}>
             <View style={{ height: photo ? 340 : 260, backgroundColor: st.tint, overflow: 'hidden' }}>
               {photo
                 ? <Image source={photo} style={{ position: 'absolute', width: '100%', height: '100%' }} resizeMode="cover" accessibilityLabel={`Photo : ${plant.fr}`} />
                 : <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', paddingTop: 30 }}><Bloom st={st} size={140} /></View>}
               <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer la fiche"
-                style={{ position: 'absolute', top: 40, left: 16, minHeight: 44, justifyContent: 'center', backgroundColor: '#FFFFFFE6', borderRadius: 22, paddingHorizontal: 16 }}>
+                style={{ position: 'absolute', top: insets.top + 8, left: 16, minHeight: 44, justifyContent: 'center', backgroundColor: '#FFFFFFE6', borderRadius: 22, paddingHorizontal: 16 }}>
                 <Text style={[s.close, { padding: 0 }]}>← Retour</Text>
               </Pressable>
             </View>

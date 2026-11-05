@@ -1,5 +1,6 @@
 import React from 'react';
 import { Linking, Modal, Pressable, ScrollView, Text, View } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { plants } from '../bundle';
 import { sourcesOf } from '../library';
 import credits from '../data/credits.json';
@@ -17,12 +18,13 @@ const METHOD = [
 type Credit = { provider: string; author?: string | null; license: string; page_url: string };
 
 export function About({ visible, onClose }: { visible: boolean; onClose: () => void }) {
+  const insets = useSafeAreaInsets();
   const sources = sourcesOf(plants);
   const photos = Object.entries(credits as Record<string, Credit>).map(([id, c]) => ({ id, fr: plants.find(p => p.id === id)?.fr ?? id, ...c }));
   return (
     <Modal visible={visible} animationType="slide" onRequestClose={onClose}>
       <View style={s.sheet}>
-        <ScrollView contentContainerStyle={{ padding: 20, paddingTop: 44, paddingBottom: 56, gap: 10 }}>
+        <ScrollView contentContainerStyle={{ padding: 20, paddingTop: insets.top + 12, paddingBottom: 56 + insets.bottom, gap: 10 }}>
           <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer Sources et méthode" style={{ alignSelf: 'flex-start', minHeight: 44, justifyContent: 'center' }}>
             <Text style={[s.close, { paddingLeft: 0 }]}>← Retour</Text>
           </Pressable>
