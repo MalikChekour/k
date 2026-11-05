@@ -11,6 +11,7 @@ import { Mix } from './src/screens/Mix';
 import { Safety } from './src/screens/Safety';
 import { Lab } from './src/screens/Lab';
 import { Armoire } from './src/screens/Armoire';
+import { About } from './src/screens/About';
 
 type Tab = 'lib' | 'mix' | 'secu' | 'armoire' | 'lab';
 const TABS: { id: Tab; label: string }[] = [
@@ -24,6 +25,7 @@ export default function App() {
   const [armoire, setArmoire] = useState<ArmoireData>(EMPTY_ARMOIRE);
   const [ready, setReady] = useState(false);
   const [writable, setWritable] = useState(false);
+  const [about, setAbout] = useState(false);
 
   useEffect(() => {
     let alive = true;
@@ -49,7 +51,12 @@ export default function App() {
     <SafeAreaView style={s.root}>
       <StatusBar barStyle="light-content" />
       <View style={s.header}>
-        <Text style={s.brand} accessibilityRole="header">Apothecaria</Text>
+        <View style={s.row}>
+          <Text style={s.brand} accessibilityRole="header">Apothecaria</Text>
+          <Pressable onPress={() => setAbout(true)} accessibilityRole="button" accessibilityLabel="Ouvrir Sources et méthode" style={{ minHeight: 44, justifyContent: 'center' }}>
+            <Text style={s.link}>Sources</Text>
+          </Pressable>
+        </View>
         <Notice />
       </View>
       <View style={{ flex: 1 }}>
@@ -69,6 +76,7 @@ export default function App() {
         ))}
       </View>
       <PlantSheet plant={open} onClose={() => setOpen(null)} favorites={armoire.favorites} writable={writable && ready} onToggleFav={id => update(toggleFavorite(armoire, id))} />
+      <About visible={about} onClose={() => setAbout(false)} />
     </SafeAreaView>
   );
 }

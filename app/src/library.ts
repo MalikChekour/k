@@ -49,3 +49,16 @@ export function filterPlants(plants: PlantData[], query: string, rubric: Rubric 
     return normalize(`${p.fr} ${p.latin} ${p.part}`).includes(q);
   });
 }
+
+/** Documents officiels réellement cités dans le bundle, sans doublon (écran « Sources et méthode »). */
+export function sourcesOf(plants: PlantData[]): { title: string; url: string; plants: string[] }[] {
+  const map = new Map<string, { title: string; url: string; plants: string[] }>();
+  for (const p of plants) {
+    for (const c of p.claims) {
+      const cur = map.get(c.url) ?? { title: c.source, url: c.url, plants: [] };
+      if (!cur.plants.includes(p.fr)) cur.plants.push(p.fr);
+      map.set(c.url, cur);
+    }
+  }
+  return [...map.values()].sort((a, b) => a.title.localeCompare(b.title, 'fr'));
+}
