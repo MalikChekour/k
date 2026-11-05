@@ -1,0 +1,304 @@
+[
+ {
+  "id": "zingiber_officinale-01",
+  "plant": "zingiber_officinale",
+  "type": "contraindication",
+  "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Hypersensitivity to the active substance."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-02",
+  "plant": "zingiber_officinale",
+  "type": "interaction",
+  "statement": "Aucune interaction connue rapportée dans la monographie EMA.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional use None known."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-03",
+  "plant": "zingiber_officinale",
+  "type": "warning",
+  "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-04",
+  "plant": "zingiber_officinale",
+  "type": "age",
+  "statement": "Usage non établi chez les moins de 18 ans pour les indications 2 à 5 (données insuffisantes).",
+  "severity": "precaution",
+  "population": "moins de 18 ans",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-05",
+  "plant": "zingiber_officinale",
+  "type": "age",
+  "statement": "Usage non établi chez les moins de 6 ans pour l'indication 1 (mal des transports) : données insuffisantes.",
+  "severity": "precaution",
+  "population": "moins de 6 ans",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "The use in children under 6 years of age has not been established due to lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_12"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-06",
+  "plant": "zingiber_officinale",
+  "type": "pregnancy",
+  "statement": "Par précaution, il est préférable d'éviter l'usage pendant la grossesse.",
+  "severity": "precaution",
+  "population": "femmes enceintes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "As a precautionary measure it is preferable to avoid the use during pregnancy."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-07",
+  "plant": "zingiber_officinale",
+  "type": "lactation",
+  "statement": "La sécurité pendant l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
+  "severity": "precaution",
+  "population": "femmes allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Safety during lactation has not been established. In the absence of sufficient data, the use during lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "lactating"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-08",
+  "plant": "zingiber_officinale",
+  "type": "driving",
+  "statement": "Pas d'effet, ou un effet négligeable, sur l'aptitude à conduire et à utiliser des machines.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Zingiberis rhizoma has no or negligible influence on the ability to drive and use machines."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "drives"
+  ]
+ },
+ {
+  "id": "zingiber_officinale-ind-01",
+  "plant": "zingiber_officinale",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement symptomatique du mal des transports (nausées et vomissements).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for the symptomatic relief of motion sickness."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-ind-02",
+  "plant": "zingiber_officinale",
+  "type": "indication",
+  "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux légers et spasmodiques, dont ballonnements et flatulences.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for symptomatic treatment of mild, spasmodic gastrointestinal complaints including bloating and flatulence."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-ind-03",
+  "plant": "zingiber_officinale",
+  "type": "indication",
+  "statement": "Usage traditionnel : perte d'appétit passagère.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product used for temporary loss of appetite."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-ind-04",
+  "plant": "zingiber_officinale",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product used for relief of minor articular pain."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-ind-05",
+  "plant": "zingiber_officinale",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-pos-01",
+  "plant": "zingiber_officinale",
+  "type": "posology",
+  "statement": "Usage traditionnel, mal des transports, adolescents et adultes : 500 à 750 mg de poudre, une demi-heure avant le voyage.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "500-750 mg half an hour before travelling."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-pos-02",
+  "plant": "zingiber_officinale",
+  "type": "posology",
+  "statement": "Usage traditionnel, indications 3 à 5, adultes et personnes âgées : poudre de rhizome de 0,25 à 1 g, 3 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "a) Powdered herbal substance 0.25-1 g 3 times daily."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "zingiber_officinale-pos-03",
+  "plant": "zingiber_officinale",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus de 2 semaines (indications 2 et 3), consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ }
+]

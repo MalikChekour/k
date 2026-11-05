@@ -1,0 +1,195 @@
+[
+ {
+  "id": "thymus_vulgaris-01",
+  "plant": "thymus_vulgaris",
+  "type": "contraindication",
+  "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active ou à d'autres plantes de la famille des Lamiacées.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "Hypersensitivity to the active substance or to other plants of the Lamiaceae (Labiatae) family."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris-02",
+  "plant": "thymus_vulgaris",
+  "type": "warning",
+  "statement": "En cas d'essoufflement, de fièvre ou d'expectorations purulentes, consulter un médecin ou un professionnel de santé.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "If dyspnoea, fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris-03",
+  "plant": "thymus_vulgaris",
+  "type": "age",
+  "statement": "Usage non établi avant 12 ans pour la plupart des préparations (données insuffisantes).",
+  "severity": "precaution",
+  "population": "moins de 12 ans",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_12"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris-04",
+  "plant": "thymus_vulgaris",
+  "type": "age",
+  "statement": "Pour l'extrait liquide DER 1:2-2,5 (préparation c) et l'extrait liquide DER 1:1,5-2,4 (préparation g) : avis médical recommandé avant 4 ans.",
+  "severity": "precaution",
+  "population": "moins de 4 ans",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "Herbal preparations c, g The use in children under 4 years of age has not been established because medical advice should be sought."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_12"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris-05",
+  "plant": "thymus_vulgaris",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportée dans la monographie EMA.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "Traditional use None reported."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "thymus_vulgaris-06",
+  "plant": "thymus_vulgaris",
+  "type": "pregnancy",
+  "statement": "La sécurité pendant la grossesse et l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris-07",
+  "plant": "thymus_vulgaris",
+  "type": "driving",
+  "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+  "severity": "donnees_absentes",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "drives"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris-ind-01",
+  "plant": "thymus_vulgaris",
+  "type": "indication",
+  "statement": "Usage traditionnel : toux productive associée au rhume.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "Traditional herbal medicinal product used in productive cough associated with cold."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "thymus_vulgaris-pos-01",
+  "plant": "thymus_vulgaris",
+  "type": "posology",
+  "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : tisane de 1 à 2 g de plante coupée dans 150 ml d'eau bouillante, 3 à 4 fois par jour.",
+  "severity": null,
+  "population": "adolescents, adultes et personnes âgées",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 3-4 times daily"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "thymus_vulgaris-pos-02",
+  "plant": "thymus_vulgaris",
+  "type": "posology",
+  "statement": "Durée : si les symptômes persistent plus d'une semaine, consulter un médecin ou un professionnel de santé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+   "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ }
+]

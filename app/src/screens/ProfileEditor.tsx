@@ -5,7 +5,7 @@ import { Chip, C, s } from './shared';
 
 export const FLAGS: [string, string][] = [
   ['asteraceae_allergy', 'Allergie aux Astéracées'], ['salicylate_allergy', 'Allergie aux salicylés'], ['bleeding_disorder', 'Trouble de la coagulation'],
-  ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'],
+  ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'], ['gastric_ulcer', 'Ulcère gastrique ou duodénal'],
 ];
 
 /** Résumé lisible du profil, affiché dans Sécurité et Mélange (lecture seule). */

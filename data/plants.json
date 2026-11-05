@@ -180,5 +180,136 @@
    "meadowsweet",
    "spiraea ulmaria"
   ]
+ },
+ {
+  "id": "zingiber_officinale",
+  "fr": "Gingembre",
+  "latin": "Zingiber officinale Roscoe",
+  "part": "rhizome",
+  "queries": [
+   "Zingiber officinale",
+   "ginger rhizome zingiber",
+   "ginger root"
+  ],
+  "keys": [
+   "zingiber",
+   "gingembre",
+   "ginger"
+  ]
+ },
+ {
+  "id": "mentha_piperita",
+  "fr": "Menthe poivrée",
+  "latin": "Mentha x piperita L.",
+  "part": "feuille",
+  "queries": [
+   "Mentha x piperita",
+   "peppermint leaf mentha piperita",
+   "peppermint plant"
+  ],
+  "keys": [
+   "mentha",
+   "peppermint",
+   "menthe poivrée",
+   "menthe poivree"
+  ]
+ },
+ {
+  "id": "foeniculum_vulgare",
+  "fr": "Fenouil",
+  "latin": "Foeniculum vulgare Mill.",
+  "part": "fruit",
+  "queries": [
+   "Foeniculum vulgare",
+   "bitter fennel fruit foeniculum",
+   "fennel fruit"
+  ],
+  "keys": [
+   "foeniculum",
+   "fennel",
+   "fenouil"
+  ]
+ },
+ {
+  "id": "thymus_vulgaris",
+  "fr": "Thym",
+  "latin": "Thymus vulgaris L.",
+  "part": "herbe",
+  "queries": [
+   "Thymus vulgaris",
+   "thyme herb thymus",
+   "thyme thymi herba"
+  ],
+  "keys": [
+   "thymus",
+   "thym",
+   "thyme"
+  ]
+ },
+ {
+  "id": "lavandula_angustifolia",
+  "fr": "Lavande vraie",
+  "latin": "Lavandula angustifolia Mill.",
+  "part": "fleur",
+  "queries": [
+   "Lavandula angustifolia",
+   "lavender flower lavandula",
+   "lavandula angustifolia flos"
+  ],
+  "keys": [
+   "lavandula",
+   "lavender",
+   "lavande"
+  ]
+ },
+ {
+  "id": "tilia_cordata",
+  "fr": "Tilleul",
+  "latin": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+  "part": "inflorescence",
+  "queries": [
+   "Tilia cordata",
+   "Tilia platyphyllos",
+   "lime flower tilia"
+  ],
+  "keys": [
+   "tilia",
+   "tilleul",
+   "lime flower",
+   "linden"
+  ]
+ },
+ {
+  "id": "harpagophytum_procumbens",
+  "fr": "Harpagophytum (griffe du diable)",
+  "latin": "Harpagophytum procumbens DC.",
+  "part": "racine",
+  "queries": [
+   "Harpagophytum procumbens",
+   "devil's claw root",
+   "harpagophytum"
+  ],
+  "keys": [
+   "harpagophytum",
+   "devil's claw",
+   "griffe du diable"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea",
+  "fr": "Échinacée pourpre",
+  "latin": "Echinacea purpurea (L.) Moench",
+  "part": "partie aérienne fleurie",
+  "queries": [
+   "Echinacea purpurea",
+   "purple coneflower herb",
+   "echinacea purpurea herba recens"
+  ],
+  "keys": [
+   "echinacea",
+   "coneflower",
+   "échinacée",
+   "echinacee"
+  ]
  }
 ]

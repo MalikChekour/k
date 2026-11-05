@@ -1,0 +1,250 @@
+[
+ {
+  "id": "echinacea_purpurea-01",
+  "plant": "echinacea_purpurea",
+  "type": "contraindication",
+  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active et aux autres plantes de la famille des Astéracées (Composées).",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy",
+   "asteraceae_allergy"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea-02",
+  "plant": "echinacea_purpurea",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Traditional use None reported."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "echinacea_purpurea-03",
+  "plant": "echinacea_purpurea",
+  "type": "pregnancy",
+  "statement": "En l'absence de données suffisantes, usage non recommandé pendant la grossesse et l'allaitement, sauf avis médical.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "In the absence of sufficient data, the use in pregnancy and lactation is not recommended unless advised by a doctor."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea-04",
+  "plant": "echinacea_purpurea",
+  "type": "lactation",
+  "statement": "Ne pas appliquer les préparations à base d'échinacée sur le sein des femmes qui allaitent.",
+  "severity": "precaution",
+  "population": "femmes allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Products containing Echinacea should not be applied to the breast of breastfeeding women."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "lactating"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea-05",
+  "plant": "echinacea_purpurea",
+  "type": "age",
+  "statement": "Usage non recommandé chez les enfants de moins de 12 ans (sécurité non suffisamment documentée).",
+  "severity": "precaution",
+  "population": "moins de 12 ans",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "The use in children below 12 years of age is not recommended because a safe use has not been sufficiently documented."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_12"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea-06",
+  "plant": "echinacea_purpurea",
+  "type": "warning",
+  "statement": "Non recommandé en cas de maladie systémique évolutive, de maladie auto-immune, d'immunodépression ou d'affection des globules blancs.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "The use is not recommended in cases of progressive systemic disorders, autoimmune diseases, immunodeficiencies, immunosuppression and diseases of the white blood cell system"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea-07",
+  "plant": "echinacea_purpurea",
+  "type": "warning",
+  "statement": "Risque possible de réactions d'hypersensibilité sévères chez les patients atopiques : consulter son médecin avant utilisation.",
+  "severity": "precaution",
+  "population": "patients atopiques",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "There is a possible risk of severe hypersensitivity reactions in atopic patients."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "echinacea_purpurea-08",
+  "plant": "echinacea_purpurea",
+  "type": "driving",
+  "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines n'a été réalisée.",
+  "severity": "donnees_absentes",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "No studies on the effects on the ability to drive and use machines have been performed."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "echinacea_purpurea-ind-01",
+  "plant": "echinacea_purpurea",
+  "type": "indication",
+  "statement": "Usage bien établi : prévention et traitement de courte durée du rhume.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Herbal medicinal product for the short-term prevention and treatment of common cold."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "echinacea_purpurea-ind-02",
+  "plant": "echinacea_purpurea",
+  "type": "indication",
+  "statement": "Usage traditionnel : traitement des petites plaies superficielles (usage cutané).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Traditional herbal medicinal product for treatment of small superficial wounds."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "echinacea_purpurea-pos-01",
+  "plant": "echinacea_purpurea",
+  "type": "posology",
+  "statement": "Adolescents, adultes et personnes âgées : dose unique de 1,5 à 4,5 ml de jus exprimé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Single dose: 1.5-4.5 ml expressed juice"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "echinacea_purpurea-pos-02",
+  "plant": "echinacea_purpurea",
+  "type": "posology",
+  "statement": "Adolescents, adultes et personnes âgées : dose journalière de 6 à 9 ml de jus exprimé.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "Daily dose: 6-9 ml expressed juice."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "echinacea_purpurea-pos-03",
+  "plant": "echinacea_purpurea",
+  "type": "posology",
+  "statement": "Pour la prévention et le traitement, ne pas utiliser le produit plus de 10 jours.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+   "quote": "For prevention and treatment, do not use the medicinal product for more than 10 days."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ }
+]

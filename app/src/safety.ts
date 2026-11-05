@@ -43,7 +43,7 @@ export function matchMeds(inputs: string[], classes: MedClass[]) {
   const unknown: string[] = [];
   for (const raw of inputs) {
     const n = ' ' + normalize(raw) + ' ';
-    if (n.trim() === '') continue;
+    if (raw.trim() === '') continue; // saisie vide seulement ; un nom illisible (alphabet non latin, emoji) reste « inconnu »
     const hit = new Set<string>();
     for (const c of classes) {
       if (normalize(c.id) === n.trim()) hit.add(c.id);
@@ -72,6 +72,7 @@ export function assess(bundle: Bundle, plantIds: string[], profile: Profile): As
   const classFr = (id: string) => bundle.classes.find(c => c.id === id)?.fr ?? id;
   const alerts = new Map<string, Alert>();
   const notes: Note[] = [];
+  let unknownPlant = false;
 
   const push = (pl: PlantData, c: Claim, cause: string) => {
     const key = pl.id + '|' + c.id;
@@ -80,9 +81,9 @@ export function assess(bundle: Bundle, plantIds: string[], profile: Profile): As
       source: c.source, url: c.url, quote: c.quote, reviewed: !!c.reviewed_by, cause });
   };
 
-  for (const id of plantIds) {
+  for (const id of new Set(plantIds)) {
     const pl = bundle.plants.find(p => p.id === id);
-    if (!pl) continue;
+    if (!pl) { unknownPlant = true; continue; }
     for (const c of pl.claims) {
       const hit = (c.applies_to ?? []).find(a => flags.has(a));
       if (hit) push(pl, c, hit === 'always' ? 'Information générale sur cette plante' : `Profil : ${hit}`);
@@ -105,12 +106,13 @@ export function assess(bundle: Bundle, plantIds: string[], profile: Profile): As
     }
   }
 
-  const sorted = [...alerts.values()].sort((a, b) => RANK[a.severity] - RANK[b.severity]);
+  const sorted = [...alerts.values()].sort((a, b) => (RANK[a.severity] ?? 1) - (RANK[b.severity] ?? 1));
   let verdict: Verdict;
   if (plantIds.length === 0) verdict = 'aucune_selection';
   else if (sorted.some(a => a.severity === 'contraindiquee')) verdict = 'contre_indication';
-  else if (sorted.some(a => a.severity === 'majeure' || a.severity === 'moderee')) verdict = 'alertes';
-  else if (unknown.length > 0) verdict = 'incomplet';
+  // Toute alerte affichée est comptée, sauf les deux statuts « rien à signaler » ; une gravité inconnue compte comme une alerte.
+  else if (sorted.some(a => a.severity !== 'aucune_rapportee' && a.severity !== 'donnees_absentes')) verdict = 'alertes';
+  else if (unknown.length > 0 || unknownPlant) verdict = 'incomplet';
   else verdict = 'aucune_alerte_dans_notre_base';
   return { verdict, alerts: sorted, notes, unknownMeds: unknown, matchedMeds: matched, coverage: COVERAGE };
 }

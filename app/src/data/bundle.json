@@ -1551,6 +1551,1448 @@
      "quote": "If the symptoms persist longer than 7 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
     }
    ]
+  },
+  {
+   "id": "zingiber_officinale",
+   "fr": "Gingembre",
+   "latin": "Zingiber officinale Roscoe",
+   "part": "rhizome",
+   "claims": [
+    {
+     "id": "zingiber_officinale-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "zingiber_officinale-02",
+     "type": "interaction",
+     "statement": "Aucune interaction connue rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional use None known."
+    },
+    {
+     "id": "zingiber_officinale-03",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "zingiber_officinale-04",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 18 ans pour les indications 2 à 5 (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "zingiber_officinale-05",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 6 ans pour l'indication 1 (mal des transports) : données insuffisantes.",
+     "severity": "precaution",
+     "population": "moins de 6 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "The use in children under 6 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "zingiber_officinale-06",
+     "type": "pregnancy",
+     "statement": "Par précaution, il est préférable d'éviter l'usage pendant la grossesse.",
+     "severity": "precaution",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "As a precautionary measure it is preferable to avoid the use during pregnancy."
+    },
+    {
+     "id": "zingiber_officinale-07",
+     "type": "lactation",
+     "statement": "La sécurité pendant l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Safety during lactation has not been established. In the absence of sufficient data, the use during lactation is not recommended."
+    },
+    {
+     "id": "zingiber_officinale-08",
+     "type": "driving",
+     "statement": "Pas d'effet, ou un effet négligeable, sur l'aptitude à conduire et à utiliser des machines.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Zingiberis rhizoma has no or negligible influence on the ability to drive and use machines."
+    },
+    {
+     "id": "zingiber_officinale-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique du mal des transports (nausées et vomissements).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for the symptomatic relief of motion sickness."
+    },
+    {
+     "id": "zingiber_officinale-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux légers et spasmodiques, dont ballonnements et flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptomatic treatment of mild, spasmodic gastrointestinal complaints including bloating and flatulence."
+    },
+    {
+     "id": "zingiber_officinale-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : perte d'appétit passagère.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used for temporary loss of appetite."
+    },
+    {
+     "id": "zingiber_officinale-ind-04",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used for relief of minor articular pain."
+    },
+    {
+     "id": "zingiber_officinale-ind-05",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+    },
+    {
+     "id": "zingiber_officinale-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, mal des transports, adolescents et adultes : 500 à 750 mg de poudre, une demi-heure avant le voyage.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "500-750 mg half an hour before travelling."
+    },
+    {
+     "id": "zingiber_officinale-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, indications 3 à 5, adultes et personnes âgées : poudre de rhizome de 0,25 à 1 g, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "a) Powdered herbal substance 0.25-1 g 3 times daily."
+    },
+    {
+     "id": "zingiber_officinale-pos-03",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 2 semaines (indications 2 et 3), consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Zingiber officinale Roscoe, rhizoma (EMA/HMPC/885789/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-zingiber-officinale-roscoe-rhizoma-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    }
+   ]
+  },
+  {
+   "id": "mentha_piperita",
+   "fr": "Menthe poivrée",
+   "latin": "Mentha x piperita L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "mentha_piperita-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité aux préparations de feuille de menthe poivrée ou au menthol.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity to peppermint leaf preparations or to menthol."
+    },
+    {
+     "id": "mentha_piperita-02",
+     "type": "warning",
+     "statement": "Les personnes souffrant de reflux gastro-œsophagien (brûlures d'estomac) doivent éviter la menthe poivrée, car les brûlures peuvent augmenter.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Patients with gastroesophageal reflux (heartburn) should avoid peppermint leaf preparations, because heartburn may increase."
+    },
+    {
+     "id": "mentha_piperita-03",
+     "type": "warning",
+     "statement": "En cas de calculs biliaires ou d'autre trouble biliaire, la prudence est de mise avec la menthe poivrée.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Patients with gallstones and any other biliary disorders should be cautious using peppermint leaf preparations."
+    },
+    {
+     "id": "mentha_piperita-04",
+     "type": "age",
+     "statement": "Non recommandé avant 4 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 4 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "The use in children under 4 years of age is not recommended due to a lack of adequate data."
+    },
+    {
+     "id": "mentha_piperita-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "None reported"
+    },
+    {
+     "id": "mentha_piperita-06",
+     "type": "pregnancy",
+     "statement": "La sécurité pendant la grossesse et l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "mentha_piperita-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "mentha_piperita-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique des troubles digestifs, comme la dyspepsie et les flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for the symptomatic relief of digestive disorders such as dyspepsia and flatulence."
+    },
+    {
+     "id": "mentha_piperita-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1,5 à 3,0 g dans 100 à 150 ml d'eau bouillante, 3 fois par jour.",
+     "severity": null,
+     "population": "adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Herbal tea: 1.5-3.0 g of the herbal substance or the comminuted herbal substance in 100-150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    {
+     "id": "mentha_piperita-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, enfants de 4 à 11 ans et adolescents : tisane de 1,0 à 2,0 g dans 100 à 150 ml d'eau bouillante, 3 fois par jour.",
+     "severity": null,
+     "population": "4 à 11 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "Herbal tea: 1.0-2.0 g of the herbal substance or the comminuted herbal substance in 100-150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    {
+     "id": "mentha_piperita-pos-03",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted"
+    }
+   ]
+  },
+  {
+   "id": "foeniculum_vulgare",
+   "fr": "Fenouil",
+   "latin": "Foeniculum vulgare Mill.",
+   "part": "fruit",
+   "claims": [
+    {
+     "id": "foeniculum_vulgare-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active, aux Apiacées (anis, carvi, céleri, coriandre, aneth) ou à l'anéthole.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to Apiaceae (Umbelliferae) family (aniseed, caraway, celery, coriander and dill) or to anethole."
+    },
+    {
+     "id": "foeniculum_vulgare-02",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'allergie au pollen d'armoise, en raison d'une réactivité croisée avec le fenouil.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "asteraceae_allergy"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Hypersensitivity to mugwort pollen, due to crossreactivity with fennel."
+    },
+    {
+     "id": "foeniculum_vulgare-03",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "foeniculum_vulgare-04",
+     "type": "age",
+     "statement": "Non recommandé avant 4 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 4 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "The use is not recommended in children under 4 years of age due to lack of adequate data."
+    },
+    {
+     "id": "foeniculum_vulgare-05",
+     "type": "age",
+     "statement": "Usage non établi avant 12 ans pour l'indication de spasmes menstruels (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "foeniculum_vulgare-06",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Traditional use None reported."
+    },
+    {
+     "id": "foeniculum_vulgare-07",
+     "type": "pregnancy",
+     "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "foeniculum_vulgare-08",
+     "type": "lactation",
+     "statement": "Le trans-anéthole passe dans le lait maternel.",
+     "severity": "precaution",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "There is evidence that trans-anethole is excreted in human breast milk."
+    },
+    {
+     "id": "foeniculum_vulgare-09",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "foeniculum_vulgare-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux légers et spasmodiques, dont ballonnements et flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptomatic treatment of mild, spasmodic gastrointestinal complaints including bloating and flatulence."
+    },
+    {
+     "id": "foeniculum_vulgare-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des spasmes légers associés aux règles.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptomatic treatment of minor spasm associated with menstrual periods."
+    },
+    {
+     "id": "foeniculum_vulgare-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : expectorant dans la toux associée au rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used as an expectorant in cough associated with cold."
+    },
+    {
+     "id": "foeniculum_vulgare-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et adolescents (indications 1 et 3) : tisane de 1,5 g dans 250 ml d'eau bouillante, 15 minutes d'infusion, 3 fois par jour (4,5 g par jour au maximum).",
+     "severity": null,
+     "population": "adultes et adolescents",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Herbal tea: 1.5 g of herbal substance in 250 ml of boiling water (steep for 15 minutes) as a herbal infusion, 3 times daily."
+    },
+    {
+     "id": "foeniculum_vulgare-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, enfants de 4 à 12 ans (indications 1 et 3) : tisane de 1,0 g dans 100 ml d'eau bouillante, 15 minutes d'infusion, 3 fois par jour (3,0 g par jour au maximum).",
+     "severity": null,
+     "population": "4 à 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Herbal tea: 1.0 g of the herbal substance in 100 ml boiling water (steep for 15 minutes) as a herbal infusion, 3 times daily."
+    },
+    {
+     "id": "foeniculum_vulgare-pos-03",
+     "type": "posology",
+     "statement": "Durée : ne pas prendre plus de 2 semaines (indication 2, adultes et adolescents).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Not to be taken for more than 2 weeks."
+    }
+   ]
+  },
+  {
+   "id": "thymus_vulgaris",
+   "fr": "Thym",
+   "latin": "Thymus vulgaris L.",
+   "part": "herbe",
+   "claims": [
+    {
+     "id": "thymus_vulgaris-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active ou à d'autres plantes de la famille des Lamiacées.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to other plants of the Lamiaceae (Labiatae) family."
+    },
+    {
+     "id": "thymus_vulgaris-02",
+     "type": "warning",
+     "statement": "En cas d'essoufflement, de fièvre ou d'expectorations purulentes, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "If dyspnoea, fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "thymus_vulgaris-03",
+     "type": "age",
+     "statement": "Usage non établi avant 12 ans pour la plupart des préparations (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "thymus_vulgaris-04",
+     "type": "age",
+     "statement": "Pour l'extrait liquide DER 1:2-2,5 (préparation c) et l'extrait liquide DER 1:1,5-2,4 (préparation g) : avis médical recommandé avant 4 ans.",
+     "severity": "precaution",
+     "population": "moins de 4 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "Herbal preparations c, g The use in children under 4 years of age has not been established because medical advice should be sought."
+    },
+    {
+     "id": "thymus_vulgaris-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "Traditional use None reported."
+    },
+    {
+     "id": "thymus_vulgaris-06",
+     "type": "pregnancy",
+     "statement": "La sécurité pendant la grossesse et l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "thymus_vulgaris-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "thymus_vulgaris-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : toux productive associée au rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "Traditional herbal medicinal product used in productive cough associated with cold."
+    },
+    {
+     "id": "thymus_vulgaris-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : tisane de 1 à 2 g de plante coupée dans 150 ml d'eau bouillante, 3 à 4 fois par jour.",
+     "severity": null,
+     "population": "adolescents, adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 3-4 times daily"
+    },
+    {
+     "id": "thymus_vulgaris-pos-02",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus d'une semaine, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    }
+   ]
+  },
+  {
+   "id": "lavandula_angustifolia",
+   "fr": "Lavande vraie",
+   "latin": "Lavandula angustifolia Mill.",
+   "part": "fleur",
+   "claims": [
+    {
+     "id": "lavandula_angustifolia-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "Hypersensitivity to the active substance(s)."
+    },
+    {
+     "id": "lavandula_angustifolia-02",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "Traditional use None reported."
+    },
+    {
+     "id": "lavandula_angustifolia-03",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "lavandula_angustifolia-04",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants de moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "lavandula_angustifolia-05",
+     "type": "driving",
+     "statement": "Peut altérer la capacité à conduire et à utiliser des machines : ne pas conduire ni utiliser de machines si l'effet se fait sentir.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "May impair ability to drive and use machines. Affected patients should not drive or operate machinery."
+    },
+    {
+     "id": "lavandula_angustifolia-06",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "lavandula_angustifolia-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et d'épuisement, et aide au sommeil.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and exhaustion and to aid sleep."
+    },
+    {
+     "id": "lavandula_angustifolia-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : infusion de 1 à 2 g de substance végétale coupée dans 150 ml d'eau bouillante, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "Herbal tea: 1-2 g of the herbal substance or comminuted herbal substance in 150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    {
+     "id": "lavandula_angustifolia-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : teinture de 2 à 4 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "Tincture: 2-4 ml, 3 times daily."
+    },
+    {
+     "id": "lavandula_angustifolia-pos-03",
+     "type": "posology",
+     "statement": "Si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf",
+     "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    }
+   ]
+  },
+  {
+   "id": "tilia_cordata",
+   "fr": "Tilleul",
+   "latin": "Tilia cordata Mill., Tilia platyphyllos Scop.",
+   "part": "inflorescence",
+   "claims": [
+    {
+     "id": "tilia_cordata-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "tilia_cordata-02",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Traditional use None reported."
+    },
+    {
+     "id": "tilia_cordata-03",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "tilia_cordata-04",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants de moins de 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "tilia_cordata-05",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "tilia_cordata-06",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, ou en cas de difficulté respiratoire, forte fièvre ou expectorations purulentes, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product or if dyspnoea, high fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "tilia_cordata-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+    },
+    {
+     "id": "tilia_cordata-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Traditional herbal medicinal product for the relief of mild symptoms of mental stress."
+    },
+    {
+     "id": "tilia_cordata-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : infusion de 1,5 g de substance végétale coupée dans 150 ml d'eau bouillante, 2 à 4 fois par jour (dose journalière 3 à 6 g).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Herbal tea: 1.5 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 2–4 times daily."
+    },
+    {
+     "id": "tilia_cordata-pos-02",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : extrait liquide, 2 ml en une prise, 1 à 2 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+     "quote": "Single dose: 2 ml, 1-2 times daily"
+    }
+   ]
+  },
+  {
+   "id": "harpagophytum_procumbens",
+   "fr": "Harpagophytum (griffe du diable)",
+   "latin": "Harpagophytum procumbens DC.",
+   "part": "racine",
+   "claims": [
+    {
+     "id": "harpagophytum_procumbens-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "harpagophytum_procumbens-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'ulcère gastrique ou duodénal évolutif.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "gastric_ulcer"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Patients with active gastric or duodenal ulcer."
+    },
+    {
+     "id": "harpagophytum_procumbens-03",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "harpagophytum_procumbens-04",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "harpagophytum_procumbens-05",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "harpagophytum_procumbens-06",
+     "type": "warning",
+     "statement": "En cas de calculs biliaires, consulter un médecin avant utilisation.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Patients with gallstones should consult a physician prior to use devil's claw."
+    },
+    {
+     "id": "harpagophytum_procumbens-07",
+     "type": "warning",
+     "statement": "Douleur articulaire accompagnée de gonflement, de rougeur ou de fièvre : consulter un médecin.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Articular pain accompanied by swelling of joints, redness or fever should be examined by a doctor."
+    },
+    {
+     "id": "harpagophytum_procumbens-08",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "harpagophytum_procumbens-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of minor articular pain."
+    },
+    {
+     "id": "harpagophytum_procumbens-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des troubles digestifs légers (ballonnements, flatulences) et perte temporaire d'appétit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product used for the relief of mild digestive disorders such as bloating and flatulence and where there is temporary loss of appetite."
+    },
+    {
+     "id": "harpagophytum_procumbens-pos-01",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, douleurs articulaires mineures : tisane de 4,5 g dans 500 ml d'eau bouillante, répartie en 3 prises.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Herbal tea: 4.5 g in 500 ml of boiling water as herbal infusion divided in 3 single doses."
+    },
+    {
+     "id": "harpagophytum_procumbens-pos-02",
+     "type": "posology",
+     "statement": "Temps d'infusion de la tisane de 4,5 g : 8 heures.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Infusion time: 8 hours"
+    },
+    {
+     "id": "harpagophytum_procumbens-pos-03",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, troubles digestifs légers : tisane de 1,5 g dans 250 ml d'eau bouillante, répartie en 3 prises.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Herbal tea: 1.5 g in 250 ml boiling water as herbal infusion divided in 3 single doses."
+    }
+   ]
+  },
+  {
+   "id": "echinacea_purpurea",
+   "fr": "Échinacée pourpre",
+   "latin": "Echinacea purpurea (L.) Moench",
+   "part": "partie aérienne fleurie",
+   "claims": [
+    {
+     "id": "echinacea_purpurea-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active et aux autres plantes de la famille des Astéracées (Composées).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy",
+      "asteraceae_allergy"
+     ],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+    },
+    {
+     "id": "echinacea_purpurea-02",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Traditional use None reported."
+    },
+    {
+     "id": "echinacea_purpurea-03",
+     "type": "pregnancy",
+     "statement": "En l'absence de données suffisantes, usage non recommandé pendant la grossesse et l'allaitement, sauf avis médical.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "In the absence of sufficient data, the use in pregnancy and lactation is not recommended unless advised by a doctor."
+    },
+    {
+     "id": "echinacea_purpurea-04",
+     "type": "lactation",
+     "statement": "Ne pas appliquer les préparations à base d'échinacée sur le sein des femmes qui allaitent.",
+     "severity": "precaution",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Products containing Echinacea should not be applied to the breast of breastfeeding women."
+    },
+    {
+     "id": "echinacea_purpurea-05",
+     "type": "age",
+     "statement": "Usage non recommandé chez les enfants de moins de 12 ans (sécurité non suffisamment documentée).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "The use in children below 12 years of age is not recommended because a safe use has not been sufficiently documented."
+    },
+    {
+     "id": "echinacea_purpurea-06",
+     "type": "warning",
+     "statement": "Non recommandé en cas de maladie systémique évolutive, de maladie auto-immune, d'immunodépression ou d'affection des globules blancs.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "The use is not recommended in cases of progressive systemic disorders, autoimmune diseases, immunodeficiencies, immunosuppression and diseases of the white blood cell system"
+    },
+    {
+     "id": "echinacea_purpurea-07",
+     "type": "warning",
+     "statement": "Risque possible de réactions d'hypersensibilité sévères chez les patients atopiques : consulter son médecin avant utilisation.",
+     "severity": "precaution",
+     "population": "patients atopiques",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "There is a possible risk of severe hypersensitivity reactions in atopic patients."
+    },
+    {
+     "id": "echinacea_purpurea-08",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "No studies on the effects on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "echinacea_purpurea-ind-01",
+     "type": "indication",
+     "statement": "Usage bien établi : prévention et traitement de courte durée du rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Herbal medicinal product for the short-term prevention and treatment of common cold."
+    },
+    {
+     "id": "echinacea_purpurea-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement des petites plaies superficielles (usage cutané).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Traditional herbal medicinal product for treatment of small superficial wounds."
+    },
+    {
+     "id": "echinacea_purpurea-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : dose unique de 1,5 à 4,5 ml de jus exprimé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Single dose: 1.5-4.5 ml expressed juice"
+    },
+    {
+     "id": "echinacea_purpurea-pos-02",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : dose journalière de 6 à 9 ml de jus exprimé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "Daily dose: 6-9 ml expressed juice."
+    },
+    {
+     "id": "echinacea_purpurea-pos-03",
+     "type": "posology",
+     "statement": "Pour la prévention et le traitement, ne pas utiliser le produit plus de 10 jours.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Echinacea purpurea (L.) Moench, herba recens (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-echinacea-purpurea-l-moench-herba-recens_en.pdf",
+     "quote": "For prevention and treatment, do not use the medicinal product for more than 10 days."
+    }
+   ]
   }
  ],
  "classes": [
@@ -1563,7 +3005,9 @@
     "phenprocoumone",
     "phenprocoumon",
     "acenocoumarol",
-    "coumadine"
+    "coumadine",
+    "sintrom",
+    "mini sintrom"
    ]
   },
   {
@@ -1584,7 +3028,8 @@
     "aspirin",
     "acetylsalicylic acid",
     "kardegic",
-    "plavix"
+    "plavix",
+    "aspegic"
    ]
   },
   {
@@ -1598,7 +3043,11 @@
     "ibuprofen",
     "naproxene",
     "diclofenac",
-    "kardegic"
+    "kardegic",
+    "nurofen",
+    "advil",
+    "voltarene",
+    "naprosyne"
    ]
   },
   {
@@ -1609,7 +3058,13 @@
     "cyclosporine",
     "everolimus",
     "sirolimus",
-    "tacrolimus"
+    "tacrolimus",
+    "neoral",
+    "sandimmun",
+    "prograf",
+    "certican",
+    "rapamune",
+    "afinitor"
    ]
   },
   {
@@ -1625,7 +3080,8 @@
    "fr": "Anticancéreux métabolisé par CYP / P-gp",
    "substances": [
     "irinotecan",
-    "imatinib"
+    "imatinib",
+    "glivec"
    ]
   },
   {
@@ -1637,7 +3093,12 @@
     "ethinylestradiol",
     "levonorgestrel",
     "desogestrel",
-    "drospirenone"
+    "drospirenone",
+    "minidril",
+    "mercilon",
+    "jasmine",
+    "optimizette",
+    "cerazette"
    ]
   },
   {
@@ -1654,7 +3115,13 @@
     "simvastatin",
     "digoxine",
     "digoxin",
-    "finasteride"
+    "finasteride",
+    "laroxyl",
+    "telfast",
+    "xanax",
+    "valium",
+    "zocor",
+    "chibro proscar"
    ]
   },
   {
