@@ -75,5 +75,103 @@
   "license": "Pixabay Content License",
   "page_url": "https://pixabay.com/photos/pickled-thistle-plant-nature-2383849/",
   "label": "pickled thistle, plant, nature, thistle, blossom, bloom, flora, silybum, summer, silybum marianum, purple, medicinal plant, thistle, silybum marianum, silybum marianum, silybum marianum, silybum marianum, silybum marianum"
+ },
+ "rhodiola_rosea": {
+  "provider": "openverse",
+  "author": "Iain Robson",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/133407132",
+  "label": "echte rosenwurz, roseroot stonecrop Angiospermae dickblattgewächse Flowers Plants Rhodiola rosea rosenwurz Saxifragales Sempervivoideae Tracheophyta Umbilicieae"
+ },
+ "zingiber_officinale": {
+  "provider": "pexels",
+  "author": "https://kaboompics.com/",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/ginger-in-red-plate-5202089/",
+  "label": "Macro shot of fresh ginger root on a textured red plate, highlighting its natural detail. ginger in red plate 5202089"
+ },
+ "mentha_piperita": {
+  "provider": "pixabay",
+  "author": "ivabalk",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/mint-peppermint-herb-health-5218681/",
+  "label": "mint, peppermint, herb, health, medicinal, aromatic, plant, green, gardens, leaves, aroma, nature, bio, mint, mint, mint, peppermint, peppermint, peppermint, peppermint, peppermint"
+ },
+ "foeniculum_vulgare": {
+  "provider": "pexels",
+  "author": "Anne-marie _",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/close-up-of-wild-fennel-flowers-in-bloom-38498350/",
+  "label": "Detailed view of blooming wild fennel flowers with delicate yellow blossoms outdoors. close up of wild fennel flowers in bloom 38498350"
+ },
+ "thymus_vulgaris": {
+  "provider": "pixabay",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/real-thyme-aromatic-plant-123144/",
+  "label": "real thyme, aromatic plant, culinary herbs, thymus vulgaris, roman thyme, kuttelkraut, garden thyme, thyme, thymus, lip petals, lamiaceae, medicinal plant, subshrub, branched, bee pasture, honey plant, essential oils, fragrance, fragrant, thymus vulgaris, thymus vulgaris, thymus vulgaris, thyme, thyme, thyme, thyme, thyme"
+ },
+ "lavandula_angustifolia": {
+  "provider": "pixabay",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/lavender-lavender-flowers-bee-167785/",
+  "label": "lavender, lavender flowers, bee, pollination, insect, purple, violet, inflorescence, real lavender, narrow leaf lavender, lavandula angustifolia, lavandula officinalis, lavandula vera, lip petals, lamiaceae, ornamental plant, crop, lavandula"
+ },
+ "tilia_cordata": {
+  "provider": "unsplash",
+  "author": "Christina Brinza",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-flowers-on-a-tree-j_LPMeOs3k4",
+  "label": "a close up of a bunch of flowers on a tree Flowers of a linden tree (Tilea sp.) in bloom."
+ },
+ "harpagophytum_procumbens": {
+  "provider": "openverse",
+  "author": "dune_ninja",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/365945434",
+  "label": "Harpagophytum procumbens procumbens Angiospermae Flowers Harpagophytum procumbens Lamiales Plants sesamgewächse teufelskralle Tracheophyta"
+ },
+ "echinacea_purpurea": {
+  "provider": "pexels",
+  "author": "Jeffry Surianto",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/vibrant-purple-coneflower-in-bloom-36045208/",
+  "label": "Close-up photo of a vibrant purple coneflower showcasing its colorful petals and unique structure. vibrant purple coneflower in bloom 36045208"
+ },
+ "rosmarinus_officinalis": {
+  "provider": "unsplash",
+  "author": "360floralflaves",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-pine-needles-DI7nHnvUNsI",
+  "label": "A close up of a bunch of pine needles a macro photo of rosemary twigs on a green background"
+ },
+ "salvia_officinalis": {
+  "provider": "unsplash",
+  "author": "360floralflaves",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/a-bunch-of-green-leaves-on-a-green-surface-ILLMkM0Dnzk",
+  "label": "A bunch of green leaves on a green surface a macro photo of organic Sicilian sage on a green background"
+ },
+ "calendula_officinalis": {
+  "provider": "pixabay",
+  "author": "LeahReiter",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/marigold-orange-flower-2396439/",
+  "label": "marigold, orange flower, garden marigold, calendula officinalis, composites"
+ },
+ "taraxacum_officinale": {
+  "provider": "pixabay",
+  "author": "Carola68",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/common-dandelion-dandelion-blossom-5168978/",
+  "label": "common dandelion, dandelion, blossom, bloom, pointed flower, nature, plant, close up, spring, composites, flora, weed, flower meadow, summer, chain flower, ordinary kuhblume, ordinary pfaff röhrlein, meadow dandelion, taraxacum officinale, garden, green"
+ },
+ "sambucus_nigra": {
+  "provider": "openverse",
+  "author": "Mary Hutchison",
+  "license": "pdm",
+  "page_url": "https://www.flickr.com/photos/25828087@N05/19098957846",
+  "label": "Elder flowers elder elderflower green greenerleith scotland white"
  }
 }

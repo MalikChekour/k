@@ -100,12 +100,45 @@ def dhash(img):
     return sum(1 << i for i, (a, b) in enumerate((px[r * 9 + c], px[r * 9 + c + 1]) for r in range(8) for c in range(8)) if a > b)
 
 
+
+# Espèces proches qu'un juge visuel confond : on les NOMME dans la question pour forcer la réponse NON (critère des vidéos nature :
+# un intrus qui résiste se bannit par son libellé, on ne retente pas le même texte).
+LOOK = {
+    "Matricaria recutita": "scentless mayweed (Tripleurospermum), oxeye daisy, other daisies, Roman chamomile (Chamaemelum)",
+    "Valeriana officinalis": "Centranthus (red valerian), other Valeriana, Sambucus elder flowers, Achillea, Angelica",
+    "Hypericum perforatum": "ornamental Hypericum (calycinum, androsaemum, hidcote), buttercups, other yellow flowers",
+    "Passiflora incarnata": "Passiflora caerulea (blue passion flower, white petals with blue-purple ring), other Passiflora species",
+    "Melissa officinalis": "mint, Lamium (dead-nettle), Stachys, nettle, Monarda, catmint",
+    "Crataegus spp.": "rowan Sorbus, Cotoneaster, Pyracantha, rose hips, ornamental pink-flowered cultivars",
+    "Curcuma longa": "ginger, galangal, ornamental Curcuma or Alpinia flowers, spice market stalls, cinnamon, saffron",
+    "Rhodiola rosea": "Sedum, Sempervivum, other succulents",
+    "Ginkgo biloba": "maple, other fan-shaped leaves, ginkgo supplements",
+    "Silybum marianum": "Cirsium, Carduus, Onopordum, artichoke, other thistles",
+    "Urtica dioica": "Lamium, Stachys, mint, other serrated leaves",
+    "Filipendula ulmaria": "Astilbe, elderflower, Aruncus, Spiraea, Achillea, Queen Anne's lace",
+    "Zingiber officinale": "turmeric, galangal, ornamental ginger flowers",
+    "Mentha x": "Melissa, Lamium, Stachys, other mints, basil",
+    "Foeniculum vulgare": "dill, Queen Anne's lace, Angelica, hogweed, fennel bulb vegetable",
+    "Thymus vulgaris": "oregano, creeping thyme ornamental, marjoram, other Lamiaceae",
+    "Lavandula angustifolia": "Lavandula stoechas (with ears), Salvia, Nepeta, lavandin fields as pure landscape",
+    "Tilia cordata": "other trees, maple, linden lumber",
+    "Harpagophytum procumbens": "dried tea or capsule products, other thorny fruits",
+    "Echinacea purpurea": "Rudbeckia, Helianthus, Gaillardia, other daisy-like flowers",
+    "Rosmarinus officinalis": "lavender, Santolina, juniper, other needle-like leaves",
+    "Salvia officinalis": "Salvia nemorosa and other ornamental sages, lamb's ear (Stachys byzantina), mullein",
+    "Calendula officinalis": "Tagetes marigold, Gazania, Chrysanthemum, dahlia",
+    "Taraxacum officinale": "hawkweed, Hypochaeris, Sonchus, coltsfoot, other yellow composites",
+    "Sambucus nigra": "Sambucus racemosa red elder, Ligustrum, Angelica, hogweed, Viburnum",
+    "Plantago lanceolata": "Plantago major (broadleaf), Plantago media, grass",
+    "Cynara scolymus": "cardoon flower in a different context is ok, but not Cirsium, Carduus, Silybum or Echinops",
+}
+
 _JC = {}
 
 
 def judge_cached(c, jpeg, latin, path):
     if not _JC and os.path.exists(path): _JC.update(json.load(open(path)))
-    k = f'v2:{c["provider"]}:{c["pid"]}:{latin}'
+    k = f'v3:{c["provider"]}:{c["pid"]}:{latin}'
     if k not in _JC or _JC[k] is None or None in _JC[k]:
         _JC[k] = list(judge(jpeg, latin))
         json.dump(_JC, open(path, "w"))
@@ -117,8 +150,9 @@ def judge(jpeg, latin):
     k = os.environ.get("OPENROUTER_API_KEY")
     if not k: return (None, None)
     body = json.dumps({"model": "google/gemini-2.5-flash", "max_tokens": 12, "messages": [{"role": "user", "content": [
-        {"type": "text", "text": f"Question 1: is the main subject a living or dried plant of the genus/species {latin}, shown as a plant "
-                                 "(not a drink, product, pill or other species)? Question 2: is any person, hand, finger or body part visible? "
+        {"type": "text", "text": f"Question 1: is the main subject specifically {latin} (the exact species, not just the genus), shown as a living or dried plant "
+                                 f"(not a drink, product, pill)? Answer NO if it could be a look-alike such as: {LOOK.get(latin, 'other species of the same family')}. "
+                                 "Answer UNSURE if the diagnostic features are not clearly visible. Question 2: is any person, hand, finger or body part visible? "
                                  "Reply exactly in this format: SPECIES=YES|NO|UNSURE PERSON=YES|NO"},
         {"type": "image_url", "image_url": {"url": "data:image/jpeg;base64," + base64.b64encode(jpeg).decode()}}]}]}).encode()
     try:

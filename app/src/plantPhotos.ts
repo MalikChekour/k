@@ -1,16 +1,30 @@
-// Généré par tools/ : photos choisies (voir credits.json). Les plantes absentes gardent leur motif dessiné.
+// Généré : photos choisies (voir data/credits.json). Les plantes absentes gardent leur motif dessiné.
 import type { ImageSourcePropType } from 'react-native';
 
 export const PLANT_PHOTOS: Record<string, ImageSourcePropType> = {
-  hypericum_perforatum: require('../assets/plants/hypericum_perforatum.jpg'),
-  valeriana_officinalis: require('../assets/plants/valeriana_officinalis.jpg'),
-  matricaria_recutita: require('../assets/plants/matricaria_recutita.jpg'),
-  passiflora_incarnata: require('../assets/plants/passiflora_incarnata.jpg'),
-  melissa_officinalis: require('../assets/plants/melissa_officinalis.jpg'),
+  calendula_officinalis: require('../assets/plants/calendula_officinalis.jpg'),
   crataegus_spp: require('../assets/plants/crataegus_spp.jpg'),
   curcuma_longa: require('../assets/plants/curcuma_longa.jpg'),
-  urtica_dioica: require('../assets/plants/urtica_dioica.jpg'),
+  echinacea_purpurea: require('../assets/plants/echinacea_purpurea.jpg'),
   filipendula_ulmaria: require('../assets/plants/filipendula_ulmaria.jpg'),
+  foeniculum_vulgare: require('../assets/plants/foeniculum_vulgare.jpg'),
   ginkgo_biloba: require('../assets/plants/ginkgo_biloba.jpg'),
+  harpagophytum_procumbens: require('../assets/plants/harpagophytum_procumbens.jpg'),
+  hypericum_perforatum: require('../assets/plants/hypericum_perforatum.jpg'),
+  lavandula_angustifolia: require('../assets/plants/lavandula_angustifolia.jpg'),
+  matricaria_recutita: require('../assets/plants/matricaria_recutita.jpg'),
+  melissa_officinalis: require('../assets/plants/melissa_officinalis.jpg'),
+  mentha_piperita: require('../assets/plants/mentha_piperita.jpg'),
+  passiflora_incarnata: require('../assets/plants/passiflora_incarnata.jpg'),
+  rhodiola_rosea: require('../assets/plants/rhodiola_rosea.jpg'),
+  rosmarinus_officinalis: require('../assets/plants/rosmarinus_officinalis.jpg'),
+  salvia_officinalis: require('../assets/plants/salvia_officinalis.jpg'),
+  sambucus_nigra: require('../assets/plants/sambucus_nigra.jpg'),
   silybum_marianum: require('../assets/plants/silybum_marianum.jpg'),
+  taraxacum_officinale: require('../assets/plants/taraxacum_officinale.jpg'),
+  thymus_vulgaris: require('../assets/plants/thymus_vulgaris.jpg'),
+  tilia_cordata: require('../assets/plants/tilia_cordata.jpg'),
+  urtica_dioica: require('../assets/plants/urtica_dioica.jpg'),
+  valeriana_officinalis: require('../assets/plants/valeriana_officinalis.jpg'),
+  zingiber_officinale: require('../assets/plants/zingiber_officinale.jpg'),
 };
