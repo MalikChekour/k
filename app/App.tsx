@@ -5,6 +5,7 @@ import { EMPTY_ARMOIRE, toggleFavorite } from './src/armoire';
 import type { Armoire as ArmoireData } from './src/armoire';
 import { clearArmoire, loadArmoire, saveArmoire } from './src/storage';
 import { C, Notice, s } from './src/screens/shared';
+import { useAppFonts } from './src/fonts';
 import { Library } from './src/screens/Library';
 import { PlantSheet } from './src/screens/PlantSheet';
 import { Mix } from './src/screens/Mix';
@@ -26,6 +27,7 @@ export default function App() {
   const [ready, setReady] = useState(false);
   const [writable, setWritable] = useState(false);
   const [about, setAbout] = useState(false);
+  const fontsReady = useAppFonts();
 
   useEffect(() => {
     let alive = true;
@@ -47,6 +49,7 @@ export default function App() {
     if (await clearArmoire()) setArmoire(EMPTY_ARMOIRE);
   };
 
+  if (!fontsReady) return <View style={s.root} />;
   return (
     <SafeAreaView style={s.root}>
       <StatusBar barStyle="dark-content" />

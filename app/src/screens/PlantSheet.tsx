@@ -1,8 +1,9 @@
 import React from 'react';
-import { Modal, Pressable, ScrollView, Text, View } from 'react-native';
+import { Image, Modal, Pressable, ScrollView, Text, View } from 'react-native';
 import type { Claim, PlantData } from '../safety';
 import { POSOLOGY_NOTE, RUBRICS, groupClaims } from '../library';
 import { styleFor } from '../plantStyle';
+import { PLANT_PHOTOS } from '../plantPhotos';
 import { Bloom } from './Bloom';
 import { Badge, C, Chip, Source, s } from './shared';
 
@@ -22,26 +23,35 @@ function ClaimView({ c }: { c: Claim }) {
   );
 }
 
-/** Fiche plante : en-tête coloré, puis affirmations regroupées par rubrique. Les rubriques vides le disent explicitement. */
+/** Fiche plante : grande photo (ou motif dessiné), puis affirmations regroupées par rubrique. Les rubriques vides le disent explicitement. */
 export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }: {
   plant: PlantData | null; onClose: () => void; favorites: string[]; writable: boolean; onToggleFav: (id: string) => void;
 }) {
   const groups = plant ? groupClaims(plant.claims) : null;
   const st = plant ? styleFor(plant) : null;
+  const photo = plant ? PLANT_PHOTOS[plant.id] : undefined;
   return (
     <Modal visible={!!plant} animationType="slide" onRequestClose={onClose}>
       <View style={s.sheet}>
         {plant && groups && st && (
           <ScrollView contentContainerStyle={{ paddingBottom: 56 }}>
-            <View style={{ backgroundColor: st.tint, paddingTop: 40, paddingHorizontal: 20, paddingBottom: 24, borderBottomLeftRadius: 34, borderBottomRightRadius: 34 }}>
-              <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer la fiche" style={{ alignSelf: 'flex-start', minHeight: 44, justifyContent: 'center' }}>
-                <Text style={s.close}>← Retour</Text>
+            <View style={{ height: photo ? 340 : 260, backgroundColor: st.tint, overflow: 'hidden' }}>
+              {photo
+                ? <Image source={photo} style={{ position: 'absolute', width: '100%', height: '100%' }} resizeMode="cover" accessibilityLabel={`Photo : ${plant.fr}`} />
+                : <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', paddingTop: 30 }}><Bloom st={st} size={140} /></View>}
+              <Pressable onPress={onClose} accessibilityRole="button" accessibilityLabel="Fermer la fiche"
+                style={{ position: 'absolute', top: 40, left: 16, minHeight: 44, justifyContent: 'center', backgroundColor: '#FFFFFFE6', borderRadius: 22, paddingHorizontal: 16 }}>
+                <Text style={[s.close, { padding: 0 }]}>← Retour</Text>
               </Pressable>
-              <View style={{ alignItems: 'center', marginVertical: 6 }}><Bloom st={st} size={132} /></View>
-              <Text style={s.tag}>{plant.part}</Text>
+            </View>
+            <View style={{ marginTop: -30, backgroundColor: C.bg, borderTopLeftRadius: 32, borderTopRightRadius: 32, paddingHorizontal: 20, paddingTop: 24, gap: 4 }}>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+                <View style={{ width: 10, height: 10, borderRadius: 5, backgroundColor: st.color }} />
+                <Text style={s.tag}>{plant.part}</Text>
+              </View>
               <Text style={s.h1} accessibilityRole="header">{plant.fr}</Text>
               <Text style={s.latin}>{plant.latin}</Text>
-              <View style={{ marginTop: 14, alignSelf: 'flex-start' }}>
+              <View style={{ marginTop: 12, alignSelf: 'flex-start' }}>
                 <Chip
                   label={favorites.includes(plant.id) ? 'Dans mon armoire ✓' : '+ Ajouter à mon armoire'}
                   on={favorites.includes(plant.id)}
@@ -54,7 +64,7 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
                 <View key={r.id} style={{ gap: 10 }}>
                   <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 14 }}>
                     <View style={{ width: 10, height: 10, borderRadius: 5, backgroundColor: st.color }} />
-                    <Text style={[s.h2, { fontSize: 20 }]} accessibilityRole="header">{r.fr}</Text>
+                    <Text style={s.h2} accessibilityRole="header">{r.fr}</Text>
                   </View>
                   {r.id === 'posologie' && groups[r.id].length > 0 && (
                     <View style={{ backgroundColor: C.soft, borderRadius: 16, padding: 12 }}><Text style={s.warn}>{POSOLOGY_NOTE}</Text></View>

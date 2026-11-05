@@ -1,0 +1,79 @@
+{
+ "hypericum_perforatum": {
+  "provider": "pixabay",
+  "author": "NickyPe",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/johannis-herbs-blossoms-yellow-4769909/",
+  "label": "johannis herbs, blossoms, yellow, bloom, wort, hypericum perforatum, common st john's wort, nature, shrub"
+ },
+ "valeriana_officinalis": {
+  "provider": "pixabay",
+  "author": "WikimediaImages",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/valeriana-officinalis-garden-valerian-846615/",
+  "label": "valeriana officinalis, nature, garden valerian, garden heliotrope, all-heal, wildflower, flora, botany, plant, species"
+ },
+ "matricaria_recutita": {
+  "provider": "pixabay",
+  "author": "Wildkraeuterreich",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/real-chamomile-field-flower-2673489/",
+  "label": "real chamomile, field flower, small flower, medicinal plant"
+ },
+ "passiflora_incarnata": {
+  "provider": "openverse",
+  "author": "Lauren Gillett",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/79599940",
+  "label": "Passiflora incarnata × cincinnata Angiospermae Flowers Malpighiales Passiflora Passifloreae Passifloroideae passionsblumengewächse Plants Tracheophyta"
+ },
+ "melissa_officinalis": {
+  "provider": "pixabay",
+  "author": "MAKY_OREL",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/lemon-balm-medical-2370812/",
+  "label": "lemon balm, medical, melissa officinalis, nature, herbs, leaves, medicinal herbs"
+ },
+ "crataegus_spp": {
+  "provider": "pixabay",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/berry-fruit-red-693917/",
+  "label": "berry, fruit, red, single-pronged hawthorn, shrub, hedge, bush, leaves, branches, crataegus monogyna, hawthorn, pome fruit family, pyrinae, nature, roses, rosaceae"
+ },
+ "curcuma_longa": {
+  "provider": "pexels",
+  "author": "Abhinav Sharma",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/top-view-of-turmeric-fingers-12122270/",
+  "label": "Close-up of organic turmeric roots in a Jaipur market, showcasing their natural texture. top view of turmeric fingers 12122270"
+ },
+ "urtica_dioica": {
+  "provider": "pexels",
+  "author": "JJ Jordan",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/green-plant-in-macro-photography-7523449/",
+  "label": "Macro shot of a vibrant green stinging nettle plant with a blurred background. green plant in macro photography 7523449"
+ },
+ "filipendula_ulmaria": {
+  "provider": "pixabay",
+  "author": "Insubria",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/meadowsweet-high-perennial-roses-3534146/",
+  "label": "meadowsweet, high perennial, roses, medicinal plant, meadowsweet, meadowsweet, meadowsweet, meadowsweet, meadowsweet"
+ },
+ "ginkgo_biloba": {
+  "provider": "pixabay",
+  "author": "ulleo",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/ginko-ginkgo-biloba-dewdrop-leaf-3510673/",
+  "label": "ginko, ginkgo biloba, dewdrop, leaf, nature, morning dew, green, raindrop, close up, isolated, fresh, medicinal plant, asia, leaf, leaf, leaf, leaf, leaf"
+ },
+ "silybum_marianum": {
+  "provider": "pixabay",
+  "author": "anncapictures",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/pickled-thistle-plant-nature-2383849/",
+  "label": "pickled thistle, plant, nature, thistle, blossom, bloom, flora, silybum, summer, silybum marianum, purple, medicinal plant, thistle, silybum marianum, silybum marianum, silybum marianum, silybum marianum, silybum marianum"
+ }
+}
