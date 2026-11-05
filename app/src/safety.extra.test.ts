@@ -255,3 +255,17 @@ test('gravité inconnue dans les données : l’alerte ne doit pas disparaître 
   assert.equal(r.alerts.length, 1);
   assert.notEqual(r.verdict, 'aucune_alerte_dans_notre_base');
 });
+
+test('association « non couverte » : le verdict est « incomplet », jamais « aucune alerte »', () => {
+  const claim = { id: 'x-01', type: 'interaction', statement: 's', severity: 'majeure', status: 'verifie', applies_to: [], source: 'src', url: 'u', quote: 'q' };
+  const mini = {
+    plants: [{ id: 'x', fr: 'X', latin: 'X x', part: 'feuille', claims: [claim] }],
+    classes: [{ id: 'a', fr: 'Classe A', substances: ['alpha'] }, { id: 'b', fr: 'Classe B', substances: ['beta'] }],
+    rules: [{ plant: 'x', class: 'a', claim: 'x-01' }],
+  };
+  const r = assess(mini, ['x'], { meds: ['beta'] });
+  assert.ok(r.notes.some(n => n.status === 'non_couvert'));
+  assert.equal(r.verdict, 'incomplet');
+  // et quand la classe est couverte, c'est bien une alerte
+  assert.equal(assess(mini, ['x'], { meds: ['alpha'] }).verdict, 'alertes');
+});

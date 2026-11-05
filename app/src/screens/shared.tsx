@@ -62,7 +62,7 @@ const VERDICT: Record<string, { t: string; bg: string; fg: string; glyph: string
   aucune_selection: { t: 'Choisissez au moins une plante.', bg: C.line, fg: C.muted, glyph: '·' },
   contre_indication: { t: 'Contre-indication signalée', bg: C.red, fg: '#FFFFFF', glyph: '!' },
   alertes: { t: 'Alertes à lire avant tout usage', bg: C.sun, fg: C.ink, glyph: '!' },
-  incomplet: { t: 'Évaluation incomplète : médicament ou plante non reconnu', bg: C.sun, fg: C.ink, glyph: '?' },
+  incomplet: { t: 'Évaluation incomplète : certains éléments ne sont pas couverts par notre base', bg: C.sun, fg: C.ink, glyph: '?' },
   aucune_alerte_dans_notre_base: { t: 'Aucune alerte dans notre base (ce n’est pas une garantie)', bg: '#DDF0E3', fg: '#14502F', glyph: '✓' },
 };
 

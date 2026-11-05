@@ -112,7 +112,8 @@ export function assess(bundle: Bundle, plantIds: string[], profile: Profile): As
   else if (sorted.some(a => a.severity === 'contraindiquee')) verdict = 'contre_indication';
   // Toute alerte affichée est comptée, sauf les deux statuts « rien à signaler » ; une gravité inconnue compte comme une alerte.
   else if (sorted.some(a => a.severity !== 'aucune_rapportee' && a.severity !== 'donnees_absentes')) verdict = 'alertes';
-  else if (unknown.length > 0 || unknownPlant) verdict = 'incomplet';
+  // Une association « non couverte » est un trou de connaissance : on ne dit jamais « aucune alerte » par-dessus.
+  else if (unknown.length > 0 || unknownPlant || notes.some(n => n.status === 'non_couvert')) verdict = 'incomplet';
   else verdict = 'aucune_alerte_dans_notre_base';
   return { verdict, alerts: sorted, notes, unknownMeds: unknown, matchedMeds: matched, coverage: COVERAGE };
 }
