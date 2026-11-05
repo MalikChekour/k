@@ -173,5 +173,19 @@
   "license": "pdm",
   "page_url": "https://www.flickr.com/photos/25828087@N05/19098957846",
   "label": "Elder flowers elder elderflower green greenerleith scotland white"
+ },
+ "plantago_lanceolata": {
+  "provider": "pixabay",
+  "author": "Nennieinszweidrei",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/plantain-meadow-plant-wild-herbs-8024093/",
+  "label": "plantain, meadow plant, wild herbs, plantago argentea, meadow, nature, silver plantain, inflorescence"
+ },
+ "cynara_scolymus": {
+  "provider": "pexels",
+  "author": "Thomas Parker",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/fresh-artichokes-growing-in-a-garden-37257840/",
+  "label": "Close-up of fresh artichokes growing among lush green leaves in a garden setting. fresh artichokes growing in a garden 37257840"
  }
 }
