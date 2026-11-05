@@ -131,6 +131,14 @@ LOOK = {
     "Sambucus nigra": "Sambucus racemosa red elder, Ligustrum, Angelica, hogweed, Viburnum",
     "Plantago lanceolata": "Plantago major (broadleaf), Plantago media, grass",
     "Cynara scolymus": "cardoon flower in a different context is ok, but not Cirsium, Carduus, Silybum or Echinops",
+    "Glycyrrhiza glabra": "other legumes, licorice candy, liquorice root products",
+    "Humulus lupulus": "cannabis, hop beer or pellets, other climbing vines",
+    "Aesculus hippocastanum": "sweet chestnut Castanea, buckeye, ornamental chestnut trees without fruit",
+    "Vitis vinifera": "Parthenocissus, Virginia creeper, wine glasses, grapes as food only",
+    "Equisetum arvense": "Equisetum other species, horsetail look-alike conifers",
+    "Betula pendula": "other trees, birch bark crafts, firewood",
+    "Arctostaphylos uva-ursi": "Vaccinium cranberry or lingonberry, Cotoneaster, Arbutus",
+    "Pelargonium sidoides": "garden Pelargonium geraniums, Geranium",
 }
 
 _JC = {}

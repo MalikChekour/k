@@ -187,5 +187,61 @@
   "license": "Pexels License",
   "page_url": "https://www.pexels.com/photo/fresh-artichokes-growing-in-a-garden-37257840/",
   "label": "Close-up of fresh artichokes growing among lush green leaves in a garden setting. fresh artichokes growing in a garden 37257840"
+ },
+ "glycyrrhiza_glabra": {
+  "provider": "openverse",
+  "author": "Дмитрий Орлов",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/133774365",
+  "label": "Glycyrrhiza glabra Angiospermae Fabaceae Fabales Faboideae Flowers Galegeae Glycyrrhiza Plants Tracheophyta"
+ },
+ "humulus_lupulus": {
+  "provider": "pexels",
+  "author": "Joerg Hartmann",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/fresh-green-hops-on-vine-in-schenna-italy-34146547/",
+  "label": "Close-up of vibrant green hop cones on a vine, Schenna, Italy, ideal for brewing themes. fresh green hops on vine in schenna italy 34146547"
+ },
+ "aesculus_hippocastanum": {
+  "provider": "unsplash",
+  "author": "Georg Eiermann",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/green-fruit-on-brown-textile-Wm7yro2VlW0",
+  "label": "green fruit on brown textile Chestnut,  Aesculus hippocastanum"
+ },
+ "vitis_vinifera": {
+  "provider": "unsplash",
+  "author": "Yoksel 🌿 Zok",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/red-and-green-maple-leaf-9oGPq8ClHHQ",
+  "label": "red and green maple leaf Red vine leaves in autumn"
+ },
+ "equisetum_arvense": {
+  "provider": "pexels",
+  "author": "대정 김",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/lupines-in-summer-11787159/",
+  "label": "Close-up shot of field horsetail plants growing naturally in a lush green meadow. lupines in summer 11787159"
+ },
+ "betula_pendula": {
+  "provider": "pixabay",
+  "author": "MLARANDA",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/foliage-birch-tree-betulus-pendula-2802327/",
+  "label": "foliage, birch, tree, betulus pendula, nature, garden, leaf"
+ },
+ "arctostaphylos_uva_ursi": {
+  "provider": "openverse",
+  "author": "olive.titus",
+  "license": "pdm",
+  "page_url": "https://www.flickr.com/photos/96064256@N04/50238297472",
+  "label": "Busserole ou Raisin-d'ours commun, Arctostaphylos uva-ursi, Ericacées "
+ },
+ "pelargonium_sidoides": {
+  "provider": "openverse",
+  "author": "Agnes Trekker",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/368520868",
+  "label": "Pelargonium sidoides Angiospermae Flowers Geraniales Parvulipetala Pelargonium Plants Reniformia storchschnabelgewächse Tracheophyta"
  }
 }
