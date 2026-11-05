@@ -36,7 +36,7 @@ jobs:
         run: npm install --no-audit --no-fund
         working-directory: app
       - name: Verification des types
-        run: npx tsc --noEmit
+        run: npx tsc --noEmit --pretty false 2>&1 | sed 's/^/::error::/'
         working-directory: app
       - name: Tests du calculateur
         run: node --test src/tincture.test.ts

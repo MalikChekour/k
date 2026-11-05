@@ -98,6 +98,8 @@ def main():
     errs = check(claims, offline)
     for e in errs:
         print("ECHEC", e)
+        if os.environ.get("GITHUB_ACTIONS"):
+            print("::error::" + e)
     print(f"{len(claims)} affirmations, {len(errs)} echec(s)")
     sys.exit(1 if errs else 0)
 
