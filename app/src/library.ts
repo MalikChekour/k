@@ -2,6 +2,11 @@ import { normalize } from './safety.ts';
 import type { Claim, PlantData } from './safety.ts';
 
 export type Rubric = 'indication' | 'posologie' | 'precautions' | 'interactions' | 'grossesse';
+/** Les doses de l'EMA valent pour des préparations précises (extrait standardisé, tisane…) : jamais à transposer. */
+export const POSOLOGY_NOTE =
+  "Ces doses sont celles de préparations précises décrites dans la monographie officielle (extrait standardisé, tisane…). " +
+  "Elles ne s'appliquent ni à un autre produit, ni à une préparation maison, ni à une personne qui n'est pas dans le public visé. Demandez conseil à un pharmacien.";
+
 export const RUBRICS: { id: Rubric; fr: string }[] = [
   { id: 'indication', fr: 'Indications' },
   { id: 'posologie', fr: 'Posologie' },

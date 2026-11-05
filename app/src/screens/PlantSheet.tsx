@@ -1,7 +1,7 @@
 import React from 'react';
 import { Linking, Modal, Pressable, ScrollView, Text, View } from 'react-native';
 import type { Claim, PlantData } from '../safety';
-import { RUBRICS, groupClaims } from '../library';
+import { POSOLOGY_NOTE, RUBRICS, groupClaims } from '../library';
 import { Badge, C, Chip, s } from './shared';
 
 const EMPTY_NOTE: Record<string, string> = {
@@ -50,6 +50,7 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
               {RUBRICS.map(r => (
                 <View key={r.id} style={{ gap: 6, marginTop: 12 }}>
                   <Text style={s.h3} accessibilityRole="header">{r.fr}</Text>
+                  {r.id === 'posologie' && groups[r.id].length > 0 && <Text style={s.warn}>{POSOLOGY_NOTE}</Text>}
                   {groups[r.id].length === 0
                     ? <Text style={s.muted}>{EMPTY_NOTE[r.id] ?? 'Rien de renseigné dans notre base pour cette rubrique.'}</Text>
                     : groups[r.id].map(c => <ClaimView key={c.id} c={c} />)}

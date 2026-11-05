@@ -49,3 +49,9 @@ test('gravité lisible, jamais le code brut', () => {
   assert.equal(severityLabel(null), 'Information');
   assert.equal(severityLabel('inconnue'), 'inconnue');
 });
+
+test('la rubrique posologie porte un avertissement : doses propres à une préparation précise', async () => {
+  const { POSOLOGY_NOTE } = await import('./library.ts');
+  assert.match(POSOLOGY_NOTE, /préparations précises/);
+  assert.match(POSOLOGY_NOTE, /pharmacien/);
+});
