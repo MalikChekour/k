@@ -43,25 +43,26 @@ def pubmed_titles(pmids):
     return {u: d[u].get("title", "") for u in d.get("uids", [])}
 
 
-def pdf_text(raw):
-    try:
-        import pypdf
-        r = pypdf.PdfReader(io.BytesIO(raw))
-        return "\n".join(p.extract_text() or "" for p in r.pages)
-    except ImportError:
-        with tempfile.TemporaryDirectory() as t:
-            p = os.path.join(t, "d.pdf")
-            open(p, "wb").write(raw)
-            return subprocess.run(["pdftotext", p, "-"], capture_output=True, text=True).stdout
+def pdf_texts(raw):
+    """Plusieurs extractions du PDF : l'ordre des colonnes varie selon la version de pdftotext."""
+    with tempfile.TemporaryDirectory() as t:
+        p = os.path.join(t, "d.pdf")
+        open(p, "wb").write(raw)
+        out = []
+        for mode in ([], ["-raw"], ["-layout"]):
+            r = subprocess.run(["pdftotext", *mode, "-enc", "UTF-8", p, "-"], capture_output=True, text=True, encoding="utf-8")
+            out.append(r.stdout)
+        return out
 
 
 _doc_cache = {}
 
 
-def doc_text(url):
+def doc_texts(url):
+    """Liste de textes candidats (un par mode d'extraction)."""
     if url not in _doc_cache:
         raw = http(url)
-        _doc_cache[url] = pdf_text(raw) if raw[:4] == b"%PDF" else raw.decode("utf-8", "replace")
+        _doc_cache[url] = pdf_texts(raw) if raw[:4] == b"%PDF" else [raw.decode("utf-8", "replace")]
     return _doc_cache[url]
 
 
@@ -83,11 +84,11 @@ def check(claims, offline=False):
                 errors.append(f"{cid}: PMID {s['pmid']} = «{actual[:70]}» ≠ titre cite «{s['title'][:70]}»")
         elif s["kind"] == "doc":
             try:
-                txt = squash(doc_text(s["url"]))
+                txts = [squash(t) for t in doc_texts(s["url"])]
             except Exception as e:
                 errors.append(f"{cid}: document illisible ({e})")
                 continue
-            if squash(s["quote"]) not in txt:
+            if not any(squash(s["quote"]) in t for t in txts):
                 errors.append(f"{cid}: extrait absent du document {s['url']}")
         else:
             errors.append(f"{cid}: kind inconnu {s['kind']}")
