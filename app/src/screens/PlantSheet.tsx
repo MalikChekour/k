@@ -2,7 +2,7 @@ import React from 'react';
 import { Linking, Modal, Pressable, ScrollView, Text, View } from 'react-native';
 import type { Claim, PlantData } from '../safety';
 import { RUBRICS, groupClaims } from '../library';
-import { Badge, C, s } from './shared';
+import { Badge, C, Chip, s } from './shared';
 
 const EMPTY_NOTE: Record<string, string> = {
   interactions: 'Aucune interaction renseignée dans notre base pour cette plante. Ce n’est pas une preuve d’absence d’interaction.',
@@ -27,7 +27,9 @@ function ClaimView({ c }: { c: Claim }) {
 }
 
 /** Fiche plante : affirmations regroupées par rubrique. Les rubriques vides le disent explicitement. */
-export function PlantSheet({ plant, onClose }: { plant: PlantData | null; onClose: () => void }) {
+export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }: {
+  plant: PlantData | null; onClose: () => void; favorites: string[]; writable: boolean; onToggleFav: (id: string) => void;
+}) {
   const groups = plant ? groupClaims(plant.claims) : null;
   return (
     <Modal visible={!!plant} animationType="slide" transparent onRequestClose={onClose}>
@@ -38,6 +40,13 @@ export function PlantSheet({ plant, onClose }: { plant: PlantData | null; onClos
             <ScrollView>
               <Text style={s.h1} accessibilityRole="header">{plant.fr}</Text>
               <Text style={s.latin}>{plant.latin} · {plant.part}</Text>
+              <View style={{ marginTop: 8 }}>
+                <Chip
+                  label={favorites.includes(plant.id) ? `Dans mon armoire : ${plant.fr}` : `Ajouter ${plant.fr} à mon armoire`}
+                  on={favorites.includes(plant.id)}
+                  onPress={() => writable && onToggleFav(plant.id)}
+                />
+              </View>
               {RUBRICS.map(r => (
                 <View key={r.id} style={{ gap: 6, marginTop: 12 }}>
                   <Text style={s.h3} accessibilityRole="header">{r.fr}</Text>

@@ -6,6 +6,7 @@ import type { Profile } from '../safety';
 import { bundle, plants } from '../bundle';
 import { plantsForUsage } from '../usages';
 import { Chip, C, SafetyReport, s } from './shared';
+import { ProfileSummary } from './ProfileEditor';
 
 /** Mélange par symptôme. Le contrôle de sécurité tourne à chaque modification, AVANT la composition. */
 export function Mix({ profile }: { profile: Profile }) {
@@ -27,6 +28,7 @@ export function Mix({ profile }: { profile: Profile }) {
     <ScrollView contentContainerStyle={s.pad}>
       <Text style={s.h1}>Mélange par symptôme</Text>
       <Text style={s.tag}>VOTRE MÉLANGE : SÉCURITÉ VÉRIFIÉE AUTOMATIQUEMENT</Text>
+      <ProfileSummary profile={profile} />
       {selected.length === 0 ? (
         <Text style={s.muted}>Ajoutez une plante ci-dessous : le contrôle de sécurité s’affiche aussitôt.</Text>
       ) : (

@@ -8,6 +8,21 @@ export const FLAGS: [string, string][] = [
   ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'],
 ];
 
+/** Résumé lisible du profil, affiché dans Sécurité et Mélange (lecture seule). */
+export function ProfileSummary({ profile }: { profile: Profile }) {
+  const labels: string[] = [];
+  if (profile.pregnant) labels.push('enceinte');
+  if (profile.lactating) labels.push('allaitement');
+  if (typeof profile.ageYears === 'number') labels.push(`${profile.ageYears} ans`);
+  for (const [id, label] of FLAGS) if ((profile.flags ?? []).includes(id)) labels.push(label.toLowerCase());
+  if ((profile.meds ?? []).length) labels.push(`médicaments : ${(profile.meds ?? []).join(', ')}`);
+  return (
+    <Text style={s.muted} accessibilityLabel="Profil utilisé pour le contrôle">
+      {labels.length ? `Profil utilisé : ${labels.join(' · ')}.` : 'Profil vide. Renseignez-le dans l’onglet Armoire pour un contrôle plus pertinent.'}
+    </Text>
+  );
+}
+
 /** Profil de santé : saisi et conservé sur le téléphone uniquement. Aucune donnée n'est envoyée. */
 export function ProfileEditor({ profile, onChange }: { profile: Profile; onChange: (p: Profile) => void }) {
   const [medsText, setMedsText] = useState((profile.meds ?? []).join(', '));
@@ -16,7 +31,6 @@ export function ProfileEditor({ profile, onChange }: { profile: Profile; onChang
   const toggleFlag = (id: string) => set({ flags: flags.includes(id) ? flags.filter(x => x !== id) : [...flags, id] });
   return (
     <View style={{ gap: 12 }}>
-      <Text style={s.tag}>PROFIL (reste sur ce téléphone)</Text>
       <View style={s.wrap}>
         <Chip label="Enceinte" on={!!profile.pregnant} onPress={() => set({ pregnant: !profile.pregnant })} />
         <Chip label="Allaitement" on={!!profile.lactating} onPress={() => set({ lactating: !profile.lactating })} />

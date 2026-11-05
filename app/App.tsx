@@ -1,22 +1,50 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Pressable, SafeAreaView, StatusBar, Text, View } from 'react-native';
-import type { PlantData, Profile } from './src/safety';
+import type { PlantData } from './src/safety';
+import { EMPTY_ARMOIRE, toggleFavorite } from './src/armoire';
+import type { Armoire as ArmoireData } from './src/armoire';
+import { clearArmoire, loadArmoire, saveArmoire } from './src/storage';
 import { Notice, s } from './src/screens/shared';
 import { Library } from './src/screens/Library';
 import { PlantSheet } from './src/screens/PlantSheet';
 import { Mix } from './src/screens/Mix';
 import { Safety } from './src/screens/Safety';
 import { Lab } from './src/screens/Lab';
+import { Armoire } from './src/screens/Armoire';
 
-type Tab = 'lib' | 'mix' | 'secu' | 'lab';
+type Tab = 'lib' | 'mix' | 'secu' | 'armoire' | 'lab';
 const TABS: { id: Tab; label: string }[] = [
-  { id: 'lib', label: 'Plantes' }, { id: 'mix', label: 'Mélange' }, { id: 'secu', label: 'Sécurité' }, { id: 'lab', label: 'Laboratoire' },
+  { id: 'lib', label: 'Plantes' }, { id: 'mix', label: 'Mélange' }, { id: 'secu', label: 'Sécurité' },
+  { id: 'armoire', label: 'Armoire' }, { id: 'lab', label: 'Labo' },
 ];
 
 export default function App() {
   const [tab, setTab] = useState<Tab>('lib');
   const [open, setOpen] = useState<PlantData | null>(null);
-  const [profile, setProfile] = useState<Profile>({ pregnant: false, lactating: false, ageYears: null, flags: [], meds: [] });
+  const [armoire, setArmoire] = useState<ArmoireData>(EMPTY_ARMOIRE);
+  const [ready, setReady] = useState(false);
+  const [writable, setWritable] = useState(false);
+
+  useEffect(() => {
+    let alive = true;
+    loadArmoire().then(({ data, ok }) => {
+      if (!alive) return;
+      setArmoire(data);
+      setWritable(ok);
+      setReady(true);
+    });
+    return () => { alive = false; };
+  }, []);
+
+  // Une écriture n'a lieu que si la lecture a réussi : on ne réécrit jamais ce qu'on n'a pas pu lire.
+  const update = (next: ArmoireData) => {
+    setArmoire(next);
+    if (writable) void saveArmoire(next);
+  };
+  const wipe = async () => {
+    if (await clearArmoire()) setArmoire(EMPTY_ARMOIRE);
+  };
+
   return (
     <SafeAreaView style={s.root}>
       <StatusBar barStyle="light-content" />
@@ -25,9 +53,12 @@ export default function App() {
         <Notice />
       </View>
       <View style={{ flex: 1 }}>
-        {tab === 'lib' && <Library onOpen={setOpen} />}
-        {tab === 'mix' && <Mix profile={profile} />}
-        {tab === 'secu' && <Safety profile={profile} onProfile={setProfile} />}
+        {tab === 'lib' && <Library onOpen={setOpen} favorites={armoire.favorites} writable={writable && ready} onToggleFav={id => update(toggleFavorite(armoire, id))} />}
+        {tab === 'mix' && <Mix profile={armoire.profile} />}
+        {tab === 'secu' && <Safety profile={armoire.profile} />}
+        {tab === 'armoire' && ready && (
+          <Armoire armoire={armoire} writable={writable} onChange={update} onOpen={setOpen} onWipe={wipe} />
+        )}
         {tab === 'lab' && <Lab />}
       </View>
       <View style={s.tabs} accessibilityRole="tablist">
@@ -37,7 +68,7 @@ export default function App() {
           </Pressable>
         ))}
       </View>
-      <PlantSheet plant={open} onClose={() => setOpen(null)} />
+      <PlantSheet plant={open} onClose={() => setOpen(null)} favorites={armoire.favorites} writable={writable && ready} onToggleFav={id => update(toggleFavorite(armoire, id))} />
     </SafeAreaView>
   );
 }
