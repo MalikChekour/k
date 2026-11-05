@@ -1,0 +1,70 @@
+[
+ {
+  "id": "chamo-ci-asteraceae",
+  "plant": "matricaria_recutita",
+  "type": "contraindication",
+  "statement": "Contre-indiquee en cas d'hypersensibilite aux Asteracees (Composees).",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ },
+ {
+  "id": "chamo-int-cyp450-transplant",
+  "plant": "matricaria_recutita",
+  "type": "interaction",
+  "statement": "Interactions via le CYP450 rapportees uniquement chez les transplantes renaux sous fortes doses prolongees (voie orale).",
+  "severity": "moderee",
+  "population": "transplantes renaux",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "For patients after renal transplantation taking high dosages for longer periods (about two months) interactions based on effects on CYP450 have been reported."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ },
+ {
+  "id": "chamo-int-autres-voies",
+  "plant": "matricaria_recutita",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportee pour les voies cutanee, oromuqueuse, inhalation et bain.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "Cutaneous, oromucosal use, inhalation, or as bath additive: None reported."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ },
+ {
+  "id": "chamo-grossesse-non-etablie",
+  "plant": "matricaria_recutita",
+  "type": "pregnancy",
+  "statement": "Pour les preparations autres que la forme a), la securite pendant la grossesse et l'allaitement n'est pas etablie.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been establis"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null
+ }
+]

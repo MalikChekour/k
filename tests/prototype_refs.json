@@ -1,0 +1,102 @@
+[
+ {
+  "id": "proto-0",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "21132160",
+   "title": "Chamomile: A herbal medicine of the past with bright future (Review)"
+  }
+ },
+ {
+  "id": "proto-1",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "27912875",
+   "title": "Long-term chamomile therapy of generalized anxiety disorder (GAD): A double-blind, randomized, placebo-controlled trial"
+  }
+ },
+ {
+  "id": "proto-2",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "17054175",
+   "title": "Valerian for sleep disorders (Systematic Review)"
+  }
+ },
+ {
+  "id": "proto-3",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "17145239",
+   "title": "Valerian for Sleep: A Systematic Review and Meta-Analysis"
+  }
+ },
+ {
+  "id": "proto-4",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "10473467",
+   "title": "Hypericum depression trial: A randomized, double-blind, placebo-controlled trial of St John's wort"
+  }
+ },
+ {
+  "id": "proto-5",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "9864274",
+   "title": "St John's wort for depression: meta-analysis of randomized clinical trials"
+  }
+ },
+ {
+  "id": "proto-6",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "9343463",
+   "title": "A placebo-controlled, double-blind, randomized trial of an extract of Ginkgo biloba for dementia"
+  }
+ },
+ {
+  "id": "proto-7",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "26268332",
+   "title": "Efficacy and safety of Ginkgo biloba extract EGb 761 in mild cognitive impairment"
+  }
+ },
+ {
+  "id": "proto-8",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "32679105",
+   "title": "Silymarin as a supportive treatment in liver disease: A narrative review"
+  }
+ },
+ {
+  "id": "proto-9",
+  "plant": "x",
+  "status": "propose",
+  "source": {
+   "kind": "pmid",
+   "pmid": "21465995",
+   "title": "Milk thistle in liver diseases: past, present, future"
+  }
+ }
+]
