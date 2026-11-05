@@ -1,0 +1,346 @@
+[
+ {
+  "id": "vitis_vinifera-ind-01",
+  "plant": "vitis_vinifera",
+  "type": "indication",
+  "statement": "Usage bien établi : traitement de l'insuffisance veineuse chronique (jambes gonflées, varices, sensation de lourdeur, douleur, fatigue, démangeaisons, tensions et crampes des mollets).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Herbal medicinal product for treatment of chronic venous insufficiency, which is characterised by swollen legs, varicose veins, a feeling of heaviness, pain, tiredness, itching, tension and cramps in the calves."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-ind-02",
+  "plant": "vitis_vinifera",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement des sensations d'inconfort et de lourdeur des jambes liées à des troubles circulatoires veineux mineurs.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product to relieve symptoms of discomfort and heaviness of legs related to minor venous circulatory disturbances."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-ind-03",
+  "plant": "vitis_vinifera",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement symptomatique des démangeaisons et brûlures associées aux hémorroïdes, après exclusion d'affections graves par un médecin.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for symptomatic relief of itching and burning associated with haemorrhoids after serious conditions have been excluded by a medical doctor."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-ind-04",
+  "plant": "vitis_vinifera",
+  "type": "indication",
+  "statement": "Usage traditionnel : soulagement symptomatique de la fragilité capillaire cutanée.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Traditional herbal medicinal product for symptomatic treatment of cutaneous capillary fragility."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-pos-01",
+  "plant": "vitis_vinifera",
+  "type": "posology",
+  "statement": "Usage bien établi, adultes et personnes âgées : extrait sec (DER 4-6:1, eau) 360 à 720 mg par dose ; dose journalière 360 à 720 mg.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Dry extract (DER 4-6:1; water) Single dose: 360-720 mg Daily dose: 360-720 mg."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-pos-02",
+  "plant": "vitis_vinifera",
+  "type": "posology",
+  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 5 à 10 g de feuilles séchées dans 250 ml d'eau bouillante, 2 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Herbal tea: 5-10 g of dried leaves in 250 ml of boiling water as herbal infusion, 2 times daily."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-pos-03",
+  "plant": "vitis_vinifera",
+  "type": "posology",
+  "statement": "Usage cutané (usage traditionnel) : appliquer une fine couche sur la zone atteinte, 1 à 3 fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Apply a thin layer on the affected area 1-3 times daily."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-01",
+  "plant": "vitis_vinifera",
+  "type": "contraindication",
+  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Hypersensitivity to the active substance."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-02",
+  "plant": "vitis_vinifera",
+  "type": "age",
+  "statement": "Usage non recommandé chez les moins de 18 ans, en l'absence de données de sécurité suffisantes.",
+  "severity": "precaution",
+  "population": "moins de 18 ans",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "In the absence of sufficient safety data, the use in children and adolescents below 18 years of age is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-03",
+  "plant": "vitis_vinifera",
+  "type": "warning",
+  "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un pharmacien.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-04",
+  "plant": "vitis_vinifera",
+  "type": "warning",
+  "statement": "En cas d'inflammation de la peau, de thrombophlébite ou d'induration sous-cutanée, de douleur intense, d'ulcères, de gonflement soudain d'une ou des deux jambes, ou d'insuffisance cardiaque ou rénale : consulter un médecin.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "If there is inflammation of the skin, thrombophlebitis or subcutaneous induration, severe pain, ulcers, sudden swelling of one or both legs, cardiac or renal insufficiency, a doctor should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-05",
+  "plant": "vitis_vinifera",
+  "type": "warning",
+  "statement": "Usage cutané : ne pas appliquer sur peau lésée, autour des yeux ou sur les muqueuses.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Cutaneous use: The product should not be used on broken skin, around the eyes or on mucous membranes."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-06",
+  "plant": "vitis_vinifera",
+  "type": "warning",
+  "statement": "Si une réponse insuffisante ou non satisfaisante apparaît dans les 2 semaines, consulter un médecin : un œdème peut avoir d'autres causes.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "In the event of inadequate or unsatisfactory symptomatic response within 2 weeks, a doctor should be consulted as oedema may have alternative causes."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-07",
+  "plant": "vitis_vinifera",
+  "type": "warning",
+  "statement": "En cas de saignement rectal pendant le traitement des hémorroïdes, consulter un médecin ou un professionnel de santé qualifié.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "If rectal bleeding occurs during the treatment of haemorrhoids a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-08",
+  "plant": "vitis_vinifera",
+  "type": "interaction",
+  "statement": "Interactions médicamenteuses non connues selon la monographie EMA (usage bien établi et traditionnel) : ne vaut pas absence d'interaction.",
+  "severity": "donnees_absentes",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Traditional use Not known"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "vitis_vinifera-09",
+  "plant": "vitis_vinifera",
+  "type": "pregnancy",
+  "statement": "Sécurité pendant la grossesse non établie ; usage non recommandé en l'absence de données suffisantes.",
+  "severity": "precaution",
+  "population": "femmes enceintes",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-10",
+  "plant": "vitis_vinifera",
+  "type": "lactation",
+  "statement": "Sécurité pendant l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+  "severity": "precaution",
+  "population": "femmes allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "lactating"
+  ]
+ },
+ {
+  "id": "vitis_vinifera-11",
+  "plant": "vitis_vinifera",
+  "type": "driving",
+  "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+  "severity": "donnees_absentes",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+   "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "drives"
+  ]
+ }
+]

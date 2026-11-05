@@ -1,0 +1,289 @@
+[
+  {
+    "id": "arctostaphylos_uva_ursi-ind-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptomes d'infections urinaires basses legeres et recurrentes chez la femme (brulures a la miction et/ou mictions frequentes), apres exclusion par un medecin des affections graves.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Traditional herbal medicinal product used for relief of symptoms of mild recurrent lower urinary tract infections such as burning sensation during urination and/or frequent urination in women, after serious conditions have been excluded by a medical doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-pos-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Femmes adultes et personnes agees : tisane, 1,5 a 4 g de substance vegetale broyee dans 150 ml d'eau bouillante (infusion) ou dans 150 ml d'eau (macere), 2 a 4 fois par jour ; dose journaliere maximale 8 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Herbal tea: 1.5-4 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion or in 150 ml of water as a macerate 2 to 4 times daily Maximum daily dose: 8 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-pos-02",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Femmes adultes et personnes agees : substance vegetale en poudre, 700 a 1050 mg, 2 fois par jour ; dose journaliere maximale 1,75 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Powdered herbal substance Single dose: 700 – 1050 mg twice daily Maximum daily dose: 1.75 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-pos-03",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Femmes adultes et personnes agees : extrait liquide, 1,5 a 4 ml jusqu'a 3 fois par jour ; dose journaliere maximale 8 ml.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Liquid extract Single dose: 1.5–4 ml up to three times daily Maximum daily dose: 8 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-pos-04",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Duree : ne pas utiliser plus d'une semaine.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Not to be used for more than one week."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-pos-05",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Si les symptomes persistent plus de 4 jours pendant l'utilisation, consulter un medecin ou un professionnel de sante.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "If the symptoms persist for more than 4 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-ctr-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "contraindication",
+    "statement": "Contre-indiquee en cas d'hypersensibilite a la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-age-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "age",
+    "statement": "Usage non recommande chez les moins de 18 ans (raisons necessitant un avis medical).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended because of concerns requiring medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-warn-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "warning",
+    "statement": "Usage non recommande chez les hommes (raisons necessitant une supervision medicale).",
+    "severity": "precaution",
+    "population": "hommes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "The use in men is not recommended because of concerns requiring medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-warn-02",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "warning",
+    "statement": "Si les symptomes s'aggravent ou si surviennent fievre, dysurie, spasmes ou sang dans les urines pendant l'utilisation, consulter un medecin ou un professionnel de sante.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "If the symptoms worsen or if complaints such as fever, dysuria, spasms, or blood in urine occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-warn-03",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "warning",
+    "statement": "La tisane peut colorer les urines en brun-vert.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Uvae ursi folium may cause a greenish-brown coloration of the urine."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-preg-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "pregnancy",
+    "statement": "Securite pendant la grossesse et l'allaitement non etablie ; usage non recommande en l'absence de donnees suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-inter-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportee dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-drive-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "driving",
+    "statement": "Aucune etude sur l'aptitude a conduire ou a utiliser des machines n'a ete realisee : effet non documente.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-contra-kidney",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de maladie des reins.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Kidney disorders"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "kidney_disease"
+    ]
+  }
+]

@@ -69,10 +69,15 @@ test('marques ajoutées : chacune rejoint la bonne classe (casse et tiret indiff
     assert.ok(classOf(brand.toUpperCase()).includes(cls), `${brand.toUpperCase()} doit aussi matcher`);
   }
 });
-test('marques NON ajoutées (aucune classe correspondante) : restent INCONNUES, verdict « incomplet »', () => {
-  for (const m of ['Xarelto', 'Eliquis', 'Pradaxa', 'Prozac', 'Zoloft', 'Seroplex', 'Deroxat']) {
-    assert.deepEqual(classOf(m), [], m);
-    assert.equal(assess(bundle, ['valeriana_officinalis'], { meds: [m] }).verdict, 'incomplet', m);
+test('AOD et ISRS : reconnus, mais sans règle => jamais « aucune alerte » rassurante avec une plante à règles', () => {
+  const aod = ['Xarelto', 'Eliquis', 'Pradaxa'], isrs = ['Prozac', 'Zoloft', 'Seroplex', 'Deroxat'];
+  for (const m of aod) assert.deepEqual(classOf(m), ['anticoagulant_oral_direct'], m);
+  for (const m of isrs) assert.deepEqual(classOf(m), ['antidepresseur_isrs'], m);
+  // millepertuis : alertes générales, et l'association n'est pas couverte
+  for (const m of [...aod, ...isrs]) {
+    const r = assess(bundle, ['hypericum_perforatum'], { meds: [m] });
+    assert.notEqual(r.verdict, 'aucune_alerte_dans_notre_base', m);
+    assert.ok(r.notes.some((n: { status: string }) => n.status === 'non_couvert'), m);
   }
 });
 
@@ -268,4 +273,18 @@ test('association « non couverte » : le verdict est « incomplet », jamais «
   assert.equal(r.verdict, 'incomplet');
   // et quand la classe est couverte, c'est bien une alerte
   assert.equal(assess(mini, ['x'], { meds: ['alpha'] }).verdict, 'alertes');
+});
+
+test('réglisse : hypertension et diurétiques déclenchent des alertes sourcées', () => {
+  const hta = assess(bundle, ['glycyrrhiza_glabra'], { flags: ['hypertension'] });
+  assert.ok(hta.alerts.some(a => a.claimId === 'glycyrrhiza_glabra-hta' && a.severity === 'majeure'));
+  const diur = assess(bundle, ['glycyrrhiza_glabra'], { meds: ['Lasilix'] });
+  assert.ok(diur.alerts.some(a => a.claimId === 'glycyrrhiza_glabra-diur'));
+  assert.notEqual(diur.verdict, 'aucune_alerte_dans_notre_base');
+  const sans = assess(bundle, ['glycyrrhiza_glabra'], {});
+  assert.ok(!sans.alerts.some(a => a.claimId === 'glycyrrhiza_glabra-hta'), 'sans hypertension, pas d’alerte spécifique');
+});
+test('busserole : maladie des reins est une contre-indication', () => {
+  const r = assess(bundle, ['arctostaphylos_uva_ursi'], { flags: ['kidney_disease'] });
+  assert.equal(r.verdict, 'contre_indication');
 });

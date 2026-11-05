@@ -1,13 +1,82 @@
 [
- {"plant": "hypericum_perforatum", "class": "anticoagulant_coumarinique", "claim": "hypericum_perforatum-01"},
- {"plant": "hypericum_perforatum", "class": "immunosuppresseur_greffe", "claim": "hypericum_perforatum-01"},
- {"plant": "hypericum_perforatum", "class": "antiretroviral", "claim": "hypericum_perforatum-01"},
- {"plant": "hypericum_perforatum", "class": "cytostatique_cyp", "claim": "hypericum_perforatum-01"},
- {"plant": "hypericum_perforatum", "class": "contraceptif_hormonal", "claim": "hypericum_perforatum-03"},
- {"plant": "hypericum_perforatum", "class": "substrats_cyp_pgp", "claim": "hypericum_perforatum-06"},
- {"plant": "ginkgo_biloba", "class": "anticoagulant_coumarinique", "claim": "ginkgo_biloba-02"},
- {"plant": "ginkgo_biloba", "class": "antiagregant", "claim": "ginkgo_biloba-06"},
- {"plant": "ginkgo_biloba", "class": "substrats_pgp", "claim": "ginkgo_biloba-04"},
- {"plant": "matricaria_recutita", "class": "immunosuppresseur_greffe", "claim": "chamo-int-cyp450-transplant"},
- {"plant": "filipendula_ulmaria", "class": "ains_salicyles", "claim": "filipendula_ulmaria-02"}
+  {
+    "plant": "hypericum_perforatum",
+    "class": "anticoagulant_coumarinique",
+    "claim": "hypericum_perforatum-01"
+  },
+  {
+    "plant": "hypericum_perforatum",
+    "class": "immunosuppresseur_greffe",
+    "claim": "hypericum_perforatum-01"
+  },
+  {
+    "plant": "hypericum_perforatum",
+    "class": "antiretroviral",
+    "claim": "hypericum_perforatum-01"
+  },
+  {
+    "plant": "hypericum_perforatum",
+    "class": "cytostatique_cyp",
+    "claim": "hypericum_perforatum-01"
+  },
+  {
+    "plant": "hypericum_perforatum",
+    "class": "contraceptif_hormonal",
+    "claim": "hypericum_perforatum-03"
+  },
+  {
+    "plant": "hypericum_perforatum",
+    "class": "substrats_cyp_pgp",
+    "claim": "hypericum_perforatum-06"
+  },
+  {
+    "plant": "ginkgo_biloba",
+    "class": "anticoagulant_coumarinique",
+    "claim": "ginkgo_biloba-02"
+  },
+  {
+    "plant": "ginkgo_biloba",
+    "class": "antiagregant",
+    "claim": "ginkgo_biloba-06"
+  },
+  {
+    "plant": "ginkgo_biloba",
+    "class": "substrats_pgp",
+    "claim": "ginkgo_biloba-04"
+  },
+  {
+    "plant": "matricaria_recutita",
+    "class": "immunosuppresseur_greffe",
+    "claim": "chamo-int-cyp450-transplant"
+  },
+  {
+    "plant": "filipendula_ulmaria",
+    "class": "ains_salicyles",
+    "claim": "filipendula_ulmaria-02"
+  },
+  {
+    "plant": "glycyrrhiza_glabra",
+    "class": "diuretique",
+    "claim": "glycyrrhiza_glabra-diur"
+  },
+  {
+    "plant": "glycyrrhiza_glabra",
+    "class": "digitalique",
+    "claim": "glycyrrhiza_glabra-diur"
+  },
+  {
+    "plant": "glycyrrhiza_glabra",
+    "class": "corticoide",
+    "claim": "glycyrrhiza_glabra-diur"
+  },
+  {
+    "plant": "glycyrrhiza_glabra",
+    "class": "laxatif_stimulant",
+    "claim": "glycyrrhiza_glabra-diur"
+  },
+  {
+    "plant": "glycyrrhiza_glabra",
+    "class": "antihypertenseur",
+    "claim": "glycyrrhiza_glabra-antihta"
+  }
 ]

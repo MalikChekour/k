@@ -427,5 +427,140 @@
    "artichoke",
    "cynarae"
   ]
+ },
+ {
+  "id": "equisetum_arvense",
+  "fr": "Prêle des champs",
+  "latin": "Equisetum arvense L.",
+  "part": "partie aérienne",
+  "queries": [
+   "Equisetum arvense",
+   "field horsetail herb",
+   "equiseti herba"
+  ],
+  "keys": [
+   "equisetum",
+   "prêle",
+   "prele",
+   "horsetail"
+  ]
+ },
+ {
+  "id": "betula_pendula",
+  "fr": "Bouleau (feuille)",
+  "latin": "Betula pendula Roth, Betula pubescens Ehrh.",
+  "part": "feuille",
+  "queries": [
+   "Betula pendula",
+   "Betula pubescens",
+   "birch leaf betulae folium"
+  ],
+  "keys": [
+   "betula",
+   "bouleau",
+   "birch"
+  ]
+ },
+ {
+  "id": "arctostaphylos_uva_ursi",
+  "fr": "Busserole",
+  "latin": "Arctostaphylos uva-ursi (L.) Spreng.",
+  "part": "feuille",
+  "queries": [
+   "Arctostaphylos uva-ursi",
+   "bearberry leaf uva ursi",
+   "uvae ursi folium"
+  ],
+  "keys": [
+   "arctostaphylos",
+   "uva-ursi",
+   "uva ursi",
+   "busserole",
+   "bearberry"
+  ]
+ },
+ {
+  "id": "pelargonium_sidoides",
+  "fr": "Pélargonium (racine)",
+  "latin": "Pelargonium sidoides DC.",
+  "part": "racine",
+  "queries": [
+   "Pelargonium sidoides",
+   "pelargonium root sidoides",
+   "pelargonii radix"
+  ],
+  "keys": [
+   "pelargonium",
+   "pélargonium",
+   "sidoides"
+  ]
+ },
+ {
+  "id": "glycyrrhiza_glabra",
+  "fr": "Réglisse (racine)",
+  "latin": "Glycyrrhiza glabra L.",
+  "part": "racine",
+  "queries": [
+   "Glycyrrhiza glabra",
+   "liquorice root",
+   "licorice root"
+  ],
+  "keys": [
+   "glycyrrhiza",
+   "réglisse",
+   "reglisse",
+   "liquorice",
+   "licorice"
+  ]
+ },
+ {
+  "id": "humulus_lupulus",
+  "fr": "Houblon (cône)",
+  "latin": "Humulus lupulus L.",
+  "part": "cône (strobile)",
+  "queries": [
+   "Humulus lupulus",
+   "hop strobile",
+   "hop cone"
+  ],
+  "keys": [
+   "humulus",
+   "houblon",
+   "hop"
+  ]
+ },
+ {
+  "id": "aesculus_hippocastanum",
+  "fr": "Marronnier d'Inde (graine)",
+  "latin": "Aesculus hippocastanum L.",
+  "part": "graine",
+  "queries": [
+   "Aesculus hippocastanum",
+   "horse chestnut seed",
+   "horse chestnut"
+  ],
+  "keys": [
+   "aesculus",
+   "hippocastanum",
+   "marronnier",
+   "horse chestnut"
+  ]
+ },
+ {
+  "id": "vitis_vinifera",
+  "fr": "Vigne rouge (feuille)",
+  "latin": "Vitis vinifera L.",
+  "part": "feuille",
+  "queries": [
+   "Vitis vinifera",
+   "red vine leaf",
+   "grapevine leaf"
+  ],
+  "keys": [
+   "vitis",
+   "vigne",
+   "red vine",
+   "grapevine"
+  ]
  }
 ]

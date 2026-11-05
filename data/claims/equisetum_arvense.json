@@ -1,0 +1,289 @@
+[
+ {
+  "id": "equisetum_arvense-ind-01",
+  "plant": "equisetum_arvense",
+  "type": "indication",
+  "statement": "Usage traditionnel : favoriser l'elimination urinaire pour le rincage des voies urinaires, en adjuvant dans les troubles urinaires mineurs.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Traditional herbal medicinal product to increase the amount of urine to achieve flushing of the urinary tract as an adjuvant in minor urinary complaints."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-ind-02",
+  "plant": "equisetum_arvense",
+  "type": "indication",
+  "statement": "Usage traditionnel : traitement de soutien des plaies superficielles (usage cutane).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Traditional herbal medicinal product used for supportive treatment of superficial wounds."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-pos-01",
+  "plant": "equisetum_arvense",
+  "type": "posology",
+  "statement": "Usage traditionnel, indication 1, adolescents, adultes et personnes agees : tisane, 1 a 4 g de substance vegetale broyee dans 150 ml d'eau bouillante, 3 a 4 fois par jour (dose journaliere 3 a 12 g).",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Herbal tea: single dose: 1-4 g of the comminuted herbal substance in 150 ml of boiling water as an infusion or as a decoction (5-15 minutes), 3-4 times daily daily dose: 3-12 g"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-pos-02",
+  "plant": "equisetum_arvense",
+  "type": "posology",
+  "statement": "Usage traditionnel, indication 2 (cutane), adolescents, adultes et personnes agees : 10 g de substance vegetale dans 1 l d'eau en decoction, pour compresses impregnees et irrigation, une a plusieurs fois par jour.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "single dose: 10 g of the comminuted herbal substance in 1 l of water as decoction for impregnated dressing and irrigation daily dose: one to several times"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-pos-03",
+  "plant": "equisetum_arvense",
+  "type": "posology",
+  "statement": "Duree : les preparations a base de prele sont traditionnellement utilisees pendant 2 a 4 semaines.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Herbal preparations are traditionally used over a period of 2 to 4 weeks."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-pos-04",
+  "plant": "equisetum_arvense",
+  "type": "posology",
+  "statement": "Duree : si les symptomes persistent plus d'une semaine pendant l'utilisation, consulter un medecin ou un professionnel de sante.",
+  "severity": null,
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-ctr-01",
+  "plant": "equisetum_arvense",
+  "type": "contraindication",
+  "statement": "Contre-indiquee en cas d'hypersensibilite a la substance active.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Hypersensitivity to the active substance."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-ctr-02",
+  "plant": "equisetum_arvense",
+  "type": "contraindication",
+  "statement": "Contre-indiquee (indication 1) en cas de restriction hydrique recommandee, par exemple insuffisance cardiaque ou renale severe.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Conditions where a reduced fluid intake is recommended (e.g. severe cardiac or renal diseases)."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "fluid_restriction"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-age-01",
+  "plant": "equisetum_arvense",
+  "type": "age",
+  "statement": "Usage non etabli chez les moins de 12 ans (donnees insuffisantes).",
+  "severity": "precaution",
+  "population": "moins de 12 ans",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_12"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-warn-01",
+  "plant": "equisetum_arvense",
+  "type": "warning",
+  "statement": "Si des symptomes tels que fievre, dysurie, spasme ou sang dans les urines apparaissent, ou si les symptomes s'aggravent, consulter un medecin ou un professionnel de sante.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "If complaints or symptoms such as fever, dysuria, spasm or blood in urine occur or if the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-preg-01",
+  "plant": "equisetum_arvense",
+  "type": "pregnancy",
+  "statement": "Securite pendant la grossesse et l'allaitement non etablie ; usage non recommande en l'absence de donnees suffisantes (indication 1).",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-preg-02",
+  "plant": "equisetum_arvense",
+  "type": "pregnancy",
+  "statement": "Pas de donnees sur la grossesse (indication 2, usage cutane) : usage non recommande en l'absence de donnees suffisantes.",
+  "severity": "precaution",
+  "population": "femmes enceintes",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "There are no data on use during pregnancy or lactation. In the absence of sufficient data, the use during pregnancy is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-lact-01",
+  "plant": "equisetum_arvense",
+  "type": "lactation",
+  "statement": "Les produits a base de prele ne doivent pas etre appliques sur le sein des femmes allaitantes (indication 2).",
+  "severity": "precaution",
+  "population": "femmes allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Products containing Equiseti herba should not be applied to the breast of breastfeeding women."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "lactating"
+  ]
+ },
+ {
+  "id": "equisetum_arvense-inter-01",
+  "plant": "equisetum_arvense",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportee dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "Traditional use None reported."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "equisetum_arvense-drive-01",
+  "plant": "equisetum_arvense",
+  "type": "driving",
+  "statement": "Aucune etude sur l'aptitude a conduire ou a utiliser des machines n'a ete realisee : effet non documente.",
+  "severity": "donnees_absentes",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+   "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "drives"
+  ]
+ }
+]

@@ -1,15 +1,260 @@
 {
- "_note": "Classes de medicaments et substances. Les substances citees dans les monographies EMA sont reprises telles quelles ; l'appartenance d'une substance a une classe pharmacologique usuelle (ex. ibuprofene = AINS) reste a valider par le relecteur. Une substance absente de cette liste est INCONNUE : le moteur ne conclut jamais.",
- "classes": [
-  {"id": "anticoagulant_coumarinique", "fr": "Anticoagulant de type coumarine", "substances": ["warfarine", "warfarin", "phenprocoumone", "phenprocoumon", "acenocoumarol", "coumadine", "sintrom", "mini sintrom"]},
-  {"id": "anticoagulant_indanedione", "fr": "Anticoagulant (indanedione)", "substances": ["fluindione", "previscan"]},
-  {"id": "antiagregant", "fr": "Antiagrégant plaquettaire", "substances": ["clopidogrel", "acide acetylsalicylique", "aspirine", "aspirin", "acetylsalicylic acid", "kardegic", "plavix", "aspegic"]},
-  {"id": "ains_salicyles", "fr": "AINS / salicylés", "substances": ["acide acetylsalicylique", "aspirine", "aspirin", "ibuprofene", "ibuprofen", "naproxene", "diclofenac", "kardegic", "nurofen", "advil", "voltarene", "naprosyne"]},
-  {"id": "immunosuppresseur_greffe", "fr": "Immunosuppresseur (greffe)", "substances": ["ciclosporine", "cyclosporine", "everolimus", "sirolimus", "tacrolimus", "neoral", "sandimmun", "prograf", "certican", "rapamune", "afinitor"]},
-  {"id": "antiretroviral", "fr": "Antirétroviral (inhibiteur de protéase / INTI)", "substances": ["fosamprenavir", "indinavir"]},
-  {"id": "cytostatique_cyp", "fr": "Anticancéreux métabolisé par CYP / P-gp", "substances": ["irinotecan", "imatinib", "glivec"]},
-  {"id": "contraceptif_hormonal", "fr": "Contraceptif hormonal", "substances": ["pilule contraceptive", "contraceptif hormonal", "ethinylestradiol", "levonorgestrel", "desogestrel", "drospirenone", "minidril", "mercilon", "jasmine", "optimizette", "cerazette"]},
-  {"id": "substrats_cyp_pgp", "fr": "Médicament métabolisé par CYP3A4/2B6/2C9/2C19 ou P-gp", "substances": ["amitriptyline", "fexofenadine", "alprazolam", "diazepam", "midazolam", "methadone", "simvastatine", "simvastatin", "digoxine", "digoxin", "finasteride", "laroxyl", "telfast", "xanax", "valium", "zocor", "chibro proscar"]},
-  {"id": "substrats_pgp", "fr": "Médicament transporté par la P-glycoprotéine", "substances": ["talinolol", "digoxine", "digoxin", "fexofenadine"]}
- ]
+  "_note": "Classes de medicaments et substances. Les substances citees dans les monographies EMA sont reprises telles quelles ; l'appartenance d'une substance a une classe pharmacologique usuelle (ex. ibuprofene = AINS) reste a valider par le relecteur. Une substance absente de cette liste est INCONNUE : le moteur ne conclut jamais.",
+  "classes": [
+    {
+      "id": "anticoagulant_coumarinique",
+      "fr": "Anticoagulant de type coumarine",
+      "substances": [
+        "warfarine",
+        "warfarin",
+        "phenprocoumone",
+        "phenprocoumon",
+        "acenocoumarol",
+        "coumadine",
+        "sintrom",
+        "mini sintrom"
+      ]
+    },
+    {
+      "id": "anticoagulant_indanedione",
+      "fr": "Anticoagulant (indanedione)",
+      "substances": [
+        "fluindione",
+        "previscan"
+      ]
+    },
+    {
+      "id": "antiagregant",
+      "fr": "Antiagrégant plaquettaire",
+      "substances": [
+        "clopidogrel",
+        "acide acetylsalicylique",
+        "aspirine",
+        "aspirin",
+        "acetylsalicylic acid",
+        "kardegic",
+        "plavix",
+        "aspegic"
+      ]
+    },
+    {
+      "id": "ains_salicyles",
+      "fr": "AINS / salicylés",
+      "substances": [
+        "acide acetylsalicylique",
+        "aspirine",
+        "aspirin",
+        "ibuprofene",
+        "ibuprofen",
+        "naproxene",
+        "diclofenac",
+        "kardegic",
+        "nurofen",
+        "advil",
+        "voltarene",
+        "naprosyne"
+      ]
+    },
+    {
+      "id": "immunosuppresseur_greffe",
+      "fr": "Immunosuppresseur (greffe)",
+      "substances": [
+        "ciclosporine",
+        "cyclosporine",
+        "everolimus",
+        "sirolimus",
+        "tacrolimus",
+        "neoral",
+        "sandimmun",
+        "prograf",
+        "certican",
+        "rapamune",
+        "afinitor"
+      ]
+    },
+    {
+      "id": "antiretroviral",
+      "fr": "Antirétroviral (inhibiteur de protéase / INTI)",
+      "substances": [
+        "fosamprenavir",
+        "indinavir"
+      ]
+    },
+    {
+      "id": "cytostatique_cyp",
+      "fr": "Anticancéreux métabolisé par CYP / P-gp",
+      "substances": [
+        "irinotecan",
+        "imatinib",
+        "glivec"
+      ]
+    },
+    {
+      "id": "contraceptif_hormonal",
+      "fr": "Contraceptif hormonal",
+      "substances": [
+        "pilule contraceptive",
+        "contraceptif hormonal",
+        "ethinylestradiol",
+        "levonorgestrel",
+        "desogestrel",
+        "drospirenone",
+        "minidril",
+        "mercilon",
+        "jasmine",
+        "optimizette",
+        "cerazette"
+      ]
+    },
+    {
+      "id": "substrats_cyp_pgp",
+      "fr": "Médicament métabolisé par CYP3A4/2B6/2C9/2C19 ou P-gp",
+      "substances": [
+        "amitriptyline",
+        "fexofenadine",
+        "alprazolam",
+        "diazepam",
+        "midazolam",
+        "methadone",
+        "simvastatine",
+        "simvastatin",
+        "digoxine",
+        "digoxin",
+        "finasteride",
+        "laroxyl",
+        "telfast",
+        "xanax",
+        "valium",
+        "zocor",
+        "chibro proscar"
+      ]
+    },
+    {
+      "id": "substrats_pgp",
+      "fr": "Médicament transporté par la P-glycoprotéine",
+      "substances": [
+        "talinolol",
+        "digoxine",
+        "digoxin",
+        "fexofenadine"
+      ]
+    },
+    {
+      "id": "diuretique",
+      "fr": "Diurétique",
+      "substances": [
+        "furosemide",
+        "hydrochlorothiazide",
+        "indapamide",
+        "spironolactone",
+        "bumetanide",
+        "torasemide",
+        "amiloride",
+        "chlortalidone",
+        "lasilix",
+        "esidrex",
+        "fludex",
+        "aldactone"
+      ]
+    },
+    {
+      "id": "digitalique",
+      "fr": "Digitalique (cardiotonique)",
+      "substances": [
+        "digoxine",
+        "digoxin",
+        "digitoxine",
+        "digitoxin",
+        "hemigoxine"
+      ]
+    },
+    {
+      "id": "corticoide",
+      "fr": "Corticoïde",
+      "substances": [
+        "prednisone",
+        "prednisolone",
+        "methylprednisolone",
+        "dexamethasone",
+        "betamethasone",
+        "hydrocortisone",
+        "cortisone",
+        "cortancyl",
+        "solupred",
+        "medrol",
+        "celestene"
+      ]
+    },
+    {
+      "id": "laxatif_stimulant",
+      "fr": "Laxatif stimulant",
+      "substances": [
+        "bisacodyl",
+        "picosulfate",
+        "sodium picosulfate",
+        "senne",
+        "sene",
+        "cascara",
+        "dulcolax",
+        "contalax"
+      ]
+    },
+    {
+      "id": "antihypertenseur",
+      "fr": "Médicament contre l'hypertension",
+      "substances": [
+        "ramipril",
+        "perindopril",
+        "lisinopril",
+        "enalapril",
+        "captopril",
+        "losartan",
+        "valsartan",
+        "irbesartan",
+        "candesartan",
+        "telmisartan",
+        "amlodipine",
+        "nifedipine",
+        "bisoprolol",
+        "atenolol",
+        "metoprolol",
+        "nebivolol",
+        "coversyl",
+        "triatec",
+        "cozaar",
+        "tenormine"
+      ]
+    },
+    {
+      "id": "anticoagulant_oral_direct",
+      "fr": "Anticoagulant oral direct",
+      "substances": [
+        "rivaroxaban",
+        "apixaban",
+        "dabigatran",
+        "edoxaban",
+        "xarelto",
+        "eliquis",
+        "pradaxa",
+        "lixiana"
+      ]
+    },
+    {
+      "id": "antidepresseur_isrs",
+      "fr": "Antidépresseur de type ISRS",
+      "substances": [
+        "fluoxetine",
+        "paroxetine",
+        "sertraline",
+        "citalopram",
+        "escitalopram",
+        "fluvoxamine",
+        "prozac",
+        "deroxat",
+        "zoloft",
+        "seroplex",
+        "floxyfral"
+      ]
+    }
+  ]
 }
