@@ -1,0 +1,116 @@
+[
+ {
+  "id": "ginkgo_biloba-01",
+  "plant": "ginkgo_biloba",
+  "type": "contraindication",
+  "statement": "Usage contre-indiqué pendant la grossesse (tendance accrue aux saignements).",
+  "severity": "contraindiquee",
+  "population": "femmes enceintes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "The use is contraindicated in pregnancy"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant"
+  ]
+ },
+ {
+  "id": "ginkgo_biloba-02",
+  "plant": "ginkgo_biloba",
+  "type": "interaction",
+  "statement": "Peut augmenter l'effet des anticoagulants de type coumarine ; surveillance adaptée conseillée au début, au changement de dose et à l'arrêt.",
+  "severity": "moderee",
+  "population": "patients sous anticoagulants",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "Ginkgo leaf may increase the effects of anticoagulants such as coumarin derivatives."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "ginkgo_biloba-03",
+  "plant": "ginkgo_biloba",
+  "type": "warning",
+  "statement": "En cas de tendance hémorragique avec traitement anticoagulant et antiagrégant, n'utiliser qu'après avis d'un médecin.",
+  "severity": "majeure",
+  "population": "troubles de la coagulation",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "In patients with a pathologically increased bleeding tendency (haemorrhagic diathesis) and concomitant anticoagulant and antiplatelet treatment, the medicinal product should only be used after consultation with a doctor."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "bleeding_disorder"
+  ]
+ },
+ {
+  "id": "ginkgo_biloba-04",
+  "plant": "ginkgo_biloba",
+  "type": "interaction",
+  "statement": "Peut inhiber la P-glycoprotéine au niveau intestinal (étude avec le talinolol).",
+  "severity": "moderee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "An interaction study with talinolol indicates that G. biloba may inhibit P-glycoprotein at the intestinal level."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "ginkgo_biloba-05",
+  "plant": "ginkgo_biloba",
+  "type": "lactation",
+  "statement": "On ignore si les métabolites passent dans le lait maternel ; un risque pour le nourrisson ne peut être exclu.",
+  "severity": "precaution",
+  "population": "femmes allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "It is unknown whether G. biloba metabolites are excreted in human milk."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "lactating"
+  ]
+ },
+ {
+  "id": "ginkgo_biloba-06",
+  "plant": "ginkgo_biloba",
+  "type": "interaction",
+  "statement": "En association avec des anticoagulants (phenprocoumone, warfarine) ou des antiagrégants (clopidogrel, acide acétylsalicylique et autres AINS), leur effet peut être modifié.",
+  "severity": "moderee",
+  "population": "patients sous anticoagulants ou antiagrégants",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+   "quote": "or antiplatelet drugs (e.g. clopidogrel, acetylsalicylic acid and other non-steroidal antiinflammatory drugs), their effect may be influenced."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ }
+]

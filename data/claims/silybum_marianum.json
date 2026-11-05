@@ -1,0 +1,101 @@
+[
+ {
+  "id": "silybum_marianum-01",
+  "plant": "silybum_marianum",
+  "type": "contraindication",
+  "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active et aux plantes de la famille des Astéracées.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+   "quote": "Hypersensitivity to the active substance and to plants of the Asteraceae (Compositae) family."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "asteraceae_allergy"
+  ]
+ },
+ {
+  "id": "silybum_marianum-02",
+  "plant": "silybum_marianum",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportée dans la monographie EMA.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+   "quote": "Traditional use None reported"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "silybum_marianum-03",
+  "plant": "silybum_marianum",
+  "type": "warning",
+  "statement": "En cas d'ictère ou de changement de couleur des urines ou des selles, avis médical nécessaire.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+   "quote": "If icterus or a change in colour of urine or stool appears"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "silybum_marianum-04",
+  "plant": "silybum_marianum",
+  "type": "pregnancy",
+  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "silybum_marianum-05",
+  "plant": "silybum_marianum",
+  "type": "age",
+  "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+  "severity": "precaution",
+  "population": "moins de 18 ans",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+   "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ }
+]

@@ -14,7 +14,8 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": []
  },
  {
   "id": "hypericum_perforatum-02",
@@ -31,7 +32,10 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
  },
  {
   "id": "hypericum_perforatum-03",
@@ -48,7 +52,8 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": []
  },
  {
   "id": "hypericum_perforatum-04",
@@ -65,7 +70,11 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
  },
  {
   "id": "hypericum_perforatum-05",
@@ -82,6 +91,27 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ },
+ {
+  "id": "hypericum_perforatum-06",
+  "plant": "hypericum_perforatum",
+  "type": "interaction",
+  "statement": "Prudence avec les médicaments métabolisés par CYP3A4, CYP2B6, CYP2C9, CYP2C19 ou transportés par la P-glycoprotéine (ex. amitriptyline, fexofénadine, alprazolam, diazépam, midazolam, méthadone, simvastatine, digoxine, finastéride) : baisse possible des concentrations plasmatiques.",
+  "severity": "moderee",
+  "population": "patients sous médicaments à marge étroite ou métabolisés par ces voies",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+   "quote": "because a reduction of plasma concentrations is possible."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
  }
 ]

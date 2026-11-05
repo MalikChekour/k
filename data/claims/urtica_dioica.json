@@ -1,0 +1,101 @@
+[
+ {
+  "id": "urtica_dioica-01",
+  "plant": "urtica_dioica",
+  "type": "contraindication",
+  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Hypersensitivity to the active substance."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy"
+  ]
+ },
+ {
+  "id": "urtica_dioica-02",
+  "plant": "urtica_dioica",
+  "type": "warning",
+  "statement": "Non recommandée en cas de restriction hydrique (un apport en liquide suffisant est requis pendant le traitement).",
+  "severity": "precaution",
+  "population": "restriction hydrique",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Urtica dioica L. and Urtica urens L., herba are not recommended for patients with conditions where reduced fluid intake is advised."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "fluid_restriction"
+  ]
+ },
+ {
+  "id": "urtica_dioica-03",
+  "plant": "urtica_dioica",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportée dans la monographie EMA.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Traditional use None reported"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "urtica_dioica-04",
+  "plant": "urtica_dioica",
+  "type": "pregnancy",
+  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "urtica_dioica-05",
+  "plant": "urtica_dioica",
+  "type": "age",
+  "statement": "Usage non établi avant 18 ans pour la préparation a) (données insuffisantes).",
+  "severity": "precaution",
+  "population": "moins de 18 ans",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+   "quote": "The use in children and adolescents under 18 years of age has not been established due to the lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ }
+]

@@ -1,8 +1,184 @@
 [
- {"id":"matricaria_recutita","fr":"Camomille matricaire","latin":"Matricaria recutita L.","part":"fleur",
-  "queries":["Matricaria chamomilla","Matricaria recutita","german chamomile flower"],"keys":["matricaria","chamomile","camomile"]},
- {"id":"valeriana_officinalis","fr":"Valériane","latin":"Valeriana officinalis L.","part":"racine",
-  "queries":["Valeriana officinalis","valerian flower","valerian root"],"keys":["valeriana","valerian"]},
- {"id":"hypericum_perforatum","fr":"Millepertuis","latin":"Hypericum perforatum L.","part":"sommité fleurie",
-  "queries":["Hypericum perforatum","st john's wort flower","perforate st john's wort"],"keys":["hypericum","wort"]}
+ {
+  "id": "matricaria_recutita",
+  "fr": "Camomille matricaire",
+  "latin": "Matricaria recutita L.",
+  "part": "fleur",
+  "queries": [
+   "Matricaria chamomilla",
+   "Matricaria recutita",
+   "german chamomile flower"
+  ],
+  "keys": [
+   "matricaria",
+   "chamomile",
+   "camomile"
+  ]
+ },
+ {
+  "id": "valeriana_officinalis",
+  "fr": "Valériane",
+  "latin": "Valeriana officinalis L.",
+  "part": "racine",
+  "queries": [
+   "Valeriana officinalis",
+   "valerian flower",
+   "valerian root"
+  ],
+  "keys": [
+   "valeriana",
+   "valerian"
+  ]
+ },
+ {
+  "id": "hypericum_perforatum",
+  "fr": "Millepertuis",
+  "latin": "Hypericum perforatum L.",
+  "part": "sommité fleurie",
+  "queries": [
+   "Hypericum perforatum",
+   "st john's wort flower",
+   "perforate st john's wort"
+  ],
+  "keys": [
+   "hypericum",
+   "wort"
+  ]
+ },
+ {
+  "id": "passiflora_incarnata",
+  "fr": "Passiflore",
+  "latin": "Passiflora incarnata L.",
+  "part": "partie aérienne",
+  "queries": [
+   "Passiflora incarnata",
+   "passion flower passiflora incarnata",
+   "maypop passiflora"
+  ],
+  "keys": [
+   "passiflora",
+   "passionflower",
+   "passion flower",
+   "maypop"
+  ]
+ },
+ {
+  "id": "melissa_officinalis",
+  "fr": "Mélisse",
+  "latin": "Melissa officinalis L.",
+  "part": "feuille",
+  "queries": [
+   "Melissa officinalis",
+   "lemon balm melissa officinalis",
+   "lemon balm plant"
+  ],
+  "keys": [
+   "melissa",
+   "lemon balm"
+  ]
+ },
+ {
+  "id": "crataegus_spp",
+  "fr": "Aubépine",
+  "latin": "Crataegus spp.",
+  "part": "feuille et fleur",
+  "queries": [
+   "Crataegus monogyna",
+   "hawthorn flower crataegus",
+   "hawthorn blossom"
+  ],
+  "keys": [
+   "crataegus",
+   "hawthorn"
+  ]
+ },
+ {
+  "id": "curcuma_longa",
+  "fr": "Curcuma",
+  "latin": "Curcuma longa L.",
+  "part": "rhizome",
+  "queries": [
+   "Curcuma longa",
+   "turmeric plant curcuma longa",
+   "turmeric rhizome"
+  ],
+  "keys": [
+   "curcuma",
+   "turmeric"
+  ]
+ },
+ {
+  "id": "rhodiola_rosea",
+  "fr": "Rhodiola",
+  "latin": "Rhodiola rosea L.",
+  "part": "rhizome et racine",
+  "queries": [
+   "Rhodiola rosea",
+   "rhodiola rosea plant",
+   "golden root rhodiola"
+  ],
+  "keys": [
+   "rhodiola"
+  ]
+ },
+ {
+  "id": "ginkgo_biloba",
+  "fr": "Ginkgo",
+  "latin": "Ginkgo biloba L.",
+  "part": "feuille",
+  "queries": [
+   "Ginkgo biloba",
+   "ginkgo leaf",
+   "ginkgo biloba tree leaves"
+  ],
+  "keys": [
+   "ginkgo"
+  ]
+ },
+ {
+  "id": "silybum_marianum",
+  "fr": "Chardon-Marie",
+  "latin": "Silybum marianum (L.) Gaertn.",
+  "part": "fruit",
+  "queries": [
+   "Silybum marianum",
+   "milk thistle silybum",
+   "milk thistle flower"
+  ],
+  "keys": [
+   "silybum",
+   "milk thistle"
+  ]
+ },
+ {
+  "id": "urtica_dioica",
+  "fr": "Ortie piquante",
+  "latin": "Urtica dioica L.",
+  "part": "partie aérienne",
+  "queries": [
+   "Urtica dioica",
+   "stinging nettle urtica dioica",
+   "stinging nettle plant"
+  ],
+  "keys": [
+   "urtica",
+   "nettle"
+  ]
+ },
+ {
+  "id": "filipendula_ulmaria",
+  "fr": "Reine-des-prés",
+  "latin": "Filipendula ulmaria (L.) Maxim.",
+  "part": "sommité fleurie",
+  "queries": [
+   "Filipendula ulmaria",
+   "meadowsweet filipendula",
+   "meadowsweet flower"
+  ],
+  "keys": [
+   "filipendula",
+   "meadowsweet",
+   "spiraea ulmaria"
+  ]
+ }
 ]

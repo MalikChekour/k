@@ -14,6 +14,9 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "asteraceae_allergy"
+     ],
      "source": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
      "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
@@ -26,6 +29,7 @@
      "population": "transplantes renaux",
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [],
      "source": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
      "quote": "For patients after renal transplantation taking high dosages for longer periods (about two months) interactions based on effects on CYP450 have been reported."
@@ -38,6 +42,7 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [],
      "source": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
      "quote": "Cutaneous, oromucosal use, inhalation, or as bath additive: None reported."
@@ -50,6 +55,10 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
      "source": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
      "quote": "Safety during pregnancy and lactation has not been establis"
@@ -70,6 +79,9 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
      "source": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
      "quote": "Hypersensitivity to the active substance."
@@ -82,6 +94,7 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [],
      "source": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
      "quote": "Traditional use None reported"
@@ -94,6 +107,10 @@
      "population": "femmes enceintes ou allaitantes",
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
      "source": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
@@ -114,6 +131,7 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [],
      "source": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
      "quote": "Concomitant use with coumarin-type anticoagulants, cyclosporine, everolimus, sirolimus, tacrolimus for systemic use"
@@ -126,6 +144,9 @@
      "population": null,
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
      "source": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
      "quote": "Hyperici herba preparations induce the activity of CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein."
@@ -138,6 +159,7 @@
      "population": "femmes sous contraception hormonale",
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [],
      "source": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
      "quote": "The reduction of plasma concentrations of hormonal contraceptives may lead to increased intermenstrual bleeding and reduced safety in birth control."
@@ -150,6 +172,10 @@
      "population": "femmes enceintes ou allaitantes",
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
      "source": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
      "quote": "The use is not recommended during pregnancy and lactation."
@@ -162,11 +188,930 @@
      "population": "moins de 18 ans",
      "status": "verifie",
      "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
      "source": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
      "quote": "the use in children and adolescents under 18 years of age is not recommended."
+    },
+    {
+     "id": "hypericum_perforatum-06",
+     "type": "interaction",
+     "statement": "Prudence avec les médicaments métabolisés par CYP3A4, CYP2B6, CYP2C9, CYP2C19 ou transportés par la P-glycoprotéine (ex. amitriptyline, fexofénadine, alprazolam, diazépam, midazolam, méthadone, simvastatine, digoxine, finastéride) : baisse possible des concentrations plasmatiques.",
+     "severity": "moderee",
+     "population": "patients sous médicaments à marge étroite ou métabolisés par ces voies",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+     "quote": "because a reduction of plasma concentrations is possible."
     }
    ]
+  },
+  {
+   "id": "passiflora_incarnata",
+   "fr": "Passiflore",
+   "latin": "Passiflora incarnata L.",
+   "part": "partie aérienne",
+   "claims": [
+    {
+     "id": "passiflora_incarnata-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "passiflora_incarnata-02",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "passiflora_incarnata-03",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "passiflora_incarnata-04",
+     "type": "driving",
+     "statement": "Peut altérer l'aptitude à conduire et à utiliser des machines.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+     "quote": "May impair ability to drive and use machines."
+    },
+    {
+     "id": "passiflora_incarnata-05",
+     "type": "age",
+     "statement": "Usage non établi avant 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Passiflora incarnata L., herba (EMA/HMPC/669740/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-passiflora-incarnata-l-herba_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    }
+   ]
+  },
+  {
+   "id": "melissa_officinalis",
+   "fr": "Mélisse",
+   "latin": "Melissa officinalis L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "melissa_officinalis-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Melissa officinalis L., folium (EMA/HMPC/196745/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "melissa_officinalis-02",
+     "type": "interaction",
+     "statement": "Aucune donnée disponible sur les interactions (≠ « aucune interaction rapportée »).",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Melissa officinalis L., folium (EMA/HMPC/196745/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+     "quote": "Traditional use No data available."
+    },
+    {
+     "id": "melissa_officinalis-03",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Melissa officinalis L., folium (EMA/HMPC/196745/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "melissa_officinalis-04",
+     "type": "driving",
+     "statement": "Peut altérer l'aptitude à conduire et à utiliser des machines.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Melissa officinalis L., folium (EMA/HMPC/196745/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+     "quote": "May impair ability to drive and use machines."
+    },
+    {
+     "id": "melissa_officinalis-05",
+     "type": "age",
+     "statement": "Usage non établi avant 12 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Melissa officinalis L., folium (EMA/HMPC/196745/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-melissa-officinalis-l-folium_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    }
+   ]
+  },
+  {
+   "id": "crataegus_spp",
+   "fr": "Aubépine",
+   "latin": "Crataegus spp.",
+   "part": "feuille et fleur",
+   "claims": [
+    {
+     "id": "crataegus_spp-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "crataegus_spp-02",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "crataegus_spp-03",
+     "type": "warning",
+     "statement": "Consulter un médecin en cas de gonflement des chevilles ou des jambes, ou de douleur dans la région du cœur.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+     "quote": "If the ankles or legs become swollen, when pain occurs in the region of the heart"
+    },
+    {
+     "id": "crataegus_spp-04",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "crataegus_spp-05",
+     "type": "age",
+     "statement": "Usage non recommandé avant 18 ans (nécessite un avis médical).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age is not recommended because of concerns requiring medical advice."
+    }
+   ]
+  },
+  {
+   "id": "curcuma_longa",
+   "fr": "Curcuma",
+   "latin": "Curcuma longa L.",
+   "part": "rhizome",
+   "claims": [
+    {
+     "id": "curcuma_longa-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "curcuma_longa-02",
+     "type": "warning",
+     "statement": "Non recommandé en cas d'obstruction des voies biliaires, cholangite, maladie du foie, calculs biliaires et autres maladies biliaires (stimulation de la sécrétion biliaire).",
+     "severity": "precaution",
+     "population": "maladies hépatobiliaires",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+     "quote": "Due to possible stimulation on bile secretion Curcuma longa is not recommended in case of obstruction of the bile duct, cholangitis, liver disease, gallstones and any other biliary diseases."
+    },
+    {
+     "id": "curcuma_longa-03",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "curcuma_longa-04",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "curcuma_longa-05",
+     "type": "age",
+     "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    }
+   ]
+  },
+  {
+   "id": "rhodiola_rosea",
+   "fr": "Rhodiola",
+   "latin": "Rhodiola rosea L.",
+   "part": "rhizome et racine",
+   "claims": [
+    {
+     "id": "rhodiola_rosea-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "rhodiola_rosea-02",
+     "type": "interaction",
+     "statement": "Aucune interaction cliniquement pertinente observée.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+     "quote": "No clinically relevant interactions have been observed."
+    },
+    {
+     "id": "rhodiola_rosea-03",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "rhodiola_rosea-04",
+     "type": "age",
+     "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Rhodiola rosea L., rhizoma et radix (EMA/HMPC/24177/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhodiola-rosea-l-rhizoma-et-radix-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    }
+   ]
+  },
+  {
+   "id": "ginkgo_biloba",
+   "fr": "Ginkgo",
+   "latin": "Ginkgo biloba L.",
+   "part": "feuille",
+   "claims": [
+    {
+     "id": "ginkgo_biloba-01",
+     "type": "contraindication",
+     "statement": "Usage contre-indiqué pendant la grossesse (tendance accrue aux saignements).",
+     "severity": "contraindiquee",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+     "quote": "The use is contraindicated in pregnancy"
+    },
+    {
+     "id": "ginkgo_biloba-02",
+     "type": "interaction",
+     "statement": "Peut augmenter l'effet des anticoagulants de type coumarine ; surveillance adaptée conseillée au début, au changement de dose et à l'arrêt.",
+     "severity": "moderee",
+     "population": "patients sous anticoagulants",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+     "quote": "Ginkgo leaf may increase the effects of anticoagulants such as coumarin derivatives."
+    },
+    {
+     "id": "ginkgo_biloba-03",
+     "type": "warning",
+     "statement": "En cas de tendance hémorragique avec traitement anticoagulant et antiagrégant, n'utiliser qu'après avis d'un médecin.",
+     "severity": "majeure",
+     "population": "troubles de la coagulation",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "bleeding_disorder"
+     ],
+     "source": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+     "quote": "In patients with a pathologically increased bleeding tendency (haemorrhagic diathesis) and concomitant anticoagulant and antiplatelet treatment, the medicinal product should only be used after consultation with a doctor."
+    },
+    {
+     "id": "ginkgo_biloba-04",
+     "type": "interaction",
+     "statement": "Peut inhiber la P-glycoprotéine au niveau intestinal (étude avec le talinolol).",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+     "quote": "An interaction study with talinolol indicates that G. biloba may inhibit P-glycoprotein at the intestinal level."
+    },
+    {
+     "id": "ginkgo_biloba-05",
+     "type": "lactation",
+     "statement": "On ignore si les métabolites passent dans le lait maternel ; un risque pour le nourrisson ne peut être exclu.",
+     "severity": "precaution",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+     "quote": "It is unknown whether G. biloba metabolites are excreted in human milk."
+    },
+    {
+     "id": "ginkgo_biloba-06",
+     "type": "interaction",
+     "statement": "En association avec des anticoagulants (phenprocoumone, warfarine) ou des antiagrégants (clopidogrel, acide acétylsalicylique et autres AINS), leur effet peut être modifié.",
+     "severity": "moderee",
+     "population": "patients sous anticoagulants ou antiagrégants",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Ginkgo biloba L., folium (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ginkgo-biloba-l-folium_en.pdf",
+     "quote": "or antiplatelet drugs (e.g. clopidogrel, acetylsalicylic acid and other non-steroidal antiinflammatory drugs), their effect may be influenced."
+    }
+   ]
+  },
+  {
+   "id": "silybum_marianum",
+   "fr": "Chardon-Marie",
+   "latin": "Silybum marianum (L.) Gaertn.",
+   "part": "fruit",
+   "claims": [
+    {
+     "id": "silybum_marianum-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active et aux plantes de la famille des Astéracées.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "asteraceae_allergy"
+     ],
+     "source": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+     "quote": "Hypersensitivity to the active substance and to plants of the Asteraceae (Compositae) family."
+    },
+    {
+     "id": "silybum_marianum-02",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "silybum_marianum-03",
+     "type": "warning",
+     "statement": "En cas d'ictère ou de changement de couleur des urines ou des selles, avis médical nécessaire.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+     "quote": "If icterus or a change in colour of urine or stool appears"
+    },
+    {
+     "id": "silybum_marianum-04",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "silybum_marianum-05",
+     "type": "age",
+     "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Silybum marianum (L.) Gaertn., fructus (EMA/HMPC/294187/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-silybum-marianum-l-gaertn-fructus_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    }
+   ]
+  },
+  {
+   "id": "urtica_dioica",
+   "fr": "Ortie piquante",
+   "latin": "Urtica dioica L.",
+   "part": "partie aérienne",
+   "claims": [
+    {
+     "id": "urtica_dioica-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "urtica_dioica-02",
+     "type": "warning",
+     "statement": "Non recommandée en cas de restriction hydrique (un apport en liquide suffisant est requis pendant le traitement).",
+     "severity": "precaution",
+     "population": "restriction hydrique",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "fluid_restriction"
+     ],
+     "source": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+     "quote": "Urtica dioica L. and Urtica urens L., herba are not recommended for patients with conditions where reduced fluid intake is advised."
+    },
+    {
+     "id": "urtica_dioica-03",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "urtica_dioica-04",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "urtica_dioica-05",
+     "type": "age",
+     "statement": "Usage non établi avant 18 ans pour la préparation a) (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to the lack of adequate data."
+    }
+   ]
+  },
+  {
+   "id": "filipendula_ulmaria",
+   "fr": "Reine-des-prés",
+   "latin": "Filipendula ulmaria (L.) Maxim.",
+   "part": "sommité fleurie",
+   "claims": [
+    {
+     "id": "filipendula_ulmaria-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité aux salicylés.",
+     "severity": "contraindiquee",
+     "population": "allergie aux salicylés",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "salicylate_allergy"
+     ],
+     "source": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+     "quote": "Hypersensitivity to salicylates."
+    },
+    {
+     "id": "filipendula_ulmaria-02",
+     "type": "warning",
+     "statement": "L'association avec les salicylés et autres AINS n'est pas recommandée sans avis médical.",
+     "severity": "moderee",
+     "population": "patients sous AINS ou salicylés",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+     "quote": "Concomitant use with salicylates and other NSAIDs is not recommended without medical advice."
+    },
+    {
+     "id": "filipendula_ulmaria-03",
+     "type": "interaction",
+     "statement": "Aucune autre interaction rapportée dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+     "quote": "Traditional use None reported"
+    },
+    {
+     "id": "filipendula_ulmaria-04",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "filipendula_ulmaria-05",
+     "type": "age",
+     "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    }
+   ]
+  }
+ ],
+ "classes": [
+  {
+   "id": "anticoagulant_coumarinique",
+   "fr": "Anticoagulant de type coumarine",
+   "substances": [
+    "warfarine",
+    "warfarin",
+    "phenprocoumone",
+    "phenprocoumon",
+    "acenocoumarol",
+    "coumadine"
+   ]
+  },
+  {
+   "id": "anticoagulant_indanedione",
+   "fr": "Anticoagulant (indanedione)",
+   "substances": [
+    "fluindione",
+    "previscan"
+   ]
+  },
+  {
+   "id": "antiagregant",
+   "fr": "Antiagrégant plaquettaire",
+   "substances": [
+    "clopidogrel",
+    "acide acetylsalicylique",
+    "aspirine",
+    "aspirin",
+    "acetylsalicylic acid",
+    "kardegic",
+    "plavix"
+   ]
+  },
+  {
+   "id": "ains_salicyles",
+   "fr": "AINS / salicylés",
+   "substances": [
+    "acide acetylsalicylique",
+    "aspirine",
+    "aspirin",
+    "ibuprofene",
+    "ibuprofen",
+    "naproxene",
+    "diclofenac",
+    "kardegic"
+   ]
+  },
+  {
+   "id": "immunosuppresseur_greffe",
+   "fr": "Immunosuppresseur (greffe)",
+   "substances": [
+    "ciclosporine",
+    "cyclosporine",
+    "everolimus",
+    "sirolimus",
+    "tacrolimus"
+   ]
+  },
+  {
+   "id": "antiretroviral",
+   "fr": "Antirétroviral (inhibiteur de protéase / INTI)",
+   "substances": [
+    "fosamprenavir",
+    "indinavir"
+   ]
+  },
+  {
+   "id": "cytostatique_cyp",
+   "fr": "Anticancéreux métabolisé par CYP / P-gp",
+   "substances": [
+    "irinotecan",
+    "imatinib"
+   ]
+  },
+  {
+   "id": "contraceptif_hormonal",
+   "fr": "Contraceptif hormonal",
+   "substances": [
+    "pilule contraceptive",
+    "contraceptif hormonal",
+    "ethinylestradiol",
+    "levonorgestrel",
+    "desogestrel",
+    "drospirenone"
+   ]
+  },
+  {
+   "id": "substrats_cyp_pgp",
+   "fr": "Médicament métabolisé par CYP3A4/2B6/2C9/2C19 ou P-gp",
+   "substances": [
+    "amitriptyline",
+    "fexofenadine",
+    "alprazolam",
+    "diazepam",
+    "midazolam",
+    "methadone",
+    "simvastatine",
+    "simvastatin",
+    "digoxine",
+    "digoxin",
+    "finasteride"
+   ]
+  },
+  {
+   "id": "substrats_pgp",
+   "fr": "Médicament transporté par la P-glycoprotéine",
+   "substances": [
+    "talinolol",
+    "digoxine",
+    "digoxin",
+    "fexofenadine"
+   ]
+  }
+ ],
+ "rules": [
+  {
+   "plant": "hypericum_perforatum",
+   "class": "anticoagulant_coumarinique",
+   "claim": "hypericum_perforatum-01"
+  },
+  {
+   "plant": "hypericum_perforatum",
+   "class": "immunosuppresseur_greffe",
+   "claim": "hypericum_perforatum-01"
+  },
+  {
+   "plant": "hypericum_perforatum",
+   "class": "antiretroviral",
+   "claim": "hypericum_perforatum-01"
+  },
+  {
+   "plant": "hypericum_perforatum",
+   "class": "cytostatique_cyp",
+   "claim": "hypericum_perforatum-01"
+  },
+  {
+   "plant": "hypericum_perforatum",
+   "class": "contraceptif_hormonal",
+   "claim": "hypericum_perforatum-03"
+  },
+  {
+   "plant": "hypericum_perforatum",
+   "class": "substrats_cyp_pgp",
+   "claim": "hypericum_perforatum-06"
+  },
+  {
+   "plant": "ginkgo_biloba",
+   "class": "anticoagulant_coumarinique",
+   "claim": "ginkgo_biloba-02"
+  },
+  {
+   "plant": "ginkgo_biloba",
+   "class": "antiagregant",
+   "claim": "ginkgo_biloba-06"
+  },
+  {
+   "plant": "ginkgo_biloba",
+   "class": "substrats_pgp",
+   "claim": "ginkgo_biloba-04"
+  },
+  {
+   "plant": "matricaria_recutita",
+   "class": "immunosuppresseur_greffe",
+   "claim": "chamo-int-cyp450-transplant"
+  },
+  {
+   "plant": "filipendula_ulmaria",
+   "class": "ains_salicyles",
+   "claim": "filipendula_ulmaria-02"
   }
  ]
 }

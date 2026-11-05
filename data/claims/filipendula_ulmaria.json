@@ -1,0 +1,99 @@
+[
+ {
+  "id": "filipendula_ulmaria-01",
+  "plant": "filipendula_ulmaria",
+  "type": "contraindication",
+  "statement": "Contre-indiquée en cas d'hypersensibilité aux salicylés.",
+  "severity": "contraindiquee",
+  "population": "allergie aux salicylés",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Hypersensitivity to salicylates."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "salicylate_allergy"
+  ]
+ },
+ {
+  "id": "filipendula_ulmaria-02",
+  "plant": "filipendula_ulmaria",
+  "type": "warning",
+  "statement": "L'association avec les salicylés et autres AINS n'est pas recommandée sans avis médical.",
+  "severity": "moderee",
+  "population": "patients sous AINS ou salicylés",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Concomitant use with salicylates and other NSAIDs is not recommended without medical advice."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "filipendula_ulmaria-03",
+  "plant": "filipendula_ulmaria",
+  "type": "interaction",
+  "statement": "Aucune autre interaction rapportée dans la monographie EMA.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Traditional use None reported"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "filipendula_ulmaria-04",
+  "plant": "filipendula_ulmaria",
+  "type": "pregnancy",
+  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "filipendula_ulmaria-05",
+  "plant": "filipendula_ulmaria",
+  "type": "age",
+  "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+  "severity": "precaution",
+  "population": "moins de 18 ans",
+  "source": {
+   "kind": "doc",
+   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+   "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ }
+]

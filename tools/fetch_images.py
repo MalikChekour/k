@@ -46,8 +46,8 @@ def word_in(text, keys):
     return any(re.search(rf"\b{re.escape(k)}", t) for k in keys)  # debut de mot : 'valerian' ~ 'valeriana'
 
 
-def cand(provider, pid, page, thumb, label, author, lic):
-    return dict(provider=provider, pid=str(pid), page_url=page, thumb_url=thumb, label=label or "", author=author or "", license=lic)
+def cand(provider, pid, page, thumb, label, author, lic, width=None):
+    return dict(provider=provider, pid=str(pid), page_url=page, thumb_url=thumb, label=label or "", author=author or "", license=lic, width=width)
 
 
 def pexels(q):
@@ -56,14 +56,14 @@ def pexels(q):
     d = get_json("https://api.pexels.com/v1/search?" + urllib.parse.urlencode({"query": q, "per_page": 80}), {"Authorization": k})
     return [cand("pexels", p["id"], p["url"], p["src"]["medium"],
                  (p.get("alt") or "") + " " + p["url"].rstrip("/").rsplit("/", 1)[-1].replace("-", " "),  # alt souvent vide : on lit le slug
-                 p.get("photographer"), "Pexels License") for p in d.get("photos", [])]
+                 p.get("photographer"), "Pexels License", p.get("width")) for p in d.get("photos", [])]
 
 
 def pixabay(q):
     k = os.environ.get("PIXABAY_API_KEY")
     if not k: return None
-    d = get_json("https://pixabay.com/api/?" + urllib.parse.urlencode({"key": k, "q": q, "image_type": "photo", "per_page": 100, "safesearch": "true"}))
-    return [cand("pixabay", h["id"], h["pageURL"], h["webformatURL"], h.get("tags"), h.get("user"), "Pixabay Content License") for h in d.get("hits", [])]
+    d = get_json("https://pixabay.com/api/?" + urllib.parse.urlencode({"key": k, "q": q, "image_type": "photo", "per_page": 200, "safesearch": "true"}))
+    return [cand("pixabay", h["id"], h["pageURL"], h["webformatURL"], h.get("tags"), h.get("user"), "Pixabay Content License", h.get("imageWidth")) for h in d.get("hits", [])]
 
 
 def unsplash(q):
@@ -71,7 +71,7 @@ def unsplash(q):
     if not k: return None
     d = get_json("https://api.unsplash.com/search/photos?" + urllib.parse.urlencode({"query": q, "per_page": 30}), {"Authorization": f"Client-ID {k}"})
     return [cand("unsplash", r["id"], r["links"]["html"], r["urls"]["small"],
-                 f'{r.get("alt_description") or ""} {r.get("description") or ""}', r["user"]["name"], "Unsplash License") for r in d.get("results", [])]
+                 f'{r.get("alt_description") or ""} {r.get("description") or ""}', r["user"]["name"], "Unsplash License", r.get("width")) for r in d.get("results", [])]
 
 
 _ov = {}
@@ -86,10 +86,11 @@ def openverse(q):
     d = get_json("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode({"q": q, "license": "cc0,pdm", "page_size": 20}),
                  {"Authorization": "Bearer " + _ov["t"]})
     return [cand("openverse", r["id"], r.get("foreign_landing_url"), r.get("thumbnail") or r["url"],
-                 f'{r.get("title") or ""} ' + " ".join(t["name"] for t in r.get("tags") or []), r.get("creator"), r.get("license")) for r in d.get("results", [])]
+                 f'{r.get("title") or ""} ' + " ".join(t["name"] for t in r.get("tags") or []), r.get("creator"), r.get("license"), r.get("width")) for r in d.get("results", [])]
 
 
 MAXC = 40
+MIN_W = 1000  # px ; la photo doit rester nette en feuille plein ecran
 PROVIDERS = [("openverse", openverse), ("pexels", pexels), ("pixabay", pixabay), ("unsplash", unsplash)]
 
 
@@ -104,27 +105,29 @@ _JC = {}
 
 def judge_cached(c, jpeg, latin, path):
     if not _JC and os.path.exists(path): _JC.update(json.load(open(path)))
-    k = f'{c["provider"]}:{c["pid"]}:{latin}'
-    if k not in _JC or _JC[k] is None:
-        _JC[k] = judge(jpeg, latin)
+    k = f'v2:{c["provider"]}:{c["pid"]}:{latin}'
+    if k not in _JC or _JC[k] is None or None in _JC[k]:
+        _JC[k] = list(judge(jpeg, latin))
         json.dump(_JC, open(path, "w"))
-    return _JC[k]
+    return tuple(_JC[k])
 
 
 def judge(jpeg, latin):
-    """True / False / None (= indisponible ; traite comme REJET par l'appelant)."""
+    """-> (espece, personne) ; espece True/False/None, personne True/False/None. None = indisponible = REJET cote appelant."""
     k = os.environ.get("OPENROUTER_API_KEY")
-    if not k: return None
-    body = json.dumps({"model": "google/gemini-2.5-flash", "max_tokens": 5, "messages": [{"role": "user", "content": [
-        {"type": "text", "text": f"Is the main subject of this photo a living or dried plant of the species {latin}, shown as a plant "
-                                 "(not a drink, product, pill, person or other species)? Answer exactly YES, NO or UNSURE."},
+    if not k: return (None, None)
+    body = json.dumps({"model": "google/gemini-2.5-flash", "max_tokens": 12, "messages": [{"role": "user", "content": [
+        {"type": "text", "text": f"Question 1: is the main subject a living or dried plant of the genus/species {latin}, shown as a plant "
+                                 "(not a drink, product, pill or other species)? Question 2: is any person, hand, finger or body part visible? "
+                                 "Reply exactly in this format: SPECIES=YES|NO|UNSURE PERSON=YES|NO"},
         {"type": "image_url", "image_url": {"url": "data:image/jpeg;base64," + base64.b64encode(jpeg).decode()}}]}]}).encode()
     try:
         r = get_json("https://openrouter.ai/api/v1/chat/completions", {"Authorization": "Bearer " + k, "Content-Type": "application/json"}, body, 60)
-        a = r["choices"][0]["message"]["content"].strip().upper()
-        return True if a.startswith("YES") else False if a.startswith("NO") else None
+        a = r["choices"][0]["message"]["content"].upper()
+        sp = re.search(r"SPECIES\s*=\s*(YES|NO|UNSURE)", a); pe = re.search(r"PERSON\s*=\s*(YES|NO)", a)
+        return (None if not sp or sp.group(1) == "UNSURE" else sp.group(1) == "YES", None if not pe else pe.group(1) == "YES")
     except Exception:
-        return None
+        return (None, None)
 
 
 def sheet(items, path):
@@ -151,7 +154,7 @@ def main():
     os.makedirs(outdir, exist_ok=True); os.makedirs(os.path.join(ROOT, "data", "images"), exist_ok=True)
     plants = [p for p in json.load(open(os.path.join(ROOT, "data", "plants.json"), encoding="utf-8")) if not args or p["id"] in args]
     for p in plants:
-        latin = re.sub(r"\s+[A-Z][a-z]*\.?$", "", p["latin"]).strip()
+        latin = " ".join(p["latin"].split()[:2])  # genre + espece, sans auteur
         pool, muettes, brut = [], set(), 0
         for name, fn in PROVIDERS:
             for q in p["queries"]:
@@ -159,24 +162,28 @@ def main():
                 except Exception as e: print(f"  ! {name} '{q}': {e}"); r = []
                 if r is None: muettes.add(name); break
                 brut += len(r); pool += r
-        kept, seen_ids, hashes, rej = [], set(), [], dict(label=0, interdit=0, doublon=0, juge=0, illisible=0)
+        kept, seen_ids, hashes, gis = [], set(), [], {}
+        rej = dict(label=0, interdit=0, petite=0, doublon=0, juge=0, humain=0, illisible=0)
         for c in pool:
             key = (c["provider"], c["pid"])
             if key in seen_ids: continue
             seen_ids.add(key)
             if not word_in(c["label"], p["keys"]): rej["label"] += 1; continue
+            gis[c["provider"]] = gis.get(c["provider"], 0) + 1  # gisement : photos qui NOMMENT la plante
             if REJECT.search(c["label"]): rej["interdit"] += 1; continue
+            if c.get("width") and c["width"] < MIN_W: rej["petite"] += 1; continue
             try: jpg = get_bytes(c["thumb_url"]); im = Image.open(io.BytesIO(jpg)); h = dhash(im)
             except Exception: rej["illisible"] += 1; continue
             if any(bin(h ^ x).count("1") <= 3 for x in hashes): rej["doublon"] += 1; continue
-            j = judge(jpg, latin) if use_judge else None
+            j, pers = judge_cached(c, jpg, latin, os.path.join(outdir, "judge_cache.json")) if use_judge else (None, None)
+            if use_judge and pers is not False: rej["humain"] += 1; continue  # humain OU juge muet = rejet
             if use_judge and j is not True: rej["juge"] += 1; continue
             hashes.append(h); kept.append({**c, "dhash": f"{h:016x}", "judge": j is True, "status": "propose", "_jpg": jpg})
         by = {}
         for c in kept: by.setdefault(c["provider"], []).append(c)
         kept = [c for grp in zip(*[by[k] for k in by]) for c in grp] if len(by) > 1 else kept
         kept = (kept + [c for v in by.values() for c in v if c not in kept])[:MAXC]
-        print(f'{p["id"]}: brut {brut} -> retenus {len(kept)} | rejets {rej}' + (f" | SOURCES MUETTES: {sorted(muettes)}" if muettes else ""))
+        print(f'{p["id"]}: brut {brut} -> retenus {len(kept)} | gisement nomme {gis} | rejets {rej}' + (f" | SOURCES MUETTES: {sorted(muettes)}" if muettes else ""))
         if kept: sheet(kept, os.path.join(outdir, f'planche_{p["id"]}.jpg'))
         json.dump([{k: v for k, v in c.items() if k != "_jpg"} | {"index": i} for i, c in enumerate(kept)],
                   open(os.path.join(ROOT, "data", "images", f'{p["id"]}.json'), "w", encoding="utf-8"), ensure_ascii=False, indent=1)

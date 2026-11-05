@@ -14,7 +14,10 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": [
+   "asteraceae_allergy"
+  ]
  },
  {
   "id": "chamo-int-cyp450-transplant",
@@ -31,7 +34,8 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": []
  },
  {
   "id": "chamo-int-autres-voies",
@@ -48,7 +52,8 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": []
  },
  {
   "id": "chamo-grossesse-non-etablie",
@@ -65,6 +70,10 @@
   },
   "status": "verifie",
   "reviewed_by": null,
-  "reviewed_on": null
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
  }
 ]

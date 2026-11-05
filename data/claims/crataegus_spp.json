@@ -1,0 +1,101 @@
+[
+ {
+  "id": "crataegus_spp-01",
+  "plant": "crataegus_spp",
+  "type": "contraindication",
+  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+  "severity": "contraindiquee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "Hypersensitivity to the active substance."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "plant_allergy"
+  ]
+ },
+ {
+  "id": "crataegus_spp-02",
+  "plant": "crataegus_spp",
+  "type": "interaction",
+  "statement": "Aucune interaction rapportée dans la monographie EMA.",
+  "severity": "aucune_rapportee",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "Traditional use None reported"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": []
+ },
+ {
+  "id": "crataegus_spp-03",
+  "plant": "crataegus_spp",
+  "type": "warning",
+  "statement": "Consulter un médecin en cas de gonflement des chevilles ou des jambes, ou de douleur dans la région du cœur.",
+  "severity": "precaution",
+  "population": null,
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "If the ankles or legs become swollen, when pain occurs in the region of the heart"
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "always"
+  ]
+ },
+ {
+  "id": "crataegus_spp-04",
+  "plant": "crataegus_spp",
+  "type": "pregnancy",
+  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+  "severity": "precaution",
+  "population": "femmes enceintes ou allaitantes",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "pregnant",
+   "lactating"
+  ]
+ },
+ {
+  "id": "crataegus_spp-05",
+  "plant": "crataegus_spp",
+  "type": "age",
+  "statement": "Usage non recommandé avant 18 ans (nécessite un avis médical).",
+  "severity": "precaution",
+  "population": "moins de 18 ans",
+  "source": {
+   "kind": "doc",
+   "title": "EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC)",
+   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-crataegus-spp-folium-cum-flore_en.pdf",
+   "quote": "The use in children and adolescents under 18 years of age is not recommended because of concerns requiring medical advice."
+  },
+  "status": "verifie",
+  "reviewed_by": null,
+  "reviewed_on": null,
+  "applies_to": [
+   "age_lt_18"
+  ]
+ }
+]

@@ -2,9 +2,12 @@ import React, { useState } from 'react';
 import { Linking, Modal, Pressable, SafeAreaView, ScrollView, StatusBar, StyleSheet, Text, TextInput, View } from 'react-native';
 import bundle from './src/data/bundle.json';
 import { tincture } from './src/tincture';
+import { assess } from './src/safety';
+import type { Bundle } from './src/safety';
 import type { Plant } from './src/types';
 
 const plants = bundle.plants as Plant[];
+const data = bundle as unknown as Bundle;
 const SEV: Record<string, string> = {
   contraindiquee: '#E5484D', majeure: '#E5484D', moderee: '#F5A524', precaution: '#F5A524', aucune_rapportee: '#8B8B8B',
 };
@@ -98,18 +101,90 @@ function Lab() {
   );
 }
 
+const VERDICT: Record<string, { t: string; c: string }> = {
+  aucune_selection: { t: 'Choisissez au moins une plante.', c: '#9AA5A0' },
+  contre_indication: { t: 'Contre-indication signalée', c: '#E5484D' },
+  alertes: { t: 'Alertes à lire avant tout usage', c: '#F5A524' },
+  incomplet: { t: 'Évaluation incomplète : médicament non reconnu', c: '#F5A524' },
+  aucune_alerte_dans_notre_base: { t: 'Aucune alerte dans notre base (ce n’est pas une garantie)', c: '#52B788' },
+};
+const FLAGS: [string, string][] = [
+  ['asteraceae_allergy', 'Allergie aux Astéracées'], ['salicylate_allergy', 'Allergie aux salicylés'], ['bleeding_disorder', 'Trouble de la coagulation'],
+  ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'],
+];
+
+function Chip({ label, on, onPress }: { label: string; on: boolean; onPress: () => void }) {
+  return (
+    <Pressable onPress={onPress} style={[s.chip, on && s.chipOn]} accessibilityRole="checkbox" accessibilityState={{ checked: on }} accessibilityLabel={label}>
+      <Text style={on ? s.chipTxtOn : s.chipTxt}>{label}</Text>
+    </Pressable>
+  );
+}
+
+function Safety() {
+  const [sel, setSel] = useState<string[]>([]);
+  const [flags, setFlags] = useState<string[]>([]);
+  const [pregnant, setPregnant] = useState(false);
+  const [lactating, setLactating] = useState(false);
+  const [age, setAge] = useState('');
+  const [meds, setMeds] = useState('');
+  const toggle = (arr: string[], set: (a: string[]) => void, id: string) => set(arr.includes(id) ? arr.filter(x => x !== id) : [...arr, id]);
+  const ageN = parseInt(age, 10);
+  const r = assess(data, sel, {
+    pregnant, lactating, flags, ageYears: Number.isFinite(ageN) ? ageN : null,
+    meds: meds.split(/[,;\n]/).map(x => x.trim()).filter(Boolean),
+  });
+  const v = VERDICT[r.verdict];
+  return (
+    <ScrollView contentContainerStyle={s.pad}>
+      <Text style={s.h1}>Vérificateur de sécurité</Text>
+      <Disclaimer />
+      <Text style={s.tag}>PLANTES</Text>
+      <View style={s.wrap}>{plants.map(p => <Chip key={p.id} label={p.fr} on={sel.includes(p.id)} onPress={() => toggle(sel, setSel, p.id)} />)}</View>
+      <Text style={s.tag}>PROFIL (reste sur ce téléphone)</Text>
+      <View style={s.wrap}>
+        <Chip label="Enceinte" on={pregnant} onPress={() => setPregnant(!pregnant)} />
+        <Chip label="Allaitement" on={lactating} onPress={() => setLactating(!lactating)} />
+        {FLAGS.map(([id, label]) => <Chip key={id} label={label} on={flags.includes(id)} onPress={() => toggle(flags, setFlags, id)} />)}
+      </View>
+      <View style={s.row}>
+        <Text style={s.body}>Âge (ans)</Text>
+        <TextInput style={s.input} value={age} onChangeText={setAge} keyboardType="number-pad" accessibilityLabel="Âge" />
+      </View>
+      <Text style={s.tag}>MÉDICAMENTS (séparés par une virgule)</Text>
+      <TextInput style={[s.input, s.wide]} value={meds} onChangeText={setMeds} placeholder="ex. warfarine, pilule contraceptive" placeholderTextColor="#5C6862" accessibilityLabel="Médicaments" />
+      <View style={[s.card, { borderLeftWidth: 4, borderLeftColor: v.c }]}>
+        <Text style={[s.h2, { color: v.c }]}>{v.t}</Text>
+        {r.unknownMeds.length > 0 && <Text style={s.warn}>Non reconnu : {r.unknownMeds.join(', ')}. Demandez à votre pharmacien.</Text>}
+      </View>
+      {r.alerts.map(a => (
+        <View key={a.plantId + a.claimId} style={[s.claim, { borderLeftColor: SEV[a.severity] ?? '#52B788' }]}>
+          <Text style={s.tag}>{a.plantFr.toUpperCase()} · {a.severity.toUpperCase()}</Text>
+          <Text style={s.body}>{a.statement}</Text>
+          <Text style={s.muted}>{a.cause}</Text>
+          <Text style={s.muted}>« {a.quote} »</Text>
+          <Pressable onPress={() => Linking.openURL(a.url)}><Text style={s.link}>{a.source}</Text></Pressable>
+          {!a.reviewed && <Text style={s.warn}>Pas encore relu par un professionnel</Text>}
+        </View>
+      ))}
+      {r.notes.map((n, i) => <Text key={i} style={s.muted}>• {n.plantFr} : {n.text}</Text>)}
+      <Text style={s.muted}>{r.coverage}</Text>
+    </ScrollView>
+  );
+}
+
 export default function App() {
-  const [tab, setTab] = useState<'lib' | 'lab'>('lib');
+  const [tab, setTab] = useState<'lib' | 'secu' | 'lab'>('lib');
   const [open, setOpen] = useState<Plant | null>(null);
   return (
     <SafeAreaView style={s.root}>
       <StatusBar barStyle="light-content" />
       <Text style={s.brand}>Apothecaria</Text>
-      <View style={{ flex: 1 }}>{tab === 'lib' ? <Library onOpen={setOpen} /> : <Lab />}</View>
+      <View style={{ flex: 1 }}>{tab === 'lib' ? <Library onOpen={setOpen} /> : tab === 'secu' ? <Safety /> : <Lab />}</View>
       <View style={s.tabs}>
-        {(['lib', 'lab'] as const).map(k => (
+        {(['lib', 'secu', 'lab'] as const).map(k => (
           <Pressable key={k} style={s.tab} onPress={() => setTab(k)} accessibilityRole="tab" accessibilityState={{ selected: tab === k }}>
-            <Text style={[s.tabTxt, tab === k && s.tabOn]}>{k === 'lib' ? 'Plantes' : 'Laboratoire'}</Text>
+            <Text style={[s.tabTxt, tab === k && s.tabOn]}>{k === 'lib' ? 'Plantes' : k === 'secu' ? 'Sécurité' : 'Laboratoire'}</Text>
           </Pressable>
         ))}
       </View>
@@ -141,6 +216,11 @@ const s = StyleSheet.create({
   input: { backgroundColor: '#0E1712', color: '#F2F5F3', borderRadius: 10, padding: 10, width: 100, textAlign: 'right' },
   tabs: { flexDirection: 'row', borderTopWidth: 1, borderTopColor: '#1B2A21' },
   tab: { flex: 1, padding: 16, alignItems: 'center' },
+  wrap: { flexDirection: 'row', flexWrap: 'wrap', gap: 8 },
+  chip: { borderWidth: 1, borderColor: '#2A3A31', borderRadius: 20, paddingVertical: 8, paddingHorizontal: 14 },
+  chipOn: { backgroundColor: '#52B788', borderColor: '#52B788' },
+  chipTxt: { color: '#C9D2CD', fontSize: 13 }, chipTxtOn: { color: '#06140C', fontSize: 13, fontWeight: '600' },
+  wide: { width: '100%', textAlign: 'left' },
   tabTxt: { color: '#9AA5A0' },
   tabOn: { color: '#52B788', fontWeight: '600' },
 });
