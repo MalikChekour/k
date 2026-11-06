@@ -250,5 +250,12 @@
   "license": "Pixabay Content License",
   "page_url": "https://pixabay.com/photos/flowers-buds-marshmallow-plant-8206820/",
   "label": "flowers, buds, marshmallow, plant, blossom, bloom, close up, nature"
+ },
+ "schisandra_chinensis": {
+  "provider": "pixabay",
+  "author": "allybally4b",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/omija-schizandra-schisandra-drinks-4047962/",
+  "label": "omija, schizandra, schisandra, drinks, summer, juice, fresh, schizandra, schisandra, schisandra, schisandra, schisandra, schisandra"
  }
 }

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "rehmannia_glutinosa-ind-01",
+    "plant": "rehmannia_glutinosa",
+    "type": "indication",
+    "statement": "Aucune utilisation n'est étayée par des essais cliniques contrôlés : des cas publiés évoquent un usage dans la polyarthrite rhumatoïde et l'hypertension, mais l'OMS note que les essais contrôlés manquent.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Although published case reports indicate that Radix Rehmanniae is used for the treatment of rheumatoid arthritis and hypertension (19), data from controlled clinical trials are lacking."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rehmannia_glutinosa-ind-02",
+    "plant": "rehmannia_glutinosa",
+    "type": "indication",
+    "statement": "Usage décrit dans les pharmacopées asiatiques (sans preuve clinique contrôlée) : par voie orale, traitement symptomatique de la fièvre, du diabète, de l'hypertension, des éruptions cutanées, du mal de gorge et de règles abondantes. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Internally for the symptomatic treatment of fevers, diabetes, hypertension, skin eruptions and maculation, sore throat, hypermenorrhoea and polymenorrhoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rehmannia_glutinosa-pos-01",
+    "plant": "rehmannia_glutinosa",
+    "type": "posology",
+    "statement": "Dose quotidienne décrite : 9 à 15 g de racines et rhizomes séchés, en infusion ou décoction.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Daily dose: 9-15 g of dried roots and rhizomes as an infusion or decoction"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rehmannia_glutinosa-01",
+    "plant": "rehmannia_glutinosa",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de maladie chronique du foie.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Radix Rehmanniae is contraindicated in chronic liver or gastrointestinal diseases and in patients with diarrhoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "liver_disease"
+    ]
+  },
+  {
+    "id": "rehmannia_glutinosa-02",
+    "plant": "rehmannia_glutinosa",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de maladie chronique du tube digestif ou de diarrhée.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Radix Rehmanniae is contraindicated in chronic liver or gastrointestinal diseases and in patients with diarrhoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "rehmannia_glutinosa-03",
+    "plant": "rehmannia_glutinosa",
+    "type": "pregnancy",
+    "statement": "Contre-indiquée pendant la grossesse (effet possible sur l'implantation de l'embryon observé chez la souris).",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "the use of Radix Rehmanniae during pregnancy is also contraindicated"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "rehmannia_glutinosa-04",
+    "plant": "rehmannia_glutinosa",
+    "type": "pregnancy",
+    "statement": "Allaitement : usage non recommandé sans la supervision d'un professionnel de santé, faute de données.",
+    "severity": "precaution",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "its use by nursing mothers is not recommended without supervision by a health-care provider"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "rehmannia_glutinosa-05",
+    "plant": "rehmannia_glutinosa",
+    "type": "age",
+    "statement": "Enfants : usage non recommandé sans la supervision d'un professionnel de santé, faute de données (l'âge n'est pas précisé).",
+    "severity": "precaution",
+    "population": "enfants",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "its use in children is not recommended without supervision by a health-care provider"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "rehmannia_glutinosa-06",
+    "plant": "rehmannia_glutinosa",
+    "type": "interaction",
+    "statement": "Aucune information sur les interactions médicamenteuses dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "No information available on general precautions or on precautions concerning drug interactions"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rehmannia_glutinosa-07",
+    "plant": "rehmannia_glutinosa",
+    "type": "warning",
+    "statement": "Effets indésirables rapportés, passagers : diarrhée, douleurs abdominales, œdème, fatigue, vertiges et palpitations.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Rehmanniae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Diarrhoea, abdominal pain, oedema, fatigue, vertigo and heart palpitations have been reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

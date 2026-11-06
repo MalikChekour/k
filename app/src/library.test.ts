@@ -37,11 +37,12 @@ test('filtre par rubrique : seules les plantes ayant une indication restent', ()
   for (const p of r) assert.ok(p.claims.some(c => c.type === 'indication'), p.id);
 });
 
-test('sources : une entrée par document EMA, toutes officielles, sans doublon', () => {
+test('sources : un document par URL, toutes officielles (EMA ou OMS), sans doublon', () => {
   const src = sourcesOf(plants);
   assert.equal(new Set(src.map(x => x.url)).size, src.length);
-  assert.equal(src.length, plants.length);
-  for (const x of src) assert.match(x.url, /^https:\/\/www\.ema\.europa\.eu\/en\/documents\/herbal-monograph\//);
+  for (const x of src) assert.match(x.url, /^https:\/\/(www\.ema\.europa\.eu\/en\/documents\/herbal-monograph\/|archive\.org\/download\/WHOMonographsOnSelectedMedicinalPlantsVol3\/)/);
+  // chaque plante figure dans au moins un document
+  for (const p of plants) assert.ok(src.some(x => x.plants.includes(p.fr)), p.id);
 });
 
 test('gravité lisible, jamais le code brut', () => {

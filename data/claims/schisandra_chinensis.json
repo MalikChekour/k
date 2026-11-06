@@ -1,0 +1,194 @@
+[
+  {
+    "id": "schisandra_chinensis-ind-01",
+    "plant": "schisandra_chinensis",
+    "type": "indication",
+    "statement": "Aucun usage n'est étayé par des essais cliniques contrôlés : des éléments cliniques évoquent un intérêt dans la psychose, la gastrite, l'hépatite et la fatigue, mais l'OMS note que les essais contrôlés manquent.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Although some clinical evidence supports the use of Fructus Schisandrae for the treatment of psychosis, gastritis, hepatitis and fatigue (16, 17), data from controlled clinical trials are lacking."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "schisandra_chinensis-ind-02",
+    "plant": "schisandra_chinensis",
+    "type": "indication",
+    "statement": "Usage décrit dans les pharmacopées (sans preuve clinique contrôlée) : toux chronique, asthme, diabète, troubles urinaires, et tonique général contre la fatigue liée à une maladie. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Treatment of chronic cough and asthma, diabetes, urinary tract disorders. As a general tonic for treating fatigue associated with illness"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "schisandra_chinensis-pos-01",
+    "plant": "schisandra_chinensis",
+    "type": "posology",
+    "statement": "Dose quotidienne moyenne décrite : 1,5 à 6 g de fruits séchés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Average daily dose: 1.5-6.0 g of the dried fruits"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "schisandra_chinensis-01",
+    "plant": "schisandra_chinensis",
+    "type": "interaction",
+    "statement": "Les fruits peuvent avoir un effet dépresseur sur le système nerveux central : ne pas les associer à d'autres dépresseurs du système nerveux central.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "The fruits may have depressant effects on the central nervous system and should not therefore be used in conjunction with other CNS depressants"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "schisandra_chinensis-02",
+    "plant": "schisandra_chinensis",
+    "type": "interaction",
+    "statement": "Les fruits stimulent des enzymes du foie (cytochrome P450). Avec des médicaments qui en dépendent (ciclosporine, warfarine, inhibiteurs de protéase, millepertuis, associations œstrogène-progestérone), l'association ne se fait que sous la supervision d'un professionnel de santé.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "such as cyclosporin, warfarin, protease inhibitors, St John"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "schisandra_chinensis-03",
+    "plant": "schisandra_chinensis",
+    "type": "pregnancy",
+    "statement": "Grossesse : usage non recommandé, faute de données de sécurité sur le développement du nouveau-né.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "its use during pregnancy is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "schisandra_chinensis-04",
+    "plant": "schisandra_chinensis",
+    "type": "pregnancy",
+    "statement": "Une teinture de ces fruits a déclenché le travail chez des femmes enceintes dans une étude non contrôlée (et augmenté les contractions de l'utérus chez la lapine).",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Induction of labour was observed after the second dose"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "schisandra_chinensis-05",
+    "plant": "schisandra_chinensis",
+    "type": "pregnancy",
+    "statement": "Allaitement : usage non recommandé, faute de données de sécurité.",
+    "severity": "precaution",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Owing to a lack of safety data, the use of Fructus Schisandrae during nursing is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "schisandra_chinensis-06",
+    "plant": "schisandra_chinensis",
+    "type": "warning",
+    "statement": "Signes de surdosage : agitation, insomnie ou difficulté à respirer.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Symptoms of overdose include restlessness, insomnia or dyspnoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "schisandra_chinensis-07",
+    "plant": "schisandra_chinensis",
+    "type": "warning",
+    "statement": "Effets indésirables mineurs rapportés : brûlures d'estomac, acidité, douleurs d'estomac, perte d'appétit, réactions cutanées allergiques et urticaire.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Schisandrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Minor adverse effects such as heartburn, acid indigestion, stomach pain, anorexia, allergic skin reactions and urticaria have been reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

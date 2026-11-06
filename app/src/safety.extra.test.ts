@@ -288,3 +288,17 @@ test('busserole : maladie des reins est une contre-indication', () => {
   const r = assess(bundle, ['arctostaphylos_uva_ursi'], { flags: ['kidney_disease'] });
   assert.equal(r.verdict, 'contre_indication');
 });
+test('rehmannia : grossesse, foie et intestin sont des contre-indications', () => {
+  for (const f of ['pregnant', 'liver_disease', 'digestive_disease'])
+    assert.equal(assess(bundle, ['rehmannia_glutinosa'], { flags: [f] }).verdict, 'contre_indication', f);
+});
+test('scutellaire : contre-indiquée chez l’enfant de moins de 12 ans', () => {
+  assert.equal(assess(bundle, ['scutellaria_baicalensis'], { flags: ['age_lt_12'] }).verdict, 'contre_indication');
+});
+test('schisandra + warfarine : alerte d’interaction', () => {
+  const r = assess(bundle, ['schisandra_chinensis'], { flags: [], meds: ['warfarine'] });
+  assert.ok(r.alerts.some(a => a.claimId === 'schisandra_chinensis-02'));
+});
+test('plante OMS sans essai contrôlé : jamais « aucune alerte » sans avertissement', () => {
+  assert.notEqual(assess(bundle, ['rehmannia_glutinosa'], { flags: [] }).verdict, 'aucune_alerte_dans_notre_base');
+});

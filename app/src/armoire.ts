@@ -4,7 +4,7 @@ import type { Profile } from './safety.ts';
 export type Armoire = { favorites: string[]; profile: Profile };
 export const EMPTY_ARMOIRE: Armoire = { favorites: [], profile: { pregnant: false, lactating: false, ageYears: null, flags: [], meds: [] } };
 
-const FLAG_IDS = ['asteraceae_allergy', 'salicylate_allergy', 'bleeding_disorder', 'biliary_disease', 'fluid_restriction', 'drives', 'plant_allergy', 'gastric_ulcer', 'kidney_disease', 'hypertension', 'liver_disease', 'cardiovascular_disease', 'hypokalaemia'];
+const FLAG_IDS = ['asteraceae_allergy', 'salicylate_allergy', 'bleeding_disorder', 'biliary_disease', 'fluid_restriction', 'drives', 'plant_allergy', 'gastric_ulcer', 'kidney_disease', 'hypertension', 'liver_disease', 'cardiovascular_disease', 'hypokalaemia', 'digestive_disease'];
 const MAX_MEDS = 30;
 const MAX_LEN = 80;
 

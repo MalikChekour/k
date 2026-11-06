@@ -7,7 +7,7 @@ import credits from '../data/credits.json';
 import { C, EDU, s } from './shared';
 
 const METHOD = [
-  'Chaque affirmation clinique est copiée mot pour mot depuis une monographie officielle de l’EMA (Comité des médicaments à base de plantes) et contrôlée automatiquement.',
+  'Chaque affirmation clinique est copiée mot pour mot depuis une monographie officielle (EMA, Comité des médicaments à base de plantes, ou monographies de l’OMS pour certaines plantes chinoises) et contrôlée automatiquement. Les monographies de l’OMS signalent quand aucun essai clinique contrôlé n’existe : la fiche le reprend.',
   'Le moteur de sécurité est déterministe : il n’utilise aucune intelligence artificielle et ne conclut jamais « sans danger ». Une absence d’alerte signifie seulement qu’aucune alerte n’existe dans notre base.',
   'Les médicaments reconnus sont ceux de notre liste. Un nom inconnu rend l’évaluation incomplète.',
   'Les associations entre plantes ne sont pas évaluées. L’application ne calcule aucune posologie personnalisée : elle affiche les doses citées par l’EMA et compare une quantité saisie à cette fourchette.',

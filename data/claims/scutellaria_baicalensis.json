@@ -1,0 +1,116 @@
+[
+  {
+    "id": "scutellaria_baicalensis-ind-01",
+    "plant": "scutellaria_baicalensis",
+    "type": "indication",
+    "statement": "Aucun usage n'est étayé par des essais cliniques contrôlés : des cas évoquent une stimulation du système immunitaire et de la formation du sang, mais l'OMS note que les essais contrôlés manquent.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Scutellariae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Although clinical case reports suggest that Radix Scutellariae may stimulate the immune system and induce haematopoiesis (17-19), data from controlled clinical trials are lacking."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "scutellaria_baicalensis-ind-02",
+    "plant": "scutellaria_baicalensis",
+    "type": "indication",
+    "statement": "Usage décrit dans les pharmacopées (sans preuve clinique contrôlée) : fièvre, nausées et vomissements, dysenterie aiguë, jaunisse, toux, abcès et plaies, menace d'avortement. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Scutellariae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Treatment of fever, nausea and vomiting, acute dysentery, jaundice, coughs, carbuncles and sores, and threatened abortion"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "scutellaria_baicalensis-pos-01",
+    "plant": "scutellaria_baicalensis",
+    "type": "posology",
+    "statement": "Dose quotidienne décrite : 3 à 9 g de racines séchées, en infusion ou décoction.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Scutellariae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Daily dose: 3-9 g of dried roots as an infusion or decoction"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "scutellaria_baicalensis-01",
+    "plant": "scutellaria_baicalensis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée pendant la grossesse et l'allaitement, et chez les enfants de moins de 12 ans (effets tératogènes et mutagènes possibles, manque de données de sécurité).",
+    "severity": "contraindiquee",
+    "population": "grossesse, allaitement, moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Scutellariae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "use of Radix Scutellariae is contraindicated during pregnancy and nursing and in children under the age of 12 years"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating",
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "scutellaria_baicalensis-02",
+    "plant": "scutellaria_baicalensis",
+    "type": "interaction",
+    "statement": "Aucune information sur les interactions médicamenteuses dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Scutellariae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "No information available on general precautions or on precautions concerning drug interactions"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "scutellaria_baicalensis-03",
+    "plant": "scutellaria_baicalensis",
+    "type": "warning",
+    "statement": "Gêne digestive et diarrhée associées à la prise orale ; une atteinte du foie a été évoquée sans lien direct publié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Scutellariae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "discomfort and diarrhoea are associated with oral administration of Radix Scutellariae"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

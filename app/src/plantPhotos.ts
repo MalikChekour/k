@@ -30,6 +30,7 @@ export const PLANT_PHOTOS: Record<string, ImageSourcePropType> = {
   rosmarinus_officinalis: require('../assets/plants/rosmarinus_officinalis.jpg'),
   salvia_officinalis: require('../assets/plants/salvia_officinalis.jpg'),
   sambucus_nigra: require('../assets/plants/sambucus_nigra.jpg'),
+  schisandra_chinensis: require('../assets/plants/schisandra_chinensis.jpg'),
   silybum_marianum: require('../assets/plants/silybum_marianum.jpg'),
   taraxacum_officinale: require('../assets/plants/taraxacum_officinale.jpg'),
   thymus_vulgaris: require('../assets/plants/thymus_vulgaris.jpg'),

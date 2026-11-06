@@ -5,7 +5,7 @@ import { Chip, C, s } from './shared';
 
 export const FLAGS: [string, string][] = [
   ['asteraceae_allergy', 'Allergie aux Astéracées'], ['salicylate_allergy', 'Allergie aux salicylés'], ['bleeding_disorder', 'Trouble de la coagulation'],
-  ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'], ['gastric_ulcer', 'Ulcère gastrique ou duodénal'], ['kidney_disease', 'Maladie des reins'], ['hypertension', 'Hypertension'], ['liver_disease', 'Maladie du foie'], ['cardiovascular_disease', 'Maladie du cœur ou des vaisseaux'], ['hypokalaemia', 'Potassium bas'],
+  ['biliary_disease', 'Maladie des voies biliaires'], ['fluid_restriction', 'Restriction hydrique'], ['drives', 'Je conduis'], ['gastric_ulcer', 'Ulcère gastrique ou duodénal'], ['kidney_disease', 'Maladie des reins'], ['hypertension', 'Hypertension'], ['liver_disease', 'Maladie du foie'], ['cardiovascular_disease', 'Maladie du cœur ou des vaisseaux'], ['hypokalaemia', 'Potassium bas'], ['digestive_disease', 'Maladie chronique de l’intestin ou diarrhée'],
 ];
 
 /** Résumé lisible du profil, affiché dans Sécurité et Mélange (lecture seule). */

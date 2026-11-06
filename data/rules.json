@@ -78,5 +78,25 @@
     "plant": "glycyrrhiza_glabra",
     "class": "antihypertenseur",
     "claim": "glycyrrhiza_glabra-antihta"
+  },
+  {
+    "plant": "schisandra_chinensis",
+    "class": "anticoagulant_coumarinique",
+    "claim": "schisandra_chinensis-02"
+  },
+  {
+    "plant": "schisandra_chinensis",
+    "class": "immunosuppresseur_greffe",
+    "claim": "schisandra_chinensis-02"
+  },
+  {
+    "plant": "schisandra_chinensis",
+    "class": "antiretroviral",
+    "claim": "schisandra_chinensis-02"
+  },
+  {
+    "plant": "schisandra_chinensis",
+    "class": "contraceptif_hormonal",
+    "claim": "schisandra_chinensis-02"
   }
 ]

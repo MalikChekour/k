@@ -579,5 +579,55 @@
    "marshmallow",
    "marsh mallow"
   ]
+ },
+ {
+  "id": "rehmannia_glutinosa",
+  "fr": "Rehmannia (racine)",
+  "latin": "Rehmannia glutinosa Libosch.",
+  "part": "racine",
+  "queries": [
+   "Rehmannia glutinosa",
+   "rehmannia root",
+   "chinese foxglove"
+  ],
+  "keys": [
+   "rehmannia",
+   "foxglove",
+   "di huang"
+  ]
+ },
+ {
+  "id": "schisandra_chinensis",
+  "fr": "Schisandra (fruit)",
+  "latin": "Schisandra chinensis (Turcz.) Baill.",
+  "part": "fruit",
+  "queries": [
+   "Schisandra chinensis",
+   "schisandra berries",
+   "five flavor berry"
+  ],
+  "keys": [
+   "schisandra",
+   "schizandra",
+   "five flavor",
+   "five-flavor"
+  ]
+ },
+ {
+  "id": "scutellaria_baicalensis",
+  "fr": "Scutellaire du Baïkal (racine)",
+  "latin": "Scutellaria baicalensis Georgi",
+  "part": "racine",
+  "queries": [
+   "Scutellaria baicalensis",
+   "baikal skullcap",
+   "huang qin root"
+  ],
+  "keys": [
+   "scutellaria",
+   "skullcap",
+   "baikal",
+   "huang qin"
+  ]
  }
 ]
