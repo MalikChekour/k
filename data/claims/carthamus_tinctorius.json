@@ -1,0 +1,272 @@
+[
+  {
+    "id": "carthamus_tinctorius-ind-01",
+    "plant": "carthamus_tinctorius",
+    "type": "indication",
+    "statement": "Pharmacologie clinique : la monographie OMS ne fournit aucune information. Aucun usage clinique n'est donc documenté par cette source.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Clinical pharmacology No information available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carthamus_tinctorius-ind-02",
+    "plant": "carthamus_tinctorius",
+    "type": "indication",
+    "statement": "Usage décrit dans les pharmacopées et documents bien établis : traitement de l'aménorrhée, de la dysménorrhée, des plaies ou abcès douloureux et gonflés, et prévention de l'athérosclérose.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Treatment of amenorrhoea, dysmenorrhoea and wounds or sores with pain and swelling, and prevention of atherosclerosis (3, 19)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carthamus_tinctorius-ind-03",
+    "plant": "carthamus_tinctorius",
+    "type": "indication",
+    "statement": "Usage décrit en médecine traditionnelle : antipyrétique, antidiarrhéique, contraceptif, diaphorétique, emménagogue, expectorant, laxatif, sédatif et stimulant ; traitement de la bronchite, des furoncles, des hémorroïdes, des infections des voies respiratoires, de la teigne et de la gale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "As an antipyretic, antidiarrhoeal, contraceptive, diaphoretic, emmenagogue, expectorant, laxative, sedative and stimulant (8, 20, 21). Treatment of bronchitis, boils, haemorrhoids, respiratory tract infections, ringworm and scabies (8, 20)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carthamus_tinctorius-pos-01",
+    "plant": "carthamus_tinctorius",
+    "type": "posology",
+    "statement": "Dose moyenne quotidienne : 3,0 à 9,0 g de fleurs, en infusion ou décoction (équivalent pour les autres préparations).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "(Unless otherwise indicated) Average daily dose: 3.0–9.0 g of Flos Carthami as an infusion or decoction; equivalent for other preparations (2, 3)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carthamus_tinctorius-01",
+    "plant": "carthamus_tinctorius",
+    "type": "pregnancy",
+    "statement": "Grossesse : ne pas administrer, en raison de son usage traditionnel comme emménagogue et de ses effets stimulants sur l'utérus.",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Owing to its traditional use as an emmenagogue and its stimulatory effects on the uterus, Flos Carthami should not be administered during pregnancy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-02",
+    "plant": "carthamus_tinctorius",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas de maladies hémorragiques.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Flos Carthami is also contraindicated in haemorrhagic diseases, peptic ulcers and excessive menstruation (19)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "bleeding_disorder"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-03",
+    "plant": "carthamus_tinctorius",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas d'ulcère gastrique ou duodénal.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Flos Carthami is also contraindicated in haemorrhagic diseases, peptic ulcers and excessive menstruation (19)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "gastric_ulcer"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-04",
+    "plant": "carthamus_tinctorius",
+    "type": "contraindication",
+    "statement": "Ne pas utiliser en cas de règles excessives (contre-indication citée par l'OMS ; l'application n'a pas de profil pour cela, l'avertissement s'affiche donc pour tous).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Flos Carthami is also contraindicated in haemorrhagic diseases, peptic ulcers and excessive menstruation (19)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-05",
+    "plant": "carthamus_tinctorius",
+    "type": "pregnancy",
+    "statement": "Donnée animale : chez la souris, un extrait aqueux a induit la résorption d'embryons aux doses de 1,6 et 2,0 mg/kg de poids corporel par jour.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "at doses of 1.6 mg/kg bw and 2.0 mg/kg bw per day, the extract induced embryo absorption"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-06",
+    "plant": "carthamus_tinctorius",
+    "type": "pregnancy",
+    "statement": "Allaitement : la monographie ne donne aucune information ; en raison d'effets mutagènes possibles, l'usage ne doit se faire que sur avis d'un professionnel de santé.",
+    "severity": "precaution",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "No information available. However, owing to possible mutagenic effects, use of Flos Carthami during nursing should be only on the advice of a health-care professional."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-07",
+    "plant": "carthamus_tinctorius",
+    "type": "age",
+    "statement": "Enfants : la monographie ne donne aucune information ; en raison d'effets mutagènes possibles, l'usage ne doit se faire que sur avis d'un professionnel de santé.",
+    "severity": "precaution",
+    "population": "enfants",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "However, owing to possible mutagenic effects, use of Flos Carthami in children should be only on the advice of a healthcare professional."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-08",
+    "plant": "carthamus_tinctorius",
+    "type": "interaction",
+    "statement": "Aucune interaction médicamenteuse rapportée, mais les extraits inhibent l'agrégation plaquettaire : prudence chez les patients sous anticoagulants ou antiagrégants plaquettaires.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Although no drug interactions have been reported, extracts of Flos Carthami inhibit platelet aggregation (41, 43). The ﬂowers should therefore be used with caution in patients taking anticoagulants or antiplatelet drugs."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carthamus_tinctorius-09",
+    "plant": "carthamus_tinctorius",
+    "type": "warning",
+    "statement": "Effets indésirables rapportés, passagers : vertiges, éruptions cutanées et urticaire transitoire.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Dizziness, skin eruptions and transient urticaria have been reported (19)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "carthamus_tinctorius-10",
+    "plant": "carthamus_tinctorius",
+    "type": "warning",
+    "statement": "Des règles plus abondantes peuvent survenir.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Increased menstrual ﬂow may occur (19)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

@@ -302,3 +302,19 @@ test('schisandra + warfarine : alerte d’interaction', () => {
 test('plante OMS sans essai contrôlé : jamais « aucune alerte » sans avertissement', () => {
   assert.notEqual(assess(bundle, ['rehmannia_glutinosa'], { flags: [] }).verdict, 'aucune_alerte_dans_notre_base');
 });
+test('ginseng : avertissement « moins de 18 ans » pour un adolescent, pas pour un adulte', () => {
+  const ado = assess(bundle, ['panax_ginseng'], { ageYears: 16, flags: [] });
+  const adulte = assess(bundle, ['panax_ginseng'], { ageYears: 40, flags: [] });
+  assert.ok(ado.alerts.some(a => a.claimId === 'panax_ginseng-02'));
+  assert.ok(!adulte.alerts.some(a => a.claimId === 'panax_ginseng-02'));
+});
+test('carthame : trouble de la coagulation = contre-indication ; warfarine = alerte', () => {
+  assert.equal(assess(bundle, ['carthamus_tinctorius'], { flags: ['bleeding_disorder'] }).verdict, 'contre_indication');
+  assert.ok(assess(bundle, ['carthamus_tinctorius'], { flags: [], meds: ['warfarine'] }).alerts.some(a => a.claimId === 'carthamus_tinctorius-08'));
+});
+test('carthame : un adulte sans profil particulier n’a pas de « contre-indication » automatique', () => {
+  assert.notEqual(assess(bundle, ['carthamus_tinctorius'], { flags: [] }).verdict, 'contre_indication');
+});
+test('angélique chinoise + warfarine : alerte', () => {
+  assert.ok(assess(bundle, ['angelica_sinensis'], { flags: [], meds: ['warfarine'] }).alerts.some(a => a.claimId === 'angelica_sinensis-06'));
+});

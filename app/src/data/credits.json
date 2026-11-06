@@ -257,5 +257,26 @@
   "license": "Pixabay Content License",
   "page_url": "https://pixabay.com/photos/omija-schizandra-schisandra-drinks-4047962/",
   "label": "omija, schizandra, schisandra, drinks, summer, juice, fresh, schizandra, schisandra, schisandra, schisandra, schisandra, schisandra"
+ },
+ "panax_ginseng": {
+  "provider": "unsplash",
+  "author": "本草圈",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/a-close-up-of-a-plant-with-roots-JhOuD2wEiJs",
+  "label": "a close up of a plant with roots fresh ginseng from Ji Lin Province China 新鲜人参，产地吉林长白山"
+ },
+ "ziziphus_jujuba": {
+  "provider": "openverse",
+  "author": "",
+  "license": "cc0",
+  "page_url": "https://www.rawpixel.com/image/6058517/free-public-domain-cc0-photo",
+  "label": " date fruit fruit green jujube jujube jujube tree plant trees"
+ },
+ "carthamus_tinctorius": {
+  "provider": "pexels",
+  "author": "Ravish Maqsood",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/vibrant-safflower-blooms-in-singapore-garden-37370782/",
+  "label": "Close-up of vivid orange safflower blossoms in an indoor garden setting, showcasing their striking beauty. vibrant safflower blooms in singapore garden 37370782"
  }
 }

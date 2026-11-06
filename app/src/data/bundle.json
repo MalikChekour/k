@@ -6785,6 +6785,1059 @@
      "quote": "discomfort and diarrhoea are associated with oral administration of Radix Scutellariae"
     }
    ]
+  },
+  {
+   "id": "eleutherococcus_senticosus",
+   "fr": "Éleuthérocoque (racine)",
+   "latin": "Eleutherococcus senticosus (Rupr. et Maxim.) Maxim.",
+   "part": "racine",
+   "aliases": [
+    "ginseng sibérien",
+    "Ci Wu Jia",
+    "éleuthérocoque"
+   ],
+   "claims": [
+    {
+     "id": "eleutherococcus_senticosus-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique de l'asthénie, comme la fatigue et la faiblesse.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptoms of asthenia such as fatigue and weakness."
+    },
+    {
+     "id": "eleutherococcus_senticosus-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées : racine broyée, 0,5 à 4 g dans 150 ml d'eau bouillante, en infusion, à répartir en une à trois prises par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Herbal tea: 0.5-4 g of the comminuted herbal substance in 150 ml of boiling water as herbal infusion (divided in one to three doses)"
+    },
+    {
+     "id": "eleutherococcus_senticosus-pos-02",
+     "type": "posology",
+     "statement": "Durée d'utilisation : ne pas prendre plus de 2 mois.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Not to be taken for more than 2 months."
+    },
+    {
+     "id": "eleutherococcus_senticosus-pos-03",
+     "type": "posology",
+     "statement": "Si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "eleutherococcus_senticosus-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Hypersensitivity to the active substance(s)."
+    },
+    {
+     "id": "eleutherococcus_senticosus-02",
+     "type": "age",
+     "statement": "Usage non recommandé chez les moins de 12 ans (nécessité d'un avis médical).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended"
+    },
+    {
+     "id": "eleutherococcus_senticosus-03",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "eleutherococcus_senticosus-04",
+     "type": "warning",
+     "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "eleutherococcus_senticosus-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "eleutherococcus_senticosus-06",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "eleutherococcus_senticosus-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "panax_ginseng",
+   "fr": "Ginseng (racine)",
+   "latin": "Panax ginseng C.A. Meyer",
+   "part": "racine",
+   "aliases": [
+    "Ren Shen",
+    "ginseng asiatique",
+    "ginseng coréen"
+   ],
+   "claims": [
+    {
+     "id": "panax_ginseng-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique de l'asthénie, comme la fatigue et la faiblesse.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptoms of asthenia such as fatigue and weakness."
+    },
+    {
+     "id": "panax_ginseng-pos-01",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées (ginseng blanc, racine broyée) : 1000 à 2000 mg dans 150 ml d'eau, en décocté, 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Herbal tea: 1000-2000 mg of the comminuted herbal substance in 150 ml of water as a decoction 2-3 times daily"
+    },
+    {
+     "id": "panax_ginseng-pos-02",
+     "type": "posology",
+     "statement": "Durée d'utilisation : jusqu'à 3 mois.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Duration of use up to 3 months."
+    },
+    {
+     "id": "panax_ginseng-pos-03",
+     "type": "posology",
+     "statement": "Si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "panax_ginseng-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "panax_ginseng-02",
+     "type": "age",
+     "statement": "Usage non recommandé chez les moins de 18 ans (nécessité d'un avis médical).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    {
+     "id": "panax_ginseng-03",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 18 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "panax_ginseng-04",
+     "type": "warning",
+     "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "panax_ginseng-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "panax_ginseng-06",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "panax_ginseng-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "carthamus_tinctorius",
+   "fr": "Carthame (fleur)",
+   "latin": "Carthamus tinctorius L.",
+   "part": "fleur",
+   "aliases": [
+    "Hong Hua",
+    "safran bâtard",
+    "safran des teinturiers"
+   ],
+   "claims": [
+    {
+     "id": "carthamus_tinctorius-ind-01",
+     "type": "indication",
+     "statement": "Pharmacologie clinique : la monographie OMS ne fournit aucune information. Aucun usage clinique n'est donc documenté par cette source.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Clinical pharmacology No information available."
+    },
+    {
+     "id": "carthamus_tinctorius-ind-02",
+     "type": "indication",
+     "statement": "Usage décrit dans les pharmacopées et documents bien établis : traitement de l'aménorrhée, de la dysménorrhée, des plaies ou abcès douloureux et gonflés, et prévention de l'athérosclérose.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Treatment of amenorrhoea, dysmenorrhoea and wounds or sores with pain and swelling, and prevention of atherosclerosis (3, 19)."
+    },
+    {
+     "id": "carthamus_tinctorius-ind-03",
+     "type": "indication",
+     "statement": "Usage décrit en médecine traditionnelle : antipyrétique, antidiarrhéique, contraceptif, diaphorétique, emménagogue, expectorant, laxatif, sédatif et stimulant ; traitement de la bronchite, des furoncles, des hémorroïdes, des infections des voies respiratoires, de la teigne et de la gale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "As an antipyretic, antidiarrhoeal, contraceptive, diaphoretic, emmenagogue, expectorant, laxative, sedative and stimulant (8, 20, 21). Treatment of bronchitis, boils, haemorrhoids, respiratory tract infections, ringworm and scabies (8, 20)."
+    },
+    {
+     "id": "carthamus_tinctorius-pos-01",
+     "type": "posology",
+     "statement": "Dose moyenne quotidienne : 3,0 à 9,0 g de fleurs, en infusion ou décoction (équivalent pour les autres préparations).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "(Unless otherwise indicated) Average daily dose: 3.0–9.0 g of Flos Carthami as an infusion or decoction; equivalent for other preparations (2, 3)."
+    },
+    {
+     "id": "carthamus_tinctorius-01",
+     "type": "pregnancy",
+     "statement": "Grossesse : ne pas administrer, en raison de son usage traditionnel comme emménagogue et de ses effets stimulants sur l'utérus.",
+     "severity": "contraindiquee",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Owing to its traditional use as an emmenagogue and its stimulatory effects on the uterus, Flos Carthami should not be administered during pregnancy."
+    },
+    {
+     "id": "carthamus_tinctorius-02",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas de maladies hémorragiques.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "bleeding_disorder"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Flos Carthami is also contraindicated in haemorrhagic diseases, peptic ulcers and excessive menstruation (19)."
+    },
+    {
+     "id": "carthamus_tinctorius-03",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'ulcère gastrique ou duodénal.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "gastric_ulcer"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Flos Carthami is also contraindicated in haemorrhagic diseases, peptic ulcers and excessive menstruation (19)."
+    },
+    {
+     "id": "carthamus_tinctorius-04",
+     "type": "contraindication",
+     "statement": "Ne pas utiliser en cas de règles excessives (contre-indication citée par l'OMS ; l'application n'a pas de profil pour cela, l'avertissement s'affiche donc pour tous).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Flos Carthami is also contraindicated in haemorrhagic diseases, peptic ulcers and excessive menstruation (19)."
+    },
+    {
+     "id": "carthamus_tinctorius-05",
+     "type": "pregnancy",
+     "statement": "Donnée animale : chez la souris, un extrait aqueux a induit la résorption d'embryons aux doses de 1,6 et 2,0 mg/kg de poids corporel par jour.",
+     "severity": "precaution",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "at doses of 1.6 mg/kg bw and 2.0 mg/kg bw per day, the extract induced embryo absorption"
+    },
+    {
+     "id": "carthamus_tinctorius-06",
+     "type": "pregnancy",
+     "statement": "Allaitement : la monographie ne donne aucune information ; en raison d'effets mutagènes possibles, l'usage ne doit se faire que sur avis d'un professionnel de santé.",
+     "severity": "precaution",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "No information available. However, owing to possible mutagenic effects, use of Flos Carthami during nursing should be only on the advice of a health-care professional."
+    },
+    {
+     "id": "carthamus_tinctorius-07",
+     "type": "age",
+     "statement": "Enfants : la monographie ne donne aucune information ; en raison d'effets mutagènes possibles, l'usage ne doit se faire que sur avis d'un professionnel de santé.",
+     "severity": "precaution",
+     "population": "enfants",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "However, owing to possible mutagenic effects, use of Flos Carthami in children should be only on the advice of a healthcare professional."
+    },
+    {
+     "id": "carthamus_tinctorius-08",
+     "type": "interaction",
+     "statement": "Aucune interaction médicamenteuse rapportée, mais les extraits inhibent l'agrégation plaquettaire : prudence chez les patients sous anticoagulants ou antiagrégants plaquettaires.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Although no drug interactions have been reported, extracts of Flos Carthami inhibit platelet aggregation (41, 43). The ﬂowers should therefore be used with caution in patients taking anticoagulants or antiplatelet drugs."
+    },
+    {
+     "id": "carthamus_tinctorius-09",
+     "type": "warning",
+     "statement": "Effets indésirables rapportés, passagers : vertiges, éruptions cutanées et urticaire transitoire.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Dizziness, skin eruptions and transient urticaria have been reported (19)."
+    },
+    {
+     "id": "carthamus_tinctorius-10",
+     "type": "warning",
+     "statement": "Des règles plus abondantes peuvent survenir.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Flos Carthami",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Increased menstrual ﬂow may occur (19)."
+    }
+   ]
+  },
+  {
+   "id": "gentiana_scabra",
+   "fr": "Gentiane de Chine (racine)",
+   "latin": "Gentiana scabra Bunge",
+   "part": "racine",
+   "aliases": [
+    "Long Dan Cao",
+    "Long Dan"
+   ],
+   "claims": [
+    {
+     "id": "gentiana_scabra-ind-01",
+     "type": "indication",
+     "statement": "Pharmacologie clinique : la monographie OMS ne fournit aucune information. Aucun usage clinique n'est donc documenté par cette source.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Clinical pharmacology No information available."
+    },
+    {
+     "id": "gentiana_scabra-ind-02",
+     "type": "indication",
+     "statement": "Usage décrit dans les pharmacopées et documents bien établis : traitement symptomatique des troubles du foie, de la cholécystite et du manque d'appétit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Symptomatic treatment of liver disorders, cholecystitis and lack of appetite (3, 6)."
+    },
+    {
+     "id": "gentiana_scabra-ind-03",
+     "type": "indication",
+     "statement": "Usage décrit en médecine traditionnelle : convulsions, eczéma, infections fongiques, troubles de l'audition, inflammations, leucorrhée, otite moyenne, infections urinaires, zona et prurit vulvaire.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Treatment of convulsions, eczema, fungal infections, hearing impairment, inﬂammation, leukorrhoea, otitis media, urinary tract infections, herpes zoster and pruritus vulvae (3, 6, 7)."
+    },
+    {
+     "id": "gentiana_scabra-pos-01",
+     "type": "posology",
+     "statement": "Dose quotidienne moyenne : 3 à 6 g de racines et rhizomes par jour, en infusion ou décoction.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "(Unless otherwise indicated) Average daily dose: roots and rhizomes 3–6 g per day as an infusion or decoction (4)."
+    },
+    {
+     "id": "gentiana_scabra-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'insuffisance hépatique.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "liver_disease"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Radix Gentianae Scabrae is contraindicated in stomach disorders and liver failure (3)."
+    },
+    {
+     "id": "gentiana_scabra-02",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas de troubles de l'estomac.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Radix Gentianae Scabrae is contraindicated in stomach disorders and liver failure (3)."
+    },
+    {
+     "id": "gentiana_scabra-03",
+     "type": "pregnancy",
+     "statement": "Grossesse : ne pas utiliser, en raison de possibles effets mutagènes.",
+     "severity": "contraindiquee",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Owing to potential mutagenic effects (38), Radix Gentianae Scabrae should not be used during pregnancy or nursing or in children under the age of 12 years."
+    },
+    {
+     "id": "gentiana_scabra-04",
+     "type": "pregnancy",
+     "statement": "Allaitement : ne pas utiliser, en raison de possibles effets mutagènes.",
+     "severity": "contraindiquee",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Owing to potential mutagenic effects (38), Radix Gentianae Scabrae should not be used during pregnancy or nursing or in children under the age of 12 years."
+    },
+    {
+     "id": "gentiana_scabra-05",
+     "type": "age",
+     "statement": "Enfants de moins de 12 ans : ne pas utiliser, en raison de possibles effets mutagènes.",
+     "severity": "contraindiquee",
+     "population": "enfants",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Owing to potential mutagenic effects (38), Radix Gentianae Scabrae should not be used during pregnancy or nursing or in children under the age of 12 years."
+    },
+    {
+     "id": "gentiana_scabra-06",
+     "type": "interaction",
+     "statement": "Aucune information sur les interactions médicamenteuses dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "No information available on general precautions or on precautions concerning drug interactions"
+    },
+    {
+     "id": "gentiana_scabra-07",
+     "type": "warning",
+     "statement": "Effets indésirables rapportés lorsque la racine est prise après un repas : troubles de la digestion et, parfois, maux de tête, rougeur du visage et vertiges.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Radix Gentiana Scabrae may cause impairment of digestion and, occasionally, headaches, ﬂushing of the face and vertigo when taken after a meal (37)."
+    },
+    {
+     "id": "gentiana_scabra-08",
+     "type": "warning",
+     "statement": "Surdosage : nausées ou vomissements.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Overdose may lead to nausea or vomiting (3)."
+    },
+    {
+     "id": "gentiana_scabra-09",
+     "type": "warning",
+     "statement": "Mutagénicité : une autre étude rapporte qu'un extrait aqueux ou méthanolique à 100 mg/ml était actif dans l'essai de Salmonella/microsome et dans l'essai de recombinaison de Bacillus subtilis.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "In another investigation, an aqueous or methanol extract of the roots and rhizomes, 100.0 mg/ml, was active in the Salmonella/microsome assay and the Bacillus subtilis recombination assay (38)."
+    }
+   ]
+  },
+  {
+   "id": "ziziphus_jujuba",
+   "fr": "Jujube (fruit)",
+   "latin": "Ziziphus jujuba Mill.",
+   "part": "fruit",
+   "aliases": [
+    "Da Zao",
+    "jujube",
+    "datte chinoise"
+   ],
+   "claims": [
+    {
+     "id": "ziziphus_jujuba-ind-01",
+     "type": "indication",
+     "statement": "Aucun usage n'est étayé par des essais cliniques contrôlés : une seule étude clinique non contrôlée suggère un intérêt contre l'insomnie, mais l'OMS note que les essais contrôlés manquent.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "Although one uncontrolled human study has suggested that Fructus Zizyphi may be of some beneﬁt for the treatment of insomnia (28), data from controlled clinical trials are lacking."
+    },
+    {
+     "id": "ziziphus_jujuba-ind-02",
+     "type": "indication",
+     "statement": "Usage décrit dans les pharmacopées et documents bien établis (sans preuve clinique contrôlée) : favoriser la prise de poids, améliorer la force musculaire, immunostimulant pour augmenter l'endurance physique, et traitement de l'insomnie due à l'irritabilité et à l'agitation. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "To promote weight gain, improve muscular strength, and as an immunostimulant to increase physical stamina. Treatment of insomnia due to irritability and restlessness (1)."
+    },
+    {
+     "id": "ziziphus_jujuba-ind-03",
+     "type": "indication",
+     "statement": "Usage décrit en médecine traditionnelle (sans preuve clinique contrôlée) : antipyrétique, diurétique, emménagogue, expectorant, sédatif et tonique ; traitement de l'asthme, de la bronchite, du diabète, des maladies des yeux, des affections cutanées inflammatoires, des troubles du foie, de la gale, des ulcères et des plaies. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "As an antipyretic, diuretic, emmenagogue, expectorant, sedative and tonic. Treatment of asthma, bronchitis, diabetes, eye diseases, inﬂammatory skin conditions, liver disorders, scabies, ulcers and wounds (12, 29)."
+    },
+    {
+     "id": "ziziphus_jujuba-pos-01",
+     "type": "posology",
+     "statement": "Dose quotidienne décrite (sauf indication contraire) : 6 à 15 g de fruits.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "(Unless otherwise indicated) Daily dose: fruits 6–15 g (1)."
+    },
+    {
+     "id": "ziziphus_jujuba-01",
+     "type": "pregnancy",
+     "statement": "Grossesse : la monographie ne donne aucune information sur les effets tératogènes ou non tératogènes ; ce n'est pas une preuve d'innocuité.",
+     "severity": "donnees_absentes",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "No information available on general precautions or on precautions concerning drug interactions; drug and laboratory test interactions; teratogenic or non-teratogenic effects in pregnancy; nursing mothers; or paediatric use."
+    },
+    {
+     "id": "ziziphus_jujuba-02",
+     "type": "pregnancy",
+     "statement": "Allaitement : la monographie ne donne aucune information ; ce n'est pas une preuve d'innocuité.",
+     "severity": "donnees_absentes",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "No information available on general precautions or on precautions concerning drug interactions; drug and laboratory test interactions; teratogenic or non-teratogenic effects in pregnancy; nursing mothers; or paediatric use."
+    },
+    {
+     "id": "ziziphus_jujuba-03",
+     "type": "age",
+     "statement": "Enfants : la monographie ne donne aucune information sur l'usage pédiatrique ; ce n'est pas une preuve d'innocuité.",
+     "severity": "donnees_absentes",
+     "population": "enfants",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "No information available on general precautions or on precautions concerning drug interactions; drug and laboratory test interactions; teratogenic or non-teratogenic effects in pregnancy; nursing mothers; or paediatric use."
+    },
+    {
+     "id": "ziziphus_jujuba-04",
+     "type": "interaction",
+     "statement": "Aucune information sur les interactions médicamenteuses dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "No information available on general precautions or on precautions concerning drug interactions; drug and laboratory test interactions; teratogenic or non-teratogenic effects in pregnancy; nursing mothers; or paediatric use."
+    },
+    {
+     "id": "ziziphus_jujuba-05",
+     "type": "warning",
+     "statement": "Donnée animale : une sédation a été observée chez des animaux ayant reçu trois doses de 3,0 g/kg de poids corporel d'extrait éthanolique à 95 %.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Fructus Zizyphi",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+     "quote": "However, sedation was noted in animals treated with three doses of 3.0 g/kg bw"
+    }
+   ]
+  },
+  {
+   "id": "angelica_sinensis",
+   "fr": "Angélique chinoise (racine)",
+   "latin": "Angelica sinensis (Oliv.) Diels",
+   "part": "racine",
+   "aliases": [
+    "Dang Gui",
+    "angélique chinoise"
+   ],
+   "claims": [
+    {
+     "id": "angelica_sinensis-ind-01",
+     "type": "indication",
+     "statement": "Un essai randomisé contrôlé contre placebo (4,5 g de racine par jour pendant 24 semaines) n'a pas soulagé les symptômes de la ménopause, dont les bouffées de chaleur. Ce n'est donc pas un usage étayé par des essais cliniques.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "Although Radix Angelicae Sinensis has been alleged to be useful for the treatment of menopausal symptoms, a randomized, placebo-controlled clinical trial concluded that 4.5 g of the root daily for 24 weeks did not alleviate menopausal symptoms, such as hot ﬂushes (14)."
+    },
+    {
+     "id": "angelica_sinensis-ind-02",
+     "type": "indication",
+     "statement": "Usage décrit dans les pharmacopées et les médecines traditionnelles (sans preuve clinique contrôlée) : troubles menstruels (règles irrégulières, aménorrhée, dysménorrhée), douleurs rhumatismales, abdominales et post-opératoires, constipation, anémie, hépatite chronique et cirrhose. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "Treatment of menstrual disorders such as irregular menstruation, amenorrhoea and dysmenorrhoea (1, 3, 15–19). As an analgesic for symptomatic treatment of rheumatic arthralgia, abdominal pain and in the management of postoperative pain (1, 20). Treatment of constipation (1), anaemia (1, 20), chronic hepatitis and cirrhosis of the liver (20)."
+    },
+    {
+     "id": "angelica_sinensis-pos-01",
+     "type": "posology",
+     "statement": "Dose quotidienne décrite (sauf indication contraire) : 4,5 à 9 g de drogue brute.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "(Unless otherwise indicated) Daily dosage: 4.5–9 g crude drug"
+    },
+    {
+     "id": "angelica_sinensis-01",
+     "type": "pregnancy",
+     "statement": "Contre-indiquée pendant la grossesse (effets tératogènes et non tératogènes).",
+     "severity": "contraindiquee",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "should not be used during pregnancy or lactation"
+    },
+    {
+     "id": "angelica_sinensis-02",
+     "type": "pregnancy",
+     "statement": "Contre-indiquée pendant l'allaitement.",
+     "severity": "contraindiquee",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "should not be used during pregnancy or lactation"
+    },
+    {
+     "id": "angelica_sinensis-03",
+     "type": "contraindication",
+     "statement": "Contre-indiquée chez l'enfant (l'âge précis n'est pas indiqué).",
+     "severity": "contraindiquee",
+     "population": "enfants",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "should not be administered to children or patients with diarrhoea"
+    },
+    {
+     "id": "angelica_sinensis-04",
+     "type": "contraindication",
+     "statement": "Contre-indiquée chez les patients atteints de diarrhée.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "should not be administered to children or patients with diarrhoea"
+    },
+    {
+     "id": "angelica_sinensis-05",
+     "type": "warning",
+     "statement": "Ne doit pas être administrée aux patients atteints de maladies hémorragiques ni d'hyperménorrhée (règles très abondantes).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "should not be administered to children or patients with diarrhoea, haemorrhagic diseases or hypermenorrhoea"
+    },
+    {
+     "id": "angelica_sinensis-06",
+     "type": "interaction",
+     "statement": "Avec la warfarine, des temps de prothrombine diminués ont été rapportés chez le lapin. Les patients sous anticoagulant doivent être avertis de ne pas prendre cette racine sans supervision médicale.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "patients receiving anticoagulant therapy should be advised against taking Radix Angelicae Sinensis without medical supervision"
+    },
+    {
+     "id": "angelica_sinensis-07",
+     "type": "interaction",
+     "statement": "Aucune information sur les interactions médicamenteuses générales dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "No information available on general precautions or precautions concerning drug and laboratory test interactions"
+    },
+    {
+     "id": "angelica_sinensis-08",
+     "type": "warning",
+     "statement": "Effets indésirables : généralement peu nombreux à la voie orale ; des maux de tête peuvent survenir chez les personnes sensibles.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+     "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+     "quote": "however, headaches may occur in sensitive individuals"
+    }
+   ]
   }
  ],
  "classes": [
@@ -7144,6 +8197,21 @@
    "plant": "schisandra_chinensis",
    "class": "contraceptif_hormonal",
    "claim": "schisandra_chinensis-02"
+  },
+  {
+   "plant": "carthamus_tinctorius",
+   "class": "anticoagulant_coumarinique",
+   "claim": "carthamus_tinctorius-08"
+  },
+  {
+   "plant": "carthamus_tinctorius",
+   "class": "antiagregant",
+   "claim": "carthamus_tinctorius-08"
+  },
+  {
+   "plant": "angelica_sinensis",
+   "class": "anticoagulant_coumarinique",
+   "claim": "angelica_sinensis-06"
   }
  ],
  "usages": [
@@ -7317,6 +8385,15 @@
    "claims": [
     "vitis_vinifera-ind-03"
    ]
+  },
+  {
+   "id": "fatigue",
+   "fr": "Fatigue et faiblesse (asthénie)",
+   "claims": [
+    "panax_ginseng-ind-01",
+    "eleutherococcus_senticosus-ind-01",
+    "rhodiola_rosea-ind-01"
+   ]
   }
  ],
  "infusions": [
@@ -7445,6 +8522,15 @@
    "water_ml": 150,
    "quote_fragment": "2-5 g",
    "label": "Guimauve : macérat à froid, adultes (usage traditionnel)"
+  },
+  {
+   "plant": "eleutherococcus_senticosus",
+   "claim": "eleutherococcus_senticosus-pos-01",
+   "min_g": 0.5,
+   "max_g": 4.0,
+   "water_ml": 150,
+   "quote_fragment": "in 150 ml of boiling water as herbal infusion",
+   "label": "Éleuthérocoque, racine broyée en infusion"
   }
  ]
 }

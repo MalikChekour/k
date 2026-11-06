@@ -11,7 +11,7 @@ const COLORS: Record<string, string> = {
   rosmarinus_officinalis: '#5B8DB8', salvia_officinalis: '#7C9A8E', calendula_officinalis: '#F08A12', taraxacum_officinale: '#F2C200',
   sambucus_nigra: '#B8A27A', plantago_lanceolata: '#4F9D4A', cynara_scolymus: '#7A6FB5',
   glycyrrhiza_glabra: '#8A5A2B', humulus_lupulus: '#A8C23A', aesculus_hippocastanum: '#B5651D', vitis_vinifera: '#9B2D5B',
-  althaea_officinalis: '#D9A3B8', rehmannia_glutinosa: '#8C5A8E', schisandra_chinensis: '#C23A55', scutellaria_baicalensis: '#5B5BC8', equisetum_arvense: '#4E8F6A', betula_pendula: '#7FB069', arctostaphylos_uva_ursi: '#D04A5C', pelargonium_sidoides: '#C2457A',
+  althaea_officinalis: '#D9A3B8', eleutherococcus_senticosus: '#6B8E3A', panax_ginseng: '#B5472B', carthamus_tinctorius: '#2F7D8C', gentiana_scabra: '#3E5BB8', ziziphus_jujuba: '#7A8B3C', angelica_sinensis: '#2E8B57', rehmannia_glutinosa: '#8C5A8E', schisandra_chinensis: '#C23A55', scutellaria_baicalensis: '#5B5BC8', equisetum_arvense: '#4E8F6A', betula_pendula: '#7FB069', arctostaphylos_uva_ursi: '#D04A5C', pelargonium_sidoides: '#C2457A',
 };
 const FALLBACK = ['#E9A60C', '#E4573D', '#1FB38F', '#9A6FD0', '#6FA82A', '#E0587C', '#2E9A57', '#E8741A'];
 

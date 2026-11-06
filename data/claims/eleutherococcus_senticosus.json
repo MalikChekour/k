@@ -1,0 +1,213 @@
+[
+  {
+    "id": "eleutherococcus_senticosus-ind-01",
+    "plant": "eleutherococcus_senticosus",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique de l'asthénie, comme la fatigue et la faiblesse.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptoms of asthenia such as fatigue and weakness."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-pos-01",
+    "plant": "eleutherococcus_senticosus",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : racine broyée, 0,5 à 4 g dans 150 ml d'eau bouillante, en infusion, à répartir en une à trois prises par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Herbal tea: 0.5-4 g of the comminuted herbal substance in 150 ml of boiling water as herbal infusion (divided in one to three doses)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-pos-02",
+    "plant": "eleutherococcus_senticosus",
+    "type": "posology",
+    "statement": "Durée d'utilisation : ne pas prendre plus de 2 mois.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Not to be taken for more than 2 months."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-pos-03",
+    "plant": "eleutherococcus_senticosus",
+    "type": "posology",
+    "statement": "Si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-01",
+    "plant": "eleutherococcus_senticosus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-02",
+    "plant": "eleutherococcus_senticosus",
+    "type": "age",
+    "statement": "Usage non recommandé chez les moins de 12 ans (nécessité d'un avis médical).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-03",
+    "plant": "eleutherococcus_senticosus",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-04",
+    "plant": "eleutherococcus_senticosus",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-05",
+    "plant": "eleutherococcus_senticosus",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-06",
+    "plant": "eleutherococcus_senticosus",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-07",
+    "plant": "eleutherococcus_senticosus",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

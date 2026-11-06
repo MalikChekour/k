@@ -7,6 +7,7 @@ export const PLANT_PHOTOS: Record<string, ImageSourcePropType> = {
   arctostaphylos_uva_ursi: require('../assets/plants/arctostaphylos_uva_ursi.jpg'),
   betula_pendula: require('../assets/plants/betula_pendula.jpg'),
   calendula_officinalis: require('../assets/plants/calendula_officinalis.jpg'),
+  carthamus_tinctorius: require('../assets/plants/carthamus_tinctorius.jpg'),
   crataegus_spp: require('../assets/plants/crataegus_spp.jpg'),
   curcuma_longa: require('../assets/plants/curcuma_longa.jpg'),
   cynara_scolymus: require('../assets/plants/cynara_scolymus.jpg'),
@@ -23,6 +24,7 @@ export const PLANT_PHOTOS: Record<string, ImageSourcePropType> = {
   matricaria_recutita: require('../assets/plants/matricaria_recutita.jpg'),
   melissa_officinalis: require('../assets/plants/melissa_officinalis.jpg'),
   mentha_piperita: require('../assets/plants/mentha_piperita.jpg'),
+  panax_ginseng: require('../assets/plants/panax_ginseng.jpg'),
   passiflora_incarnata: require('../assets/plants/passiflora_incarnata.jpg'),
   pelargonium_sidoides: require('../assets/plants/pelargonium_sidoides.jpg'),
   plantago_lanceolata: require('../assets/plants/plantago_lanceolata.jpg'),
@@ -39,4 +41,5 @@ export const PLANT_PHOTOS: Record<string, ImageSourcePropType> = {
   valeriana_officinalis: require('../assets/plants/valeriana_officinalis.jpg'),
   vitis_vinifera: require('../assets/plants/vitis_vinifera.jpg'),
   zingiber_officinale: require('../assets/plants/zingiber_officinale.jpg'),
+  ziziphus_jujuba: require('../assets/plants/ziziphus_jujuba.jpg'),
 };

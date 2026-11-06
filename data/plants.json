@@ -649,5 +649,147 @@
    "scutellaire de Baïkal",
    "skullcap"
   ]
+ },
+ {
+  "id": "eleutherococcus_senticosus",
+  "fr": "Éleuthérocoque (racine)",
+  "latin": "Eleutherococcus senticosus (Rupr. et Maxim.) Maxim.",
+  "part": "racine",
+  "queries": [
+   "Eleutherococcus senticosus root",
+   "Siberian ginseng root dried",
+   "eleuthero root herbal tea"
+  ],
+  "keys": [
+   "eleutherococcus",
+   "éleuthérocoque",
+   "eleuthero",
+   "ginseng sibérien",
+   "siberian ginseng",
+   "eleutherococcus senticosus"
+  ],
+  "aliases": [
+   "ginseng sibérien",
+   "Ci Wu Jia",
+   "éleuthérocoque"
+  ]
+ },
+ {
+  "id": "panax_ginseng",
+  "fr": "Ginseng (racine)",
+  "latin": "Panax ginseng C.A. Meyer",
+  "part": "racine",
+  "queries": [
+   "Panax ginseng root",
+   "ginseng root dried slices",
+   "ginseng herbal tea"
+  ],
+  "keys": [
+   "panax",
+   "ginseng",
+   "ginseng asiatique",
+   "ginseng blanc",
+   "panax ginseng"
+  ],
+  "aliases": [
+   "Ren Shen",
+   "ginseng asiatique",
+   "ginseng coréen"
+  ]
+ },
+ {
+  "id": "carthamus_tinctorius",
+  "fr": "Carthame (fleur)",
+  "latin": "Carthamus tinctorius L.",
+  "part": "fleur",
+  "queries": [
+   "Carthamus tinctorius",
+   "safflower",
+   "hong hua"
+  ],
+  "keys": [
+   "carthame",
+   "safflower",
+   "safflor",
+   "hong hua",
+   "honghua",
+   "hong-hua",
+   "flos carthami"
+  ],
+  "aliases": [
+   "Hong Hua",
+   "safran bâtard",
+   "safran des teinturiers"
+  ]
+ },
+ {
+  "id": "gentiana_scabra",
+  "fr": "Gentiane de Chine (racine)",
+  "latin": "Gentiana scabra Bunge",
+  "part": "racine",
+  "queries": [
+   "Gentiana scabra",
+   "Chinese gentian root",
+   "longdan"
+  ],
+  "keys": [
+   "gentiane de chine",
+   "gentiana scabra",
+   "longdan",
+   "long dan",
+   "dancao",
+   "radix gentianae scabrae"
+  ],
+  "aliases": [
+   "Long Dan Cao",
+   "Long Dan"
+  ]
+ },
+ {
+  "id": "ziziphus_jujuba",
+  "fr": "Jujube (fruit)",
+  "latin": "Ziziphus jujuba Mill.",
+  "part": "fruit",
+  "queries": [
+   "Ziziphus jujuba",
+   "jujube fruit",
+   "red date"
+  ],
+  "keys": [
+   "jujube",
+   "ziziphus",
+   "zizyphus",
+   "da zao",
+   "hong zao",
+   "fructus zizyphi"
+  ],
+  "aliases": [
+   "Da Zao",
+   "jujube",
+   "datte chinoise"
+  ]
+ },
+ {
+  "id": "angelica_sinensis",
+  "fr": "Angélique chinoise (racine)",
+  "latin": "Angelica sinensis (Oliv.) Diels",
+  "part": "racine",
+  "queries": [
+   "Angelica sinensis",
+   "dong quai",
+   "danggui root"
+  ],
+  "keys": [
+   "angelica sinensis",
+   "dong quai",
+   "danggui",
+   "dang gui",
+   "tang-kuei",
+   "chinese angelica"
+  ],
+  "aliases": [
+   "Dang Gui",
+   "angélique chinoise"
+  ]
  }
 ]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "gentiana_scabra-ind-01",
+    "plant": "gentiana_scabra",
+    "type": "indication",
+    "statement": "Pharmacologie clinique : la monographie OMS ne fournit aucune information. Aucun usage clinique n'est donc documenté par cette source.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Clinical pharmacology No information available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_scabra-ind-02",
+    "plant": "gentiana_scabra",
+    "type": "indication",
+    "statement": "Usage décrit dans les pharmacopées et documents bien établis : traitement symptomatique des troubles du foie, de la cholécystite et du manque d'appétit.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Symptomatic treatment of liver disorders, cholecystitis and lack of appetite (3, 6)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_scabra-ind-03",
+    "plant": "gentiana_scabra",
+    "type": "indication",
+    "statement": "Usage décrit en médecine traditionnelle : convulsions, eczéma, infections fongiques, troubles de l'audition, inflammations, leucorrhée, otite moyenne, infections urinaires, zona et prurit vulvaire.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Treatment of convulsions, eczema, fungal infections, hearing impairment, inﬂammation, leukorrhoea, otitis media, urinary tract infections, herpes zoster and pruritus vulvae (3, 6, 7)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_scabra-pos-01",
+    "plant": "gentiana_scabra",
+    "type": "posology",
+    "statement": "Dose quotidienne moyenne : 3 à 6 g de racines et rhizomes par jour, en infusion ou décoction.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "(Unless otherwise indicated) Average daily dose: roots and rhizomes 3–6 g per day as an infusion or decoction (4)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_scabra-01",
+    "plant": "gentiana_scabra",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas d'insuffisance hépatique.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Radix Gentianae Scabrae is contraindicated in stomach disorders and liver failure (3)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "liver_disease"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-02",
+    "plant": "gentiana_scabra",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas de troubles de l'estomac.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Radix Gentianae Scabrae is contraindicated in stomach disorders and liver failure (3)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-03",
+    "plant": "gentiana_scabra",
+    "type": "pregnancy",
+    "statement": "Grossesse : ne pas utiliser, en raison de possibles effets mutagènes.",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Owing to potential mutagenic effects (38), Radix Gentianae Scabrae should not be used during pregnancy or nursing or in children under the age of 12 years."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-04",
+    "plant": "gentiana_scabra",
+    "type": "pregnancy",
+    "statement": "Allaitement : ne pas utiliser, en raison de possibles effets mutagènes.",
+    "severity": "contraindiquee",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Owing to potential mutagenic effects (38), Radix Gentianae Scabrae should not be used during pregnancy or nursing or in children under the age of 12 years."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-05",
+    "plant": "gentiana_scabra",
+    "type": "age",
+    "statement": "Enfants de moins de 12 ans : ne pas utiliser, en raison de possibles effets mutagènes.",
+    "severity": "contraindiquee",
+    "population": "enfants",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Owing to potential mutagenic effects (38), Radix Gentianae Scabrae should not be used during pregnancy or nursing or in children under the age of 12 years."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-06",
+    "plant": "gentiana_scabra",
+    "type": "interaction",
+    "statement": "Aucune information sur les interactions médicamenteuses dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "No information available on general precautions or on precautions concerning drug interactions"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_scabra-07",
+    "plant": "gentiana_scabra",
+    "type": "warning",
+    "statement": "Effets indésirables rapportés lorsque la racine est prise après un repas : troubles de la digestion et, parfois, maux de tête, rougeur du visage et vertiges.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Radix Gentiana Scabrae may cause impairment of digestion and, occasionally, headaches, ﬂushing of the face and vertigo when taken after a meal (37)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-08",
+    "plant": "gentiana_scabra",
+    "type": "warning",
+    "statement": "Surdosage : nausées ou vomissements.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "Overdose may lead to nausea or vomiting (3)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "gentiana_scabra-09",
+    "plant": "gentiana_scabra",
+    "type": "warning",
+    "statement": "Mutagénicité : une autre étude rapporte qu'un extrait aqueux ou méthanolique à 100 mg/ml était actif dans l'essai de Salmonella/microsome et dans l'essai de recombinaison de Bacillus subtilis.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 3 (Organisation mondiale de la Santé, 2007) : monographie Radix Gentianae Scabrae",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol3/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-3.pdf",
+      "quote": "In another investigation, an aqueous or methanol extract of the roots and rhizomes, 100.0 mg/ml, was active in the Salmonella/microsome assay and the Bacillus subtilis recombination assay (38)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

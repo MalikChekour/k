@@ -1,0 +1,212 @@
+[
+  {
+    "id": "angelica_sinensis-ind-01",
+    "plant": "angelica_sinensis",
+    "type": "indication",
+    "statement": "Un essai randomisé contrôlé contre placebo (4,5 g de racine par jour pendant 24 semaines) n'a pas soulagé les symptômes de la ménopause, dont les bouffées de chaleur. Ce n'est donc pas un usage étayé par des essais cliniques.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "Although Radix Angelicae Sinensis has been alleged to be useful for the treatment of menopausal symptoms, a randomized, placebo-controlled clinical trial concluded that 4.5 g of the root daily for 24 weeks did not alleviate menopausal symptoms, such as hot ﬂushes (14)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "angelica_sinensis-ind-02",
+    "plant": "angelica_sinensis",
+    "type": "indication",
+    "statement": "Usage décrit dans les pharmacopées et les médecines traditionnelles (sans preuve clinique contrôlée) : troubles menstruels (règles irrégulières, aménorrhée, dysménorrhée), douleurs rhumatismales, abdominales et post-opératoires, constipation, anémie, hépatite chronique et cirrhose. Aucun usage n'est étayé par des essais cliniques contrôlés (l'OMS le précise) : ne pas y voir une preuve d'efficacité.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "Treatment of menstrual disorders such as irregular menstruation, amenorrhoea and dysmenorrhoea (1, 3, 15–19). As an analgesic for symptomatic treatment of rheumatic arthralgia, abdominal pain and in the management of postoperative pain (1, 20). Treatment of constipation (1), anaemia (1, 20), chronic hepatitis and cirrhosis of the liver (20)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "angelica_sinensis-pos-01",
+    "plant": "angelica_sinensis",
+    "type": "posology",
+    "statement": "Dose quotidienne décrite (sauf indication contraire) : 4,5 à 9 g de drogue brute.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "(Unless otherwise indicated) Daily dosage: 4.5–9 g crude drug"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "angelica_sinensis-01",
+    "plant": "angelica_sinensis",
+    "type": "pregnancy",
+    "statement": "Contre-indiquée pendant la grossesse (effets tératogènes et non tératogènes).",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "should not be used during pregnancy or lactation"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "angelica_sinensis-02",
+    "plant": "angelica_sinensis",
+    "type": "pregnancy",
+    "statement": "Contre-indiquée pendant l'allaitement.",
+    "severity": "contraindiquee",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "should not be used during pregnancy or lactation"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "angelica_sinensis-03",
+    "plant": "angelica_sinensis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée chez l'enfant (l'âge précis n'est pas indiqué).",
+    "severity": "contraindiquee",
+    "population": "enfants",
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "should not be administered to children or patients with diarrhoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "angelica_sinensis-04",
+    "plant": "angelica_sinensis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée chez les patients atteints de diarrhée.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "should not be administered to children or patients with diarrhoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "angelica_sinensis-05",
+    "plant": "angelica_sinensis",
+    "type": "warning",
+    "statement": "Ne doit pas être administrée aux patients atteints de maladies hémorragiques ni d'hyperménorrhée (règles très abondantes).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "should not be administered to children or patients with diarrhoea, haemorrhagic diseases or hypermenorrhoea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "angelica_sinensis-06",
+    "plant": "angelica_sinensis",
+    "type": "interaction",
+    "statement": "Avec la warfarine, des temps de prothrombine diminués ont été rapportés chez le lapin. Les patients sous anticoagulant doivent être avertis de ne pas prendre cette racine sans supervision médicale.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "patients receiving anticoagulant therapy should be advised against taking Radix Angelicae Sinensis without medical supervision"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "angelica_sinensis-07",
+    "plant": "angelica_sinensis",
+    "type": "interaction",
+    "statement": "Aucune information sur les interactions médicamenteuses générales dans la monographie OMS. Cela ne veut pas dire qu'il n'y en a pas.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "No information available on general precautions or precautions concerning drug and laboratory test interactions"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "angelica_sinensis-08",
+    "plant": "angelica_sinensis",
+    "type": "warning",
+    "statement": "Effets indésirables : généralement peu nombreux à la voie orale ; des maux de tête peuvent survenir chez les personnes sensibles.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "WHO monographs on selected medicinal plants, volume 2 (Organisation mondiale de la Santé, 2002) : monographie Radix Angelicae Sinensis",
+      "url": "https://archive.org/download/WHOMonographsOnSelectedMedicinalPlantsVol2/WHO-Monographs-on-Selected-Medicinal-Plants-Vol-2.pdf",
+      "quote": "however, headaches may occur in sensitive individuals"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

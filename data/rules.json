@@ -98,5 +98,20 @@
     "plant": "schisandra_chinensis",
     "class": "contraceptif_hormonal",
     "claim": "schisandra_chinensis-02"
+  },
+  {
+    "plant": "carthamus_tinctorius",
+    "class": "anticoagulant_coumarinique",
+    "claim": "carthamus_tinctorius-08"
+  },
+  {
+    "plant": "carthamus_tinctorius",
+    "class": "antiagregant",
+    "claim": "carthamus_tinctorius-08"
+  },
+  {
+    "plant": "angelica_sinensis",
+    "class": "anticoagulant_coumarinique",
+    "claim": "angelica_sinensis-06"
   }
 ]

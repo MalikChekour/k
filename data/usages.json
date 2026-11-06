@@ -171,6 +171,15 @@
       "claims": [
         "vitis_vinifera-ind-03"
       ]
+    },
+    {
+      "id": "fatigue",
+      "fr": "Fatigue et faiblesse (asthénie)",
+      "claims": [
+        "panax_ginseng-ind-01",
+        "eleutherococcus_senticosus-ind-01",
+        "rhodiola_rosea-ind-01"
+      ]
     }
   ]
 }
