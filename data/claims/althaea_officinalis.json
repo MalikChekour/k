@@ -1,0 +1,231 @@
+[
+  {
+    "id": "althaea_officinalis-ind-01",
+    "plant": "althaea_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des irritations de la bouche ou du pharynx et de la toux sèche associée (effet adoucissant).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "Traditional herbal medicinal product used as a demulcent preparation for the symptomatic treatment of oral or pharyngeal irritation and associated dry cough."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "althaea_officinalis-ind-02",
+    "plant": "althaea_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique de gênes digestives légères (effet adoucissant).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "Traditional herbal medicinal product used as a demulcent preparation for the symptomatic relief of mild gastrointestinal discomfort."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "althaea_officinalis-pos-01",
+    "plant": "althaea_officinalis",
+    "type": "posology",
+    "statement": "Indication 2 (gêne digestive), adolescents, adultes et personnes âgées : macérat de 2 à 5 g de racine broyée dans 150 ml d'eau, 3 fois par jour (15 g par jour au maximum).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "Herbal tea: 2-5 g of the comminuted herbal substance in 150 ml of water as a macerate 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "althaea_officinalis-pos-02",
+    "plant": "althaea_officinalis",
+    "type": "posology",
+    "statement": "Le macérat doit être utilisé immédiatement après sa préparation.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "The macerate should be used immediately after preparation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "althaea_officinalis-pos-03",
+    "plant": "althaea_officinalis",
+    "type": "posology",
+    "statement": "Durée : indication 1, si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé ; indication 2, plus de 2 semaines.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "Indication 2) If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "althaea_officinalis-01",
+    "plant": "althaea_officinalis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "althaea_officinalis-02",
+    "plant": "althaea_officinalis",
+    "type": "age",
+    "statement": "Usage non recommandé chez les moins de 3 ans (nécessité d'un avis médical).",
+    "severity": "precaution",
+    "population": "moins de 3 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "The use in children under 3 years of age is not recommended because of concerns requiring medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "althaea_officinalis-03",
+    "plant": "althaea_officinalis",
+    "type": "age",
+    "statement": "Indication 2 (gêne digestive) : usage non établi chez les moins de 12 ans, faute de données suffisantes.",
+    "severity": "precaution",
+    "population": "moins de 12 ans (indication digestive)",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "althaea_officinalis-04",
+    "plant": "althaea_officinalis",
+    "type": "warning",
+    "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "If dyspnoea, fever or purulent sputum occurs during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "althaea_officinalis-05",
+    "plant": "althaea_officinalis",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "althaea_officinalis-06",
+    "plant": "althaea_officinalis",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "althaea_officinalis-07",
+    "plant": "althaea_officinalis",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

@@ -11,7 +11,7 @@ const COLORS: Record<string, string> = {
   rosmarinus_officinalis: '#5B8DB8', salvia_officinalis: '#7C9A8E', calendula_officinalis: '#F08A12', taraxacum_officinale: '#F2C200',
   sambucus_nigra: '#B8A27A', plantago_lanceolata: '#4F9D4A', cynara_scolymus: '#7A6FB5',
   glycyrrhiza_glabra: '#8A5A2B', humulus_lupulus: '#A8C23A', aesculus_hippocastanum: '#B5651D', vitis_vinifera: '#9B2D5B',
-  equisetum_arvense: '#4E8F6A', betula_pendula: '#7FB069', arctostaphylos_uva_ursi: '#D04A5C', pelargonium_sidoides: '#C2457A',
+  althaea_officinalis: '#D9A3B8', equisetum_arvense: '#4E8F6A', betula_pendula: '#7FB069', arctostaphylos_uva_ursi: '#D04A5C', pelargonium_sidoides: '#C2457A',
 };
 const FALLBACK = ['#E9A60C', '#E4573D', '#1FB38F', '#9A6FD0', '#6FA82A', '#E0587C', '#2E9A57', '#E8741A'];
 

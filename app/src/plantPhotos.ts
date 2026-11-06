@@ -3,6 +3,7 @@ import type { ImageSourcePropType } from 'react-native';
 
 export const PLANT_PHOTOS: Record<string, ImageSourcePropType> = {
   aesculus_hippocastanum: require('../assets/plants/aesculus_hippocastanum.jpg'),
+  althaea_officinalis: require('../assets/plants/althaea_officinalis.jpg'),
   arctostaphylos_uva_ursi: require('../assets/plants/arctostaphylos_uva_ursi.jpg'),
   betula_pendula: require('../assets/plants/betula_pendula.jpg'),
   calendula_officinalis: require('../assets/plants/calendula_officinalis.jpg'),

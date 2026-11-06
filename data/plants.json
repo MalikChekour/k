@@ -562,5 +562,22 @@
    "red vine",
    "grapevine"
   ]
+ },
+ {
+  "id": "althaea_officinalis",
+  "fr": "Guimauve (racine)",
+  "latin": "Althaea officinalis L.",
+  "part": "racine",
+  "queries": [
+   "Althaea officinalis",
+   "marshmallow root",
+   "marsh mallow flower"
+  ],
+  "keys": [
+   "althaea",
+   "guimauve",
+   "marshmallow",
+   "marsh mallow"
+  ]
  }
 ]

@@ -243,5 +243,12 @@
   "license": "cc0",
   "page_url": "https://www.inaturalist.org/photos/368520868",
   "label": "Pelargonium sidoides Angiospermae Flowers Geraniales Parvulipetala Pelargonium Plants Reniformia storchschnabelgewächse Tracheophyta"
+ },
+ "althaea_officinalis": {
+  "provider": "pixabay",
+  "author": "Dana1201",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/flowers-buds-marshmallow-plant-8206820/",
+  "label": "flowers, buds, marshmallow, plant, blossom, bloom, close up, nature"
  }
 }
