@@ -40,6 +40,20 @@ def tap(root, desc):
     subprocess.run(['adb', 'shell', 'input', 'tap', str(c[0]), str(c[1])])
     return True
 
+def center_prefix(root, prefix):
+    for n in root.iter('node'):
+        d = n.get('content-desc') or ''
+        if d.startswith(prefix):
+            m = re.match(r'\[(\d+),(\d+)\]\[(\d+),(\d+)\]', n.get('bounds'))
+            x1, y1, x2, y2 = map(int, m.groups())
+            return (x1 + x2) // 2, (y1 + y2) // 2
+    return None
+
+
+def has_text(root, needle):
+    return any(needle in ((n.get('text') or '') + ' ' + (n.get('content-desc') or '')) for n in root.iter('node'))
+
+
 report = []
 root = dump('01_plantes')
 size = open(f'{OUT}/ecran.txt').read()
@@ -62,5 +76,28 @@ root = dump('apres_fiche')
 tap(root, 'Ouvrir Sources et méthode'); time.sleep(2)
 root = dump('sources')
 report.append('sources ouvert: ' + str(bool(center(root, 'Fermer Sources et méthode'))))
+# --- interactions : le constat doit réagir et rester visible ---
+root = dump('i0')
+tap(root, 'Sécurité'); time.sleep(2); root = dump('i1')
+report.append('securite: puce Millepertuis presente=' + str(bool(center(root, 'Millepertuis'))))
+tap(root, 'Millepertuis'); time.sleep(2); root = dump('securite_apres')
+report.append('securite: barre de constat visible apres ajout=' + str(has_text(root, 'Constat sur 1 plante')))
+subprocess.run(['adb', 'shell', 'input', 'swipe', '540', '1800', '540', '700', '300']); time.sleep(1.5)
+root = dump('securite_defile')
+report.append('securite: barre toujours visible apres defilement=' + str(has_text(root, 'Constat sur 1 plante')))
+tap(root, 'Mélange'); time.sleep(2); root = dump('m1')
+tap(root, 'Aide au sommeil'); time.sleep(2); root = dump('melange_usage')
+c = center_prefix(root, 'Ajouter ')
+report.append('melange: bouton Ajouter present=' + str(bool(c)))
+if c:
+    subprocess.run(['adb', 'shell', 'input', 'tap', str(c[0]), str(c[1])]); time.sleep(2)
+    root = dump('melange_apres')
+    report.append('melange: barre de constat visible apres ajout=' + str(has_text(root, 'Constat sur 1 plante')))
+tap(root, 'Armoire'); time.sleep(2); root = dump('a1')
+tap(root, 'Enceinte'); time.sleep(1.5); root = dump('armoire_enceinte')
+report.append('armoire: puce Enceinte active=' + str(any((n.get('content-desc') == 'Enceinte' and n.get('checked') == 'true') for n in root.iter('node'))))
+tap(root, 'Labo'); time.sleep(2); root = dump('l1')
+tap(root, 'Passiflore'); time.sleep(1.5); root = dump('labo_apres')
+report.append('labo: calculateur visible=' + str(has_text(root, 'Fourchette EMA')))
 open(f'{OUT}/rapport.txt', 'w', encoding='utf-8').write('\n'.join(report))
 print('\n'.join(report))

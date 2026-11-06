@@ -66,6 +66,19 @@ const VERDICT: Record<string, { t: string; bg: string; fg: string; glyph: string
   aucune_alerte_dans_notre_base: { t: 'Aucune alerte dans notre base (ce n’est pas une garantie)', bg: '#DDF0E3', fg: '#14502F', glyph: '✓' },
 };
 
+/** Constat compact, destiné à rester collé en haut d'un écran défilant : il rend visible l'effet de chaque ajout. */
+export function VerdictBar({ r, count, onPress }: { r: Assessment; count: number; onPress: () => void }) {
+  const v = VERDICT[r.verdict];
+  return (
+    <Pressable onPress={onPress} accessibilityRole="button" accessibilityLabel={`Constat sur ${count} plante${count > 1 ? 's' : ''} : ${v.t}. Toucher pour voir le détail.`}
+      style={[s.vbar, { backgroundColor: v.bg }]}>
+      <View style={[s.glyph, { backgroundColor: v.fg + '26', width: 28, height: 28, borderRadius: 14 }]}><Text style={[s.glyphTxt, { color: v.fg, fontSize: 15 }]}>{v.glyph}</Text></View>
+      <Text style={[s.vbarTxt, { color: v.fg }]} numberOfLines={2}>{count} plante{count > 1 ? 's' : ''} · {v.t}</Text>
+      <Text style={[s.vbarGo, { color: v.fg }]}>Détail ↑</Text>
+    </Pressable>
+  );
+}
+
 export function Notice() {
   return <Text style={s.notice}>{EDU}</Text>;
 }
@@ -138,6 +151,9 @@ export const s = StyleSheet.create({
   card: { backgroundColor: C.card, borderRadius: 20, padding: 16, gap: 6, ...SHADOW },
   verdict: { borderRadius: 22, padding: 18, gap: 10 },
   verdictTxt: { fontFamily: F.title, fontSize: 24, lineHeight: 29, letterSpacing: -0.5 },
+  vbar: { flexDirection: 'row', alignItems: 'center', gap: 10, borderRadius: 18, paddingVertical: 10, paddingHorizontal: 12, minHeight: 52, ...SHADOW },
+  vbarTxt: { flex: 1, fontFamily: F.bold, fontSize: 13.5, lineHeight: 18 },
+  vbarGo: { fontFamily: F.bold, fontSize: 12 },
   glyph: { width: 34, height: 34, borderRadius: 17, alignItems: 'center', justifyContent: 'center' },
   glyphTxt: { fontFamily: F.title, fontSize: 19 },
   backdrop: { flex: 1, backgroundColor: C.bg },

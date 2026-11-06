@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useMemo, useRef, useState } from 'react';
 
 import { Linking, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 import { assess } from '../safety';
@@ -6,13 +6,14 @@ import type { Profile } from '../safety';
 import { bundle, plants } from '../bundle';
 import { plantsForUsage } from '../usages';
 import { styleFor } from '../plantStyle';
-import { Chip, C, SafetyReport, Source, s } from './shared';
+import { Chip, C, SafetyReport, Source, VerdictBar, s } from './shared';
 import { ProfileSummary } from './ProfileEditor';
 
 /** Mélange par symptôme. Le contrôle de sécurité tourne à chaque modification, AVANT la composition. */
 export function Mix({ profile }: { profile: Profile }) {
   const [cat, setCat] = useState<string>(bundle.usages[0]?.id ?? '');
   const [mix, setMix] = useState<Record<string, string>>({});
+  const ref = useRef<ScrollView>(null);
   const selected = Object.keys(mix);
   const hits = useMemo(() => plantsForUsage(bundle, bundle.usages, cat), [cat]);
   const report = assess(bundle, selected, profile);
@@ -26,8 +27,11 @@ export function Mix({ profile }: { profile: Profile }) {
   const dose = (plantId: string) => bundle.infusions.find(i => i.plant === plantId);
 
   return (
-    <ScrollView contentContainerStyle={s.pad}>
-      <Text style={s.h1}>Mélange par symptôme</Text>
+    <ScrollView ref={ref} contentContainerStyle={s.pad} stickyHeaderIndices={[1]}>
+      <Text style={s.h1} accessibilityRole="header">Mélange par symptôme</Text>
+      <View style={{ backgroundColor: C.bg, paddingBottom: 4 }}>
+        {selected.length > 0 && <VerdictBar r={report} count={selected.length} onPress={() => ref.current?.scrollTo({ y: 0, animated: true })} />}
+      </View>
       <Text style={s.tag}>VOTRE MÉLANGE : SÉCURITÉ VÉRIFIÉE AUTOMATIQUEMENT</Text>
       <ProfileSummary profile={profile} />
       {selected.length === 0 ? (

@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { Linking, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
+import { ScrollView, Text, TextInput, View } from 'react-native';
 import { tincture } from '../tincture';
 import { compareToRange, RANGE_TEXT } from '../infusion';
 import { bundle, plants } from '../bundle';
-import { C, Chip, s } from './shared';
+import { C, Chip, Source, s } from './shared';
 
 /** Infusion : compare une dose saisie à la dose unitaire citée par l'EMA. Ne compose rien et ne calcule aucun pourcentage. */
 function InfusionCalc() {
@@ -19,9 +19,10 @@ function InfusionCalc() {
   return (
     <View style={{ gap: 12 }}>
       <Text style={s.tag}>INFUSION (TISANE) : DOSE UNITAIRE CITÉE PAR L’EMA</Text>
-      <View style={s.wrap}>
-        {infusions.map((x, i) => <Chip key={x.claim} label={x.label} on={i === idx} onPress={() => setIdx(i)} />)}
-      </View>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 8, paddingRight: 20 }}>
+        {infusions.map((x, i) => <Chip key={x.claim} label={x.label.split(' : ')[0] + (x.label.includes('enfants') ? ' (enfants)' : '')} on={i === idx} onPress={() => setIdx(i)} />)}
+      </ScrollView>
+      <Text style={s.muted}>{inf.label}</Text>
       <View style={s.row}>
         <Text style={s.body}>Plante sèche (g)</Text>
         <TextInput style={s.input} value={g} onChangeText={setG} keyboardType="decimal-pad" placeholder="ex. 2" placeholderTextColor={C.muted} accessibilityLabel="Quantité de plante sèche en grammes" />
@@ -32,10 +33,7 @@ function InfusionCalc() {
       </View>
       {claim && (
         <>
-          <Text style={s.muted}>« {claim.quote} »</Text>
-          <Pressable onPress={() => Linking.openURL(claim.url)} accessibilityRole="link" accessibilityLabel={`Source : ${claim.source}`}>
-            <Text style={s.link}>{claim.source}</Text>
-          </Pressable>
+          <Source quote={claim.quote} url={claim.url} source={claim.source} reviewed={!!claim.reviewed_by} />
         </>
       )}
     </View>
