@@ -77,6 +77,8 @@ tap(root, 'Ouvrir Sources et méthode'); time.sleep(2)
 root = dump('sources')
 report.append('sources ouvert: ' + str(bool(center(root, 'Fermer Sources et méthode'))))
 # --- interactions : le constat doit réagir et rester visible ---
+root = dump('i00')
+tap(root, 'Fermer Sources et méthode'); time.sleep(1.5)
 root = dump('i0')
 tap(root, 'Sécurité'); time.sleep(2); root = dump('i1')
 report.append('securite: puce Millepertuis presente=' + str(bool(center(root, 'Millepertuis'))))
