@@ -76,9 +76,9 @@ export function Mix({ profile }: { profile: Profile }) {
       )}
 
       <Text style={s.tag}>CHOISIR PAR USAGE (issu des indications EMA)</Text>
-      <View style={s.wrap}>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ gap: 8, paddingRight: 20 }}>
         {bundle.usages.map(u => <Chip key={u.id} label={u.fr} on={cat === u.id} onPress={() => setCat(u.id)} />)}
-      </View>
+      </ScrollView>
       {hits.length === 0 && <Text style={s.muted}>Aucune plante de notre base pour cet usage.</Text>}
       {hits.map(h => (
         <View key={h.claimId} style={[s.card, { borderTopWidth: 5, borderTopColor: styleFor({ id: h.plantId, part: '' }).color }]}>
