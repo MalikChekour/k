@@ -318,3 +318,7 @@ test('carthame : un adulte sans profil particulier n’a pas de « contre-indica
 test('angélique chinoise + warfarine : alerte', () => {
   assert.ok(assess(bundle, ['angelica_sinensis'], { flags: [], meds: ['warfarine'] }).alerts.some(a => a.claimId === 'angelica_sinensis-06'));
 });
+test('lierre : contre-indiqué avant 2 ans, pas à 5 ans', () => {
+  assert.equal(assess(bundle, ['hedera_helix'], { ageYears: 1, flags: [] }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['hedera_helix'], { ageYears: 5, flags: [] }).verdict, 'contre_indication');
+});

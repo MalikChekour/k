@@ -1,0 +1,349 @@
+[
+  {
+    "id": "hedera_helix-ind-01",
+    "plant": "hedera_helix",
+    "type": "indication",
+    "statement": "Usage bien établi (HMPC) : médicament à base de plante utilisé comme expectorant en cas de toux productive.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Herbal medicinal product used as an expectorant in case of productive cough."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-pos-01",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, préparation a) (extrait sec DER 4-8:1, éthanol 24-30 % m/m) : 15 à 65 mg par prise, une à trois fois par jour (dose journalière 45 à 105 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 15-65 mg, one to three times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-pos-02",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Produits contenant de l'éthanol : dose journalière maximale de 67 mg, soit 420 mg de substance végétale (préparation a).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "maximum daily dose for ethanol-containing finished products :67 mg; corresponding to 420 mg herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-pos-03",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 6 à 11 ans, préparation a) (extrait sec DER 4-8:1, éthanol 24-30 % m/m) : 11 à 35 mg par prise, deux à trois fois par jour (dose journalière 33 à 70 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 11-35 mg, two to three times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-pos-04",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 2 à 5 ans, préparation a) (extrait sec DER 4-8:1, éthanol 24-30 % m/m) : 8 à 18 mg par prise, deux à trois fois par jour (dose journalière 24 à 36 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 8-18 mg, two to three times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-pos-05",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un pharmacien.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "If the symptoms persist longer than one week during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-01",
+    "plant": "hedera_helix",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou à des plantes de la famille des Araliacées.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Hypersensitivity to the active substance or to plants of the Araliaceae family."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "hedera_helix-02",
+    "plant": "hedera_helix",
+    "type": "age",
+    "statement": "Contre-indiquée chez les enfants de moins de 2 ans (risque d'aggravation des symptômes respiratoires par les médicaments sécrétolytiques).",
+    "severity": "contraindiquee",
+    "population": "moins de 2 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Children under 2 years of age because of the general risk of aggravation of respiratory symptoms through secretolytic drugs."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_2"
+    ]
+  },
+  {
+    "id": "hedera_helix-03",
+    "plant": "hedera_helix",
+    "type": "age",
+    "statement": "Toux persistante ou récidivante chez l'enfant de 2 à 4 ans : un diagnostic médical est nécessaire avant le traitement. Seuil d'âge approché par age_lt_12 : à relire.",
+    "severity": "precaution",
+    "population": "2 à 4 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Persistent or recurrent cough in children between 2-4 years of age requires medical diagnosis before treatment."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "hedera_helix-04",
+    "plant": "hedera_helix",
+    "type": "age",
+    "statement": "La préparation d) (teneur en alcool) ne doit pas être administrée aux enfants de moins de 6 ans.",
+    "severity": "precaution",
+    "population": "moins de 6 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Preparation d) should not be administered to children under 6 years of age because of the alcohol content."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_6"
+    ]
+  },
+  {
+    "id": "hedera_helix-05",
+    "plant": "hedera_helix",
+    "type": "warning",
+    "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "When dyspnoea, fever or purulent sputum occurs, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hedera_helix-06",
+    "plant": "hedera_helix",
+    "type": "warning",
+    "statement": "Prudence recommandée chez les personnes ayant une gastrite (la monographie mentionne aussi l'ulcère gastrique).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Caution is recommended in patients with gastritis"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "gastric_ulcer"
+    ]
+  },
+  {
+    "id": "hedera_helix-07",
+    "plant": "hedera_helix",
+    "type": "warning",
+    "statement": "Effets indésirables digestifs possibles (nausées, vomissements, diarrhée), fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Gastrointestinal reactions (nausea, vomiting, diarrhoea) have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hedera_helix-08",
+    "plant": "hedera_helix",
+    "type": "warning",
+    "statement": "Réactions allergiques possibles (urticaire, éruption cutanée, dyspnée, réaction anaphylactique), fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Allergic reactions (urticaria, skin rash, dyspnoea, anaphylactic reaction) have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "hedera_helix-09",
+    "plant": "hedera_helix",
+    "type": "warning",
+    "statement": "En cas de surdosage, nausées, vomissements, diarrhée et agitation peuvent survenir.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Overdose can provoke nausea, vomiting, diarrhoea and agitation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hedera_helix-10",
+    "plant": "hedera_helix",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage bien établi). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-11",
+    "plant": "hedera_helix",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "hedera_helix-12",
+    "plant": "hedera_helix",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur la capacité à conduire des véhicules et à utiliser des machines.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

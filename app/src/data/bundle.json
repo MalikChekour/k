@@ -7838,6 +7838,1186 @@
      "quote": "however, headaches may occur in sensitive individuals"
     }
    ]
+  },
+  {
+   "id": "hamamelis_virginiana",
+   "fr": "Hamamélis",
+   "latin": "Hamamelis virginiana L.",
+   "part": "feuille",
+   "aliases": [
+    "hamamélis de Virginie",
+    "witch hazel"
+   ],
+   "claims": [
+    {
+     "id": "hamamelis_virginiana-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des inflammations cutanées mineures et de la sécheresse de la peau.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Traditional herbal medicinal product for relief of minor skin inflammation and dryness of the skin."
+    },
+    {
+     "id": "hamamelis_virginiana-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique des démangeaisons et des brûlures associées aux hémorroïdes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptomatic relief of itching and burning associated with haemorrhoids."
+    },
+    {
+     "id": "hamamelis_virginiana-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des petites inflammations des muqueuses de la cavité buccale, en bain de bouche et gargarismes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Traditional herbal medicinal product used as a mouthwash and gargles for relief of minor inflammation of mucous membranes of the oral cavity."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-01",
+     "type": "posology",
+     "statement": "Indication cutanée (enfants de plus de 6 ans, adolescents, adultes et personnes âgées) : teinture ou extraits liquides (1:1, éthanol 45 % v/v ou éthanol 30 % m/m) à 5 à 10 % dans les préparations semi-solides et liquides, plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Tincture or liquid extracts (1:1, ethanol 45% v/v or ethanol 30% m/m) in a strength corresponding to 5-10% in semisolid and liquid preparations, several times daily."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-02",
+     "type": "posology",
+     "statement": "Indication cutanée : drogue en décocté, 5 à 10 g pour 250 ml, jusqu'à 3 fois par jour en compresse imprégnée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "5-10 g/250 ml, up to 3 times a day as impregnated dressing."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-03",
+     "type": "posology",
+     "statement": "Indication hémorroïdes (adultes et personnes âgées) : suppositoires contenant 400 mg d'extrait liquide (1:2, éthanol 60 % v/v), un suppositoire 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Suppositories containing 400 mg of liquid extract (1:2, ethanol 60% v/v), one suppository 2-3 times a day."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-04",
+     "type": "posology",
+     "statement": "Indication hémorroïdes (adultes et personnes âgées) : extrait liquide (1:2, éthanol 60 % v/v) à 20 % en préparation semi-solide, plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Liquid extract (1:2, ethanol 60% v/v) in a strength corresponding to 20% as a semi-solid preparation, several times daily."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-05",
+     "type": "posology",
+     "statement": "Indication bains de bouche et gargarismes (adolescents, adultes et personnes âgées) : teinture diluée au tiers dans l'eau, 2 à 4 ml, trois fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Tincture (diluted 1:3 with water) 2-4 ml, three times daily for gargles."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-06",
+     "type": "posology",
+     "statement": "Indication bains de bouche et gargarismes (adolescents, adultes et personnes âgées) : drogue en décocté pour gargarismes, 2 à 3 g jusqu'à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Comminuted herbal substance to be used as a decoction, for gargles: 2-3 g up to 3 times a day."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-07",
+     "type": "posology",
+     "statement": "Indications cutanée et bains de bouche : si les symptômes persistent plus de 1 semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "If the symptoms persist for more than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "hamamelis_virginiana-pos-08",
+     "type": "posology",
+     "statement": "Indication hémorroïdes : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "If the symptoms persist for more than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "hamamelis_virginiana-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance végétale.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Hypersensitivity to the herbal substance."
+    },
+    {
+     "id": "hamamelis_virginiana-02",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants de moins de 6 ans (indication cutanée), faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 6 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "The use in children under 6 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "hamamelis_virginiana-03",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans (hémorroïdes), faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "hamamelis_virginiana-04",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants de moins de 12 ans (bains de bouche et gargarismes), faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "hamamelis_virginiana-05",
+     "type": "warning",
+     "statement": "En cas de saignement rectal, consulter un médecin.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "If rectal bleeding occurs a doctor should be consulted."
+    },
+    {
+     "id": "hamamelis_virginiana-06",
+     "type": "warning",
+     "statement": "Si les symptômes persistent ou s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "If symptoms persist or worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "hamamelis_virginiana-07",
+     "type": "warning",
+     "statement": "Dermatite de contact allergique possible, fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Allergic contact dermatitis has been reported. The frequency is not known."
+    },
+    {
+     "id": "hamamelis_virginiana-08",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "hamamelis_virginiana-09",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established."
+    },
+    {
+     "id": "hamamelis_virginiana-10",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la capacité à conduire des véhicules et à utiliser des machines.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "hedera_helix",
+   "fr": "Lierre grimpant",
+   "latin": "Hedera helix L.",
+   "part": "feuille",
+   "aliases": [
+    "lierre grimpant",
+    "lierre"
+   ],
+   "claims": [
+    {
+     "id": "hedera_helix-ind-01",
+     "type": "indication",
+     "statement": "Usage bien établi (HMPC) : médicament à base de plante utilisé comme expectorant en cas de toux productive.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Herbal medicinal product used as an expectorant in case of productive cough."
+    },
+    {
+     "id": "hedera_helix-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, préparation a) (extrait sec DER 4-8:1, éthanol 24-30 % m/m) : 15 à 65 mg par prise, une à trois fois par jour (dose journalière 45 à 105 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 15-65 mg, one to three times daily"
+    },
+    {
+     "id": "hedera_helix-pos-02",
+     "type": "posology",
+     "statement": "Produits contenant de l'éthanol : dose journalière maximale de 67 mg, soit 420 mg de substance végétale (préparation a).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "maximum daily dose for ethanol-containing finished products :67 mg; corresponding to 420 mg herbal substance"
+    },
+    {
+     "id": "hedera_helix-pos-03",
+     "type": "posology",
+     "statement": "Enfants de 6 à 11 ans, préparation a) (extrait sec DER 4-8:1, éthanol 24-30 % m/m) : 11 à 35 mg par prise, deux à trois fois par jour (dose journalière 33 à 70 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 11-35 mg, two to three times daily"
+    },
+    {
+     "id": "hedera_helix-pos-04",
+     "type": "posology",
+     "statement": "Enfants de 2 à 5 ans, préparation a) (extrait sec DER 4-8:1, éthanol 24-30 % m/m) : 8 à 18 mg par prise, deux à trois fois par jour (dose journalière 24 à 36 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 8-18 mg, two to three times daily"
+    },
+    {
+     "id": "hedera_helix-pos-05",
+     "type": "posology",
+     "statement": "Si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un pharmacien.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "If the symptoms persist longer than one week during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    {
+     "id": "hedera_helix-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou à des plantes de la famille des Araliacées.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to plants of the Araliaceae family."
+    },
+    {
+     "id": "hedera_helix-02",
+     "type": "age",
+     "statement": "Contre-indiquée chez les enfants de moins de 2 ans (risque d'aggravation des symptômes respiratoires par les médicaments sécrétolytiques).",
+     "severity": "contraindiquee",
+     "population": "moins de 2 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_2"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Children under 2 years of age because of the general risk of aggravation of respiratory symptoms through secretolytic drugs."
+    },
+    {
+     "id": "hedera_helix-03",
+     "type": "age",
+     "statement": "Toux persistante ou récidivante chez l'enfant de 2 à 4 ans : un diagnostic médical est nécessaire avant le traitement. Seuil d'âge approché par age_lt_12 : à relire.",
+     "severity": "precaution",
+     "population": "2 à 4 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Persistent or recurrent cough in children between 2-4 years of age requires medical diagnosis before treatment."
+    },
+    {
+     "id": "hedera_helix-04",
+     "type": "age",
+     "statement": "La préparation d) (teneur en alcool) ne doit pas être administrée aux enfants de moins de 6 ans.",
+     "severity": "precaution",
+     "population": "moins de 6 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Preparation d) should not be administered to children under 6 years of age because of the alcohol content."
+    },
+    {
+     "id": "hedera_helix-05",
+     "type": "warning",
+     "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes, consulter un médecin ou un pharmacien.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "When dyspnoea, fever or purulent sputum occurs, a doctor or a pharmacist should be consulted."
+    },
+    {
+     "id": "hedera_helix-06",
+     "type": "warning",
+     "statement": "Prudence recommandée chez les personnes ayant une gastrite (la monographie mentionne aussi l'ulcère gastrique).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "gastric_ulcer"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Caution is recommended in patients with gastritis"
+    },
+    {
+     "id": "hedera_helix-07",
+     "type": "warning",
+     "statement": "Effets indésirables digestifs possibles (nausées, vomissements, diarrhée), fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Gastrointestinal reactions (nausea, vomiting, diarrhoea) have been reported. The frequency is not known."
+    },
+    {
+     "id": "hedera_helix-08",
+     "type": "warning",
+     "statement": "Réactions allergiques possibles (urticaire, éruption cutanée, dyspnée, réaction anaphylactique), fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Allergic reactions (urticaria, skin rash, dyspnoea, anaphylactic reaction) have been reported. The frequency is not known."
+    },
+    {
+     "id": "hedera_helix-09",
+     "type": "warning",
+     "statement": "En cas de surdosage, nausées, vomissements, diarrhée et agitation peuvent survenir.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Overdose can provoke nausea, vomiting, diarrhoea and agitation."
+    },
+    {
+     "id": "hedera_helix-10",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage bien établi). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "None reported"
+    },
+    {
+     "id": "hedera_helix-11",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "hedera_helix-12",
+     "type": "driving",
+     "statement": "Aucune étude sur l'effet sur la capacité à conduire des véhicules et à utiliser des machines.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
+  },
+  {
+   "id": "plantago_ovata",
+   "fr": "Psyllium (téguments de graine)",
+   "latin": "Plantago ovata Forssk.",
+   "part": "téguments de graine",
+   "aliases": [
+    "psyllium",
+    "ispaghul",
+    "ispaghula"
+   ],
+   "claims": [
+    {
+     "id": "plantago_ovata-ind-01",
+     "type": "indication",
+     "statement": "Usage bien établi : traitement de la constipation habituelle.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Herbal medicinal product for the treatment of habitual constipation."
+    },
+    {
+     "id": "plantago_ovata-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : facilitation de la défécation avec selles molles lorsque cela est souhaitable, par exemple après une chirurgie rectale ou anale douloureuse, en cas de fissures anales et d'hémorroïdes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "easy defaecation with soft stool is desirable, e.g. in cases of painful defaecation after rectal or anal surgery, anal fissures and haemorrhoids."
+    },
+    {
+     "id": "plantago_ovata-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : augmentation de l'apport quotidien en fibres lorsque cela peut être conseillé, par exemple en complément du traitement du syndrome du côlon irritable à prédominance constipation, ou en complément du régime dans l'hypercholestérolémie.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "to whom an increased daily fibre intake may be advisable e.g. as an adjuvant in constipation predominant irritable bowel syndrome, as an adjuvant to diet in hypercholesterolemia"
+    },
+    {
+     "id": "plantago_ovata-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées (indications 1 et 2) : 7 à 11 g de substance végétale par jour, en 1 à 3 prises.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Daily dose 7 – 11 g herbal substance/herbal preparation in 1 – 3 single doses"
+    },
+    {
+     "id": "plantago_ovata-pos-02",
+     "type": "posology",
+     "statement": "Enfants de 6 à 12 ans (indications 1 et 2) : 3 à 8 g de substance végétale par jour, en 1 à 3 prises.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Daily dose 3 – 8 g herbal substance/herbal preparation in 1 – 3 single doses"
+    },
+    {
+     "id": "plantago_ovata-pos-03",
+     "type": "posology",
+     "statement": "Indication 3 (apport en fibres), adolescents, adultes et personnes âgées : 7 à 20 g de substance végétale par jour, en 1 à 3 prises.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Daily dose 7 – 20 g herbal substance/herbal preparation in 1 – 3 single doses"
+    },
+    {
+     "id": "plantago_ovata-pos-04",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 3 jours pendant l'utilisation (indication 1), consulter un médecin ou un pharmacien.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "If the symptoms persist during the use of the medicinal product longer than 3 days, a doctor or a pharmacist should be consulted"
+    },
+    {
+     "id": "plantago_ovata-pos-05",
+     "type": "posology",
+     "statement": "Prendre une quantité suffisante de liquide (eau, lait, jus de fruit ou autre liquide aqueux similaire), par exemple 30 ml d'eau pour 1 g de substance végétale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "A sufficient amount of liquid (water, milk, fruit juice or similar aqueous liquid) should always be taken e.g. 30 ml of water per 1 g of herbal substance."
+    },
+    {
+     "id": "plantago_ovata-pos-06",
+     "type": "posology",
+     "statement": "Prendre le produit pendant la journée, au moins ½ à 1 heure avant ou après les autres médicaments, et non juste avant le coucher.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "The product should be taken during the day at least ½ to 1 hour before or after intake of other medicines, not immediately prior to bed-time."
+    },
+    {
+     "id": "plantago_ovata-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Hypersensitivity to the active substance"
+    },
+    {
+     "id": "plantago_ovata-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas de changement brusque des habitudes intestinales persistant plus de 2 semaines.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Patients with a sudden change in bowel habit that persists for more than 2 weeks."
+    },
+    {
+     "id": "plantago_ovata-03",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas de saignement rectal non diagnostiqué et d'absence de défécation après l'utilisation d'un laxatif.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Undiagnosed rectal bleeding and failure to defecate following the use of a laxative."
+    },
+    {
+     "id": "plantago_ovata-04",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas de rétrécissement anormal du tube digestif, de maladie de l'œsophage ou du cardia, d'occlusion intestinale (iléus) possible ou avérée, de paralysie de l'intestin ou de mégacôlon.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Patients suffering from abnormal constrictions in the gastro-intestinal tract, with diseases of the oesophagus and cardia, potential or existing intestinal blockage (ileus), paralysis of the intestine or megacolon."
+    },
+    {
+     "id": "plantago_ovata-05",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas de difficulté à avaler ou de tout problème de gorge.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Patients who have difficulty in swallowing or any throat problems."
+    },
+    {
+     "id": "plantago_ovata-06",
+     "type": "age",
+     "statement": "Usage non recommandé chez les moins de 6 ans, faute de données suffisantes sur l'efficacité.",
+     "severity": "precaution",
+     "population": "moins de 6 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "The use is not recommended in children below 6 years of age due to insufficient data on efficacy."
+    },
+    {
+     "id": "plantago_ovata-07",
+     "type": "age",
+     "statement": "Indication 3 (apport en fibres) : usage non recommandé chez les moins de 12 ans, faute de données suffisantes sur l'efficacité.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "The use is not recommended in children below 12 years of age due to insufficient data on efficacy."
+    },
+    {
+     "id": "plantago_ovata-08",
+     "type": "warning",
+     "statement": "Pris avec une quantité insuffisante de liquide, ce produit peut provoquer une obstruction de la gorge et de l'œsophage (étouffement) ainsi qu'une obstruction intestinale.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "fluid_restriction",
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "When taken with inadequate fluid amounts, bulk forming agents can cause obstruction of the throat and oesophagus with choking and intestinal obstruction."
+    },
+    {
+     "id": "plantago_ovata-09",
+     "type": "warning",
+     "statement": "Ne pas utiliser en cas d'accumulation de selles (fécalome) avec douleurs abdominales, nausées ou vomissements, sauf avis médical, car ces symptômes peuvent signaler une occlusion intestinale possible ou avérée.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Ispaghula husk should not be used by patients with faecal impaction and symptoms such as abdominal pain, nausea and vomiting unless advised by a doctor because these symptoms can be signs of potential or existing intestinal blockage (ileus)."
+    },
+    {
+     "id": "plantago_ovata-10",
+     "type": "warning",
+     "statement": "En cas de douleurs abdominales ou de tout trouble du transit, arrêter l'utilisation et demander un avis médical.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "If abdominal pain occurs or in cases of any irregularity of faeces, the use of ispaghula husk should be discontinued and medical advice must be sought."
+    },
+    {
+     "id": "plantago_ovata-11",
+     "type": "warning",
+     "statement": "Chez les personnes affaiblies et/ou âgées, la prise nécessite une surveillance médicale.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "The treatment of debilitated patients and / or elderly patients requires medical supervision."
+    },
+    {
+     "id": "plantago_ovata-12",
+     "type": "warning",
+     "statement": "Préparations en poudre : éviter d'inhaler la poudre pour limiter le risque de sensibilisation.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "try to avoid inhaling any of the powder in order to minimise the risk of sensitisation to the active ingredient."
+    },
+    {
+     "id": "plantago_ovata-13",
+     "type": "warning",
+     "statement": "En cas de sensibilisation avérée entraînant des réactions d'hypersensibilité, arrêter l'exposition au produit et l'éviter à l'avenir.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "In case of proven sensitisation leading to hypersensitivity reactions, exposure to the product should be stopped immediately and avoided in the future"
+    },
+    {
+     "id": "plantago_ovata-14",
+     "type": "warning",
+     "statement": "Indication 3 (apport en fibres) : l'utilisation en complément du régime dans l'hypercholestérolémie nécessite une surveillance médicale.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "The use of ispaghula husk as an adjuvant to diet in hypercholesterolemia requires medical supervision."
+    },
+    {
+     "id": "plantago_ovata-15",
+     "type": "interaction",
+     "statement": "L'absorption d'autres médicaments pris en même temps (minéraux, vitamine B12, glycosides cardiaques, dérivés coumariniques, carbamazépine, lithium) peut être retardée : ne pas prendre le produit à moins d'une heure d'intervalle de ces médicaments.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Enteral absorption of concomitantly administered medicines such as minerals, vitamins (B 12), cardiac glycosides, coumarin derivatives, carbamazepine and lithium may be delayed."
+    },
+    {
+     "id": "plantago_ovata-16",
+     "type": "interaction",
+     "statement": "Patients diabétiques : prise uniquement sous surveillance médicale, car le traitement antidiabétique peut devoir être ajusté.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Diabetic patients should take ispaghula husks only under medical supervision because adjustment of anti-diabetic therapy may be necessary."
+    },
+    {
+     "id": "plantago_ovata-17",
+     "type": "interaction",
+     "statement": "Association avec les hormones thyroïdiennes : prise uniquement sous surveillance médicale, car la dose de l'hormone peut devoir être ajustée.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Use of ispaghula husk concomitantly with thyroid hormones requires medical supervision because the dose of the thyroid hormones may have to be adjusted."
+    },
+    {
+     "id": "plantago_ovata-18",
+     "type": "interaction",
+     "statement": "Association avec des médicaments qui ralentissent le transit intestinal (par exemple les opioïdes) : prise uniquement sous surveillance médicale, afin de limiter le risque d'occlusion intestinale.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "ispaghula husk should be used together with medicinal products known to inhibit peristaltic movement (e.g. opioids,) only under medical supervision."
+    },
+    {
+     "id": "plantago_ovata-19",
+     "type": "pregnancy",
+     "statement": "Données limitées chez la femme enceinte (moins de 300 issues de grossesse) ; les études animales sont insuffisantes en matière de toxicité pour la reproduction.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "There are limited amount of data (less than 300 pregnancy outcomes) from the use of ispaghula husk in pregnant women."
+    },
+    {
+     "id": "plantago_ovata-20",
+     "type": "pregnancy",
+     "statement": "Usage pendant la grossesse et l'allaitement envisageable si nécessaire et si un changement d'alimentation n'a pas suffi.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "The use of ispaghula husk may be considered during pregnancy and lactation, if necessary and if change of nutrition is not successful."
+    }
+   ]
+  },
+  {
+   "id": "primula_veris",
+   "fr": "Primevère officinale",
+   "latin": "Primula veris L.",
+   "part": "fleur",
+   "aliases": [
+    "primevère",
+    "coucou",
+    "primula"
+   ],
+   "claims": [
+    {
+     "id": "primula_veris-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : expectorant dans la toux associée au rhume (usage fondé exclusivement sur un usage de longue date).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Traditional herbal medicinal product used as an expectorant in cough associated with cold."
+    },
+    {
+     "id": "primula_veris-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, extrait liquide : 1 à 3 ml par prise, jusqu'à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Single dose: 1-3 ml, up to 3 times daily"
+    },
+    {
+     "id": "primula_veris-pos-02",
+     "type": "posology",
+     "statement": "Extrait liquide : dose quotidienne maximale de 6 ml.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Maximum daily dose 6 ml"
+    },
+    {
+     "id": "primula_veris-pos-03",
+     "type": "posology",
+     "statement": "Tisane (fleurs broyées) : 1 g dans 150 ml d'eau bouillante, en infusion, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Herbal tea: 1 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 3 times daily."
+    },
+    {
+     "id": "primula_veris-pos-04",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "primula_veris-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou à d'autres espèces de primevère (Primula).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to other Primula species."
+    },
+    {
+     "id": "primula_veris-02",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates ; la monographie le déconseille (posologie).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "primula_veris-03",
+     "type": "warning",
+     "statement": "Prudence recommandée en cas de gastrite ou d'ulcère de l'estomac.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "gastric_ulcer"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Caution is recommended in patients with gastritis or gastric ulcer."
+    },
+    {
+     "id": "primula_veris-04",
+     "type": "warning",
+     "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "If dyspnoea, fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "primula_veris-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "primula_veris-06",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "primula_veris-07",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    }
+   ]
   }
  ],
  "classes": [
@@ -8095,6 +9275,58 @@
     "seroplex",
     "floxyfral"
    ]
+  },
+  {
+   "id": "antidiabetique",
+   "fr": "Antidiabétique (comprimés ou insuline)",
+   "substances": [
+    "metformine",
+    "glibenclamide",
+    "gliclazide",
+    "glimepiride",
+    "repaglinide",
+    "sitagliptine",
+    "insuline",
+    "glucophage",
+    "diamicron",
+    "amarel",
+    "daonil",
+    "januvia",
+    "lantus",
+    "novorapid"
+   ]
+  },
+  {
+   "id": "hormone_thyroidienne",
+   "fr": "Hormone thyroïdienne",
+   "substances": [
+    "levothyroxine",
+    "liothyronine",
+    "levothyrox",
+    "euthyrox",
+    "l-thyroxine",
+    "cynomel"
+   ]
+  },
+  {
+   "id": "opioide",
+   "fr": "Opioïde (douleur forte, toux)",
+   "substances": [
+    "morphine",
+    "codeine",
+    "tramadol",
+    "oxycodone",
+    "fentanyl",
+    "buprenorphine",
+    "methadone",
+    "skenan",
+    "contramal",
+    "topalgic",
+    "durogesic",
+    "subutex",
+    "oxycontin",
+    "dafalgan codeine"
+   ]
   }
  ],
  "rules": [
@@ -8212,6 +9444,31 @@
    "plant": "angelica_sinensis",
    "class": "anticoagulant_coumarinique",
    "claim": "angelica_sinensis-06"
+  },
+  {
+   "plant": "plantago_ovata",
+   "class": "digitalique",
+   "claim": "plantago_ovata-15"
+  },
+  {
+   "plant": "plantago_ovata",
+   "class": "anticoagulant_coumarinique",
+   "claim": "plantago_ovata-15"
+  },
+  {
+   "plant": "plantago_ovata",
+   "class": "antidiabetique",
+   "claim": "plantago_ovata-16"
+  },
+  {
+   "plant": "plantago_ovata",
+   "class": "hormone_thyroidienne",
+   "claim": "plantago_ovata-17"
+  },
+  {
+   "plant": "plantago_ovata",
+   "class": "opioide",
+   "claim": "plantago_ovata-18"
   }
  ],
  "usages": [
@@ -8261,7 +9518,8 @@
     "taraxacum_officinale-ind-02",
     "cynara_scolymus-ind-01",
     "glycyrrhiza_glabra-ind-01",
-    "althaea_officinalis-ind-02"
+    "althaea_officinalis-ind-02",
+    "plantago_ovata-ind-01"
    ]
   },
   {
@@ -8314,7 +9572,9 @@
     "salvia_officinalis-ind-03",
     "glycyrrhiza_glabra-ind-02",
     "pelargonium_sidoides-ind-01",
-    "althaea_officinalis-ind-01"
+    "althaea_officinalis-ind-01",
+    "hedera_helix-ind-01",
+    "primula_veris-ind-01"
    ]
   },
   {
@@ -8383,7 +9643,8 @@
    "id": "hemorroides",
    "fr": "Hémorroïdes : démangeaisons et brûlures légères",
    "claims": [
-    "vitis_vinifera-ind-03"
+    "vitis_vinifera-ind-03",
+    "hamamelis_virginiana-ind-02"
    ]
   },
   {
@@ -8531,6 +9792,15 @@
    "water_ml": 150,
    "quote_fragment": "in 150 ml of boiling water as herbal infusion",
    "label": "Éleuthérocoque, racine broyée en infusion"
+  },
+  {
+   "plant": "primula_veris",
+   "claim": "primula_veris-pos-03",
+   "min_g": 1,
+   "max_g": 1,
+   "water_ml": 150,
+   "quote_fragment": "1 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 3 times daily",
+   "label": "Tisane de fleurs de primevère : 1 g dans 150 ml d'eau bouillante, 3 fois par jour"
   }
  ]
 }

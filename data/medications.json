@@ -255,6 +255,58 @@
         "seroplex",
         "floxyfral"
       ]
+    },
+    {
+      "id": "antidiabetique",
+      "fr": "Antidiabétique (comprimés ou insuline)",
+      "substances": [
+        "metformine",
+        "glibenclamide",
+        "gliclazide",
+        "glimepiride",
+        "repaglinide",
+        "sitagliptine",
+        "insuline",
+        "glucophage",
+        "diamicron",
+        "amarel",
+        "daonil",
+        "januvia",
+        "lantus",
+        "novorapid"
+      ]
+    },
+    {
+      "id": "hormone_thyroidienne",
+      "fr": "Hormone thyroïdienne",
+      "substances": [
+        "levothyroxine",
+        "liothyronine",
+        "levothyrox",
+        "euthyrox",
+        "l-thyroxine",
+        "cynomel"
+      ]
+    },
+    {
+      "id": "opioide",
+      "fr": "Opioïde (douleur forte, toux)",
+      "substances": [
+        "morphine",
+        "codeine",
+        "tramadol",
+        "oxycodone",
+        "fentanyl",
+        "buprenorphine",
+        "methadone",
+        "skenan",
+        "contramal",
+        "topalgic",
+        "durogesic",
+        "subutex",
+        "oxycontin",
+        "dafalgan codeine"
+      ]
     }
   ]
 }

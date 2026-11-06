@@ -791,5 +791,95 @@
    "Dang Gui",
    "angélique chinoise"
   ]
+ },
+ {
+  "id": "hamamelis_virginiana",
+  "fr": "Hamamélis",
+  "latin": "Hamamelis virginiana L.",
+  "part": "feuille",
+  "queries": [
+   "Hamamelis virginiana leaves",
+   "witch hazel leaf plant",
+   "hamamelis feuilles"
+  ],
+  "keys": [
+   "hamamelis",
+   "hamamélis",
+   "witch hazel",
+   "hamamelidis",
+   "hamamelis virginiana",
+   "hémorroïdes"
+  ],
+  "aliases": [
+   "hamamélis de Virginie",
+   "witch hazel"
+  ]
+ },
+ {
+  "id": "hedera_helix",
+  "fr": "Lierre grimpant",
+  "latin": "Hedera helix L.",
+  "part": "feuille",
+  "queries": [
+   "Hedera helix leaves",
+   "ivy leaf plant",
+   "lierre grimpant feuilles"
+  ],
+  "keys": [
+   "lierre",
+   "hedera",
+   "ivy",
+   "hederae",
+   "klimop",
+   "toux"
+  ],
+  "aliases": [
+   "lierre grimpant",
+   "lierre"
+  ]
+ },
+ {
+  "id": "plantago_ovata",
+  "fr": "Psyllium (téguments de graine)",
+  "latin": "Plantago ovata Forssk.",
+  "part": "téguments de graine",
+  "queries": [
+   "psyllium husk powder",
+   "Plantago ovata seeds",
+   "ispaghula husk"
+  ],
+  "keys": [
+   "psyllium",
+   "ispaghula",
+   "plantago ovata",
+   "flohsamen"
+  ],
+  "aliases": [
+   "psyllium",
+   "ispaghul",
+   "ispaghula"
+  ]
+ },
+ {
+  "id": "primula_veris",
+  "fr": "Primevère officinale",
+  "latin": "Primula veris L.",
+  "part": "fleur",
+  "queries": [
+   "cowslip flowers",
+   "Primula veris flowers",
+   "Primula veris plant"
+  ],
+  "keys": [
+   "primevère",
+   "primevere",
+   "cowslip",
+   "primula veris"
+  ],
+  "aliases": [
+   "primevère",
+   "coucou",
+   "primula"
+  ]
  }
 ]

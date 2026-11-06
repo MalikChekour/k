@@ -59,6 +59,8 @@ function activeFlags(p: Profile): Set<string> {
   if (p.pregnant) f.add('pregnant');
   if (p.lactating) f.add('lactating');
   if (typeof p.ageYears === 'number') {
+    if (p.ageYears < 2) f.add('age_lt_2');
+    if (p.ageYears < 6) f.add('age_lt_6');
     if (p.ageYears < 12) f.add('age_lt_12');
     if (p.ageYears < 18) f.add('age_lt_18');
   }

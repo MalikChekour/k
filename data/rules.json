@@ -113,5 +113,30 @@
     "plant": "angelica_sinensis",
     "class": "anticoagulant_coumarinique",
     "claim": "angelica_sinensis-06"
+  },
+  {
+    "plant": "plantago_ovata",
+    "class": "digitalique",
+    "claim": "plantago_ovata-15"
+  },
+  {
+    "plant": "plantago_ovata",
+    "class": "anticoagulant_coumarinique",
+    "claim": "plantago_ovata-15"
+  },
+  {
+    "plant": "plantago_ovata",
+    "class": "antidiabetique",
+    "claim": "plantago_ovata-16"
+  },
+  {
+    "plant": "plantago_ovata",
+    "class": "hormone_thyroidienne",
+    "claim": "plantago_ovata-17"
+  },
+  {
+    "plant": "plantago_ovata",
+    "class": "opioide",
+    "claim": "plantago_ovata-18"
   }
 ]

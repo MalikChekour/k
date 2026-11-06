@@ -1,0 +1,559 @@
+[
+  {
+    "id": "plantago_ovata-ind-01",
+    "plant": "plantago_ovata",
+    "type": "indication",
+    "statement": "Usage bien établi : traitement de la constipation habituelle.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Herbal medicinal product for the treatment of habitual constipation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-ind-02",
+    "plant": "plantago_ovata",
+    "type": "indication",
+    "statement": "Usage traditionnel : facilitation de la défécation avec selles molles lorsque cela est souhaitable, par exemple après une chirurgie rectale ou anale douloureuse, en cas de fissures anales et d'hémorroïdes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "easy defaecation with soft stool is desirable, e.g. in cases of painful defaecation after rectal or anal surgery, anal fissures and haemorrhoids."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-ind-03",
+    "plant": "plantago_ovata",
+    "type": "indication",
+    "statement": "Usage traditionnel : augmentation de l'apport quotidien en fibres lorsque cela peut être conseillé, par exemple en complément du traitement du syndrome du côlon irritable à prédominance constipation, ou en complément du régime dans l'hypercholestérolémie.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "to whom an increased daily fibre intake may be advisable e.g. as an adjuvant in constipation predominant irritable bowel syndrome, as an adjuvant to diet in hypercholesterolemia"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-pos-01",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées (indications 1 et 2) : 7 à 11 g de substance végétale par jour, en 1 à 3 prises.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Daily dose 7 – 11 g herbal substance/herbal preparation in 1 – 3 single doses"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-pos-02",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Enfants de 6 à 12 ans (indications 1 et 2) : 3 à 8 g de substance végétale par jour, en 1 à 3 prises.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Daily dose 3 – 8 g herbal substance/herbal preparation in 1 – 3 single doses"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-pos-03",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Indication 3 (apport en fibres), adolescents, adultes et personnes âgées : 7 à 20 g de substance végétale par jour, en 1 à 3 prises.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Daily dose 7 – 20 g herbal substance/herbal preparation in 1 – 3 single doses"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-pos-04",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 3 jours pendant l'utilisation (indication 1), consulter un médecin ou un pharmacien.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product longer than 3 days, a doctor or a pharmacist should be consulted"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-pos-05",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Prendre une quantité suffisante de liquide (eau, lait, jus de fruit ou autre liquide aqueux similaire), par exemple 30 ml d'eau pour 1 g de substance végétale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "A sufficient amount of liquid (water, milk, fruit juice or similar aqueous liquid) should always be taken e.g. 30 ml of water per 1 g of herbal substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-pos-06",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Prendre le produit pendant la journée, au moins ½ à 1 heure avant ou après les autres médicaments, et non juste avant le coucher.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "The product should be taken during the day at least ½ to 1 hour before or after intake of other medicines, not immediately prior to bed-time."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-01",
+    "plant": "plantago_ovata",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Hypersensitivity to the active substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-02",
+    "plant": "plantago_ovata",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de changement brusque des habitudes intestinales persistant plus de 2 semaines.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Patients with a sudden change in bowel habit that persists for more than 2 weeks."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-03",
+    "plant": "plantago_ovata",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de saignement rectal non diagnostiqué et d'absence de défécation après l'utilisation d'un laxatif.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Undiagnosed rectal bleeding and failure to defecate following the use of a laxative."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-04",
+    "plant": "plantago_ovata",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de rétrécissement anormal du tube digestif, de maladie de l'œsophage ou du cardia, d'occlusion intestinale (iléus) possible ou avérée, de paralysie de l'intestin ou de mégacôlon.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Patients suffering from abnormal constrictions in the gastro-intestinal tract, with diseases of the oesophagus and cardia, potential or existing intestinal blockage (ileus), paralysis of the intestine or megacolon."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-05",
+    "plant": "plantago_ovata",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de difficulté à avaler ou de tout problème de gorge.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Patients who have difficulty in swallowing or any throat problems."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-06",
+    "plant": "plantago_ovata",
+    "type": "age",
+    "statement": "Usage non recommandé chez les moins de 6 ans, faute de données suffisantes sur l'efficacité.",
+    "severity": "precaution",
+    "population": "moins de 6 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "The use is not recommended in children below 6 years of age due to insufficient data on efficacy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_6"
+    ]
+  },
+  {
+    "id": "plantago_ovata-07",
+    "plant": "plantago_ovata",
+    "type": "age",
+    "statement": "Indication 3 (apport en fibres) : usage non recommandé chez les moins de 12 ans, faute de données suffisantes sur l'efficacité.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "The use is not recommended in children below 12 years of age due to insufficient data on efficacy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "plantago_ovata-08",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Pris avec une quantité insuffisante de liquide, ce produit peut provoquer une obstruction de la gorge et de l'œsophage (étouffement) ainsi qu'une obstruction intestinale.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "When taken with inadequate fluid amounts, bulk forming agents can cause obstruction of the throat and oesophagus with choking and intestinal obstruction."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "fluid_restriction",
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-09",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Ne pas utiliser en cas d'accumulation de selles (fécalome) avec douleurs abdominales, nausées ou vomissements, sauf avis médical, car ces symptômes peuvent signaler une occlusion intestinale possible ou avérée.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Ispaghula husk should not be used by patients with faecal impaction and symptoms such as abdominal pain, nausea and vomiting unless advised by a doctor because these symptoms can be signs of potential or existing intestinal blockage (ileus)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-10",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "En cas de douleurs abdominales ou de tout trouble du transit, arrêter l'utilisation et demander un avis médical.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "If abdominal pain occurs or in cases of any irregularity of faeces, the use of ispaghula husk should be discontinued and medical advice must be sought."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "plantago_ovata-11",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Chez les personnes affaiblies et/ou âgées, la prise nécessite une surveillance médicale.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "The treatment of debilitated patients and / or elderly patients requires medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_ovata-12",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Préparations en poudre : éviter d'inhaler la poudre pour limiter le risque de sensibilisation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "try to avoid inhaling any of the powder in order to minimise the risk of sensitisation to the active ingredient."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-13",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "En cas de sensibilisation avérée entraînant des réactions d'hypersensibilité, arrêter l'exposition au produit et l'éviter à l'avenir.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "In case of proven sensitisation leading to hypersensitivity reactions, exposure to the product should be stopped immediately and avoided in the future"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-14",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Indication 3 (apport en fibres) : l'utilisation en complément du régime dans l'hypercholestérolémie nécessite une surveillance médicale.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "The use of ispaghula husk as an adjuvant to diet in hypercholesterolemia requires medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_ovata-15",
+    "plant": "plantago_ovata",
+    "type": "interaction",
+    "statement": "L'absorption d'autres médicaments pris en même temps (minéraux, vitamine B12, glycosides cardiaques, dérivés coumariniques, carbamazépine, lithium) peut être retardée : ne pas prendre le produit à moins d'une heure d'intervalle de ces médicaments.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Enteral absorption of concomitantly administered medicines such as minerals, vitamins (B 12), cardiac glycosides, coumarin derivatives, carbamazepine and lithium may be delayed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-16",
+    "plant": "plantago_ovata",
+    "type": "interaction",
+    "statement": "Patients diabétiques : prise uniquement sous surveillance médicale, car le traitement antidiabétique peut devoir être ajusté.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Diabetic patients should take ispaghula husks only under medical supervision because adjustment of anti-diabetic therapy may be necessary."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-17",
+    "plant": "plantago_ovata",
+    "type": "interaction",
+    "statement": "Association avec les hormones thyroïdiennes : prise uniquement sous surveillance médicale, car la dose de l'hormone peut devoir être ajustée.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Use of ispaghula husk concomitantly with thyroid hormones requires medical supervision because the dose of the thyroid hormones may have to be adjusted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-18",
+    "plant": "plantago_ovata",
+    "type": "interaction",
+    "statement": "Association avec des médicaments qui ralentissent le transit intestinal (par exemple les opioïdes) : prise uniquement sous surveillance médicale, afin de limiter le risque d'occlusion intestinale.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "ispaghula husk should be used together with medicinal products known to inhibit peristaltic movement (e.g. opioids,) only under medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-19",
+    "plant": "plantago_ovata",
+    "type": "pregnancy",
+    "statement": "Données limitées chez la femme enceinte (moins de 300 issues de grossesse) ; les études animales sont insuffisantes en matière de toxicité pour la reproduction.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "There are limited amount of data (less than 300 pregnancy outcomes) from the use of ispaghula husk in pregnant women."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "plantago_ovata-20",
+    "plant": "plantago_ovata",
+    "type": "pregnancy",
+    "statement": "Usage pendant la grossesse et l'allaitement envisageable si nécessaire et si un changement d'alimentation n'a pas suffi.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "The use of ispaghula husk may be considered during pregnancy and lactation, if necessary and if change of nutrition is not successful."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  }
+]

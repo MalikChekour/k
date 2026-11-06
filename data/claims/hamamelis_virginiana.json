@@ -1,0 +1,399 @@
+[
+  {
+    "id": "hamamelis_virginiana-ind-01",
+    "plant": "hamamelis_virginiana",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des inflammations cutanées mineures et de la sécheresse de la peau.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of minor skin inflammation and dryness of the skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-ind-02",
+    "plant": "hamamelis_virginiana",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des démangeaisons et des brûlures associées aux hémorroïdes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic relief of itching and burning associated with haemorrhoids."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-ind-03",
+    "plant": "hamamelis_virginiana",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des petites inflammations des muqueuses de la cavité buccale, en bain de bouche et gargarismes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product used as a mouthwash and gargles for relief of minor inflammation of mucous membranes of the oral cavity."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-01",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication cutanée (enfants de plus de 6 ans, adolescents, adultes et personnes âgées) : teinture ou extraits liquides (1:1, éthanol 45 % v/v ou éthanol 30 % m/m) à 5 à 10 % dans les préparations semi-solides et liquides, plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Tincture or liquid extracts (1:1, ethanol 45% v/v or ethanol 30% m/m) in a strength corresponding to 5-10% in semisolid and liquid preparations, several times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-02",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication cutanée : drogue en décocté, 5 à 10 g pour 250 ml, jusqu'à 3 fois par jour en compresse imprégnée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "5-10 g/250 ml, up to 3 times a day as impregnated dressing."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-03",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication hémorroïdes (adultes et personnes âgées) : suppositoires contenant 400 mg d'extrait liquide (1:2, éthanol 60 % v/v), un suppositoire 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Suppositories containing 400 mg of liquid extract (1:2, ethanol 60% v/v), one suppository 2-3 times a day."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-04",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication hémorroïdes (adultes et personnes âgées) : extrait liquide (1:2, éthanol 60 % v/v) à 20 % en préparation semi-solide, plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Liquid extract (1:2, ethanol 60% v/v) in a strength corresponding to 20% as a semi-solid preparation, several times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-05",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication bains de bouche et gargarismes (adolescents, adultes et personnes âgées) : teinture diluée au tiers dans l'eau, 2 à 4 ml, trois fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Tincture (diluted 1:3 with water) 2-4 ml, three times daily for gargles."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-06",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication bains de bouche et gargarismes (adolescents, adultes et personnes âgées) : drogue en décocté pour gargarismes, 2 à 3 g jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Comminuted herbal substance to be used as a decoction, for gargles: 2-3 g up to 3 times a day."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-07",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indications cutanée et bains de bouche : si les symptômes persistent plus de 1 semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "If the symptoms persist for more than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-pos-08",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Indication hémorroïdes : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "If the symptoms persist for more than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-01",
+    "plant": "hamamelis_virginiana",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance végétale.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Hypersensitivity to the herbal substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-02",
+    "plant": "hamamelis_virginiana",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants de moins de 6 ans (indication cutanée), faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 6 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "The use in children under 6 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_6"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-03",
+    "plant": "hamamelis_virginiana",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans (hémorroïdes), faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-04",
+    "plant": "hamamelis_virginiana",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants de moins de 12 ans (bains de bouche et gargarismes), faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-05",
+    "plant": "hamamelis_virginiana",
+    "type": "warning",
+    "statement": "En cas de saignement rectal, consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "If rectal bleeding occurs a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-06",
+    "plant": "hamamelis_virginiana",
+    "type": "warning",
+    "statement": "Si les symptômes persistent ou s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "If symptoms persist or worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-07",
+    "plant": "hamamelis_virginiana",
+    "type": "warning",
+    "statement": "Dermatite de contact allergique possible, fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Allergic contact dermatitis has been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-08",
+    "plant": "hamamelis_virginiana",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-09",
+    "plant": "hamamelis_virginiana",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-10",
+    "plant": "hamamelis_virginiana",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur la capacité à conduire des véhicules et à utiliser des machines.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

@@ -15,6 +15,7 @@
   {"plant": "glycyrrhiza_glabra", "claim": "glycyrrhiza_glabra-pos-01", "min_g": 1.5, "max_g": 2, "water_ml": 150, "quote_fragment": "1.5 - 2 g", "label": "Réglisse : tisane, adultes et personnes âgées (usage traditionnel)"},
   {"plant": "equisetum_arvense", "claim": "equisetum_arvense-pos-01", "min_g": 1, "max_g": 4, "water_ml": 150, "quote_fragment": "1-4 g", "label": "Prêle : tisane, adolescents et adultes (usage traditionnel)"},
  {"plant": "althaea_officinalis", "claim": "althaea_officinalis-pos-01", "min_g": 2, "max_g": 5, "water_ml": 150, "quote_fragment": "2-5 g", "label": "Guimauve : macérat à froid, adultes (usage traditionnel)"},
- {"plant": "eleutherococcus_senticosus", "claim": "eleutherococcus_senticosus-pos-01", "min_g": 0.5, "max_g": 4.0, "water_ml": 150, "quote_fragment": "in 150 ml of boiling water as herbal infusion", "label": "Éleuthérocoque, racine broyée en infusion"}
+ {"plant": "eleutherococcus_senticosus", "claim": "eleutherococcus_senticosus-pos-01", "min_g": 0.5, "max_g": 4.0, "water_ml": 150, "quote_fragment": "in 150 ml of boiling water as herbal infusion", "label": "Éleuthérocoque, racine broyée en infusion"},
+ {"plant": "primula_veris", "claim": "primula_veris-pos-03", "min_g": 1, "max_g": 1, "water_ml": 150, "quote_fragment": "1 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 3 times daily", "label": "Tisane de fleurs de primevère : 1 g dans 150 ml d'eau bouillante, 3 fois par jour"}
  ]
 }

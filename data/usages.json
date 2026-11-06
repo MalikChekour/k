@@ -47,7 +47,8 @@
         "taraxacum_officinale-ind-02",
         "cynara_scolymus-ind-01",
         "glycyrrhiza_glabra-ind-01",
-        "althaea_officinalis-ind-02"
+        "althaea_officinalis-ind-02",
+        "plantago_ovata-ind-01"
       ]
     },
     {
@@ -100,7 +101,9 @@
         "salvia_officinalis-ind-03",
         "glycyrrhiza_glabra-ind-02",
         "pelargonium_sidoides-ind-01",
-        "althaea_officinalis-ind-01"
+        "althaea_officinalis-ind-01",
+        "hedera_helix-ind-01",
+        "primula_veris-ind-01"
       ]
     },
     {
@@ -169,7 +172,8 @@
       "id": "hemorroides",
       "fr": "Hémorroïdes : démangeaisons et brûlures légères",
       "claims": [
-        "vitis_vinifera-ind-03"
+        "vitis_vinifera-ind-03",
+        "hamamelis_virginiana-ind-02"
       ]
     },
     {

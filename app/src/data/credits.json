@@ -278,5 +278,26 @@
   "license": "Pexels License",
   "page_url": "https://www.pexels.com/photo/vibrant-safflower-blooms-in-singapore-garden-37370782/",
   "label": "Close-up of vivid orange safflower blossoms in an indoor garden setting, showcasing their striking beauty. vibrant safflower blooms in singapore garden 37370782"
+ },
+ "hamamelis_virginiana": {
+  "provider": "pixabay",
+  "author": "manfredrichter",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/witch-hazel-hamamelis-winterblueher-3141942/",
+  "label": "witch hazel, hamamelis, winterblueher, bloom, shrub, blossoms, witch hazel family, ornamental shrub, branch, yellow, inflorescences, ornamental plant, plant, hamamelidaceae, close up, nature, spring, garden, spring awakening, winter, early bloomer, yellow flower, bush, single flowers, medicinal plant, witch hazel, witch hazel, witch hazel, witch hazel, witch hazel, hamamelis, hamamelis, hamamelis, ornamental plant, single flowers"
+ },
+ "hedera_helix": {
+  "provider": "pexels",
+  "author": "Sergej  *****",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/close-up-of-lush-green-ivy-leaves-in-coesfeld-35991399/",
+  "label": "Detailed close-up of vibrant green ivy leaves with intricate patterns in Coesfeld, Germany. close up of lush green ivy leaves in coesfeld 35991399"
+ },
+ "primula_veris": {
+  "provider": "openverse",
+  "author": "Dag Endresen",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/195846725",
+  "label": "Primula veris macrocalyx Angiospermae Ericales Flowers Plants primel primelgewächse Primula veris Primuleae Primuloideae Tracheophyta"
  }
 }
