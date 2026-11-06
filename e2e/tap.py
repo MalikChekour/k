@@ -54,6 +54,13 @@ def has_text(root, needle):
     return any(needle in ((n.get('text') or '') + ' ' + (n.get('content-desc') or '')) for n in root.iter('node'))
 
 
+def hide_kb():
+    # Le clavier masque la barre d'onglets : on le ferme seulement s'il est affiche (un « retour » de trop quitterait l'app).
+    r = subprocess.run(['adb', 'shell', 'dumpsys', 'input_method'], capture_output=True, text=True)
+    if 'mInputShown=true' in r.stdout:
+        subprocess.run(['adb', 'shell', 'input', 'keyevent', '4']); time.sleep(1)
+
+
 report = []
 root = dump('01_plantes')
 size = open(f'{OUT}/ecran.txt').read()
@@ -103,7 +110,7 @@ tap(root, 'Plantes'); time.sleep(2); root = dump('p1')
 tap(root, 'Rechercher une plante'); time.sleep(1)
 subprocess.run(['adb', 'shell', 'input', 'text', 'Di%sHuang']); time.sleep(2); root = dump('recherche_pinyin')
 report.append('plantes: recherche "Di Huang" trouve la rehmannia=' + str(bool(center(root, 'Ouvrir la fiche Rehmannia (racine)'))))
-subprocess.run(['adb', 'shell', 'input', 'keyevent', '4']); time.sleep(1)
+hide_kb()
 root = dump('p2')
 tap(root, 'Rechercher une plante'); time.sleep(1)
 for _ in range(8): subprocess.run(['adb', 'shell', 'input', 'keyevent', '67'])
@@ -112,6 +119,7 @@ report.append('plantes: recherche "sommeil" trouve la valeriane=' + str(any((n.g
 c = center_prefix(root, 'Ajouter ')
 if c:
     subprocess.run(['adb', 'shell', 'input', 'tap', str(c[0]), str(c[1])]); time.sleep(1.5)
+hide_kb()
 root = dump('p3')
 tap(root, 'Armoire'); time.sleep(2); root = dump('a2')
 report.append('armoire: bouton Verifier mes favorites present=' + str(bool(center_prefix(root, 'Vérifier la sécurité'))))
