@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { Image, Pressable, ScrollView, Text, TextInput, View } from 'react-native';
 
 import type { PlantData } from '../safety';
-import { plants } from '../bundle';
-import { RUBRICS, filterPlants } from '../library';
+import { bundle, plants } from '../bundle';
+import { RUBRICS, filterPlants, plantIdsForSymptomQuery } from '../library';
 import type { Rubric } from '../library';
 import { styleFor } from '../plantStyle';
 import { F } from '../fonts';
@@ -17,7 +17,7 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
 }) {
   const [q, setQ] = useState('');
   const [rubric, setRubric] = useState<Rubric | null>(null);
-  const list = filterPlants(plants, q, rubric);
+  const list = filterPlants(plants, q, rubric, plantIdsForSymptomQuery(bundle, bundle.usages, q));
   return (
     <ScrollView contentContainerStyle={s.pad} keyboardShouldPersistTaps="handled">
       <View style={{ gap: 4, marginTop: 4 }}>
@@ -28,7 +28,7 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
         style={[s.input, s.inputWide]}
         value={q}
         onChangeText={setQ}
-        placeholder="Camomille, sommeil, digestion…"
+        placeholder="Camomille, Di Huang, sommeil, digestion…"
         placeholderTextColor={C.muted}
         accessibilityLabel="Rechercher une plante"
         autoCorrect={false}

@@ -1,5 +1,7 @@
 import { normalize } from './safety.ts';
-import type { Claim, PlantData } from './safety.ts';
+import type { Bundle, Claim, PlantData } from './safety.ts';
+import { plantsForUsage } from './usages.ts';
+import type { Usage } from './usages.ts';
 
 export type Rubric = 'indication' | 'posologie' | 'precautions' | 'interactions' | 'grossesse';
 /** Les doses de l'EMA valent pour des préparations précises (extrait standardisé, tisane…) : jamais à transposer. */
@@ -45,14 +47,27 @@ export function severityLabel(sev?: string | null): string {
   return sev ? SEVERITY_LABEL[sev] ?? sev : 'Information';
 }
 
-/** Recherche insensible à la casse et aux accents, sur le nom français, le nom latin et la partie utilisée. */
-export function filterPlants(plants: PlantData[], query: string, rubric: Rubric | null): PlantData[] {
+/** Recherche insensible à la casse et aux accents : nom français, nom latin, partie utilisée, autres noms (chinois, pinyin…),
+ * et — via `viaUsage` — les plantes dont une indication figure dans une catégorie de symptôme qui correspond à la saisie. */
+export function filterPlants(plants: PlantData[], query: string, rubric: Rubric | null, viaUsage?: Set<string>): PlantData[] {
   const q = normalize(query);
   return plants.filter(p => {
     if (rubric && !p.claims.some(c => rubricOf(c.type) === rubric)) return false;
     if (!q) return true;
-    return normalize(`${p.fr} ${p.latin} ${p.part}`).includes(q);
+    return normalize(`${p.fr} ${p.latin} ${p.part} ${(p.aliases ?? []).join(' ')}`).includes(q) || !!viaUsage?.has(p.id);
   });
+}
+
+/** Identifiants des plantes proposées pour les catégories de symptôme dont le libellé contient la saisie (≥ 3 lettres). */
+export function plantIdsForSymptomQuery(bundle: Bundle, usages: Usage[], query: string): Set<string> {
+  const q = normalize(query);
+  const out = new Set<string>();
+  if (q.length < 3) return out;
+  for (const u of usages) {
+    if (!normalize(u.fr).includes(q)) continue;
+    for (const h of plantsForUsage(bundle, usages, u.id)) out.add(h.plantId);
+  }
+  return out;
 }
 
 /** Documents officiels réellement cités dans le bundle, sans doublon (écran « Sources et méthode »). */

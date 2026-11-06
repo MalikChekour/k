@@ -10,8 +10,8 @@ import { ProfileSummary } from './ProfileEditor';
  * Vérificateur : le constat reste COLLÉ en haut de l'écran (toucher = revenir au détail).
  * Ordre de lecture : constat, ma sélection, détail des alertes, puis la liste pour ajouter des plantes.
  */
-export function Safety({ profile }: { profile: Profile }) {
-  const [sel, setSel] = useState<string[]>([]);
+export function Safety({ profile, seed }: { profile: Profile; seed?: string[] }) {
+  const [sel, setSel] = useState<string[]>(seed ?? []);
   const [q, setQ] = useState('');
   const ref = useRef<ScrollView>(null);
   const r = assess(bundle, sel, profile);

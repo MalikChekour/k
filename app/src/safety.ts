@@ -8,7 +8,7 @@ export type Claim = {
   id: string; type: string; statement: string; severity?: string | null; population?: string | null;
   status: string; reviewed_by?: string | null; applies_to?: string[]; source: string; url: string; quote: string;
 };
-export type PlantData = { id: string; fr: string; latin: string; part: string; claims: Claim[] };
+export type PlantData = { id: string; fr: string; latin: string; part: string; aliases?: string[]; claims: Claim[] };
 export type MedClass = { id: string; fr: string; substances: string[] };
 export type Bundle = { plants: PlantData[]; classes: MedClass[]; rules: { plant: string; class: string; claim: string }[] };
 

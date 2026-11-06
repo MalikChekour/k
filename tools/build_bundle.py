@@ -14,7 +14,7 @@ import json, glob, os, sys
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 load = lambda p: json.load(open(os.path.join(root, p), encoding="utf-8"))
 
-plants = [{k: p[k] for k in ("id", "fr", "latin", "part")} for p in load("data/plants.json")]
+plants = [{**{k: p[k] for k in ("id", "fr", "latin", "part")}, **({"aliases": p["aliases"]} if p.get("aliases") else {})} for p in load("data/plants.json")]
 plant_ids = {p["id"] for p in plants}
 claims = [c for f in sorted(glob.glob(os.path.join(root, "data", "claims", "*.json"))) for c in json.load(open(f, encoding="utf-8"))]
 meds, rules = load("data/medications.json"), load("data/rules.json")

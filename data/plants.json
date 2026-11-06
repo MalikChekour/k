@@ -578,6 +578,10 @@
    "guimauve",
    "marshmallow",
    "marsh mallow"
+  ],
+  "aliases": [
+   "guimauve officinale",
+   "marshmallow"
   ]
  },
  {
@@ -594,6 +598,12 @@
    "rehmannia",
    "foxglove",
    "di huang"
+  ],
+  "aliases": [
+   "Di Huang",
+   "Shu Di Huang",
+   "Sheng Di Huang",
+   "digitale de Chine"
   ]
  },
  {
@@ -611,6 +621,11 @@
    "schizandra",
    "five flavor",
    "five-flavor"
+  ],
+  "aliases": [
+   "Wu Wei Zi",
+   "baie aux cinq saveurs",
+   "schizandra"
   ]
  },
  {
@@ -628,6 +643,11 @@
    "skullcap",
    "baikal",
    "huang qin"
+  ],
+  "aliases": [
+   "Huang Qin",
+   "scutellaire de Baïkal",
+   "skullcap"
   ]
  }
 ]

@@ -56,3 +56,12 @@ test('la rubrique posologie porte un avertissement : doses propres à une prépa
   assert.match(POSOLOGY_NOTE, /préparations précises/);
   assert.match(POSOLOGY_NOTE, /pharmacien/);
 });
+
+test('recherche : autre nom (pinyin) et symptôme', async () => {
+  const { plantIdsForSymptomQuery } = await import('./library.ts');
+  assert.deepEqual(filterPlants(bundle.plants, 'di huang', null).map(p => p.id), ['rehmannia_glutinosa']);
+  const ids = plantIdsForSymptomQuery(bundle, bundle.usages, 'sommeil');
+  assert.ok(ids.has('valeriana_officinalis'));
+  assert.ok(filterPlants(bundle.plants, 'sommeil', null, ids).some(p => p.id === 'valeriana_officinalis'));
+  assert.equal(plantIdsForSymptomQuery(bundle, bundle.usages, 'so').size, 0);
+});

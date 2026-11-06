@@ -29,6 +29,7 @@ function Shell() {
   const [ready, setReady] = useState(false);
   const [writable, setWritable] = useState(false);
   const [about, setAbout] = useState(false);
+  const [seed, setSeed] = useState<{ n: number; ids: string[] }>({ n: 0, ids: [] });
   const fontsReady = useAppFonts();
 
   useEffect(() => {
@@ -67,15 +68,15 @@ function Shell() {
       <View style={{ flex: 1 }}>
         {tab === 'lib' && <Library onOpen={setOpen} favorites={armoire.favorites} writable={writable && ready} onToggleFav={id => update(toggleFavorite(armoire, id))} />}
         {tab === 'mix' && <Mix profile={armoire.profile} />}
-        {tab === 'secu' && <Safety profile={armoire.profile} />}
+        {tab === 'secu' && <Safety key={seed.n} profile={armoire.profile} seed={seed.ids} />}
         {tab === 'armoire' && ready && (
-          <Armoire armoire={armoire} writable={writable} onChange={update} onOpen={setOpen} onWipe={wipe} />
+          <Armoire armoire={armoire} writable={writable} onChange={update} onOpen={setOpen} onWipe={wipe} onCheck={ids => { setSeed({ n: seed.n + 1, ids }); setTab('secu'); }} />
         )}
         {tab === 'lab' && <Lab />}
       </View>
       <View style={[s.tabs, { paddingBottom: 10 + insets.bottom }]} accessibilityRole="tablist">
         {TABS.map(k => (
-          <Pressable key={k.id} style={[s.tab, tab === k.id && s.tabActive]} onPress={() => setTab(k.id)} accessibilityRole="tab" accessibilityState={{ selected: tab === k.id }} accessibilityLabel={k.label}>
+          <Pressable key={k.id} style={[s.tab, tab === k.id && s.tabActive]} onPress={() => { if (k.id !== 'secu') setSeed(v => ({ ...v, ids: [] })); setTab(k.id); }} accessibilityRole="tab" accessibilityState={{ selected: tab === k.id }} accessibilityLabel={k.label}>
             <Text style={[s.tabTxt, tab === k.id && s.tabOn]}>{k.label}</Text>
           </Pressable>
         ))}

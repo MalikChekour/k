@@ -6202,6 +6202,10 @@
    "fr": "Guimauve (racine)",
    "latin": "Althaea officinalis L.",
    "part": "racine",
+   "aliases": [
+    "guimauve officinale",
+    "marshmallow"
+   ],
    "claims": [
     {
      "id": "althaea_officinalis-ind-01",
@@ -6379,6 +6383,12 @@
    "fr": "Rehmannia (racine)",
    "latin": "Rehmannia glutinosa Libosch.",
    "part": "racine",
+   "aliases": [
+    "Di Huang",
+    "Shu Di Huang",
+    "Sheng Di Huang",
+    "digitale de Chine"
+   ],
    "claims": [
     {
      "id": "rehmannia_glutinosa-ind-01",
@@ -6529,6 +6539,11 @@
    "fr": "Schisandra (fruit)",
    "latin": "Schisandra chinensis (Turcz.) Baill.",
    "part": "fruit",
+   "aliases": [
+    "Wu Wei Zi",
+    "baie aux cinq saveurs",
+    "schizandra"
+   ],
    "claims": [
     {
      "id": "schisandra_chinensis-ind-01",
@@ -6679,6 +6694,11 @@
    "fr": "Scutellaire du Baïkal (racine)",
    "latin": "Scutellaria baicalensis Georgi",
    "part": "racine",
+   "aliases": [
+    "Huang Qin",
+    "scutellaire de Baïkal",
+    "skullcap"
+   ],
    "claims": [
     {
      "id": "scutellaria_baicalensis-ind-01",
