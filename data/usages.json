@@ -55,7 +55,16 @@
         "origanum_majorana-ind-01",
         "artemisia_absinthium-ind-02",
         "fumaria_officinalis-ind-01",
-        "peumus_boldus-ind-01"
+        "peumus_boldus-ind-01",
+        "cinnamomum_verum-ind-01",
+        "cinnamomum_verum-ind-02",
+        "gentiana_lutea-ind-01",
+        "gentiana_lutea-ind-02",
+        "linum_usitatissimum-ind-01",
+        "linum_usitatissimum-ind-02",
+        "marrubium_vulgare-ind-02",
+        "pimpinella_anisum-ind-01",
+        "potentilla_erecta-ind-01"
       ]
     },
     {
@@ -92,7 +101,11 @@
         "betula_pendula-ind-01",
         "arctostaphylos_uva_ursi-ind-01",
         "ribes_nigrum-ind-02",
-        "vaccinium_macrocarpon-ind-01"
+        "vaccinium_macrocarpon-ind-01",
+        "levisticum_officinale-ind-01",
+        "ononis_spinosa-ind-01",
+        "orthosiphon_aristatus-ind-01",
+        "solidago_virgaurea-ind-01"
       ]
     },
     {
@@ -118,7 +131,9 @@
         "malva_sylvestris-ind-01",
         "eucalyptus_globulus-ind-01",
         "verbascum_densiflorum-ind-01",
-        "salix_purpurea-ind-02"
+        "salix_purpurea-ind-02",
+        "marrubium_vulgare-ind-01",
+        "pimpinella_anisum-ind-02"
       ]
     },
     {

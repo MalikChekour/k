@@ -374,3 +374,14 @@ test('rhubarbe : grossesse = contre-indication ; absinthe et boldo : maladie du 
     assert.notEqual(assess(bundle, [id], { flags: [] }).verdict, 'contre_indication', id);
   }
 });
+
+test('lot 4 : eau (orthosiphon, solidage, bugrane), foie/voies biliaires (marrube), diurétiques (solidage)', () => {
+  assert.equal(assess(bundle, ['orthosiphon_aristatus'], { flags: ['fluid_restriction'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['solidago_virgaurea'], { flags: ['kidney_disease'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['ononis_spinosa'], { flags: ['fluid_restriction'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['marrubium_vulgare'], { flags: ['liver_disease'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['marrubium_vulgare'], { flags: ['biliary_disease'] }).verdict, 'contre_indication');
+  assert.ok(assess(bundle, ['solidago_virgaurea'], { flags: [], meds: ['furosémide'] }).alerts.some(a => a.claimId === 'solidago_virgaurea-05'));
+  for (const id of ['pimpinella_anisum', 'gentiana_lutea', 'cinnamomum_verum', 'potentilla_erecta', 'linum_usitatissimum', 'levisticum_officinale'])
+    assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
+});

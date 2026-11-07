@@ -1402,5 +1402,229 @@
    "grande consoude",
    "comfrey"
   ]
+ },
+ {
+  "id": "cinnamomum_verum",
+  "fr": "Cannelle de Ceylan (écorce)",
+  "latin": "Cinnamomum verum J.S. Presl",
+  "part": "écorce",
+  "queries": [
+   "cinnamon bark",
+   "Cinnamomum verum bark",
+   "Ceylon cinnamon tree"
+  ],
+  "keys": [
+   "cannelle",
+   "cinnamon",
+   "cinnamomum verum"
+  ],
+  "aliases": [
+   "cannelle",
+   "cinnamon",
+   "cinnamomum verum"
+  ]
+ },
+ {
+  "id": "gentiana_lutea",
+  "fr": "Gentiane jaune (racine)",
+  "latin": "Gentiana lutea L.",
+  "part": "racine",
+  "queries": [
+   "yellow gentian root",
+   "Gentiana lutea plant",
+   "gentian root Gentiana lutea"
+  ],
+  "keys": [
+   "gentiane",
+   "gentian",
+   "gentiana lutea l."
+  ],
+  "aliases": [
+   "gentiane",
+   "gentian",
+   "gentiana lutea l."
+  ]
+ },
+ {
+  "id": "levisticum_officinale",
+  "fr": "Livèche (racine)",
+  "latin": "Levisticum officinale Koch",
+  "part": "racine",
+  "queries": [
+   "lovage root",
+   "Levisticum officinale",
+   "lovage plant"
+  ],
+  "keys": [
+   "livèche",
+   "liveche",
+   "lovage",
+   "levisticum officinale"
+  ],
+  "aliases": [
+   "livèche",
+   "liveche",
+   "lovage",
+   "levisticum officinale"
+  ]
+ },
+ {
+  "id": "linum_usitatissimum",
+  "fr": "Lin (graine)",
+  "latin": "Linum usitatissimum L.",
+  "part": "graine",
+  "queries": [
+   "linseed",
+   "Linum usitatissimum plant",
+   "flax seeds"
+  ],
+  "keys": [
+   "lin",
+   "graine de lin",
+   "linseed",
+   "flax",
+   "linum usitatissimum"
+  ],
+  "aliases": [
+   "lin",
+   "graine de lin",
+   "linseed",
+   "flax",
+   "linum usitatissimum"
+  ]
+ },
+ {
+  "id": "marrubium_vulgare",
+  "fr": "Marrube blanc (sommité)",
+  "latin": "Marrubium vulgare L.",
+  "part": "sommité fleurie",
+  "queries": [
+   "white horehound herb",
+   "Marrubium vulgare plant",
+   "Marrubium vulgare flowers"
+  ],
+  "keys": [
+   "marrube",
+   "horehound",
+   "marrubium vulgare"
+  ],
+  "aliases": [
+   "marrube",
+   "horehound",
+   "marrubium vulgare"
+  ]
+ },
+ {
+  "id": "ononis_spinosa",
+  "fr": "Bugrane épineuse (racine)",
+  "latin": "Ononis spinosa L.",
+  "part": "racine",
+  "queries": [
+   "restharrow plant",
+   "Ononis spinosa plant",
+   "spiny restharrow"
+  ],
+  "keys": [
+   "bugrane",
+   "ononis",
+   "restharrow",
+   "ononis spinosa"
+  ],
+  "aliases": [
+   "bugrane",
+   "ononis",
+   "restharrow",
+   "ononis spinosa"
+  ]
+ },
+ {
+  "id": "orthosiphon_aristatus",
+  "fr": "Orthosiphon (feuille)",
+  "latin": "Orthosiphon aristatus (Blume) Miq.",
+  "part": "feuille",
+  "queries": [
+   "Orthosiphon aristatus plant",
+   "java tea leaves",
+   "Orthosiphon aristatus leaves"
+  ],
+  "keys": [
+   "orthosiphon",
+   "thé de Java",
+   "java tea",
+   "orthosiphon aristatus"
+  ],
+  "aliases": [
+   "orthosiphon",
+   "thé de Java",
+   "java tea",
+   "orthosiphon aristatus"
+  ]
+ },
+ {
+  "id": "pimpinella_anisum",
+  "fr": "Anis vert (fruit)",
+  "latin": "Pimpinella anisum L.",
+  "part": "fruit",
+  "queries": [
+   "aniseed fruit",
+   "Pimpinella anisum plant",
+   "anise seeds"
+  ],
+  "keys": [
+   "anis",
+   "anise",
+   "pimpinella anisum"
+  ],
+  "aliases": [
+   "anis",
+   "anise",
+   "pimpinella anisum"
+  ]
+ },
+ {
+  "id": "potentilla_erecta",
+  "fr": "Tormentille",
+  "latin": "Potentilla erecta (L.) Raeusch.",
+  "part": "rhizome",
+  "queries": [
+   "tormentil plant",
+   "Potentilla erecta flowers",
+   "Potentilla erecta plant"
+  ],
+  "keys": [
+   "tormentille",
+   "potentille",
+   "tormentil",
+   "potentilla erecta"
+  ],
+  "aliases": [
+   "tormentille",
+   "potentille",
+   "tormentil",
+   "potentilla erecta"
+  ]
+ },
+ {
+  "id": "solidago_virgaurea",
+  "fr": "Solidage verge d'or (sommité)",
+  "latin": "Solidago virgaurea L.",
+  "part": "sommité fleurie",
+  "queries": [
+   "goldenrod flowers",
+   "Solidago virgaurea",
+   "Solidago virgaurea plant"
+  ],
+  "keys": [
+   "solidage",
+   "verge d'or",
+   "goldenrod",
+   "solidago virgaurea"
+  ],
+  "aliases": [
+   "solidage",
+   "verge d'or",
+   "goldenrod",
+   "solidago virgaurea"
+  ]
  }
 ]

@@ -1,0 +1,525 @@
+[
+  {
+    "id": "gentiana_lutea-ind-01",
+    "plant": "gentiana_lutea",
+    "type": "indication",
+    "statement": "Usage traditionnel : médicament à base de plantes traditionnel pour la perte temporaire d'appétit.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for temporary loss of appetite."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-ind-02",
+    "plant": "gentiana_lutea",
+    "type": "indication",
+    "statement": "Usage traditionnel : médicament à base de plantes traditionnel pour les troubles dyspeptiques ou gastro-intestinaux légers.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for mild dyspeptic/gastrointestinal disorders."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-ind-03",
+    "plant": "gentiana_lutea",
+    "type": "indication",
+    "statement": "Ce produit est un médicament à base de plantes traditionnel destiné à des indications exclusivement fondées sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-01",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane (substance végétale broyée) : dose unitaire de 0,6 à 2 g dans 150 ml d'eau bouillante, en infusion, 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Single dose: 0.6-2 g of the comminuted herbal substance in 150 ml of boiling water as an infusion 1-3 times per day"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-02",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane : dose quotidienne de 0,6 à 6 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Daily dose: 0.6-6 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-03",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec : dose unitaire de 240 mg, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Single dose: 240 mg dry extract 2-3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-04",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Extrait sec : dose quotidienne de 480 à 720 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Daily dose: 480-720 mg dry extract"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-05",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait liquide : dose unitaire de 1 g, 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Single dose: 1 g liquid extract 2-4 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-06",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Extrait liquide : dose quotidienne de 2 à 4 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Daily dose: 2-4 g liquid extract"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-07",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, teinture : dose unitaire de 1 ml, 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Single dose: 1 ml tincture 1-3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-08",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Teinture : dose quotidienne de 1 à 3 ml.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Daily dose: 1-3 ml tincture"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-09",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-10",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Forme solide (extrait sec) : à prendre 1 heure avant le repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "the solid dosage form b) is to be taken 1 hour before meal due to the additional mechanism of disintegration of the solid form."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-pos-11",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-01",
+    "plant": "gentiana_lutea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-02",
+    "plant": "gentiana_lutea",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-03",
+    "plant": "gentiana_lutea",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-04",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-05",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "Teintures et extraits liquides contenant de l'éthanol : un étiquetage approprié pour l'éthanol doit être inclus.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "For tinctures and liquid extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-06",
+    "plant": "gentiana_lutea",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-07",
+    "plant": "gentiana_lutea",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-08",
+    "plant": "gentiana_lutea",
+    "type": "pregnancy",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-09",
+    "plant": "gentiana_lutea",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-10",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "None known"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-11",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-12",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-13",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "Pour certaines xanthones présentes dans Gentiana lutea, des résultats positifs ont été rapportés au test d'AMES.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "For some xanthones which are among the constituents of Gentiana lutea, positive results have been reported in the AMES test"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "gentiana_lutea-14",
+    "plant": "gentiana_lutea",
+    "type": "warning",
+    "statement": "Les tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "id": "orthosiphon_aristatus-ind-01",
+    "plant": "orthosiphon_aristatus",
+    "type": "indication",
+    "statement": "Usage traditionnel : augmentation de la diurèse pour assurer le rinçage des voies urinaires, en adjuvant dans les troubles urinaires mineurs.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used to increase the amount of urine to achieve flushing"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-ind-02",
+    "plant": "orthosiphon_aristatus",
+    "type": "indication",
+    "statement": "Produit à usage traditionnel, utilisé pour cette indication exclusivement sur la base d'un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-01",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane (substance végétale broyée) : 2 à 3 g dans 150 ml d'eau bouillante, en infusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Herbal tea: 2-3 g comminuted herbal substance in 150 ml of boiling water as a herbal infusion"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-02",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane : dose quotidienne de 6 à 12 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Daily dose: 6-12 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-03",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, poudre de substance végétale : dose unique de 500 à 750 mg, dose quotidienne de 1 000 à 1 500 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Single dose: 500-750 mg Daily dose: 1000-1500 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-04",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait liquide (DER 1:1, éthanol 25 % m/m) : dose unique de 2 g, dose quotidienne de 2 à 4 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Single dose: 2 g Daily dose: 2-4 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-05",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 5-7:1, eau) : dose unique de 360 mg, dose quotidienne de 1 080 à 1 440 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Single dose: 360 mg Daily dose: 1080-1440 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-06",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 8-12:1, éthanol 60 % V/V) : dose unique de 200 à 400 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Single dose: 200-400 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-07",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 8-12:1, éthanol 60 % V/V) : dose quotidienne de 600 à 1 200 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Daily dose: 600-1200 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-08",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 7-8:1, éthanol 70 % V/V) : dose unique de 280 mg, dose quotidienne de 840 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Single dose: 280 mg Daily dose: 840 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-09",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 5-7:1, éthanol 30 % V/V) : dose unique de 200 mg, dose quotidienne de 400 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Single dose: 200 mg Daily dose: 400 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-10",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-11",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-pos-12",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Pour assurer l'augmentation de la diurèse, une prise de liquides suffisante est nécessaire pendant le traitement.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "To ensure an increase of the amount of urine, adequate fluid intake is required during treatment."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-01",
+    "plant": "orthosiphon_aristatus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-02",
+    "plant": "orthosiphon_aristatus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée dans les situations où une réduction des apports hydriques est recommandée (par exemple maladie cardiaque ou rénale sévère).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Conditions where a reduced fluid intake is recommended (e.g. severe cardiac or renal disease)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "fluid_restriction",
+      "cardiovascular_disease",
+      "kidney_disease"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-03",
+    "plant": "orthosiphon_aristatus",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-04",
+    "plant": "orthosiphon_aristatus",
+    "type": "warning",
+    "statement": "En cas de fièvre, de dysurie, de spasmes ou de sang dans les urines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "If complaints of symptoms such as fever, dysuria, spasms or blood in the urine occur during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-05",
+    "plant": "orthosiphon_aristatus",
+    "type": "warning",
+    "statement": "Pour les extraits liquides contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol doit être inclus.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "For liquid extracts containing ethanol, the appropriate labelling for ethanol,"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-06",
+    "plant": "orthosiphon_aristatus",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-07",
+    "plant": "orthosiphon_aristatus",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-08",
+    "plant": "orthosiphon_aristatus",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-09",
+    "plant": "orthosiphon_aristatus",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-10",
+    "plant": "orthosiphon_aristatus",
+    "type": "adverse",
+    "statement": "Aucun effet indésirable connu dans la monographie.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-11",
+    "plant": "orthosiphon_aristatus",
+    "type": "adverse",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "orthosiphon_aristatus-12",
+    "plant": "orthosiphon_aristatus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-13",
+    "plant": "orthosiphon_aristatus",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-14",
+    "plant": "orthosiphon_aristatus",
+    "type": "preclinical",
+    "statement": "Tests de génotoxicité adéquats non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

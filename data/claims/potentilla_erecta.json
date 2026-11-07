@@ -1,0 +1,567 @@
+[
+  {
+    "id": "potentilla_erecta-ind-01",
+    "plant": "potentilla_erecta",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique de la diarrhée légère (usage fondé exclusivement sur un usage de longue date).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "symptomatic treatment of mild diarrhoea."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-ind-02",
+    "plant": "potentilla_erecta",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des inflammations mineures de la muqueuse buccale (usage fondé exclusivement sur un usage de longue date).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "symptomatic treatment of minor inflammations of"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-01",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée, voie orale), adultes et personnes âgées : posologie établie pour cette population.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Adults, elderly"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-02",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), substance végétale broyée en infusion : dose unitaire de 1,4 à 4 g, plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "As infusion: single dose 1.4-4 g, several times"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-03",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), infusion de substance végétale : dose quotidienne maximale de 12 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "daily up to a maximum daily dose of"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-04",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), substance végétale broyée en décoction : dose unitaire de 1,4 à 3 g, plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "As decoction: single dose 1.4-3 g, several"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-05",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), substance végétale broyée en décoction : dose quotidienne maximale de 6 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "daily up to a maximum daily dose of"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-06",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), teinture 1:5 à l'éthanol 70 % : 1 à 2 ml dans de l'eau, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Single dose: 1-2 ml in water, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-07",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), teinture 1:5 à l'éthanol 45 % : 2 à 4 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Single dose: 2-4 ml, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-08",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), extrait liquide : 2 à 4 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Single dose: 2-4 ml, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-09",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 1 (diarrhée), extrait sec : 400 mg, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Single dose: 400 mg, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-10",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 2 (muqueuse buccale, usage en rinçage) : substance végétale en infusion (1,3 à 2 g pour 100 ml d'eau) ou en décoction (0,8 à 3 g pour 100 ml d'eau) ; rincer la bouche plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Rinse the mouth several times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-11",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Indication 2 (muqueuse buccale, usage en rinçage), teinture 1:5 à l'éthanol 70 % : 1 à 5 ml pour 150 ml d'eau, rincer la bouche plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Single dose: 1-5 ml per 150 ml of water."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-12",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Durée (indication 1, diarrhée) : si les symptômes persistent plus de 3 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "If the symptoms persist longer than 3 days during"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-pos-13",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Durée (indication 2, muqueuse buccale) : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-01",
+    "plant": "potentilla_erecta",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-02",
+    "plant": "potentilla_erecta",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans (indications 1 et 2).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-03",
+    "plant": "potentilla_erecta",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "18 years of age has not been established due to"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-04",
+    "plant": "potentilla_erecta",
+    "type": "warning",
+    "statement": "En cas de diarrhée récidivante ou de selles sanglantes (indication 1), consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "If recurrent diarrhoea or bloody stools occur, a"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-05",
+    "plant": "potentilla_erecta",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "If the symptoms worsen during the use of the"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-06",
+    "plant": "potentilla_erecta",
+    "type": "warning",
+    "statement": "Teintures contenant de l'éthanol : l'étiquetage approprié pour l'éthanol doit être inclus.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "For tinctures containing ethanol, the appropriate"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-07",
+    "plant": "potentilla_erecta",
+    "type": "interaction",
+    "statement": "L'absorption interne d'un médicament administré en même temps peut être retardée : le produit doit être pris 1 heure ou plus avant ou après les autres médicaments (indication 1).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "product should be taken 1 hour or more before or"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-08",
+    "plant": "potentilla_erecta",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée (indication 2, muqueuse buccale).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-09",
+    "plant": "potentilla_erecta",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "data, the use during pregnancy and lactation is"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-10",
+    "plant": "potentilla_erecta",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-11",
+    "plant": "potentilla_erecta",
+    "type": "undesirable",
+    "statement": "Troubles gastro-intestinaux légers, tels que des nausées, peuvent survenir (indication 1) ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Mild gastrointestinal complaints such as nausea"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-12",
+    "plant": "potentilla_erecta",
+    "type": "undesirable",
+    "statement": "Des vomissements peuvent survenir (indication 1) ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "and vomiting may occur. The frequency is not"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-13",
+    "plant": "potentilla_erecta",
+    "type": "undesirable",
+    "statement": "Si d'autres effets indésirables non mentionnés ci-dessus surviennent, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "If other adverse reactions not mentioned above"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "potentilla_erecta-14",
+    "plant": "potentilla_erecta",
+    "type": "undesirable",
+    "statement": "Aucun effet indésirable connu (indication 2, muqueuse buccale).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-15",
+    "plant": "potentilla_erecta",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "id": "pimpinella_anisum-ind-01",
+    "plant": "pimpinella_anisum",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux spasmodiques légers, y compris ballonnements et flatulences.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic treatment of mild, spasmodic"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-ind-02",
+    "plant": "pimpinella_anisum",
+    "type": "indication",
+    "statement": "Usage traditionnel : expectorant dans la toux associée au rhume.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Traditional herbal medicinal product used as an expectorant in cough associated with cold"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-ind-03",
+    "plant": "pimpinella_anisum",
+    "type": "indication",
+    "statement": "Ces indications reposent exclusivement sur un usage de longue date (usage traditionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-pos-01",
+    "plant": "pimpinella_anisum",
+    "type": "posology",
+    "statement": "Adolescents de plus de 12 ans, adultes et personnes âgées, tisane : dose unique de 1 à 3,5 g de fruit d'anis (entier, ou fraîchement broyé ou concassé) dans 150 ml d'eau bouillante, en infusion, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Herbal tea: 1 to 3.5 g of the whole or (freshly) comminuted or crushed aniseed in 150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-pos-02",
+    "plant": "pimpinella_anisum",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-pos-03",
+    "plant": "pimpinella_anisum",
+    "type": "posology",
+    "statement": "Durée : ne pas prendre pendant plus de deux semaines.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Not to be taken for more than two weeks."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-pos-04",
+    "plant": "pimpinella_anisum",
+    "type": "posology",
+    "statement": "Si les symptômes persistent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-pos-05",
+    "plant": "pimpinella_anisum",
+    "type": "posology",
+    "statement": "Enfants de moins de 12 ans : l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-01",
+    "plant": "pimpinella_anisum",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Hypersensitivity to the active substance or to"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-02",
+    "plant": "pimpinella_anisum",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité aux Apiaceae (Umbelliferae) (carvi, céleri, coriandre, aneth et fenouil) ou à l'anéthol.",
+    "severity": "precaution",
+    "population": "hypersensibilité aux Apiaceae ou à l'anéthol",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "coriander, dill and fennel) or to anethole."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-03",
+    "plant": "pimpinella_anisum",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 12 ans, faute de données suffisantes pour évaluer la sécurité.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data for safety assessment"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-04",
+    "plant": "pimpinella_anisum",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-05",
+    "plant": "pimpinella_anisum",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-06",
+    "plant": "pimpinella_anisum",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-07",
+    "plant": "pimpinella_anisum",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-08",
+    "plant": "pimpinella_anisum",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-09",
+    "plant": "pimpinella_anisum",
+    "type": "warning",
+    "statement": "Des réactions allergiques à l'anis affectant la peau ou l'appareil respiratoire peuvent survenir ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "Allergic reactions to aniseed affecting the skin or the respiratory system may occur."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-10",
+    "plant": "pimpinella_anisum",
+    "type": "warning",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "pimpinella_anisum-11",
+    "plant": "pimpinella_anisum",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "pimpinella_anisum-12",
+    "plant": "pimpinella_anisum",
+    "type": "warning",
+    "statement": "Le risque génotoxique lié à l'estragole n'est pas considéré comme pertinent dans les conditions d'emploi spécifiées (usage de courte durée chez les adolescents, adultes et personnes âgées), en raison de la faible quantité présente dans les infusions d'anis.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+      "quote": "considered to be relevant in the specified conditions of use (short term use in adolescents, adults and elderly) due to the small amount present in herbal infusions prepared from aniseed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

@@ -18749,6 +18749,3742 @@
      "quote": "The daily exposure has to be below 1"
     }
    ]
+  },
+  {
+   "id": "cinnamomum_verum",
+   "fr": "Cannelle de Ceylan (écorce)",
+   "latin": "Cinnamomum verum J.S. Presl",
+   "part": "écorce",
+   "aliases": [
+    "cannelle",
+    "cinnamon",
+    "cinnamomum verum"
+   ],
+   "claims": [
+    {
+     "id": "cinnamomum_verum-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique des troubles gastro-intestinaux légers et spasmodiques, y compris ballonnements et flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "including bloating and flatulence."
+    },
+    {
+     "id": "cinnamomum_verum-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement symptomatique des diarrhées légères.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptomatic treatment of mild diarrhoea."
+    },
+    {
+     "id": "cinnamomum_verum-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel exclusivement fondé sur un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in a specified indications exclusively based upon long-standing use."
+    },
+    {
+     "id": "cinnamomum_verum-pos-01",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, tisane (substance végétale broyée) : 0,5 à 1 g en infusion, jusqu'à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "0.5-1 g comminuted herbal substance as an infusion, up to 4 times daily"
+    },
+    {
+     "id": "cinnamomum_verum-pos-02",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait liquide (indication 1) : dose unique de 0,5 à 1 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Single dose: 0.5-1 ml, 3 times daily"
+    },
+    {
+     "id": "cinnamomum_verum-pos-03",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, teinture (indication 1) : dose journalière de 2 à 4 ml.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Daily dose: 2-4 ml"
+    },
+    {
+     "id": "cinnamomum_verum-pos-04",
+     "type": "posology",
+     "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    {
+     "id": "cinnamomum_verum-pos-05",
+     "type": "posology",
+     "statement": "Durée, indication 1 (troubles gastro-intestinaux) : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product"
+    },
+    {
+     "id": "cinnamomum_verum-pos-06",
+     "type": "posology",
+     "statement": "Durée, indication 2 (diarrhée) : si les symptômes persistent plus de deux jours, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "If the symptoms persist longer than two days, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "cinnamomum_verum-pos-07",
+     "type": "posology",
+     "statement": "Voie d'administration : orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "cinnamomum_verum-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Hypersensitivity to the active substance"
+    },
+    {
+     "id": "cinnamomum_verum-02",
+     "type": "contraindication",
+     "statement": "Hypersensibilité au baume du Pérou : contre-indication mentionnée dans la monographie.",
+     "severity": "precaution",
+     "population": "personnes hypersensibles au baume du Pérou",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to Peru balsam."
+    },
+    {
+     "id": "cinnamomum_verum-03",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "cinnamomum_verum-04",
+     "type": "warning",
+     "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care professional should be consulted."
+    },
+    {
+     "id": "cinnamomum_verum-05",
+     "type": "warning",
+     "statement": "Teintures et extraits contenant de l'éthanol : l'étiquetage approprié pour l'éthanol doit être inclus.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "cinnamomum_verum-06",
+     "type": "warning",
+     "statement": "En cas de diarrhée, la réhydratation doit être la première mesure.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "In case of diarrhoea, rehydration should be the first measure."
+    },
+    {
+     "id": "cinnamomum_verum-07",
+     "type": "warning",
+     "statement": "En cas de diarrhées récurrentes ou de selles sanglantes, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "If recurrent diarrhoea or bloody stools occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "cinnamomum_verum-08",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "cinnamomum_verum-09",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established."
+    },
+    {
+     "id": "cinnamomum_verum-10",
+     "type": "pregnancy",
+     "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "cinnamomum_verum-11",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "cinnamomum_verum-12",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "None known."
+    },
+    {
+     "id": "cinnamomum_verum-13",
+     "type": "warning",
+     "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "cinnamomum_verum-14",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "cinnamomum_verum-15",
+     "type": "preclinical",
+     "statement": "Tests adéquats sur la toxicité pour la reproduction, la génotoxicité et la cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    }
+   ]
+  },
+  {
+   "id": "gentiana_lutea",
+   "fr": "Gentiane jaune (racine)",
+   "latin": "Gentiana lutea L.",
+   "part": "racine",
+   "aliases": [
+    "gentiane",
+    "gentian",
+    "gentiana lutea l."
+   ],
+   "claims": [
+    {
+     "id": "gentiana_lutea-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : médicament à base de plantes traditionnel pour la perte temporaire d'appétit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for temporary loss of appetite."
+    },
+    {
+     "id": "gentiana_lutea-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : médicament à base de plantes traditionnel pour les troubles dyspeptiques ou gastro-intestinaux légers.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product for mild dyspeptic/gastrointestinal disorders."
+    },
+    {
+     "id": "gentiana_lutea-ind-03",
+     "type": "indication",
+     "statement": "Ce produit est un médicament à base de plantes traditionnel destiné à des indications exclusivement fondées sur un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    {
+     "id": "gentiana_lutea-pos-01",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, tisane (substance végétale broyée) : dose unitaire de 0,6 à 2 g dans 150 ml d'eau bouillante, en infusion, 1 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Single dose: 0.6-2 g of the comminuted herbal substance in 150 ml of boiling water as an infusion 1-3 times per day"
+    },
+    {
+     "id": "gentiana_lutea-pos-02",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, tisane : dose quotidienne de 0,6 à 6 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Daily dose: 0.6-6 g"
+    },
+    {
+     "id": "gentiana_lutea-pos-03",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait sec : dose unitaire de 240 mg, 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Single dose: 240 mg dry extract 2-3 times daily"
+    },
+    {
+     "id": "gentiana_lutea-pos-04",
+     "type": "posology",
+     "statement": "Extrait sec : dose quotidienne de 480 à 720 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Daily dose: 480-720 mg dry extract"
+    },
+    {
+     "id": "gentiana_lutea-pos-05",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait liquide : dose unitaire de 1 g, 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Single dose: 1 g liquid extract 2-4 times daily"
+    },
+    {
+     "id": "gentiana_lutea-pos-06",
+     "type": "posology",
+     "statement": "Extrait liquide : dose quotidienne de 2 à 4 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Daily dose: 2-4 g liquid extract"
+    },
+    {
+     "id": "gentiana_lutea-pos-07",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, teinture : dose unitaire de 1 ml, 1 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Single dose: 1 ml tincture 1-3 times daily"
+    },
+    {
+     "id": "gentiana_lutea-pos-08",
+     "type": "posology",
+     "statement": "Teinture : dose quotidienne de 1 à 3 ml.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Daily dose: 1-3 ml tincture"
+    },
+    {
+     "id": "gentiana_lutea-pos-09",
+     "type": "posology",
+     "statement": "Voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Oral use"
+    },
+    {
+     "id": "gentiana_lutea-pos-10",
+     "type": "posology",
+     "statement": "Forme solide (extrait sec) : à prendre 1 heure avant le repas.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "the solid dosage form b) is to be taken 1 hour before meal due to the additional mechanism of disintegration of the solid form."
+    },
+    {
+     "id": "gentiana_lutea-pos-11",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor"
+    },
+    {
+     "id": "gentiana_lutea-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "gentiana_lutea-02",
+     "type": "age",
+     "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    {
+     "id": "gentiana_lutea-03",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "gentiana_lutea-04",
+     "type": "warning",
+     "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "gentiana_lutea-05",
+     "type": "warning",
+     "statement": "Teintures et extraits liquides contenant de l'éthanol : un étiquetage approprié pour l'éthanol doit être inclus.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "For tinctures and liquid extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "gentiana_lutea-06",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "None reported"
+    },
+    {
+     "id": "gentiana_lutea-07",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "gentiana_lutea-08",
+     "type": "pregnancy",
+     "statement": "Aucune donnée de fertilité disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "gentiana_lutea-09",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "gentiana_lutea-10",
+     "type": "warning",
+     "statement": "Aucun effet indésirable connu.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "None known"
+    },
+    {
+     "id": "gentiana_lutea-11",
+     "type": "warning",
+     "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "gentiana_lutea-12",
+     "type": "warning",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "gentiana_lutea-13",
+     "type": "warning",
+     "statement": "Pour certaines xanthones présentes dans Gentiana lutea, des résultats positifs ont été rapportés au test d'AMES.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "For some xanthones which are among the constituents of Gentiana lutea, positive results have been reported in the AMES test"
+    },
+    {
+     "id": "gentiana_lutea-14",
+     "type": "warning",
+     "statement": "Les tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    }
+   ]
+  },
+  {
+   "id": "levisticum_officinale",
+   "fr": "Livèche (racine)",
+   "latin": "Levisticum officinale Koch",
+   "part": "racine",
+   "aliases": [
+    "livèche",
+    "liveche",
+    "lovage",
+    "levisticum officinale"
+   ],
+   "claims": [
+    {
+     "id": "levisticum_officinale-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : augmentation de la diurèse pour obtenir un effet de rinçage des voies urinaires, en adjuvant dans les troubles urinaires mineurs.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product used to increase the amount of urine to achieve flushing of the urinary tract as an adjuvant in minor urinary complaints."
+    },
+    {
+     "id": "levisticum_officinale-pos-01",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, tisane (racine broyée) : dose unique de 2 à 3 g dans 150 ml d'eau bouillante, en infusion, 2 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Single dose: 2 - 3 g of comminuted herbal substance in 150 ml of boiling water as a herbal infusion, twice daily."
+    },
+    {
+     "id": "levisticum_officinale-pos-02",
+     "type": "posology",
+     "statement": "Dose quotidienne moyenne : 4 à 6 g de racine broyée (tisane).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Average daily dose: 4 - 6 g"
+    },
+    {
+     "id": "levisticum_officinale-pos-03",
+     "type": "posology",
+     "statement": "Durée : ne pas utiliser plus de 2 à 4 semaines.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Not to be used for more than 2 - 4 weeks."
+    },
+    {
+     "id": "levisticum_officinale-pos-04",
+     "type": "posology",
+     "statement": "Si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "levisticum_officinale-pos-05",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "levisticum_officinale-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Hypersensitivity to the active substance"
+    },
+    {
+     "id": "levisticum_officinale-02",
+     "type": "contraindication",
+     "statement": "Contre-indication : hypersensibilité à d'autres plantes de la famille des Apiacées (Ombellifères) ou à l'anéthole. Aucun drapeau dédié dans l'application, signalée ici en précaution générale.",
+     "severity": "precaution",
+     "population": "personnes hypersensibles aux Apiacées (Ombellifères) ou à l'anéthole",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "other plants of the Apiaceae (Umbelliferae) family or to anethole."
+    },
+    {
+     "id": "levisticum_officinale-03",
+     "type": "age",
+     "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans, pour des raisons nécessitant un avis médical.",
+     "severity": "precaution",
+     "population": "enfants et adolescents de moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age is not recommended because of concerns requiring medical advice."
+    },
+    {
+     "id": "levisticum_officinale-04",
+     "type": "warning",
+     "statement": "En cas de plaintes ou de symptômes tels que fièvre, dysurie, spasmes ou sang dans les urines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "If complaints or symptoms such as fever, dysuria, spasms, or blood in urine occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "levisticum_officinale-05",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "levisticum_officinale-06",
+     "type": "fertility",
+     "statement": "Aucune donnée de fertilité disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "levisticum_officinale-07",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "levisticum_officinale-08",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "levisticum_officinale-09",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "None known."
+    },
+    {
+     "id": "levisticum_officinale-10",
+     "type": "warning",
+     "statement": "En cas d'effet indésirable, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "levisticum_officinale-11",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "levisticum_officinale-12",
+     "type": "preclinical",
+     "statement": "Tests adéquats sur la toxicité pour la reproduction, la génotoxicité et la cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    }
+   ]
+  },
+  {
+   "id": "linum_usitatissimum",
+   "fr": "Lin (graine)",
+   "latin": "Linum usitatissimum L.",
+   "part": "graine",
+   "aliases": [
+    "lin",
+    "graine de lin",
+    "linseed",
+    "flax",
+    "linum usitatissimum"
+   ],
+   "claims": [
+    {
+     "id": "linum_usitatissimum-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : préparation adoucissante (demulcent) pour le soulagement symptomatique des gênes gastro-intestinales légères.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Traditional herbal medicinal product used as a demulcent preparation for the symptomatic relief of mild gastrointestinal discomfort."
+    },
+    {
+     "id": "linum_usitatissimum-ind-02",
+     "type": "indication",
+     "statement": "Usage bien établi : médicament à base de plante pour le traitement de la constipation habituelle, ou dans les situations où une défécation facile avec des selles molles est souhaitable.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Herbal medicinal product for the treatment of habitual constipation or in conditions in which easy defaecation with soft stool is desirable."
+    },
+    {
+     "id": "linum_usitatissimum-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel fondé exclusivement sur un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    {
+     "id": "linum_usitatissimum-pos-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : préparation mucilagineuse avec 5 à 10 g de graines entières ou concassées, mises à tremper dans 250 ml d'eau.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "For a mucilaginous preparation, soak 5 - 10 g whole or broken seeds in 250 ml water"
+    },
+    {
+     "id": "linum_usitatissimum-pos-02",
+     "type": "posology",
+     "statement": "Usage traditionnel : jusqu'à trois prises dans la journée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Daily dose: up to three times during the day"
+    },
+    {
+     "id": "linum_usitatissimum-pos-03",
+     "type": "posology",
+     "statement": "Usage traditionnel : prendre cette préparation une demi-heure avant le repas.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "take this half an hour before eating"
+    },
+    {
+     "id": "linum_usitatissimum-pos-04",
+     "type": "posology",
+     "statement": "Usage bien établi, adolescents, adultes et personnes âgées : 10 à 15 g de graines avec 150 ml d'eau, de lait, de jus de fruit ou autre liquide aqueux similaire, 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Take 10 - 15 g seeds with 150 ml water, milk, fruit juice or similar aqueous liquid 2 - 3 times daily"
+    },
+    {
+     "id": "linum_usitatissimum-pos-05",
+     "type": "posology",
+     "statement": "Maintenir ensuite un apport hydrique suffisant.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "then maintain adequate fluid intake."
+    },
+    {
+     "id": "linum_usitatissimum-pos-06",
+     "type": "posology",
+     "statement": "L'effet apparaît 12 à 24 heures plus tard.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The effect starts 12 - 24 hours later."
+    },
+    {
+     "id": "linum_usitatissimum-pos-07",
+     "type": "duration",
+     "statement": "Usage bien établi : si la constipation ne cède pas en 3 jours, consulter un médecin ou un pharmacien.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "If the constipation does not resolve within 3 days, a doctor or a pharmacist should be consulted."
+    },
+    {
+     "id": "linum_usitatissimum-pos-08",
+     "type": "duration",
+     "statement": "Usage traditionnel : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "If the symptoms persist for longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "linum_usitatissimum-pos-09",
+     "type": "posology",
+     "statement": "Ne pas prendre immédiatement avant le coucher.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Warning: not to be taken immediately prior to bedtime."
+    },
+    {
+     "id": "linum_usitatissimum-01",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "linum_usitatissimum-02",
+     "type": "contraindication",
+     "statement": "Contre-indiqué en cas de rétrécissements anormaux du tube digestif, de maladies de l'œsophage ou du cardia, d'occlusion intestinale (iléus), de paralysie intestinale (iléus) ou de mégacôlon.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "digestive_disease"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Linseed should also not be used by patients suffering from abnormal constrictions in the gastro-intestinal tract, with diseases of the oesophagus and cardia or existing intestinal blockage (ileus), paralysis (ileus) of the intestine or megacolon."
+    },
+    {
+     "id": "linum_usitatissimum-03",
+     "type": "contraindication",
+     "statement": "Ne pas utiliser en cas de changement brusque du transit persistant plus de 2 semaines, de saignement rectal non diagnostiqué, ou d'absence de défécation après un laxatif.",
+     "severity": "precaution",
+     "population": "transit persistant modifié, saignement rectal non diagnostiqué ou absence de défécation après laxatif",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Linseed should not be used by patients with a sudden change in bowel habit that persists for more than 2 weeks, undiagnosed rectal bleeding and failure to defaecate following the use of a laxative."
+    },
+    {
+     "id": "linum_usitatissimum-04",
+     "type": "contraindication",
+     "statement": "Ne pas utiliser en cas de difficultés à avaler ou de problèmes de gorge.",
+     "severity": "precaution",
+     "population": "patients ayant des difficultés à avaler ou des problèmes de gorge",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "should not be taken by patients, who have difficulty swallowing or any throat problems."
+    },
+    {
+     "id": "linum_usitatissimum-05",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates (usage traditionnel).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "linum_usitatissimum-06",
+     "type": "age",
+     "statement": "Usage bien établi : non recommandé chez les moins de 12 ans, en raison de données insuffisantes de sécurité et d'efficacité.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The use is not recommended in children under 12 years due to insufficient data on safety and efficacy."
+    },
+    {
+     "id": "linum_usitatissimum-07",
+     "type": "warning",
+     "statement": "Le traitement des patients affaiblis et des personnes âgées doit être supervisé.",
+     "severity": "precaution",
+     "population": "patients affaiblis et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The treatment of debilitated patients and elderly should be supervised."
+    },
+    {
+     "id": "linum_usitatissimum-08",
+     "type": "warning",
+     "statement": "Effet œstrogénique possible en cas d'usage prolongé chez la femme ; non recommandé chez les femmes atteintes de tumeurs hormono-dépendantes.",
+     "severity": "precaution",
+     "population": "femmes atteintes de tumeurs hormono-dépendantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Investigations in healthy women suggest that long term use of linseed may have an oestrogenic effect, and its use is therefore not recommended in women with hormonally dependent tumours."
+    },
+    {
+     "id": "linum_usitatissimum-09",
+     "type": "warning",
+     "statement": "En cas de douleurs abdominales ou de modification de la fréquence des selles, arrêter l'utilisation et demander un avis médical.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "If abdominal pain occurs or in cases of any irregularity of frequency of faeces, the use of linseed should be discontinued and medical advice must be sought."
+    },
+    {
+     "id": "linum_usitatissimum-10",
+     "type": "warning",
+     "statement": "Prise sans apport suffisant de liquide : la graine peut gonfler et bloquer la gorge ou l'œsophage, avec risque d'étouffement.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Taking this herbal substance without adequate fluid, may cause it to swell and block the throat or oesophagus and may cause choking."
+    },
+    {
+     "id": "linum_usitatissimum-11",
+     "type": "warning",
+     "statement": "Une occlusion intestinale peut survenir si un apport hydrique suffisant n'est pas maintenu.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Intestinal obstruction may occur if adequate fluid intake is not maintained."
+    },
+    {
+     "id": "linum_usitatissimum-12",
+     "type": "warning",
+     "statement": "En cas de douleur thoracique, de vomissements, ou de difficulté à avaler ou à respirer après la prise, consulter immédiatement un médecin.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "If experiencing chest pain, vomiting, or difficulty in swallowing or breathing after taking this herbal substance, immediate medical attention should be sought."
+    },
+    {
+     "id": "linum_usitatissimum-13",
+     "type": "interaction",
+     "statement": "L'absorption d'autres médicaments pris en même temps peut être retardée par la préparation de lin.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Enteral absorption of concomitantly administered medicines may be delayed by a demulcent preparation of linseed."
+    },
+    {
+     "id": "linum_usitatissimum-14",
+     "type": "interaction",
+     "statement": "Ne pas prendre le produit en même temps que d'autres médicaments ; le prendre à distance de ceux-ci, environ 1 heure avant ou après.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "For this reason the product should not be taken"
+    },
+    {
+     "id": "linum_usitatissimum-15",
+     "type": "interaction",
+     "statement": "Pour limiter le risque d'occlusion (iléus), l'association avec des médicaments qui ralentissent le péristaltisme (par ex. opioïdes, lopéramide) doit se faire uniquement sous surveillance médicale.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "linseed should be used together with medicinal products known to inhibit peristaltic movement (e.g. opioids, loperamide) only under medical supervision."
+    },
+    {
+     "id": "linum_usitatissimum-16",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "linum_usitatissimum-17",
+     "type": "pregnancy",
+     "statement": "Aucun effet nocif ou délétère pendant la grossesse et l'allaitement n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "There are no reports of any harmful or deleterious"
+    },
+    {
+     "id": "linum_usitatissimum-18",
+     "type": "driving",
+     "statement": "Sans objet selon la monographie.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Not relevant."
+    },
+    {
+     "id": "linum_usitatissimum-19",
+     "type": "undesirable_effect",
+     "statement": "Météorisme (ballonnements gazeux), fréquent avec l'utilisation du produit.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Meteorism, occurring with the use of the product, is common."
+    },
+    {
+     "id": "linum_usitatissimum-20",
+     "type": "undesirable_effect",
+     "statement": "Réactions d'hypersensibilité, y compris de type anaphylactoïde, pouvant survenir très rarement.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Reactions of hypersensitivity including anaphylaxis-like reactions may occur very rarely."
+    },
+    {
+     "id": "linum_usitatissimum-21",
+     "type": "undesirable_effect",
+     "statement": "Pour tout autre effet indésirable non mentionné, consulter un médecin ou un pharmacien.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "If other adverse reactions not mentioned above occur, a doctor or a pharmacist should be consulted."
+    },
+    {
+     "id": "linum_usitatissimum-22",
+     "type": "overdose",
+     "statement": "Une surdose peut provoquer une gêne abdominale, des flatulences et éventuellement une occlusion intestinale.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Overdose with linseed may cause abdominal discomfort, flatulence and possibly intestinal obstruction."
+    },
+    {
+     "id": "linum_usitatissimum-23",
+     "type": "overdose",
+     "statement": "En cas de surdose : maintenir un apport hydrique suffisant ; la prise en charge est symptomatique.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Adequate fluid intake should be maintained and management should be symptomatic."
+    },
+    {
+     "id": "linum_usitatissimum-24",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "No case of overdose has been reported."
+    }
+   ]
+  },
+  {
+   "id": "marrubium_vulgare",
+   "fr": "Marrube blanc (sommité)",
+   "latin": "Marrubium vulgare L.",
+   "part": "sommité fleurie",
+   "aliases": [
+    "marrube",
+    "horehound",
+    "marrubium vulgare"
+   ],
+   "claims": [
+    {
+     "id": "marrubium_vulgare-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : expectorant dans la toux associée au rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "expectorant in cough associated with cold."
+    },
+    {
+     "id": "marrubium_vulgare-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des troubles dyspeptiques légers, tels que ballonnements et flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Traditional herbal medicinal product used for symptomatic treatment of mild dyspeptic complaints such as bloating and flatulence."
+    },
+    {
+     "id": "marrubium_vulgare-ind-03",
+     "type": "indication",
+     "statement": "Usage traditionnel : perte d'appétit temporaire.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Traditional herbal medicinal product used in temporary loss of appetite."
+    },
+    {
+     "id": "marrubium_vulgare-ind-04",
+     "type": "indication",
+     "statement": "Usage traditionnel exclusivement fondé sur un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    {
+     "id": "marrubium_vulgare-pos-01",
+     "type": "posology",
+     "statement": "Adolescents de plus de 12 ans, adultes et personnes âgées, substance végétale broyée en tisane : 1 à 2 g dans 250 ml d'eau bouillante, en infusion, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Herbal tea: 1-2 g of the comminuted herbal substance in 250 ml of boiling water as a herbal infusion, 3 times daily."
+    },
+    {
+     "id": "marrubium_vulgare-pos-02",
+     "type": "posology",
+     "statement": "Tisane : dose quotidienne de 3 à 6 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Daily dose: 3-6 g"
+    },
+    {
+     "id": "marrubium_vulgare-pos-03",
+     "type": "posology",
+     "statement": "Substance végétale en poudre : 225 à 450 mg par prise, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Single dose: 225-450 mg, 3 times daily"
+    },
+    {
+     "id": "marrubium_vulgare-pos-04",
+     "type": "posology",
+     "statement": "Substance végétale en poudre : dose quotidienne de 675 à 1350 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Daily dose: 675-1350 mg"
+    },
+    {
+     "id": "marrubium_vulgare-pos-05",
+     "type": "posology",
+     "statement": "Jus exprimé : 10 à 20 ml par prise, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Single dose: 10-20 ml, 3 times daily"
+    },
+    {
+     "id": "marrubium_vulgare-pos-06",
+     "type": "posology",
+     "statement": "Jus exprimé : dose quotidienne de 30 à 60 ml.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Daily dose: 30-60 ml"
+    },
+    {
+     "id": "marrubium_vulgare-pos-07",
+     "type": "posology",
+     "statement": "Extrait liquide : 1,5 à 4 ml par prise, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Single dose: 1.5-4 ml, 3 times daily"
+    },
+    {
+     "id": "marrubium_vulgare-pos-08",
+     "type": "posology",
+     "statement": "Extrait liquide : dose quotidienne de 4,5 à 12 ml.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Daily dose: 4.5-12 ml"
+    },
+    {
+     "id": "marrubium_vulgare-pos-09",
+     "type": "posology",
+     "statement": "Indication 1 (rhume) : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "If the symptoms persist longer than one week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "marrubium_vulgare-pos-10",
+     "type": "posology",
+     "statement": "Indications digestives et perte d'appétit : si les symptômes persistent plus de deux semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "If the symptoms persist longer than two weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "marrubium_vulgare-pos-11",
+     "type": "posology",
+     "statement": "Usage par voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "marrubium_vulgare-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou à d'autres plantes de la famille des Lamiacées (Labiées).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Hypersensitivity to the active substance and to other plants of the Lamiaceae (Labiatae) family."
+    },
+    {
+     "id": "marrubium_vulgare-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'obstruction des voies biliaires ou de cholangite.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Obstruction of the bile duct, cholangitis"
+    },
+    {
+     "id": "marrubium_vulgare-03",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas de maladie du foie.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "liver_disease"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "cholangitis, liver disease"
+    },
+    {
+     "id": "marrubium_vulgare-04",
+     "type": "contraindication",
+     "statement": "Contre-indication rapportée : iléus.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "liver disease, ileus"
+    },
+    {
+     "id": "marrubium_vulgare-05",
+     "type": "warning",
+     "statement": "Prudence : consulter un médecin avant utilisation en cas d'ulcère peptique actif, de calculs biliaires ou de tout autre trouble biliaire.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "gastric_ulcer"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Patients with active peptic ulcer, gallstones and any other biliary disorders should consult a doctor before using Marrubii herba preparations."
+    },
+    {
+     "id": "marrubium_vulgare-06",
+     "type": "warning",
+     "statement": "Prudence : consulter un médecin avant utilisation en cas d'ulcère peptique actif, de calculs biliaires ou de tout autre trouble biliaire.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "biliary_disease"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Patients with active peptic ulcer, gallstones and any other biliary disorders should consult a doctor before using Marrubii herba preparations."
+    },
+    {
+     "id": "marrubium_vulgare-07",
+     "type": "age",
+     "statement": "Usage non recommandé chez les moins de 12 ans (posologie).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended"
+    },
+    {
+     "id": "marrubium_vulgare-08",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "marrubium_vulgare-09",
+     "type": "warning",
+     "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health"
+    },
+    {
+     "id": "marrubium_vulgare-10",
+     "type": "warning",
+     "statement": "Extraits contenant de l'éthanol : un étiquetage approprié pour l'éthanol doit figurer.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "marrubium_vulgare-11",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "marrubium_vulgare-12",
+     "type": "pregnancy",
+     "statement": "Aucune donnée de fertilité disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "marrubium_vulgare-13",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "marrubium_vulgare-14",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "marrubium_vulgare-15",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "None known."
+    },
+    {
+     "id": "marrubium_vulgare-16",
+     "type": "warning",
+     "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "marrubium_vulgare-17",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "No case of overdose has been reported."
+    }
+   ]
+  },
+  {
+   "id": "ononis_spinosa",
+   "fr": "Bugrane épineuse (racine)",
+   "latin": "Ononis spinosa L.",
+   "part": "racine",
+   "aliases": [
+    "bugrane",
+    "ononis",
+    "restharrow",
+    "ononis spinosa"
+   ],
+   "claims": [
+    {
+     "id": "ononis_spinosa-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : médicament à base de plantes traditionnel utilisé pour augmenter la quantité d'urine afin d'obtenir un rinçage des voies urinaires, en adjuvant dans les plaintes urinaires mineures.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Traditional herbal medicinal product used to increase the amount of urine to achieve flushing"
+    },
+    {
+     "id": "ononis_spinosa-ind-02",
+     "type": "indication",
+     "statement": "Le produit est un médicament à base de plantes traditionnel pour l'indication précisée, fondé exclusivement sur un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    {
+     "id": "ononis_spinosa-pos-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, tisane (substance végétale broyée) : 2 à 3 g dans 150 ml d'eau bouillante, en infusion, jusqu'à 3 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "comminuted herbal substance in 150 ml of boiling water as a herbal infusion up to 3 - 4 times daily"
+    },
+    {
+     "id": "ononis_spinosa-pos-02",
+     "type": "posology",
+     "statement": "Dose quotidienne maximale : 12 g de substance végétale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "corresponding to the maximum daily dose of 12 g."
+    },
+    {
+     "id": "ononis_spinosa-pos-03",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "ononis_spinosa-pos-04",
+     "type": "posology",
+     "statement": "Voie d'administration : orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "ononis_spinosa-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "ononis_spinosa-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée dans les situations où une réduction de l'apport hydrique est recommandée (par exemple maladie cardiaque ou rénale sévère).",
+     "severity": "contraindiquee",
+     "population": "restriction hydrique",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "fluid_restriction"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Conditions where a reduced fluid intake is recommended (e.g. severe cardiac or renal disease)."
+    },
+    {
+     "id": "ononis_spinosa-03",
+     "type": "age",
+     "statement": "Usage déconseillé chez les moins de 12 ans (posologie).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended"
+    },
+    {
+     "id": "ononis_spinosa-04",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates (avertissements).",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "ononis_spinosa-05",
+     "type": "warning",
+     "statement": "Pendant le traitement, un apport hydrique suffisant est nécessaire pour assurer l'augmentation de la quantité d'urine.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "To ensure an increase of the amount of urine, adequate fluid intake is required during the treatment."
+    },
+    {
+     "id": "ononis_spinosa-06",
+     "type": "warning",
+     "statement": "En cas d'aggravation des plaintes urinaires ou d'apparition de fièvre, de douleurs à la miction (dysurie), de spasmes ou de sang dans les urines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "If urinary tract complaints worsen and symptoms such as fever, dysuria, spasm, or blood in the urine occur during the use of medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "ononis_spinosa-07",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "ononis_spinosa-08",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "ononis_spinosa-09",
+     "type": "fertility",
+     "statement": "Aucune donnée de fertilité disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "ononis_spinosa-10",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "ononis_spinosa-11",
+     "type": "undesirable_effects",
+     "statement": "Effets indésirables : aucun effet indésirable connu.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "None known."
+    },
+    {
+     "id": "ononis_spinosa-12",
+     "type": "warning",
+     "statement": "En cas de réaction indésirable, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "ononis_spinosa-13",
+     "type": "overdose",
+     "statement": "Surdosage : aucun cas de surdosage rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "ononis_spinosa-14",
+     "type": "preclinical",
+     "statement": "Tests de génotoxicité adéquats non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "ononis_spinosa-15",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    }
+   ]
+  },
+  {
+   "id": "orthosiphon_aristatus",
+   "fr": "Orthosiphon (feuille)",
+   "latin": "Orthosiphon aristatus (Blume) Miq.",
+   "part": "feuille",
+   "aliases": [
+    "orthosiphon",
+    "thé de Java",
+    "java tea",
+    "orthosiphon aristatus"
+   ],
+   "claims": [
+    {
+     "id": "orthosiphon_aristatus-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : augmentation de la diurèse pour assurer le rinçage des voies urinaires, en adjuvant dans les troubles urinaires mineurs.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Traditional herbal medicinal product used to increase the amount of urine to achieve flushing"
+    },
+    {
+     "id": "orthosiphon_aristatus-ind-02",
+     "type": "indication",
+     "statement": "Produit à usage traditionnel, utilisé pour cette indication exclusivement sur la base d'un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-01",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, tisane (substance végétale broyée) : 2 à 3 g dans 150 ml d'eau bouillante, en infusion.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Herbal tea: 2-3 g comminuted herbal substance in 150 ml of boiling water as a herbal infusion"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-02",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, tisane : dose quotidienne de 6 à 12 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Daily dose: 6-12 g"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-03",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, poudre de substance végétale : dose unique de 500 à 750 mg, dose quotidienne de 1 000 à 1 500 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Single dose: 500-750 mg Daily dose: 1000-1500 mg"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-04",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait liquide (DER 1:1, éthanol 25 % m/m) : dose unique de 2 g, dose quotidienne de 2 à 4 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Single dose: 2 g Daily dose: 2-4 g"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-05",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait sec (DER 5-7:1, eau) : dose unique de 360 mg, dose quotidienne de 1 080 à 1 440 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Single dose: 360 mg Daily dose: 1080-1440 mg"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-06",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait sec (DER 8-12:1, éthanol 60 % V/V) : dose unique de 200 à 400 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Single dose: 200-400 mg"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-07",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait sec (DER 8-12:1, éthanol 60 % V/V) : dose quotidienne de 600 à 1 200 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Daily dose: 600-1200 mg"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-08",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait sec (DER 7-8:1, éthanol 70 % V/V) : dose unique de 280 mg, dose quotidienne de 840 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Single dose: 280 mg Daily dose: 840 mg"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-09",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, extrait sec (DER 5-7:1, éthanol 30 % V/V) : dose unique de 200 mg, dose quotidienne de 400 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Single dose: 200 mg Daily dose: 400 mg"
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-10",
+     "type": "posology",
+     "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-11",
+     "type": "posology",
+     "statement": "Voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "orthosiphon_aristatus-pos-12",
+     "type": "posology",
+     "statement": "Pour assurer l'augmentation de la diurèse, une prise de liquides suffisante est nécessaire pendant le traitement.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "To ensure an increase of the amount of urine, adequate fluid intake is required during treatment."
+    },
+    {
+     "id": "orthosiphon_aristatus-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "orthosiphon_aristatus-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée dans les situations où une réduction des apports hydriques est recommandée (par exemple maladie cardiaque ou rénale sévère).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "fluid_restriction",
+      "cardiovascular_disease",
+      "kidney_disease"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Conditions where a reduced fluid intake is recommended (e.g. severe cardiac or renal disease)."
+    },
+    {
+     "id": "orthosiphon_aristatus-03",
+     "type": "age",
+     "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "orthosiphon_aristatus-04",
+     "type": "warning",
+     "statement": "En cas de fièvre, de dysurie, de spasmes ou de sang dans les urines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "If complaints of symptoms such as fever, dysuria, spasms or blood in the urine occur during the use of the medicinal product"
+    },
+    {
+     "id": "orthosiphon_aristatus-05",
+     "type": "warning",
+     "statement": "Pour les extraits liquides contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol doit être inclus.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "For liquid extracts containing ethanol, the appropriate labelling for ethanol,"
+    },
+    {
+     "id": "orthosiphon_aristatus-06",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "orthosiphon_aristatus-07",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "orthosiphon_aristatus-08",
+     "type": "fertility",
+     "statement": "Aucune donnée de fertilité disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "orthosiphon_aristatus-09",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "orthosiphon_aristatus-10",
+     "type": "adverse",
+     "statement": "Aucun effet indésirable connu dans la monographie.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "None known."
+    },
+    {
+     "id": "orthosiphon_aristatus-11",
+     "type": "adverse",
+     "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "orthosiphon_aristatus-12",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "orthosiphon_aristatus-13",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "orthosiphon_aristatus-14",
+     "type": "preclinical",
+     "statement": "Tests de génotoxicité adéquats non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    }
+   ]
+  },
+  {
+   "id": "pimpinella_anisum",
+   "fr": "Anis vert (fruit)",
+   "latin": "Pimpinella anisum L.",
+   "part": "fruit",
+   "aliases": [
+    "anis",
+    "anise",
+    "pimpinella anisum"
+   ],
+   "claims": [
+    {
+     "id": "pimpinella_anisum-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux spasmodiques légers, y compris ballonnements et flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Traditional herbal medicinal product for symptomatic treatment of mild, spasmodic"
+    },
+    {
+     "id": "pimpinella_anisum-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : expectorant dans la toux associée au rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Traditional herbal medicinal product used as an expectorant in cough associated with cold"
+    },
+    {
+     "id": "pimpinella_anisum-ind-03",
+     "type": "indication",
+     "statement": "Ces indications reposent exclusivement sur un usage de longue date (usage traditionnel).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "exclusively based upon long-standing use."
+    },
+    {
+     "id": "pimpinella_anisum-pos-01",
+     "type": "posology",
+     "statement": "Adolescents de plus de 12 ans, adultes et personnes âgées, tisane : dose unique de 1 à 3,5 g de fruit d'anis (entier, ou fraîchement broyé ou concassé) dans 150 ml d'eau bouillante, en infusion, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Herbal tea: 1 to 3.5 g of the whole or (freshly) comminuted or crushed aniseed in 150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    {
+     "id": "pimpinella_anisum-pos-02",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "pimpinella_anisum-pos-03",
+     "type": "posology",
+     "statement": "Durée : ne pas prendre pendant plus de deux semaines.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Not to be taken for more than two weeks."
+    },
+    {
+     "id": "pimpinella_anisum-pos-04",
+     "type": "posology",
+     "statement": "Si les symptômes persistent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "pimpinella_anisum-pos-05",
+     "type": "posology",
+     "statement": "Enfants de moins de 12 ans : l'usage n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended"
+    },
+    {
+     "id": "pimpinella_anisum-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to"
+    },
+    {
+     "id": "pimpinella_anisum-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité aux Apiaceae (Umbelliferae) (carvi, céleri, coriandre, aneth et fenouil) ou à l'anéthol.",
+     "severity": "precaution",
+     "population": "hypersensibilité aux Apiaceae ou à l'anéthol",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "coriander, dill and fennel) or to anethole."
+    },
+    {
+     "id": "pimpinella_anisum-03",
+     "type": "age",
+     "statement": "Usage non établi chez les moins de 12 ans, faute de données suffisantes pour évaluer la sécurité.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "The use in children under 12 years of age has not been established due to lack of adequate data for safety assessment"
+    },
+    {
+     "id": "pimpinella_anisum-04",
+     "type": "warning",
+     "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "pimpinella_anisum-05",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "pimpinella_anisum-06",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "pimpinella_anisum-07",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "pimpinella_anisum-08",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed"
+    },
+    {
+     "id": "pimpinella_anisum-09",
+     "type": "warning",
+     "statement": "Des réactions allergiques à l'anis affectant la peau ou l'appareil respiratoire peuvent survenir ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Allergic reactions to aniseed affecting the skin or the respiratory system may occur."
+    },
+    {
+     "id": "pimpinella_anisum-10",
+     "type": "warning",
+     "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "pimpinella_anisum-11",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "pimpinella_anisum-12",
+     "type": "warning",
+     "statement": "Le risque génotoxique lié à l'estragole n'est pas considéré comme pertinent dans les conditions d'emploi spécifiées (usage de courte durée chez les adolescents, adultes et personnes âgées), en raison de la faible quantité présente dans les infusions d'anis.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "considered to be relevant in the specified conditions of use (short term use in adolescents, adults and elderly) due to the small amount present in herbal infusions prepared from aniseed."
+    }
+   ]
+  },
+  {
+   "id": "potentilla_erecta",
+   "fr": "Tormentille",
+   "latin": "Potentilla erecta (L.) Raeusch.",
+   "part": "rhizome",
+   "aliases": [
+    "tormentille",
+    "potentille",
+    "tormentil",
+    "potentilla erecta"
+   ],
+   "claims": [
+    {
+     "id": "potentilla_erecta-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique de la diarrhée légère (usage fondé exclusivement sur un usage de longue date).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "symptomatic treatment of mild diarrhoea."
+    },
+    {
+     "id": "potentilla_erecta-ind-02",
+     "type": "indication",
+     "statement": "Usage traditionnel : traitement symptomatique des inflammations mineures de la muqueuse buccale (usage fondé exclusivement sur un usage de longue date).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "symptomatic treatment of minor inflammations of"
+    },
+    {
+     "id": "potentilla_erecta-pos-01",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée, voie orale), adultes et personnes âgées : posologie établie pour cette population.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Adults, elderly"
+    },
+    {
+     "id": "potentilla_erecta-pos-02",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), substance végétale broyée en infusion : dose unitaire de 1,4 à 4 g, plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "As infusion: single dose 1.4-4 g, several times"
+    },
+    {
+     "id": "potentilla_erecta-pos-03",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), infusion de substance végétale : dose quotidienne maximale de 12 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "daily up to a maximum daily dose of"
+    },
+    {
+     "id": "potentilla_erecta-pos-04",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), substance végétale broyée en décoction : dose unitaire de 1,4 à 3 g, plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "As decoction: single dose 1.4-3 g, several"
+    },
+    {
+     "id": "potentilla_erecta-pos-05",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), substance végétale broyée en décoction : dose quotidienne maximale de 6 g.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "daily up to a maximum daily dose of"
+    },
+    {
+     "id": "potentilla_erecta-pos-06",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), teinture 1:5 à l'éthanol 70 % : 1 à 2 ml dans de l'eau, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Single dose: 1-2 ml in water, 3 times daily."
+    },
+    {
+     "id": "potentilla_erecta-pos-07",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), teinture 1:5 à l'éthanol 45 % : 2 à 4 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Single dose: 2-4 ml, 3 times daily."
+    },
+    {
+     "id": "potentilla_erecta-pos-08",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), extrait liquide : 2 à 4 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Single dose: 2-4 ml, 3 times daily."
+    },
+    {
+     "id": "potentilla_erecta-pos-09",
+     "type": "posology",
+     "statement": "Indication 1 (diarrhée), extrait sec : 400 mg, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Single dose: 400 mg, 3 times daily."
+    },
+    {
+     "id": "potentilla_erecta-pos-10",
+     "type": "posology",
+     "statement": "Indication 2 (muqueuse buccale, usage en rinçage) : substance végétale en infusion (1,3 à 2 g pour 100 ml d'eau) ou en décoction (0,8 à 3 g pour 100 ml d'eau) ; rincer la bouche plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Rinse the mouth several times daily."
+    },
+    {
+     "id": "potentilla_erecta-pos-11",
+     "type": "posology",
+     "statement": "Indication 2 (muqueuse buccale, usage en rinçage), teinture 1:5 à l'éthanol 70 % : 1 à 5 ml pour 150 ml d'eau, rincer la bouche plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Single dose: 1-5 ml per 150 ml of water."
+    },
+    {
+     "id": "potentilla_erecta-pos-12",
+     "type": "posology",
+     "statement": "Durée (indication 1, diarrhée) : si les symptômes persistent plus de 3 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "If the symptoms persist longer than 3 days during"
+    },
+    {
+     "id": "potentilla_erecta-pos-13",
+     "type": "posology",
+     "statement": "Durée (indication 2, muqueuse buccale) : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week"
+    },
+    {
+     "id": "potentilla_erecta-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Hypersensitivity to the active substance."
+    },
+    {
+     "id": "potentilla_erecta-02",
+     "type": "age",
+     "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans (indications 1 et 2).",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "18 years of age is not recommended"
+    },
+    {
+     "id": "potentilla_erecta-03",
+     "type": "age",
+     "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "18 years of age has not been established due to"
+    },
+    {
+     "id": "potentilla_erecta-04",
+     "type": "warning",
+     "statement": "En cas de diarrhée récidivante ou de selles sanglantes (indication 1), consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "If recurrent diarrhoea or bloody stools occur, a"
+    },
+    {
+     "id": "potentilla_erecta-05",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "If the symptoms worsen during the use of the"
+    },
+    {
+     "id": "potentilla_erecta-06",
+     "type": "warning",
+     "statement": "Teintures contenant de l'éthanol : l'étiquetage approprié pour l'éthanol doit être inclus.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "For tinctures containing ethanol, the appropriate"
+    },
+    {
+     "id": "potentilla_erecta-07",
+     "type": "interaction",
+     "statement": "L'absorption interne d'un médicament administré en même temps peut être retardée : le produit doit être pris 1 heure ou plus avant ou après les autres médicaments (indication 1).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "product should be taken 1 hour or more before or"
+    },
+    {
+     "id": "potentilla_erecta-08",
+     "type": "interaction",
+     "statement": "Aucune interaction rapportée (indication 2, muqueuse buccale).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "potentilla_erecta-09",
+     "type": "pregnancy",
+     "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "data, the use during pregnancy and lactation is"
+    },
+    {
+     "id": "potentilla_erecta-10",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and"
+    },
+    {
+     "id": "potentilla_erecta-11",
+     "type": "undesirable",
+     "statement": "Troubles gastro-intestinaux légers, tels que des nausées, peuvent survenir (indication 1) ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Mild gastrointestinal complaints such as nausea"
+    },
+    {
+     "id": "potentilla_erecta-12",
+     "type": "undesirable",
+     "statement": "Des vomissements peuvent survenir (indication 1) ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "and vomiting may occur. The frequency is not"
+    },
+    {
+     "id": "potentilla_erecta-13",
+     "type": "undesirable",
+     "statement": "Si d'autres effets indésirables non mentionnés ci-dessus surviennent, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "If other adverse reactions not mentioned above"
+    },
+    {
+     "id": "potentilla_erecta-14",
+     "type": "undesirable",
+     "statement": "Aucun effet indésirable connu (indication 2, muqueuse buccale).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "None known."
+    },
+    {
+     "id": "potentilla_erecta-15",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "No case of overdose has been reported."
+    }
+   ]
+  },
+  {
+   "id": "solidago_virgaurea",
+   "fr": "Solidage verge d'or (sommité)",
+   "latin": "Solidago virgaurea L.",
+   "part": "sommité fleurie",
+   "aliases": [
+    "solidage",
+    "verge d'or",
+    "goldenrod",
+    "solidago virgaurea"
+   ],
+   "claims": [
+    {
+     "id": "solidago_virgaurea-ind-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : médicament à base de plante traditionnel pour augmenter la diurèse, en adjuvant dans le traitement des plaintes urinaires mineures (usage fondé exclusivement sur un usage de longue date).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Traditional herbal medicinal product to increase the amount of urine - as adjuvant in treatment of minor urinary complaints."
+    },
+    {
+     "id": "solidago_virgaurea-pos-01",
+     "type": "posology",
+     "statement": "Adultes et adolescents, dose unique : substance végétale broyée pour infusion, 3 à 5 g, 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "of an infusion: 3-5 g, 2-4 times daily"
+    },
+    {
+     "id": "solidago_virgaurea-pos-02",
+     "type": "posology",
+     "statement": "Adultes et adolescents, dose unique : extrait liquide, 0,5 à 2 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Liquid extract: 0.5-2 ml, 3 times daily"
+    },
+    {
+     "id": "solidago_virgaurea-pos-03",
+     "type": "posology",
+     "statement": "Adultes et adolescents, dose unique : teinture, 0,5 à 2 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Tincture: 0.5-2 ml, 3 times daily"
+    },
+    {
+     "id": "solidago_virgaurea-pos-04",
+     "type": "posology",
+     "statement": "Adultes et adolescents, dose unique : extrait sec, 350 à 450 mg, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Dry extract: 350-450 mg, 3 times daily"
+    },
+    {
+     "id": "solidago_virgaurea-pos-05",
+     "type": "posology",
+     "statement": "Durée : la substance végétale est utilisée traditionnellement sur une période de 2 à 4 semaines.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "The herbal substance is traditionally used over a period of 2 up to 4 weeks."
+    },
+    {
+     "id": "solidago_virgaurea-pos-06",
+     "type": "posology",
+     "statement": "Si les symptômes persistent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "solidago_virgaurea-pos-07",
+     "type": "posology",
+     "statement": "Voie d'administration : orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "solidago_virgaurea-pos-08",
+     "type": "posology",
+     "statement": "Pour les extraits, assurer un apport hydrique suffisant.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "For extracts, ensure appropriate fluid intake."
+    },
+    {
+     "id": "solidago_virgaurea-01",
+     "type": "contraindication",
+     "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou aux plantes de la famille des Astéracées (Composées).",
+     "severity": "contraindiquee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy",
+      "asteraceae_allergy"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Hypersensitivity to the active substance or to plants of the Asteraceae (Compositae) family."
+    },
+    {
+     "id": "solidago_virgaurea-02",
+     "type": "contraindication",
+     "statement": "Contre-indiquée dans les situations où un apport réduit de liquides est recommandé, par exemple en cas de maladie cardiaque ou rénale sévère.",
+     "severity": "contraindiquee",
+     "population": "maladies cardiaques ou rénales sévères",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "fluid_restriction",
+      "kidney_disease",
+      "cardiovascular_disease"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Conditions where a reduced fluid intake is recommended, e.g. severe cardiac or renal diseases."
+    },
+    {
+     "id": "solidago_virgaurea-03",
+     "type": "age",
+     "statement": "Non recommandé chez les enfants de moins de 12 ans, par manque d'expérience disponible.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "The use is not recommended in children under the 12 years of age because of the lack of available experience."
+    },
+    {
+     "id": "solidago_virgaurea-04",
+     "type": "warning",
+     "statement": "En cas de fièvre, de brûlures urinaires (dysurie), de spasmes ou de sang dans les urines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "If complaints of symptoms such as fever, dysuria, spasms or blood in the urine occur during the use of the medicinal product, a doctor or a qualified health care professional should be consulted."
+    },
+    {
+     "id": "solidago_virgaurea-05",
+     "type": "interaction",
+     "statement": "Association avec des diurétiques de synthèse : non recommandée.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Concomitant treatment with synthetic diuretics is not recommended."
+    },
+    {
+     "id": "solidago_virgaurea-06",
+     "type": "interaction",
+     "statement": "Aucune interaction médicamenteuse rapportée dans la monographie (usage traditionnel). Ne vaut pas absence d'interaction.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "None reported."
+    },
+    {
+     "id": "solidago_virgaurea-07",
+     "type": "pregnancy",
+     "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    {
+     "id": "solidago_virgaurea-08",
+     "type": "driving",
+     "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "drives"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "solidago_virgaurea-09",
+     "type": "undesirable_effect",
+     "statement": "Des réactions d'hypersensibilité ou des troubles gastro-intestinaux peuvent survenir ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Hypersensitivity reactions or gastrointestinal disorders may occur. The frequency is not known."
+    },
+    {
+     "id": "solidago_virgaurea-10",
+     "type": "warning",
+     "statement": "Pour tout autre effet indésirable non mentionné ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "solidago_virgaurea-11",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "No case of overdose has been reported."
+    }
+   ]
   }
  ],
  "classes": [
@@ -19330,6 +23066,11 @@
    "plant": "salix_purpurea",
    "class": "anticoagulant_oral_direct",
    "claim": "salix_purpurea-15"
+  },
+  {
+   "plant": "solidago_virgaurea",
+   "class": "diuretique",
+   "claim": "solidago_virgaurea-05"
   }
  ],
  "usages": [
@@ -19387,7 +23128,16 @@
     "origanum_majorana-ind-01",
     "artemisia_absinthium-ind-02",
     "fumaria_officinalis-ind-01",
-    "peumus_boldus-ind-01"
+    "peumus_boldus-ind-01",
+    "cinnamomum_verum-ind-01",
+    "cinnamomum_verum-ind-02",
+    "gentiana_lutea-ind-01",
+    "gentiana_lutea-ind-02",
+    "linum_usitatissimum-ind-01",
+    "linum_usitatissimum-ind-02",
+    "marrubium_vulgare-ind-02",
+    "pimpinella_anisum-ind-01",
+    "potentilla_erecta-ind-01"
    ]
   },
   {
@@ -19424,7 +23174,11 @@
     "betula_pendula-ind-01",
     "arctostaphylos_uva_ursi-ind-01",
     "ribes_nigrum-ind-02",
-    "vaccinium_macrocarpon-ind-01"
+    "vaccinium_macrocarpon-ind-01",
+    "levisticum_officinale-ind-01",
+    "ononis_spinosa-ind-01",
+    "orthosiphon_aristatus-ind-01",
+    "solidago_virgaurea-ind-01"
    ]
   },
   {
@@ -19450,7 +23204,9 @@
     "malva_sylvestris-ind-01",
     "eucalyptus_globulus-ind-01",
     "verbascum_densiflorum-ind-01",
-    "salix_purpurea-ind-02"
+    "salix_purpurea-ind-02",
+    "marrubium_vulgare-ind-01",
+    "pimpinella_anisum-ind-02"
    ]
   },
   {
@@ -19770,6 +23526,60 @@
    "water_ml": 150,
    "quote_fragment": "1-3 g of the comminuted herbal substance in 150 ml of boiling water as an herbal infusion 3 times daily",
    "label": "Tisane d'écorce de saule : 1 à 3 g dans 150 ml d'eau bouillante, 3 fois par jour"
+  },
+  {
+   "plant": "gentiana_lutea",
+   "claim": "gentiana_lutea-pos-01",
+   "min_g": 0.6,
+   "max_g": 2,
+   "water_ml": 150,
+   "quote_fragment": "0.6-2 g of the comminuted herbal substance in 150 ml of boiling water as an infusion",
+   "label": "Tisane de racine de gentiane : 0,6 à 2 g dans 150 ml d'eau bouillante, 1 à 3 fois par jour"
+  },
+  {
+   "plant": "levisticum_officinale",
+   "claim": "levisticum_officinale-pos-01",
+   "min_g": 2,
+   "max_g": 3,
+   "water_ml": 150,
+   "quote_fragment": "Single dose: 2 - 3 g of comminuted herbal substance in 150 ml of boiling water as a herbal infusion, twice daily",
+   "label": "Tisane de racine de livèche : 2 à 3 g dans 150 ml d'eau bouillante, 2 fois par jour"
+  },
+  {
+   "plant": "marrubium_vulgare",
+   "claim": "marrubium_vulgare-pos-01",
+   "min_g": 1,
+   "max_g": 2,
+   "water_ml": 250,
+   "quote_fragment": "1-2 g of the comminuted herbal substance in 250 ml of boiling water as a herbal infusion, 3 times daily",
+   "label": "Tisane de sommité fleurie de marrube blanc : 1 à 2 g dans 250 ml d'eau bouillante, 3 fois par jour"
+  },
+  {
+   "plant": "ononis_spinosa",
+   "claim": "ononis_spinosa-pos-01",
+   "min_g": 2,
+   "max_g": 3,
+   "water_ml": 150,
+   "quote_fragment": "comminuted herbal substance in 150 ml of boiling water as a herbal infusion",
+   "label": "Tisane de racine de bugrane épineuse : 2 à 3 g dans 150 ml d'eau bouillante, jusqu'à 3 à 4 fois par jour"
+  },
+  {
+   "plant": "orthosiphon_aristatus",
+   "claim": "orthosiphon_aristatus-pos-01",
+   "min_g": 2,
+   "max_g": 3,
+   "water_ml": 150,
+   "quote_fragment": "2-3 g comminuted herbal substance in 150 ml of boiling water as a herbal infusion",
+   "label": "Tisane de feuilles d'orthosiphon : 2 à 3 g dans 150 ml d'eau bouillante, en infusion (dose quotidienne 6 à 12 g)"
+  },
+  {
+   "plant": "pimpinella_anisum",
+   "claim": "pimpinella_anisum-pos-01",
+   "min_g": 1,
+   "max_g": 3.5,
+   "water_ml": 150,
+   "quote_fragment": "1 to 3.5 g of the whole or (freshly) comminuted or crushed aniseed in 150 ml of boiling water as a herbal infusion 3 times daily",
+   "label": "Tisane de fruits d'anis : 1 à 3,5 g dans 150 ml d'eau bouillante, 3 fois par jour"
   }
  ]
 }

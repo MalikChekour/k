@@ -1,0 +1,72 @@
+[
+ {
+  "provider": "wikimedia",
+  "pid": "176681022",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cinnamomum-verum-SF25285-03.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Cinnamomum-verum-SF25285-03.jpg/1280px-Cinnamomum-verum-SF25285-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Cinnamomum-verum-SF25285-03.jpg Cinnamomum verum at Cairns Botanic Gardens",
+  "author": "Steve Fitzgerald",
+  "license": "CC BY-SA 4.0",
+  "width": 4896,
+  "dhash": "449898f1b0143393",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "pexels",
+  "pid": "27626862",
+  "page_url": "https://www.pexels.com/photo/a-store-front-with-a-sign-that-says-the-best-of-the-best-27626862/",
+  "thumb_url": "https://images.pexels.com/photos/27626862/pexels-photo-27626862.jpeg?auto=compress&cs=tinysrgb&h=350",
+  "label": "Charming evening view of a Ceylon cinnamon store in Galle, Sri Lanka, showcasing spices and local goods. a store front with a sign that says the best of the best 27626862",
+  "author": "Thilina Alagiyawanna",
+  "license": "Pexels License",
+  "width": 4737,
+  "dhash": "797575794d4d4144",
+  "judge": true,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "255523",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-182.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Cinnamomum_verum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-182.jpg/1280px-Cinnamomum_verum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-182.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Cinnamomum verum - Köhler–s Medizinal-Pflanzen-182.jpg Ceylon-Zimtbaum. A blühender Zweig; 1 Blüthe; 2 dieselbe in Längsschnitt; 3 unfruchtbares Staubgefäss von verschiedenen Seiten; 4, 5 fruchtbares Staubgefäss; 6 Pollen; 7 Stempel; 8, 9, 10 Frucht und S",
+  "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "width": 2881,
+  "dhash": "6e79331717175111",
+  "judge": true,
+  "status": "propose",
+  "index": 2
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "143817644",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_01.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Cinnamomum_verum_01.jpg/1280px-Cinnamomum_verum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Cinnamomum verum 01.jpg Cinnamomum verum at Thrissur zoo, Kerala.",
+  "author": "Ganesh Mohan T",
+  "license": "CC BY-SA 4.0",
+  "width": 3000,
+  "dhash": "b29213367e56d656",
+  "judge": true,
+  "status": "propose",
+  "index": 3
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "106942880",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cinnamomum_verum_J._Presl,_Cinnamomum_zeylanicum_Nees_-_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%95,_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%95%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F_02.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Cinnamomum_verum_J._Presl%2C_Cinnamomum_zeylanicum_Nees_-_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%95%2C_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%95%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F_02.jpg/1280px-Cinnamomum_verum_J._Presl%2C_Cinnamomum_zeylanicum_Nees_-_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%95%2C_%E0%B4%95%E0%B4%B1%E0%B5%81%E0%B4%95%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Cinnamomum verum J. Presl, Cinnamomum zeylanicum Nees - കറുക, കറുകപ്പട്ട 02.jpg Cinnamomum verum J. Presl, Cinnamomum zeylanicum Nees - കറുക, കറുകപ്പട്ട",
+  "author": "Shijan Kaakkara",
+  "license": "CC BY-SA 4.0",
+  "width": 3648,
+  "dhash": "ccd8d8d0d472e0ce",
+  "judge": true,
+  "status": "propose",
+  "index": 4
+ }
+]

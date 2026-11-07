@@ -502,5 +502,75 @@
   "license": "CC BY-SA 4.0",
   "page_url": "https://commons.wikimedia.org/wiki/File:Melaleuca_alternifolia_flowers.jpg",
   "label": "File:Melaleuca alternifolia flowers.jpg Flowers and foliage of Melaleuca alternifolia"
+ },
+ "gentiana_lutea": {
+  "provider": "wikimedia",
+  "author": "Teun Spaans",
+  "license": "CC BY 2.5",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Gentiana_lutea_DSCF1579.JPG",
+  "label": "File:Gentiana lutea DSCF1579.JPG This photo shows gentiana lutea "
+ },
+ "cinnamomum_verum": {
+  "provider": "wikimedia",
+  "author": "Steve Fitzgerald",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cinnamomum-verum-SF25285-03.jpg",
+  "label": "File:Cinnamomum-verum-SF25285-03.jpg Cinnamomum verum at Cairns Botanic Gardens"
+ },
+ "levisticum_officinale": {
+  "provider": "wikimedia",
+  "author": "4028mdk09",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Liebst%C3%B6ckel.JPG",
+  "label": "File:Liebstöckel.JPG Liebstöckl, auch genannt Maggikraut (Levisticum officinale), fotografiert in Heidelberg (Baden-Württemberg, Deutschland)"
+ },
+ "linum_usitatissimum": {
+  "provider": "wikimedia",
+  "author": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Linum_usitatissimum_001.JPG",
+  "label": "File:Linum usitatissimum 001.JPG Linum usitatissimum, Linaceae, Flax, Linseed, habitus. The fresh, aerial parts of blooming plants  are used in homeopathy as remedy: Linum usitatissimum (Linu-u.)"
+ },
+ "marrubium_vulgare": {
+  "provider": "wikimedia",
+  "author": "Franco Folini from San Francisco, USA",
+  "license": "CC BY-SA 2.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:White_Horehound_(Marrubium_vulgare)_(5830903435).jpg",
+  "label": "File:White Horehound (Marrubium vulgare) (5830903435).jpg White Horehound (Marrubium vulgare) Del Valle Regional Park Livermore, CA"
+ },
+ "ononis_spinosa": {
+  "provider": "wikimedia",
+  "author": "Enrico Blasutto",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ononis_spinosa_ENBLA12.jpg",
+  "label": "File:Ononis spinosa ENBLA12.jpg Ononis spinosa (Arrestabue) - Limana, località Val Piana (BL - Italy), 850 m s.l.m. - Giugno 2007"
+ },
+ "orthosiphon_aristatus": {
+  "provider": "wikimedia",
+  "author": "Nonie from Melbourne, Australia",
+  "license": "CC BY 2.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cats_Whiskers_(2074039768).jpg",
+  "label": "File:Cats Whiskers (2074039768).jpg  Orthosiphon aristatus - seen in Port Douglas, Queensland."
+ },
+ "pimpinella_anisum": {
+  "provider": "wikimedia",
+  "author": "David Monniaux",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Aniseed_p1160018.jpg",
+  "label": "File:Aniseed p1160018.jpg Aniseed"
+ },
+ "potentilla_erecta": {
+  "provider": "wikimedia",
+  "author": "Robert Flogaus-Faust",
+  "license": "CC BY 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Potentilla_erecta_RF.jpg",
+  "label": "File:Potentilla erecta RF.jpg Tormentil (Potentilla erecta), between Bad Gastein and Bad Hofgastein, Salzburg state, Austria"
+ },
+ "solidago_virgaurea": {
+  "provider": "wikimedia",
+  "author": "Stefan.lefnaer",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Solidago_virgaurea_subsp._virgaurea_sl10.jpg",
+  "label": "File:Solidago altissima, 2020-09-27, Beechview, 01.jpg Tall Goldenrod (Solidago Altissima) blooming in the Beechview neighborhood of Pittsburgh"
  }
 }

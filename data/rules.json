@@ -268,5 +268,10 @@
     "plant": "salix_purpurea",
     "class": "anticoagulant_oral_direct",
     "claim": "salix_purpurea-15"
+  },
+  {
+    "plant": "solidago_virgaurea",
+    "class": "diuretique",
+    "claim": "solidago_virgaurea-05"
   }
 ]
