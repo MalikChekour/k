@@ -218,5 +218,55 @@
     "plant": "senna_alexandrina",
     "class": "corticoide",
     "claim": "senna_alexandrina-16"
+  },
+  {
+    "plant": "rheum_palmatum",
+    "class": "digitalique",
+    "claim": "rheum_palmatum-18"
+  },
+  {
+    "plant": "rheum_palmatum",
+    "class": "diuretique",
+    "claim": "rheum_palmatum-18"
+  },
+  {
+    "plant": "rheum_palmatum",
+    "class": "corticoide",
+    "claim": "rheum_palmatum-18"
+  },
+  {
+    "plant": "rheum_palmatum",
+    "class": "digitalique",
+    "claim": "rheum_palmatum-19"
+  },
+  {
+    "plant": "rheum_palmatum",
+    "class": "diuretique",
+    "claim": "rheum_palmatum-20"
+  },
+  {
+    "plant": "rheum_palmatum",
+    "class": "corticoide",
+    "claim": "rheum_palmatum-20"
+  },
+  {
+    "plant": "salix_purpurea",
+    "class": "ains_salicyles",
+    "claim": "salix_purpurea-14"
+  },
+  {
+    "plant": "salix_purpurea",
+    "class": "anticoagulant_coumarinique",
+    "claim": "salix_purpurea-15"
+  },
+  {
+    "plant": "salix_purpurea",
+    "class": "anticoagulant_indanedione",
+    "claim": "salix_purpurea-15"
+  },
+  {
+    "plant": "salix_purpurea",
+    "class": "anticoagulant_oral_direct",
+    "claim": "salix_purpurea-15"
   }
 ]

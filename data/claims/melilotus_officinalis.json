@@ -1,0 +1,401 @@
+[
+  {
+    "id": "melilotus_officinalis-ind-01",
+    "plant": "melilotus_officinalis",
+    "type": "indication",
+    "statement": "Médicament à base de plante traditionnel pour soulager les symptômes d'inconfort et de lourdeur des jambes liés à de légères perturbations de la circulation veineuse. Usage fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Traditional herbal medicinal product to relieve symptoms of discomfort and heaviness of legs related to minor venous circulatory disturbances."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-ind-02",
+    "plant": "melilotus_officinalis",
+    "type": "indication",
+    "statement": "Médicament à base de plante traditionnel pour le traitement des petites inflammations de la peau (usage cutané). Usage fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the treatment of minor inflammations of the skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-pos-01",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, voie orale, poudre de plante : 250 mg, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Powdered herbal substance: 250 mg 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-pos-02",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, poudre de plante : dose journalière de 750 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Daily dose: 750 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-pos-03",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, voie orale, tisane : 1,0 à 1,2 g de partie aérienne broyée dans de l'eau bouillante, en infusion, 2 fois par jour (dose journalière : 2,0 à 2,4 g). Volume d'eau non précisé dans la monographie.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "comminuted herbal substance in boiling water as an herbal infusion 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-pos-04",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, usage cutané, extrait liquide : 3 g par dose unique, en patch appliqué sur la zone de peau atteinte ; dose journalière de 3 à 6 g (jusqu'à deux patchs).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "c) Single dose: 3 g of liquid extract, as a cutaneous patch applied to the affected skin"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-pos-05",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Durée (indication 1) : si les symptômes persistent plus de 2 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-pos-06",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Durée (indication 2) : si les symptômes persistent plus de 1 semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-01",
+    "plant": "melilotus_officinalis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la ou aux substances actives.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-02",
+    "plant": "melilotus_officinalis",
+    "type": "age",
+    "statement": "Déconseillé chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-03",
+    "plant": "melilotus_officinalis",
+    "type": "age",
+    "statement": "Sécurité chez les moins de 18 ans non établie, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-04",
+    "plant": "melilotus_officinalis",
+    "type": "warning",
+    "statement": "En cas d'apparition, pendant l'utilisation, de symptômes de thrombophlébite ou d'induration sous-cutanée, de gonflement soudain d'une ou des deux jambes, ou d'insuffisance cardiaque ou rénale, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "If the symptoms of thrombophlebitis or subcutaneous induration, sudden swelling of one or both legs, cardiac or renal insufficiency appear during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-05",
+    "plant": "melilotus_officinalis",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes d'inflammation de la peau ou de signes d'infection cutanée pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "If symptoms of skin inflammation worsen or signs of skin infections occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-06",
+    "plant": "melilotus_officinalis",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-07",
+    "plant": "melilotus_officinalis",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-08",
+    "plant": "melilotus_officinalis",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-09",
+    "plant": "melilotus_officinalis",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-10",
+    "plant": "melilotus_officinalis",
+    "type": "adverse",
+    "statement": "Troubles gastro-intestinaux rapportés (voie orale) ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Gastrointestinal complaints have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-11",
+    "plant": "melilotus_officinalis",
+    "type": "adverse",
+    "statement": "Réactions allergiques rapportées (usage cutané) ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Allergic reactions have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-12",
+    "plant": "melilotus_officinalis",
+    "type": "adverse",
+    "statement": "Pour tout autre effet indésirable non mentionné ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "melilotus_officinalis-13",
+    "plant": "melilotus_officinalis",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

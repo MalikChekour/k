@@ -1,0 +1,464 @@
+[
+  {
+    "id": "symphytum_officinale-ind-01",
+    "plant": "symphytum_officinale",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des foulures et contusions mineures (usage fondé exclusivement sur un usage de longue date).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the symptomatic relief of minor sprains and bruises."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-pos-01",
+    "plant": "symphytum_officinale",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, formes semi-solides (extrait liquide à 10 %) : dose unique, appliquer une fine couche, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Single dose for semi-solid dosage forms (10% liquid extract): apply a thin layer, 2 times a daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-pos-02",
+    "plant": "symphytum_officinale",
+    "type": "posology",
+    "statement": "Voie d'administration : usage cutané uniquement.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Cutaneous use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-pos-03",
+    "plant": "symphytum_officinale",
+    "type": "posology",
+    "statement": "Durée maximale d'utilisation : 10 jours.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Not to be used for more than 10 days."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-pos-04",
+    "plant": "symphytum_officinale",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-01",
+    "plant": "symphytum_officinale",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou aux substances actives.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-02",
+    "plant": "symphytum_officinale",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans (posologie).",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-03",
+    "plant": "symphytum_officinale",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-04",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Ne pas appliquer sur une peau lésée ou irritée.",
+    "severity": "precaution",
+    "population": "peau lésée ou irritée",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Not to be applied to broken or irritated skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-05",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Éviter le contact avec les yeux ou les muqueuses.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Avoid contact with the eyes or mucous membranes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-06",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-07",
+    "plant": "symphytum_officinale",
+    "type": "pregnancy",
+    "statement": "Usage non recommandé pendant la grossesse et l'allaitement en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-08",
+    "plant": "symphytum_officinale",
+    "type": "pregnancy",
+    "statement": "Chez l'animal, des alcaloïdes pyrrolizidiniques isolés de la plante ont montré une toxicité sur la reproduction.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Studies with isolated pyrrolizidine alkaloids from the plant part in animals have shown reproductive toxicity"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-09",
+    "plant": "symphytum_officinale",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-10",
+    "plant": "symphytum_officinale",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-11",
+    "plant": "symphytum_officinale",
+    "type": "driving",
+    "statement": "Effet sur la conduite et l'utilisation de machines : non pertinent selon la monographie EMA.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Not relevant."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-12",
+    "plant": "symphytum_officinale",
+    "type": "side_effects",
+    "statement": "Aucun effet indésirable connu (usage traditionnel).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-13",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "En cas d'effet indésirable, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-14",
+    "plant": "symphytum_officinale",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté (usage traditionnel).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "symphytum_officinale-15",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Chez l'animal, les alcaloïdes pyrrolizidiniques sont hépatotoxiques après administration orale. Le présent usage est cutané.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Animal studies suggest that pyrrolizidine alkaloids are hepatotoxic after oral administration."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-16",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Chez le rat, après administration orale, de faibles doses répétées appropriées de plusieurs alcaloïdes ont été montrées comme induisant des tumeurs.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "In rats, after oral administration appropriately low repeated doses of several alkaloids have been shown to induce tumours"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-17",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-18",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Absorption cutanée des alcaloïdes pyrrolizidiniques : seules des données rudimentaires existent à ce jour.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "Until now only rudimentary data concerning absorption of pyrrolizidine alkaloids through the skin exist."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "symphytum_officinale-19",
+    "plant": "symphytum_officinale",
+    "type": "warning",
+    "statement": "Exposition quotidienne aux alcaloïdes pyrrolizidiniques : inférieure à 1 µg.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Symphytum officinale L., radix (EMA/HMPC/572846/2009 Corr1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-symphytum-officinale-l-radix_en.pdf",
+      "quote": "The daily exposure has to be below 1"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

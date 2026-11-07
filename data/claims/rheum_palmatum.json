@@ -1,0 +1,754 @@
+[
+  {
+    "id": "rheum_palmatum-ind-01",
+    "plant": "rheum_palmatum",
+    "type": "indication",
+    "statement": "Usage bien établi : médicament à base de plante à utiliser à court terme dans les cas de constipation occasionnelle.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Herbal medicinal product for short-term use in cases of occasional constipation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-01",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, préparation herbale standardisée : dose unique équivalente à 20-30 mg de dérivés hydroxyanthracéniques (exprimés en rhéine), à prendre une fois par jour, le soir.",
+    "severity": null,
+    "population": "adolescents, adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Herbal preparation equivalent to 20-30 mg hydroxyanthracene derivatives, calculated as rhein, to be taken once daily at night."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-02",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Dose individuelle : la plus petite dose nécessaire pour obtenir une selle molle et confortable.",
+    "severity": null,
+    "population": "adolescents, adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The correct individual dose is the smallest required to produce a comfortable soft-formed motion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-03",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Tisane (substance végétale broyée) : quantité équivalant à au plus 30 mg de dérivés hydroxyanthracéniques, dans 150 ml d'eau bouillante, en infusion.",
+    "severity": null,
+    "population": "adolescents, adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Herbal tea: amount of comminuted herbal substance (equivalent to not more than 30 mg hydroxyanthracene derivatives) in 150 ml of boiling water as herbal infusion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-04",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Les formes galéniques doivent permettre des posologies plus faibles.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The pharmaceutical form must allow lower dosages."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-05",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Durée maximale d'utilisation : 1 semaine.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Not to be used for more than 1 week."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-06",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Il suffit généralement de prendre le produit jusqu'à deux à trois fois pendant cette semaine.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Usually it is sufficient to take this medicinal product up to two to three times during that week."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-pos-07",
+    "plant": "rheum_palmatum",
+    "type": "posology",
+    "statement": "Si les symptômes persistent pendant l'utilisation du produit, consulter un médecin ou un pharmacien.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-01",
+    "plant": "rheum_palmatum",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-02",
+    "plant": "rheum_palmatum",
+    "type": "age",
+    "statement": "Contre-indiqué chez les enfants de moins de 12 ans.",
+    "severity": "contraindiquee",
+    "population": "enfants de moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The use in children under 12 years of age is contraindicated"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-03",
+    "plant": "rheum_palmatum",
+    "type": "contraindication",
+    "statement": "Ne pas utiliser en cas d'occlusion intestinale ou de sténose, d'atonie ou d'appendicite (contre-indication de la monographie).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Cases of intestinal obstructions and stenosis, atony, appendicitis,"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-04",
+    "plant": "rheum_palmatum",
+    "type": "contraindication",
+    "statement": "Ne pas utiliser en cas de douleurs abdominales d'origine inconnue ou d'état de déshydratation sévère avec déplétion en eau et électrolytes (contre-indication de la monographie).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "abdominal pain of unknown origin, severe dehydration state with water and electrolyte depletion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-05",
+    "plant": "rheum_palmatum",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas de maladies inflammatoires du côlon (par exemple maladie de Crohn, colite ulcéreuse).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "inflammatory colon diseases (e.g. Crohn's disease, ulcerative colitis)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-06",
+    "plant": "rheum_palmatum",
+    "type": "pregnancy",
+    "statement": "Contre-indiqué pendant la grossesse : données expérimentales d'un risque génotoxique de plusieurs anthranoïdes (par exemple émodine, aloe-émodine).",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The use during pregnancy is contraindicated due to experimental data concerning a genotoxic risk of several anthranoids"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-07",
+    "plant": "rheum_palmatum",
+    "type": "lactation",
+    "statement": "Contre-indiqué pendant l'allaitement, après administration d'anthranoïdes.",
+    "severity": "contraindiquee",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The use during lactation is contraindicated because after administration of anthranoids,"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-08",
+    "plant": "rheum_palmatum",
+    "type": "lactation",
+    "statement": "Des métabolites actifs, tels que la rhéine, sont excrétés dans le lait maternel en petites quantités.",
+    "severity": "precaution",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "active metabolites, such as rhein, were excreted in breast milk in small amounts."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-09",
+    "plant": "rheum_palmatum",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "No fertility data are available"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-10",
+    "plant": "rheum_palmatum",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-11",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "L'usage prolongé de laxatifs stimulants doit être évité : un usage de plus d'une courte période peut altérer la fonction de l'intestin et entraîner une dépendance aux laxatifs.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Long-term use of stimulant laxatives should be avoided, as use for more than a brief period of treatment may lead to impaired function of the intestine and dependence on laxatives."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-12",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "Si des laxatifs sont nécessaires chaque jour, la cause de la constipation doit être recherchée. Les préparations de rhubarbe ne doivent être utilisées que si un effet thérapeutique ne peut être obtenu par un changement d'alimentation ou par des agents de lest.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "If laxatives are needed every day the cause of the constipation should be investigated. Rhubarb preparations should only be used if a therapeutic effect cannot be achieved by a change of diet or the administration of bulk forming agents."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-13",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "Comme tous les laxatifs, ne pas utiliser en cas d'impaction fécale et de troubles gastro-intestinaux non diagnostiqués, aigus ou persistants (par exemple douleurs abdominales, nausées, vomissements), sauf avis médical.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Like all laxatives, rhubarb root preparations should not be taken by patients suffering from faecal impaction and undiagnosed, acute or persistent gastro-intestinal complaints, e.g. abdominal pain, nausea and vomiting unless advised by a doctor because these symptoms can"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-14",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "Ces symptômes peuvent être le signe d'une occlusion intestinale potentielle ou existante (iléus).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "be signs of potential or existing intestinal blockage (ileus)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-15",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "Chez les adultes incontinents, changer les protections plus fréquemment pour éviter un contact cutané prolongé avec les selles.",
+    "severity": "precaution",
+    "population": "adultes incontinents",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "When rhubarb root preparations are administered to incontinent adults, pads should be changed more frequently to prevent extended skin contact with faeces."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-16",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "Chez les patients atteints de troubles rénaux, être attentif à un éventuel déséquilibre électrolytique.",
+    "severity": "precaution",
+    "population": "patients atteints de troubles rénaux",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Patients with kidney disorders should be aware of possible electrolyte imbalance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "kidney_disease"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-17",
+    "plant": "rheum_palmatum",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-18",
+    "plant": "rheum_palmatum",
+    "type": "interaction",
+    "statement": "Patients prenant des glycosides cardiotoniques, des antiarythmiques, des médicaments allongeant l'intervalle QT, des diurétiques, des corticoïdes ou de la réglisse : consulter un médecin avant de prendre de la racine de rhubarbe en même temps.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Patients taking cardiac glycosides, antiarrhythmic medicinal products, medicinal products inducing QT-prolongation, diuretics, adrenocorticosteroids or liquorice root, have to consult a doctor before taking rhubarb root concomitantly."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-19",
+    "plant": "rheum_palmatum",
+    "type": "interaction",
+    "statement": "L'hypokaliémie (résultant d'un usage prolongé de laxatifs) potentialise l'action des glycosides cardiotoniques et interagit avec les médicaments antiarythmiques.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Hypokalaemia (resulting from long-term laxative abuse) potentiates the action of cardiac glycosides"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-20",
+    "plant": "rheum_palmatum",
+    "type": "interaction",
+    "statement": "L'usage concomitant de diurétiques, de corticoïdes et de réglisse peut accentuer la perte de potassium.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Concomitant use with diuretics, adrenocorticosteroids and liquorice root may enhance loss of potassium."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-21",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Réactions d'hypersensibilité possibles (prurit, urticaire, exanthème localisé ou généralisé).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Hypersensitivity reactions (pruritus, urticaria, local or generalised exanthema) may occur."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-22",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Peut provoquer des douleurs abdominales, des spasmes et des selles liquides, en particulier chez les patients atteints de côlon irritable.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Rhubarb root may produce abdominal pain and spasm and passage of liquid stools, in particular in patients with irritable colon."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-23",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Ces symptômes peuvent aussi survenir en cas de surdosage individuel ; dans ce cas, une réduction de la dose est nécessaire.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "However, these symptoms may also occur generally as consequence of individual overdosage. In such cases dose reduction is necessary."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-24",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Un usage prolongé peut provoquer une pigmentation de la muqueuse intestinale (pseudomélanose du côlon), qui régresse en général à l'arrêt du traitement.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "chronic use may cause pigmentation of the intestinal mucosa (pseudomelanosis coli), which usually recedes when the patient stops taking the preparation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-25",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Un usage prolongé peut entraîner un déséquilibre hydro-électrolytique, ainsi qu'une albuminurie et une hématurie.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Long-term use may lead to water and electrolyte imbalance and may result in albuminuria and haematuria."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-26",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Coloration jaune ou brun-rouge des urines (dépendante du pH) par les métabolites, non cliniquement significative, pouvant survenir pendant le traitement.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Yellow or red-brown (pH dependent) discolouration of urine by metabolites, which is not clinically significant, may occur during treatment."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-27",
+    "plant": "rheum_palmatum",
+    "type": "undesirable_effect",
+    "statement": "Fréquence de ces effets indésirables : inconnue.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rheum_palmatum-28",
+    "plant": "rheum_palmatum",
+    "type": "overdose",
+    "statement": "Symptômes majeurs de surdosage ou d'abus : coliques intenses et diarrhée sévère, avec pertes de liquide et d'électrolytes.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "The major symptoms of overdose/abuse are griping pain and severe diarrhoea with consequent losses of fluid and electrolytes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-29",
+    "plant": "rheum_palmatum",
+    "type": "overdose",
+    "statement": "Traitement de soutien avec des quantités généreuses de liquide ; surveiller les électrolytes, en particulier le potassium, ce qui est particulièrement important chez les personnes âgées.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Treatment should be supportive with generous amounts of fluid. Electrolytes, especially potassium, should be monitored. This is especially important in the elderly."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-30",
+    "plant": "rheum_palmatum",
+    "type": "overdose",
+    "statement": "Des surdosages chroniques par des médicaments contenant des anthranoïdes peuvent entraîner une hépatite toxique.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Chronic ingested overdoses of anthranoid containing medicinal products may lead to toxic hepatitis."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rheum_palmatum-31",
+    "plant": "rheum_palmatum",
+    "type": "pharmacodynamics",
+    "statement": "La défécation survient après un délai de 8 à 12 heures.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rheum palmatum L. and Rheum officinale Baillon, radix (EMA/HMPC/113700/2019)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rheum-palmatum-l-and-rheum-officinale-baillon-radix-revision-1_en.pdf",
+      "quote": "Defaecation takes place after a delay of 8-12 hours"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

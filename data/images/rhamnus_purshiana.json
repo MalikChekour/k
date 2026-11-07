@@ -1,6 +1,30 @@
 [
  {
   "provider": "wikimedia",
+  "pid": "67118664",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Frangula_purshiana.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Frangula_purshiana.jpg/1280px-Frangula_purshiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Frangula purshiana.jpg Frangula purshiana in Dryden, Chelan County Washington",
+  "author": "Thayne Tuason",
+  "license": "CC BY-SA 4.0",
+  "width": 4000,
+  "index": 0,
+  "status": "propose"
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "20045756",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Rhamnus_purshiana_--_leaves_and_fruits.JPG",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Rhamnus_purshiana_--_leaves_and_fruits.JPG/1280px-Rhamnus_purshiana_--_leaves_and_fruits.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Rhamnus purshiana -- leaves and fruits.JPG Taken at McClane Creek Nature Trail near Olympia, WA",
+  "author": "Jesse Taylor",
+  "license": "CC BY-SA 3.0",
+  "width": 3648,
+  "index": 1,
+  "status": "propose"
+ },
+ {
+  "provider": "wikimedia",
   "pid": "37386775",
   "page_url": "https://commons.wikimedia.org/wiki/File:Frangula_purshiana_(Rhamnus_purshiana)_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG",
   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frangula_purshiana_%28Rhamnus_purshiana%29_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG/1280px-Frangula_purshiana_%28Rhamnus_purshiana%29_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8,9 +32,19 @@
   "author": "Daderot",
   "license": "CC0",
   "width": 3648,
-  "dhash": "f5b19838386ce86e",
-  "judge": true,
-  "status": "propose",
-  "index": 0
+  "index": 2,
+  "status": "propose"
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "20076421",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cascara_(Rhamnus_purshiana)_bark.JPG",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cascara_%28Rhamnus_purshiana%29_bark.JPG/1280px-Cascara_%28Rhamnus_purshiana%29_bark.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Cascara (Rhamnus purshiana) bark.JPG Cascara (Rhamnus purshiana) bark, which is used medicinally for its powerful laxative effect. Photo taken at the Evergreen State College Longhouse Ethnobotanical Garden.",
+  "author": "Jesse Taylor",
+  "license": "CC BY-SA 3.0",
+  "width": 2736,
+  "index": 3,
+  "status": "propose"
  }
 ]

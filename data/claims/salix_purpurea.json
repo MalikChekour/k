@@ -1,0 +1,686 @@
+[
+  {
+    "id": "salix_purpurea-ind-01",
+    "plant": "salix_purpurea",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of minor articular pain."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-ind-02",
+    "plant": "salix_purpurea",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement de la fièvre associée au rhume banal.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of fever associated with common cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-ind-03",
+    "plant": "salix_purpurea",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des maux de tête.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Traditional herbal medicinal product used for headache."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-ind-04",
+    "plant": "salix_purpurea",
+    "type": "indication",
+    "statement": "Produit traditionnel destiné aux indications précisées, fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-01",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane (écorce broyée) : 1 à 3 g dans 150 ml d'eau bouillante, en infusion, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Herbal tea: 1-3 g of the comminuted herbal substance in 150 ml of boiling water as an herbal infusion 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-02",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, décoction : 4 g d'écorce broyée dans 1 tasse (200 ml) d'eau, portée à ébullition couverte pendant 15 minutes, laissée reposer 15 minutes puis filtrée ; à boire tiède, 3 fois par jour après les repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "4 g of the comminuted herbal substance pour with 1 cup (200 ml) of water and boil covered for 15 minutes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-03",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, poudre : 260 à 500 mg, 3 à 8 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Powdered herbal substance: 260-500 mg 3-8 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-04",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec aqueux (8-20:1) : 600 mg, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Dry aqueous extract (8-20:1): 600 mg twice daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-05",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec aqueux (16-23:1) : 480 mg, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Dry aqueous extract (16-23:1): 480 mg twice daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-06",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait liquide : 1 à 3 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Liquid extract 1-3 ml, three times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-07",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, teinture (1:5) : 15 à 24 ml par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Tincture (1:5): 15-24 ml per day"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-08",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Voie orale ; à prendre après les repas, avec une grande quantité d'eau chaude.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "To be taken after meals. It is advised to take with larger quantity of hot water."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-09",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Indication 1 (douleurs articulaires mineures) : ne pas utiliser plus de 4 semaines.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Not to be used for more than 4 weeks."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-10",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Indication 2 (fièvre associée au rhume) : si les symptômes persistent plus de 3 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "If the symptoms persist longer than 3 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-pos-11",
+    "plant": "salix_purpurea",
+    "type": "posology",
+    "statement": "Indication 3 (maux de tête) : si les symptômes persistent plus d'un jour pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "If the symptoms persist longer than one day during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-01",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["plant_allergy"]
+  },
+  {
+    "id": "salix_purpurea-02",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité aux salicylates ou aux autres AINS (par exemple antécédent d'angioedème, de spasme bronchique ou d'urticaire chronique en réponse aux salicylates ou aux autres AINS).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Hypersensitivity to salicylates or to other NSAIDs"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["salicylate_allergy"]
+  },
+  {
+    "id": "salix_purpurea-03",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'asthme dû à une sensibilité aux salicylates.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Asthma due to sensitivity to salicylates."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["salicylate_allergy"]
+  },
+  {
+    "id": "salix_purpurea-04",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de maladie ulcéreuse peptique active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Active peptic ulcer disease."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["gastric_ulcer"]
+  },
+  {
+    "id": "salix_purpurea-05",
+    "plant": "salix_purpurea",
+    "type": "age",
+    "statement": "Contre-indiquée chez les enfants et adolescents de moins de 18 ans, en raison du risque de syndrome de Reye.",
+    "severity": "contraindiquee",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Children and adolescents under 18 years of age"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["age_lt_18"]
+  },
+  {
+    "id": "salix_purpurea-06",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de déficit en glucose-6-phosphate déshydrogénase (G6PD).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Glucose-6-phosphate dehydrogenase deficiency."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-07",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'insuffisance hépatique ou rénale sévère.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Severe liver or renal dysfunction"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["liver_disease", "kidney_disease"]
+  },
+  {
+    "id": "salix_purpurea-08",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de troubles de la coagulation.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Coagulation disorders."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["bleeding_disorder"]
+  },
+  {
+    "id": "salix_purpurea-09",
+    "plant": "salix_purpurea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée au troisième trimestre de la grossesse.",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes (troisième trimestre)",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Contraindicated in the third trimester of pregnancy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["pregnant"]
+  },
+  {
+    "id": "salix_purpurea-10",
+    "plant": "salix_purpurea",
+    "type": "warning",
+    "statement": "Ne pas utiliser en cas d'arthrite aiguë, affection qui nécessite un avis médical.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "The product is not intended to be used in case of acute arthritis"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-11",
+    "plant": "salix_purpurea",
+    "type": "warning",
+    "statement": "Consulter un médecin si la fièvre dépasse 39 °C, persiste ou est associée à des maux de tête sévères, ou si les symptômes s'aggravent pendant l'utilisation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "persists or is associated with severe headache or if symptoms worsen during the use of the medicinal product, a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-12",
+    "plant": "salix_purpurea",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-13",
+    "plant": "salix_purpurea",
+    "type": "warning",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol doit figurer sur le produit.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "For tinctures, extracts, containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-14",
+    "plant": "salix_purpurea",
+    "type": "interaction",
+    "statement": "Association avec des salicylates et d'autres AINS non recommandée sans avis médical.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Concomitant use with salicylates and other NSAIDs is not recommended without medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-15",
+    "plant": "salix_purpurea",
+    "type": "interaction",
+    "statement": "L'écorce de saule peut augmenter les effets des anticoagulants, tels que les dérivés coumariniques.",
+    "severity": "moderee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Willow bark may increase the effects of anticoagulants such as coumarin derivatives."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-16",
+    "plant": "salix_purpurea",
+    "type": "pregnancy",
+    "statement": "Usage non recommandé pendant les premier et deuxième trimestres de la grossesse et pendant l'allaitement.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "The use during the first and second trimester of pregnancy and during lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["pregnant", "lactating"]
+  },
+  {
+    "id": "salix_purpurea-17",
+    "plant": "salix_purpurea",
+    "type": "pregnancy",
+    "statement": "Les salicylates traversent le placenta et passent dans le lait maternel.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Salicylates cross the placenta and appear in breast milk."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["pregnant", "lactating"]
+  },
+  {
+    "id": "salix_purpurea-18",
+    "plant": "salix_purpurea",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-19",
+    "plant": "salix_purpurea",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["drives"]
+  },
+  {
+    "id": "salix_purpurea-20",
+    "plant": "salix_purpurea",
+    "type": "undesirable_effect",
+    "statement": "Réactions allergiques (éruption cutanée, prurit, urticaire, asthme, exanthème) et symptômes gastro-intestinaux (nausées, vomissements, douleurs abdominales, diarrhée, dyspepsie, brûlures d'estomac) peuvent survenir.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "Allergic reactions such as rash, pruritis, urticaria, asthma, exanthema and gastrointestinal symptoms such as, nausea, vomiting, abdominal pain, diarrhea, dyspepsia, heartburn, may occur."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-21",
+    "plant": "salix_purpurea",
+    "type": "undesirable_effect",
+    "statement": "Fréquence inconnue.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "salix_purpurea-22",
+    "plant": "salix_purpurea",
+    "type": "undesirable_effect",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "salix_purpurea-23",
+    "plant": "salix_purpurea",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Salix [various species including S. purpurea L., S. daphnoides Vill., S. fragilis L.], cortex (EMA/HMPC/80630/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salix-various-species-including-s-purpurea-l-s-daphnoides-vill-s-fragilis-l-cortex_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

@@ -357,3 +357,20 @@ test('séné et cascara ne sont proposés pour aucun symptôme du mélange', () 
     assert.ok(!ids.includes('senna_alexandrina') && !ids.includes('rhamnus_purshiana'), u.id);
   }
 });
+
+test('saule : enfant, ulcère, allergie aux salicylés = contre-indication ; warfarine et aspirine = alerte', () => {
+  assert.equal(assess(bundle, ['salix_purpurea'], { flags: [], ageYears: 10 }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['salix_purpurea'], { flags: ['gastric_ulcer'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['salix_purpurea'], { flags: ['salicylate_allergy'] }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['salix_purpurea'], { flags: [], ageYears: 40 }).verdict, 'contre_indication');
+  assert.ok(assess(bundle, ['salix_purpurea'], { flags: [], meds: ['warfarine'] }).alerts.some(a => a.claimId === 'salix_purpurea-15'));
+  assert.ok(assess(bundle, ['salix_purpurea'], { flags: [], meds: ['aspirine'] }).alerts.some(a => a.claimId === 'salix_purpurea-14'));
+});
+test('rhubarbe : grossesse = contre-indication ; absinthe et boldo : maladie du foie = contre-indication', () => {
+  assert.equal(assess(bundle, ['rheum_palmatum'], { flags: ['pregnant'] }).verdict, 'contre_indication');
+  assert.ok(assess(bundle, ['rheum_palmatum'], { flags: [], meds: ['furosémide'] }).alerts.length > 0);
+  for (const id of ['artemisia_absinthium', 'peumus_boldus']) {
+    assert.equal(assess(bundle, [id], { flags: ['liver_disease'] }).verdict, 'contre_indication', id);
+    assert.notEqual(assess(bundle, [id], { flags: [] }).verdict, 'contre_indication', id);
+  }
+});

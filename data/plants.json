@@ -1230,5 +1230,177 @@
    "poivre des moines",
    "arbre au chaste"
   ]
+ },
+ {
+  "id": "artemisia_absinthium",
+  "fr": "Grande absinthe",
+  "latin": "Artemisia absinthium L.",
+  "part": "partie aérienne",
+  "queries": [
+   "wormwood herb",
+   "Artemisia absinthium plant",
+   "Artemisia absinthium leaves"
+  ],
+  "keys": [
+   "grande absinthe",
+   "absinthe",
+   "artemisia absinthium"
+  ],
+  "aliases": [
+   "absinthe",
+   "grande absinthe",
+   "wormwood"
+  ]
+ },
+ {
+  "id": "fumaria_officinalis",
+  "fr": "Fumeterre",
+  "latin": "Fumaria officinalis L.",
+  "part": "partie aérienne",
+  "queries": [
+   "fumitory plant",
+   "Fumaria officinalis",
+   "fumaria officinalis herb"
+  ],
+  "keys": [
+   "fumeterre",
+   "fumaria officinalis"
+  ],
+  "aliases": [
+   "fumeterre",
+   "fumeterre officinale",
+   "fumitory"
+  ]
+ },
+ {
+  "id": "melaleuca_alternifolia",
+  "fr": "Arbre à thé",
+  "latin": "Melaleuca alternifolia (Maiden & Betch) Cheel",
+  "part": "huile essentielle",
+  "queries": [
+   "tea tree plant",
+   "Melaleuca alternifolia tree",
+   "Melaleuca alternifolia leaves"
+  ],
+  "keys": [
+   "arbre à thé",
+   "arbre a the",
+   "melaleuca alternifolia",
+   "tea tree",
+   "melaleuca"
+  ],
+  "aliases": [
+   "arbre à thé",
+   "tea tree",
+   "tea-tree",
+   "melaleuca"
+  ]
+ },
+ {
+  "id": "melilotus_officinalis",
+  "fr": "Mélilot",
+  "latin": "Melilotus officinalis (L.) Lam.",
+  "part": "partie aérienne",
+  "queries": [
+   "Melilotus officinalis plant",
+   "melilot flowers",
+   "sweet clover Melilotus officinalis"
+  ],
+  "keys": [
+   "mélilot",
+   "melilot",
+   "melilotus officinalis"
+  ],
+  "aliases": [
+   "mélilot",
+   "mélilot jaune",
+   "sweet clover"
+  ]
+ },
+ {
+  "id": "peumus_boldus",
+  "fr": "Boldo",
+  "latin": "Peumus boldus Molina",
+  "part": "feuille",
+  "queries": [
+   "boldo leaves",
+   "Peumus boldus",
+   "boldo tree leaf"
+  ],
+  "keys": [
+   "boldo",
+   "peumus boldus",
+   "peumus"
+  ],
+  "aliases": [
+   "boldo",
+   "boldo du Chili"
+  ]
+ },
+ {
+  "id": "rheum_palmatum",
+  "fr": "Rhubarbe de Chine (racine)",
+  "latin": "Rheum palmatum L.",
+  "part": "racine",
+  "queries": [
+   "Chinese rhubarb root",
+   "Rheum palmatum root",
+   "Rheum palmatum plant"
+  ],
+  "keys": [
+   "rhubarbe de chine",
+   "rheum palmatum",
+   "da huang"
+  ],
+  "aliases": [
+   "rhubarbe de Chine",
+   "Da Huang",
+   "rhubarbe médicinale",
+   "rhubarb"
+  ]
+ },
+ {
+  "id": "salix_purpurea",
+  "fr": "Saule (écorce)",
+  "latin": "Salix purpurea L.",
+  "part": "écorce",
+  "queries": [
+   "willow bark",
+   "Salix purpurea",
+   "purple willow tree"
+  ],
+  "keys": [
+   "saule",
+   "saule pourpre",
+   "salix purpurea",
+   "salix"
+  ],
+  "aliases": [
+   "saule",
+   "écorce de saule",
+   "saule blanc",
+   "willow bark"
+  ]
+ },
+ {
+  "id": "symphytum_officinale",
+  "fr": "Consoude (racine, usage cutané)",
+  "latin": "Symphytum officinale L.",
+  "part": "racine",
+  "queries": [
+   "comfrey root",
+   "Symphytum officinale",
+   "comfrey plant"
+  ],
+  "keys": [
+   "consoude",
+   "grande consoude",
+   "symphytum officinale"
+  ],
+  "aliases": [
+   "consoude",
+   "grande consoude",
+   "comfrey"
+  ]
  }
 ]

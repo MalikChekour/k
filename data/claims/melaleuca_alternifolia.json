@@ -1,0 +1,794 @@
+[
+  {
+    "id": "melaleuca_alternifolia-ind-01",
+    "plant": "melaleuca_alternifolia",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement des petites plaies superficielles et des piqûres d'insectes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for treatment of small superficial wounds and insect bites."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-ind-02",
+    "plant": "melaleuca_alternifolia",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement des petits furoncles et de l'acné légère.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for treatment of small boils (furuncles and mild acne)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-ind-03",
+    "plant": "melaleuca_alternifolia",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des démangeaisons et de l'irritation dans les cas de pied d'athlète léger.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of itching and irritation in cases of mild"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-ind-04",
+    "plant": "melaleuca_alternifolia",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique de la petite inflammation de la muqueuse buccale (voie orale : bain de bouche ou gargarisme, sans avaler).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic treatment of minor inflammation of the oral mucosa."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-ind-05",
+    "plant": "melaleuca_alternifolia",
+    "type": "indication",
+    "statement": "Les indications sont fondées exclusivement sur un usage traditionnel de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-01",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, plaies et piqûres d'insectes (indication 1), huile essentielle non diluée : 0,03 à 0,07 ml par dose unique, à appliquer sur la zone atteinte au coton-tige, 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "0.03-0.07 ml of undiluted essential oil to be applied to the affected area using a cotton bud 1-3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-02",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Plaies et piqûres d'insectes (indication 1), préparations liquides contenant 0,5 % à 10 % d'huile essentielle : à appliquer sur la zone atteinte 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Liquid preparations containing 0.5% to 10% of essential oil to be applied to the affected area 1-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-03",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Furoncles et acné légère (indication 2), préparations huileuses ou semi-solides contenant 10 % d'huile essentielle, adolescents, adultes et personnes âgées, dose unique : à appliquer sur la zone atteinte 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Oily liquid or semi-solid preparations containing 10% of essential oil, to be applied to the affected area 1-3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-04",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Furoncles (indication 2) : 0,7 à 1 ml d'huile essentielle dans 100 ml d'eau tiède, en compresse imprégnée appliquée sur les zones de peau atteintes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "0.7-1 ml of essential oil stirred in 100 ml of lukewarm water to be applied as an impregnated dressing to the affected areas of the skin"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-05",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Furoncles (indication 2), huile essentielle non diluée appliquée sur le furoncle au coton-tige, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Undiluted essential oil to be applied to the boil using a cotton bud 2-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-06",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Pied d'athlète (indication 3), préparations huileuses ou semi-solides contenant 10 % d'huile essentielle, adolescents, adultes et personnes âgées, dose unique : à appliquer sur la zone atteinte 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Oily liquid or semi-solid preparations containing 10% of essential oil, to be applied on the affected area 1-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-07",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Pied d'athlète (indication 3), bain de pieds : 0,17 à 0,33 ml d'huile essentielle dans une quantité d'eau tiède suffisante pour couvrir les pieds ; tremper les pieds 5 à 10 minutes par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "0.17-0.33 ml of essential oil in an appropriate volume of warm water to cover the feet. Soak feet for 5-10 minutes a day."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-08",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Pied d'athlète (indication 3), huile essentielle non diluée appliquée sur la zone atteinte au coton-tige, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Undiluted essential oil to be applied to the affected area using a cotton bud 2-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-09",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Muqueuse buccale (indication 4), adolescents, adultes et personnes âgées, dose unique : 0,17 à 0,33 ml d'huile essentielle dans 100 ml d'eau, en bain de bouche ou gargarisme, plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "to be mixed in 100 ml of water for rinse or gargle several times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-10",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Voie d'administration des indications 1, 2 et 3 : cutanée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Cutaneous use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-11",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Voie d'administration de l'indication 4 : orale (muqueuse buccale).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-12",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Indication 1 (plaies, piqûres) : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-13",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Indications 2 et 3 (furoncles, acné légère, pied d'athlète) : ne pas utiliser plus d'un mois.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Not to be used for more than 1 month."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-14",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Indications 2 et 3 : si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-pos-15",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Indication 4 (muqueuse buccale) : si les symptômes persistent plus de 5 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If the symptoms persist longer than 5 days during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-01",
+    "plant": "melaleuca_alternifolia",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Hypersensitivity to the active substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["plant_allergy"]
+  },
+  {
+    "id": "melaleuca_alternifolia-02",
+    "plant": "melaleuca_alternifolia",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la colophane (résine de pin).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Hypersensitivity to the active substance or to colophony."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-03",
+    "plant": "melaleuca_alternifolia",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants de moins de 12 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["age_lt_12"]
+  },
+  {
+    "id": "melaleuca_alternifolia-04",
+    "plant": "melaleuca_alternifolia",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants de moins de 12 ans (voir précautions d'emploi).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["age_lt_12"]
+  },
+  {
+    "id": "melaleuca_alternifolia-05",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "En cas d'éruption cutanée, arrêter l'utilisation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If a rash develops discontinue use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-06",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Ne pas utiliser par voie orale ni par inhalation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Not to be used orally or as inhalation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-07",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Ne pas utiliser dans les yeux ni dans les oreilles.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Not to be used in eyes or in ears."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-08",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-09",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Indication 1 (plaies, piqûres) : en cas de fièvre ou de signes d'aggravation d'une infection cutanée, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If fever or signs of exacerbating skin infection are observed, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-10",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Indication 2 (furoncles, acné) : en cas d'acné sévère, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "In cases of severe acne a doctor or a qualified healthcare practitioner shall be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-11",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Indication 3 (pied d'athlète) : pour l'éradication d'une infection fongique, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "For the eradication of fungal infection a doctor or a qualified healthcare practitioner shall be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-12",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Indication 4 (muqueuse buccale) : ne pas avaler.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Not to be swallowed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-13",
+    "plant": "melaleuca_alternifolia",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-14",
+    "plant": "melaleuca_alternifolia",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["pregnant", "lactating"]
+  },
+  {
+    "id": "melaleuca_alternifolia-15",
+    "plant": "melaleuca_alternifolia",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-16",
+    "plant": "melaleuca_alternifolia",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["drives"]
+  },
+  {
+    "id": "melaleuca_alternifolia-17",
+    "plant": "melaleuca_alternifolia",
+    "type": "undesirable_effect",
+    "statement": "Réactions cutanées indésirables signalées : douleur à type de cuisson, léger prurit, sensation de brûlure, irritation, démangeaisons, picotements, érythème, œdème (dermatite de contact) ou autres réactions allergiques ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Adverse skin reactions including smarting pain, mild pruritus, burning sensation, irritation, itching, stinging, erythema, oedema (contact dermatitis) or other allergic reactions have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-18",
+    "plant": "melaleuca_alternifolia",
+    "type": "undesirable_effect",
+    "statement": "Réactions cutanées de type brûlure signalées ; fréquence rare (<1/1000).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Burn-like skin reactions have been reported. The frequency is rare (<1/1000)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-19",
+    "plant": "melaleuca_alternifolia",
+    "type": "undesirable_effect",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-20",
+    "plant": "melaleuca_alternifolia",
+    "type": "overdose",
+    "statement": "Surdosage par usage cutané : aucun cas rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Cutaneous use: None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-21",
+    "plant": "melaleuca_alternifolia",
+    "type": "overdose",
+    "statement": "Ingestion accidentelle : peut provoquer une dépression du système nerveux central et une faiblesse musculaire ; chez l'adulte, ces symptômes disparaissent généralement en 36 heures.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Accidental ingestion may cause central nervous system depression and muscle weakness. However, in adults these symptoms generally resolve within 36 hours."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-22",
+    "plant": "melaleuca_alternifolia",
+    "type": "overdose",
+    "statement": "En cas d'ingestion, surveiller le patient et appliquer un traitement de soutien standard si nécessaire.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "If ingestion occurs, the patient should be monitored and standard supportive treatment applied as required."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-23",
+    "plant": "melaleuca_alternifolia",
+    "type": "overdose",
+    "statement": "Chez l'enfant, l'ingestion d'huile essentielle d'arbre à thé est une urgence médicale nécessitant une hospitalisation immédiate et un soutien respiratoire.",
+    "severity": "precaution",
+    "population": "enfants",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "In children, ingestion of tea tree oil is a medical emergency requiring immediate hospital treatment and respiratory support."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  },
+  {
+    "id": "melaleuca_alternifolia-24",
+    "plant": "melaleuca_alternifolia",
+    "type": "warning",
+    "statement": "Une conservation et une manipulation appropriées sont nécessaires pour éviter la formation de produits d'oxydation, qui présentent un potentiel plus élevé de sensibilisation cutanée.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Proper storage and handling are needed to avoid the formation of oxidation products which have greater potential for skin sensitisation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": ["always"]
+  }
+]

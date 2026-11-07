@@ -1,0 +1,422 @@
+[
+  {
+    "id": "peumus_boldus-ind-01",
+    "plant": "peumus_boldus",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique de la dyspepsie et des troubles spasmodiques légers du tractus gastro-intestinal.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product used for symptomatic relief of dyspepsia and mild"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-ind-02",
+    "plant": "peumus_boldus",
+    "type": "indication",
+    "statement": "Usage traditionnel : produit utilisé exclusivement sur la base d'un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-pos-01",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane (feuille coupée) : 1 à 2 g dans 150 ml d'eau bouillante, en infusion, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion, 2-3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-pos-02",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 5:1, solvant eau) : dose unitaire de 200 à 400 mg, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Single dose: 200-400 mg, 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-pos-03",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec (DER 5:1, solvant eau) : dose journalière de 400 à 800 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Daily dose: 400-800 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-pos-04",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-pos-05",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-01",
+    "plant": "peumus_boldus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "peumus_boldus-02",
+    "plant": "peumus_boldus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'obstruction des voies biliaires, de cholangite, de maladie du foie, de calculs biliaires et de tout autre trouble biliaire nécessitant un suivi et un avis médicaux.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Obstruction of bile duct, cholangitis, liver disease, gallstones and any other biliary disorders that require medical supervision and advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "biliary_disease",
+      "liver_disease"
+    ]
+  },
+  {
+    "id": "peumus_boldus-03",
+    "plant": "peumus_boldus",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "peumus_boldus-04",
+    "plant": "peumus_boldus",
+    "type": "age",
+    "statement": "Usage chez les enfants et adolescents de moins de 18 ans non établi, faute de données adéquates, et en raison de préoccupations nécessitant un avis médical.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data and because of concerns requiring medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "peumus_boldus-05",
+    "plant": "peumus_boldus",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "peumus_boldus-06",
+    "plant": "peumus_boldus",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; compte tenu des données précliniques, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "peumus_boldus-07",
+    "plant": "peumus_boldus",
+    "type": "pregnancy",
+    "statement": "Données précliniques : chez le rat gravide, altérations anatomiques du fœtus et quelques cas d'avortement à fortes doses.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Results showed anatomical alterations in the fetus and a few cases of abortion at high doses."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "peumus_boldus-08",
+    "plant": "peumus_boldus",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-09",
+    "plant": "peumus_boldus",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "peumus_boldus-10",
+    "plant": "peumus_boldus",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-11",
+    "plant": "peumus_boldus",
+    "type": "adverse",
+    "statement": "Réactions d'hypersensibilité (anaphylaxie) rapportées ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Hypersensitivity (anaphylaxis) has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "peumus_boldus-12",
+    "plant": "peumus_boldus",
+    "type": "adverse",
+    "statement": "Autres effets indésirables non mentionnés ci-dessus : consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "peumus_boldus-13",
+    "plant": "peumus_boldus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-14",
+    "plant": "peumus_boldus",
+    "type": "quality",
+    "statement": "Les teneurs en ascaridole des préparations et des médicaments à base de plante doivent être déterminées.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "The levels of ascaridole in herbal preparations and herbal medicinal products should be determined."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "peumus_boldus-15",
+    "plant": "peumus_boldus",
+    "type": "preclinical",
+    "statement": "Tests de génotoxicité et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Tests on genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

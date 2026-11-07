@@ -52,7 +52,10 @@
         "agrimonia_eupatoria-ind-01",
         "carum_carvi-ind-01",
         "malva_sylvestris-ind-02",
-        "origanum_majorana-ind-01"
+        "origanum_majorana-ind-01",
+        "artemisia_absinthium-ind-02",
+        "fumaria_officinalis-ind-01",
+        "peumus_boldus-ind-01"
       ]
     },
     {
@@ -75,7 +78,8 @@
       "claims": [
         "echinacea_purpurea-ind-02",
         "equisetum_arvense-ind-02",
-        "agrimonia_eupatoria-ind-03"
+        "agrimonia_eupatoria-ind-03",
+        "melaleuca_alternifolia-ind-01"
       ]
     },
     {
@@ -113,7 +117,8 @@
         "primula_veris-ind-01",
         "malva_sylvestris-ind-01",
         "eucalyptus_globulus-ind-01",
-        "verbascum_densiflorum-ind-01"
+        "verbascum_densiflorum-ind-01",
+        "salix_purpurea-ind-02"
       ]
     },
     {
@@ -125,7 +130,8 @@
         "zingiber_officinale-ind-04",
         "harpagophytum_procumbens-ind-01",
         "rosmarinus_officinalis-ind-02",
-        "ribes_nigrum-ind-01"
+        "ribes_nigrum-ind-01",
+        "salix_purpurea-ind-01"
       ]
     },
     {
@@ -161,7 +167,8 @@
         "aesculus_hippocastanum-ind-01",
         "aesculus_hippocastanum-ind-02",
         "vitis_vinifera-ind-01",
-        "vitis_vinifera-ind-02"
+        "vitis_vinifera-ind-02",
+        "melilotus_officinalis-ind-01"
       ]
     },
     {

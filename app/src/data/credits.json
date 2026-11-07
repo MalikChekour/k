@@ -421,10 +421,10 @@
  },
  "rhamnus_purshiana": {
   "provider": "wikimedia",
-  "author": "Daderot",
-  "license": "CC0",
-  "page_url": "https://commons.wikimedia.org/wiki/File:Frangula_purshiana_(Rhamnus_purshiana)_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG",
-  "label": "File:Frangula purshiana (Rhamnus purshiana) - Dunsmuir Botanical Gardens - DSC02925.JPG Botanical specimen in the Dunsmuir Botanical Gardens - Dunsmuir, California, USA."
+  "author": "Thayne Tuason",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Frangula_purshiana.jpg",
+  "label": "File:Frangula purshiana.jpg Frangula purshiana in Dryden, Chelan County Washington"
  },
  "senna_alexandrina": {
   "provider": "wikimedia",
