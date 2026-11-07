@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "provider": "wikimedia",
+  "pid": "145322317",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Angelica_sinensis_(7).jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Angelica_sinensis_%287%29.jpg/1280px-Angelica_sinensis_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Angelica sinensis (7).jpg Angelica sinensis",
+  "author": "François Nguyen",
+  "license": "CC BY 2.0",
+  "width": 3000,
+  "dhash": "373133275acc9a93",
+  "judge": false,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "39771631",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Angelica_sinensis_Bild.png",
+  "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Angelica_sinensis_Bild.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "label": "File:Angelica sinensis Bild.png Text and picture of Angelica sinensis in \"Kompendium of Chinese Materia medica\"",
+  "author": "Chu chong xiong",
+  "license": "Public domain",
+  "width": 1241,
+  "dhash": "23236d252f290b63",
+  "judge": false,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "39771630",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Angelica_sinensis_Text.png",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Angelica_sinensis_Text.png/1280px-Angelica_sinensis_Text.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Angelica sinensis Text.png Abbildung und Text von Angelica sinensis im \"Illustrierten Kompendium der Materia medica\".",
+  "author": "Chu chong xiong",
+  "license": "Public domain",
+  "width": 1738,
+  "dhash": "625b4a4d8d176755",
+  "judge": false,
+  "status": "propose",
+  "index": 2
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "142069089",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Danggui_Angelica_sinensis_herbier.jpg",
+  "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Danggui_Angelica_sinensis_herbier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "label": "File:Danggui Angelica sinensis herbier.jpg Tiges, feuilles composées et fleurs",
+  "author": "Dr Aug. Henry, 1889, China Hupeh",
+  "license": "CC BY-SA 4.0",
+  "width": 1109,
+  "dhash": "f2a7b18f93858fc5",
+  "judge": false,
+  "status": "propose",
+  "index": 3
+ }
+]

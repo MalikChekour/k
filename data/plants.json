@@ -597,7 +597,8 @@
   "keys": [
    "rehmannia",
    "foxglove",
-   "di huang"
+   "di huang",
+   "rehmannia glutinosa"
   ],
   "aliases": [
    "Di Huang",
@@ -642,7 +643,8 @@
    "scutellaria",
    "skullcap",
    "baikal",
-   "huang qin"
+   "huang qin",
+   "scutellaria baicalensis"
   ],
   "aliases": [
    "Huang Qin",
@@ -656,6 +658,8 @@
   "latin": "Eleutherococcus senticosus (Rupr. et Maxim.) Maxim.",
   "part": "racine",
   "queries": [
+   "Eleutherococcus senticosus",
+   "Acanthopanax senticosus",
    "Eleutherococcus senticosus root",
    "Siberian ginseng root dried",
    "eleuthero root herbal tea"
@@ -666,7 +670,8 @@
    "eleuthero",
    "ginseng sibérien",
    "siberian ginseng",
-   "eleutherococcus senticosus"
+   "eleutherococcus senticosus",
+   "acanthopanax senticosus"
   ],
   "aliases": [
    "ginseng sibérien",
@@ -844,6 +849,7 @@
   "latin": "Plantago ovata Forssk.",
   "part": "téguments de graine",
   "queries": [
+   "Plantago ovata",
    "psyllium husk powder",
    "Plantago ovata seeds",
    "ispaghula husk"
@@ -910,6 +916,7 @@
   "latin": "Carum carvi L.",
   "part": "fruit",
   "queries": [
+   "Carum carvi",
    "caraway fruit",
    "Carum carvi fruit",
    "caraway"
@@ -1134,6 +1141,8 @@
   "latin": "Rhamnus purshiana DC.",
   "part": "écorce",
   "queries": [
+   "Frangula purshiana",
+   "Rhamnus purshiana",
    "cascara bark",
    "Rhamnus purshiana bark",
    "cascara sagrada bark"
@@ -1142,7 +1151,8 @@
    "cascara",
    "cascara (écorce)",
    "rhamnus purshiana",
-   "rhamnus purshiana dc."
+   "rhamnus purshiana dc.",
+   "frangula purshiana"
   ],
   "aliases": [
    "cascara",
@@ -1156,6 +1166,8 @@
   "latin": "Senna alexandrina Mill.",
   "part": "feuille",
   "queries": [
+   "Senna alexandrina",
+   "Cassia angustifolia",
    "senna leaves",
    "senna alexandrina plant",
    "senna leaf herbal"
@@ -1163,7 +1175,8 @@
   "keys": [
    "séné",
    "sene",
-   "senna alexandrina"
+   "senna alexandrina",
+   "cassia angustifolia"
   ],
   "aliases": [
    "séné",
@@ -1177,6 +1190,8 @@
   "latin": "Verbascum densiflorum Bertol.",
   "part": "fleur",
   "queries": [
+   "Verbascum densiflorum",
+   "Verbascum thapsus",
    "mullein flowers",
    "Verbascum densiflorum flowers",
    "mullein flower herbal tea"
@@ -1184,7 +1199,8 @@
   "keys": [
    "molène",
    "bouillon blanc",
-   "verbascum densiflorum"
+   "verbascum densiflorum",
+   "verbascum thapsus"
   ],
   "aliases": [
    "molène",

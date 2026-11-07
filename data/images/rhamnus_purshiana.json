@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "provider": "wikimedia",
+  "pid": "37386775",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Frangula_purshiana_(Rhamnus_purshiana)_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Frangula_purshiana_%28Rhamnus_purshiana%29_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG/1280px-Frangula_purshiana_%28Rhamnus_purshiana%29_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Frangula purshiana (Rhamnus purshiana) - Dunsmuir Botanical Gardens - DSC02925.JPG Botanical specimen in the Dunsmuir Botanical Gardens - Dunsmuir, California, USA.",
+  "author": "Daderot",
+  "license": "CC0",
+  "width": 3648,
+  "dhash": "f5b19838386ce86e",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ }
+]

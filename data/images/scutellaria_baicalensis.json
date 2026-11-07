@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "provider": "wikimedia",
+  "pid": "109983948",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scutellaria_baicalensis_kz02.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Scutellaria_baicalensis_kz02.jpg/1280px-Scutellaria_baicalensis_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Scutellaria baicalensis kz02.jpg Scutellaria baicalensis in botanical garden in Łódź",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "width": 4000,
+  "dhash": "13131006644cde83",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "109983950",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scutellaria_baicalensis_kz03.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Scutellaria_baicalensis_kz03.jpg/1280px-Scutellaria_baicalensis_kz03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Scutellaria baicalensis kz03.jpg Scutellaria baicalensis in botanical garden in Łódź",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "width": 5165,
+  "dhash": "8a86d78c84941c1e",
+  "judge": true,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "53842386",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scutellaria_baicalensis_kz2.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Scutellaria_baicalensis_kz2.jpg/1280px-Scutellaria_baicalensis_kz2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Scutellaria baicalensis kz2.jpg Scutellaria baicalensis in Warsaw University Botanical Garden",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "width": 2808,
+  "dhash": "c65d5ee3f7f5dddc",
+  "judge": true,
+  "status": "propose",
+  "index": 2
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "53842387",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scutellaria_baicalensis_kz3.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Scutellaria_baicalensis_kz3.jpg/1280px-Scutellaria_baicalensis_kz3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Scutellaria baicalensis kz3.jpg Scutellaria baicalensis in Warsaw University Botanical Garden",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "width": 2256,
+  "dhash": "66626a6b25adca8a",
+  "judge": true,
+  "status": "propose",
+  "index": 3
+ }
+]

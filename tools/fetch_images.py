@@ -89,9 +89,27 @@ def openverse(q):
                  f'{r.get("title") or ""} ' + " ".join(t["name"] for t in r.get("tags") or []), r.get("creator"), r.get("license"), r.get("width")) for r in d.get("results", [])]
 
 
+
+def wikimedia(q):
+    """Wikimedia Commons : photos de plantes nommees par leur nom latin (licences libres, attribution conservee)."""
+    d = get_json("https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
+        "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrsearch": q + " filetype:bitmap",
+        "gsrlimit": 30, "prop": "imageinfo", "iiprop": "url|extmetadata|size", "iiurlwidth": 1200}),
+        {"User-Agent": "apothecaria-images/0.1 (contact: holder.8922@gmail.com)"})
+    out = []
+    for pg in (d.get("query", {}).get("pages") or {}).values():
+        ii = (pg.get("imageinfo") or [{}])[0]; md = ii.get("extmetadata") or {}
+        lic = (md.get("LicenseShortName") or {}).get("value", "")
+        if not re.match(r"(CC0|Public domain|PD|CC BY(-SA)? [0-9.]+)", lic, re.I): continue
+        if not ii.get("thumburl"): continue
+        auth = re.sub(r"<[^>]+>", "", (md.get("Artist") or {}).get("value", ""))
+        desc = re.sub(r"<[^>]+>", "", (md.get("ImageDescription") or {}).get("value", ""))[:200]
+        out.append(cand("wikimedia", pg["pageid"], ii.get("descriptionurl"), ii["thumburl"], pg.get("title", "") + " " + desc, auth, lic, ii.get("width")))
+    return out
+
 MAXC = 40
 MIN_W = 1000  # px ; la photo doit rester nette en feuille plein ecran
-PROVIDERS = [("openverse", openverse), ("pexels", pexels), ("pixabay", pixabay), ("unsplash", unsplash)]
+PROVIDERS = [("wikimedia", wikimedia), ("openverse", openverse), ("pexels", pexels), ("pixabay", pixabay), ("unsplash", unsplash)]
 
 
 def dhash(img):

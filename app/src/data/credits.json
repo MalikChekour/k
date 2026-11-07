@@ -376,5 +376,75 @@
   "license": "Pexels License",
   "page_url": "https://www.pexels.com/photo/vibrant-purple-vitex-flowers-outdoors-in-bloom-39635426/",
   "label": "Close-up of blooming purple Vitex (Vitex agnus-castus) flowers against a dark green background. vibrant purple vitex flowers outdoors in bloom 39635426"
+ },
+ "rehmannia_glutinosa": {
+  "provider": "wikimedia",
+  "author": "Salicyna",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Rehmannia_elata_2017-05-31_2321.jpg",
+  "label": "File:Rehmannia elata 2017-05-31 2321.jpg Rehmannia elata, Botanischer Garten Berlin."
+ },
+ "scutellaria_baicalensis": {
+  "provider": "wikimedia",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Scutellaria_baicalensis_kz3.jpg",
+  "label": "File:Scutellaria baicalensis kz3.jpg Scutellaria baicalensis in Warsaw University Botanical Garden"
+ },
+ "eleutherococcus_senticosus": {
+  "provider": "wikimedia",
+  "author": "Salicyna",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Eleutherococcus_senticosus_2017-04-17_7429.jpg",
+  "label": "File:Eleutherococcus senticosus 2017-04-17 7429.jpg Kolcosił szczeciniasty (Eleutherococcus senticosus), Ogród Botaniczny UMCS w Lublinie."
+ },
+ "gentiana_scabra": {
+  "provider": "wikimedia",
+  "author": "Alpsdake",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Gentiana_scabra_var._buergeri_(flower).JPG",
+  "label": "File:Gentiana scabra var. buergeri (flower).JPG Gentiana scabra var. buergeri, in Mount Haku, Hakusan, Ishikawa prefecture, Japan."
+ },
+ "plantago_ovata": {
+  "provider": "wikimedia",
+  "author": "Joshua Tree National Park",
+  "license": "Public domain",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Desert_indianwheat_(Plantago_Ovata)_(14397998504).jpg",
+  "label": "File:Desert indianwheat (Plantago Ovata) (14397998504).jpg Desert indianwheat (Plantago ovata). NPS/Stacy Manson"
+ },
+ "carum_carvi": {
+  "provider": "wikimedia",
+  "author": "Jerzy Opioła",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Carum_carvi_a1.jpg",
+  "label": "File:Carum carvi a1.jpg Carum carvi]]"
+ },
+ "rhamnus_purshiana": {
+  "provider": "wikimedia",
+  "author": "Daderot",
+  "license": "CC0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Frangula_purshiana_(Rhamnus_purshiana)_-_Dunsmuir_Botanical_Gardens_-_DSC02925.JPG",
+  "label": "File:Frangula purshiana (Rhamnus purshiana) - Dunsmuir Botanical Gardens - DSC02925.JPG Botanical specimen in the Dunsmuir Botanical Gardens - Dunsmuir, California, USA."
+ },
+ "senna_alexandrina": {
+  "provider": "wikimedia",
+  "author": "Dinesh Valke from Thane, India",
+  "license": "CC BY-SA 2.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Senna_alexandrina_Mill._(44909330024).jpg",
+  "label": "File:Senna alexandrina Mill. (44909330024).jpg Senna alexandrina Mill."
+ },
+ "verbascum_densiflorum": {
+  "provider": "openverse",
+  "author": "Peter Gabler",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/54771874",
+  "label": "denseflower mullein, großblütige königskerze Angiospermae Flowers Lamiales Plants rachenblütler Scrophularieae Tracheophyta Verbascum Verbascum densiflorum"
+ },
+ "angelica_sinensis": {
+  "provider": "wikimedia",
+  "author": "François Nguyen",
+  "license": "CC BY 2.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Angelica_sinensis_(7).jpg",
+  "label": "File:Angelica sinensis (7).jpg Angelica sinensis"
  }
 }

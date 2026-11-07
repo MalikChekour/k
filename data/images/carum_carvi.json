@@ -1,1 +1,72 @@
-[]
+[
+ {
+  "provider": "wikimedia",
+  "pid": "53787445",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Carum_carvi_a1.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Carum_carvi_a1.jpg/1280px-Carum_carvi_a1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Carum carvi a1.jpg Carum carvi]]",
+  "author": "Jerzy Opioła",
+  "license": "CC BY-SA 4.0",
+  "width": 3180,
+  "dhash": "f1ebb29a6674b024",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "pixabay",
+  "pid": "195594",
+  "page_url": "https://pixabay.com/photos/soul-pastries-loaf-salt-195594/",
+  "thumb_url": "https://pixabay.com/get/gf1813123a0b2a76eccc6b02acdc4cc94ca5254e07b1d5e8244157ed1b5f91eb2297848efc990fa1f7c35b8391c2ef1ef_640.jpg",
+  "label": "soul, pastries, loaf, salt, caraway seeds, swabian soul, baguette like, white bread pastries, swabian cuisine, swabian, spelt, upper swabian, crispy, briegl, bannon",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "width": 5472,
+  "dhash": "dcddd3d3c7d3d3e2",
+  "judge": true,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "19910886",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fructus_Carvi_by_Danny_S._-_001.JPG",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fructus_Carvi_by_Danny_S._-_001.JPG/1280px-Fructus_Carvi_by_Danny_S._-_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Fructus Carvi by Danny S. - 001.JPG Carum carvi",
+  "author": "Danny Steven S.",
+  "license": "CC BY-SA 3.0",
+  "width": 3648,
+  "dhash": "ce8e0e0e262e3c1c",
+  "judge": true,
+  "status": "propose",
+  "index": 2
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "20185819",
+  "page_url": "https://commons.wikimedia.org/wiki/File:K%C3%BCmmel_2012-07-08-9523.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/K%C3%BCmmel_2012-07-08-9523.jpg/1280px-K%C3%BCmmel_2012-07-08-9523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Kümmel 2012-07-08-9523.jpg Caraway",
+  "author": "Slick",
+  "license": "CC0",
+  "width": 4158,
+  "dhash": "81848c0c04848092",
+  "judge": true,
+  "status": "propose",
+  "index": 3
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "71674726",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Spicy_Bananas_(92932197).jpeg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Spicy_Bananas_%2892932197%29.jpeg/1280px-Spicy_Bananas_%2892932197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Spicy Bananas (92932197).jpeg \n500px provided description: Interesting what spices can look like ... simple caraway! [#Macro ,#Spice ,#Caraway]",
+  "author": "\nPicchar",
+  "license": "CC BY 3.0",
+  "width": 2048,
+  "dhash": "b2aa3b856d47bb48",
+  "judge": true,
+  "status": "propose",
+  "index": 4
+ }
+]
