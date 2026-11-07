@@ -31,9 +31,22 @@ def title_match(cited, actual):
     return len(a & b) / min(len(a), len(b))
 
 
-def http(url, timeout=40):
-    req = urllib.request.Request(url, headers=UA)
-    return urllib.request.urlopen(req, timeout=timeout).read()
+def http(url, timeout=60, tries=5):
+    """Telechargement avec reprises : archive.org renvoie des HTTP 500 et des PDF tronques depuis les runners CI."""
+    import time
+    last = None
+    for k in range(tries):
+        try:
+            resp = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout)
+            raw = resp.read()
+            want = resp.headers.get("Content-Length")
+            if want and want.isdigit() and len(raw) != int(want):
+                raise IOError(f"telechargement tronque ({len(raw)}/{want} octets)")
+            return raw
+        except Exception as e:
+            last = e
+            time.sleep(3 * (k + 1))
+    raise last
 
 
 def pubmed_titles(pmids):
