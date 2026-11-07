@@ -138,5 +138,25 @@
     "plant": "plantago_ovata",
     "class": "opioide",
     "claim": "plantago_ovata-18"
+  },
+  {
+    "plant": "vaccinium_macrocarpon",
+    "class": "anticoagulant_coumarinique",
+    "claim": "vaccinium_macrocarpon-02"
+  },
+  {
+    "plant": "vaccinium_macrocarpon",
+    "class": "immunosuppresseur_greffe",
+    "claim": "vaccinium_macrocarpon-02"
+  },
+  {
+    "plant": "vaccinium_macrocarpon",
+    "class": "anticoagulant_coumarinique",
+    "claim": "vaccinium_macrocarpon-11"
+  },
+  {
+    "plant": "vaccinium_macrocarpon",
+    "class": "immunosuppresseur_greffe",
+    "claim": "vaccinium_macrocarpon-12"
   }
 ]

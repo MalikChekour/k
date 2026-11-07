@@ -1,0 +1,469 @@
+[
+  {
+    "id": "agrimonia_eupatoria-ind-01",
+    "plant": "agrimonia_eupatoria",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique de la diarrhée légère. Usage fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of mild diarrhoea."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-ind-02",
+    "plant": "agrimonia_eupatoria",
+    "type": "indication",
+    "statement": "Usage traditionnel : gargarisme pour le soulagement symptomatique des petites inflammations de la bouche et de la gorge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Traditional herbal medicinal product for use as a gargle for the symptomatic relief of minor inflammations of the mouth and throat."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-ind-03",
+    "plant": "agrimonia_eupatoria",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des petites inflammations cutanées et des petites plaies superficielles (usage cutané, bain additionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of minor skin inflammation and small, superficial wounds."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-01",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Tisane (partie aérienne broyée), adolescents, adultes et personnes âgées, diarrhée légère : 1,5 à 4 g dans 250 ml d'eau bouillante au maximum, en infusion, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Herbal tea: 1.5–4 g of the comminuted herbal substance in 250 ml (or less) of boiling water as a herbal infusion, 2–3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-02",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Teinture, adolescents, adultes et personnes âgées, diarrhée légère : 1 à 4 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Tincture: 1-4 ml, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-03",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Extrait liquide, adolescents, adultes et personnes âgées, diarrhée légère : 1 à 3 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Liquid extract: 1-3 ml, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-04",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Gargarisme, tisane (préparation par infusion) : 1,5 g de partie aérienne broyée dans 150 ml d'eau bouillante, 2 à 4 fois par jour, adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Comminuted herbal substance for infusion preparation: 1.5 g of the comminuted herbal substance in 150 ml of boiling water, 2–4 times daily as a gargle"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-05",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Gargarisme, décoction : 3 à 4,5 g dans 250 ml d'eau au maximum, 2 à 3 fois par jour, adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Comminuted herbal substance for decoction preparation: 3–4.5 g of the comminuted herbal substance in 250 ml (or less) of water, 2–3 times daily as a gargle"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-06",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Gargarisme, teinture : 1 à 4 ml, 3 fois par jour, adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Tincture: 1-4 ml, 3 times daily as a gargle"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-07",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Gargarisme, extrait liquide : 1 à 3 ml, 3 fois par jour, adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Liquid extract: 1-3 ml, 3 times daily as a gargle"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-08",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Usage cutané, décoction : 3 à 10 g dans 250 ml d'eau au maximum, en compresse imprégnée appliquée sur les zones de peau atteintes, adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Comminuted herbal substance for decoction preparation: 3-10 g of the comminuted herbal substance in 250 ml (or less) of water Apply as an impregnated dressing to the affected areas of the skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-09",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Bain additionnel, décoction : 3 à 10 g dans 250 ml d'eau au maximum, 2 fois par jour, pendant 30 minutes au maximum, adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Comminuted herbal substance for decoction preparation: 3-10 g of the comminuted herbal substance in 250 ml (or less) of water, twice daily Use as a bath additive up to 30 minutes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-10",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Durée (diarrhée) : si les symptômes persistent plus de 3 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "If the symptoms persist longer than 3 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-pos-11",
+    "plant": "agrimonia_eupatoria",
+    "type": "posology",
+    "statement": "Durée (gargarisme et usage cutané) : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "If the symptoms persist more than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-01",
+    "plant": "agrimonia_eupatoria",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-02",
+    "plant": "agrimonia_eupatoria",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates ; la monographie ne le recommande pas.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-03",
+    "plant": "agrimonia_eupatoria",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-04",
+    "plant": "agrimonia_eupatoria",
+    "type": "warning",
+    "statement": "Diarrhée récidivante ou selles sanglantes : consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "If recurrent diarrhoea or bloody stools occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-05",
+    "plant": "agrimonia_eupatoria",
+    "type": "warning",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol doit être prévu (ligne directrice sur les excipients).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-06",
+    "plant": "agrimonia_eupatoria",
+    "type": "undesirable_effect",
+    "statement": "Aucun effet indésirable connu (usage traditionnel).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-07",
+    "plant": "agrimonia_eupatoria",
+    "type": "warning",
+    "statement": "En cas de réactions indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-08",
+    "plant": "agrimonia_eupatoria",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "agrimonia_eupatoria-09",
+    "plant": "agrimonia_eupatoria",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-10",
+    "plant": "agrimonia_eupatoria",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "agrimonia_eupatoria-11",
+    "plant": "agrimonia_eupatoria",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

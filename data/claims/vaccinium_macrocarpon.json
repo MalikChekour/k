@@ -1,0 +1,495 @@
+[
+  {
+    "id": "vaccinium_macrocarpon-ind-01",
+    "plant": "vaccinium_macrocarpon",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes des infections urinaires basses récidivantes légères, tels que sensation de brûlure à la miction et/ou mictions fréquentes, chez la femme, après exclusion de pathologies graves par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Traditional herbal medicinal product used for relief of symptoms of mild recurrent lower urinary tract infections such as burning sensation during urination and/or frequent"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-ind-02",
+    "plant": "vaccinium_macrocarpon",
+    "type": "indication",
+    "statement": "Usage traditionnel : prévention des infections urinaires basses récidivantes non compliquées chez la femme, après exclusion de pathologies graves par un médecin (usage fondé exclusivement sur un usage de longue date).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Traditional herbal medicinal product used for prevention of recurrent uncomplicated lower urinary tract infections in women, after serious conditions have been excluded by a medical doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-01",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Préparation : jus exprimé du fruit frais (DER 1 : 0,6 à 0,9).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Expressed juice from the fresh fruit"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-02",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations à base de plante en forme liquide pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Herbal preparations in liquid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-03",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Femmes adultes et personnes âgées, indication 1 : 50 à 60 ml de jus exprimé, 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "50-60 ml expressed juice 2 - 4 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-04",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Femmes adultes et personnes âgées, indication 2 : 30 ml de jus exprimé, une fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "30 ml expressed juice once daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-05",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Durée, indication 1 : si les symptômes persistent plus de 4 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "If the symptoms persist for more than 4 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-06",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Durée, indication 2 : aucune restriction.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "No restriction."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-07",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Voie d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-pos-08",
+    "plant": "vaccinium_macrocarpon",
+    "type": "posology",
+    "statement": "Si les symptômes d'infection urinaire surviennent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "If the patient experience symptoms of urinary tract infection during the use of the medicinal product, a doctor or a qualified health care"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-01",
+    "plant": "vaccinium_macrocarpon",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité au fruit de canneberge (Vaccinium macrocarpon Ait.).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Hypersensitivity to cranberry (Vaccinium macrocarpon Ait.) fruit."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-02",
+    "plant": "vaccinium_macrocarpon",
+    "type": "contraindication",
+    "statement": "Association contre-indiquée avec le tacrolimus et la warfarine (voir interactions).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Concomitant use with tacrolimus and warfarin"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-03",
+    "plant": "vaccinium_macrocarpon",
+    "type": "age",
+    "statement": "Usage non recommandé chez les moins de 18 ans, les données étant insuffisantes ; un avis médical doit être demandé.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended because data is not sufficient and medical advice should be sought."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-04",
+    "plant": "vaccinium_macrocarpon",
+    "type": "warning",
+    "statement": "Usage non recommandé chez l'homme et la femme enceinte : les symptômes urinaires bas dans ces populations nécessitent une surveillance médicale.",
+    "severity": "precaution",
+    "population": "hommes et femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "The use in men and pregnant women is not recommended because lower urinary tract symptoms in these populations require medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-05",
+    "plant": "vaccinium_macrocarpon",
+    "type": "warning",
+    "statement": "Les patients atteints d'une maladie rénale ayant eu des infections urinaires récidivantes nécessitent une surveillance médicale.",
+    "severity": "precaution",
+    "population": "maladie rénale",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Patients with kidney disorders who experienced recurrent urinary tract infections require medical supervision."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "kidney_disease"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-06",
+    "plant": "vaccinium_macrocarpon",
+    "type": "warning",
+    "statement": "Le concentré de canneberge contient beaucoup d'oxalates ; risque accru de formation de calculs dans les voies urinaires chez les patients ayant des antécédents de calculs.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Cranberry concentrate has a high content of oxalate, and there may be an increased risk of stone formation in the urinary tract in patients with stone history."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-07",
+    "plant": "vaccinium_macrocarpon",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes ou de fièvre, brûlures à la miction, spasmes ou sang dans les urines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "If the symptoms worsen or if complaints such as fever, dysuria, spasms, or blood in urine occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-08",
+    "plant": "vaccinium_macrocarpon",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "In absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-09",
+    "plant": "vaccinium_macrocarpon",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-10",
+    "plant": "vaccinium_macrocarpon",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-11",
+    "plant": "vaccinium_macrocarpon",
+    "type": "interaction",
+    "statement": "Le jus de canneberge et les autres produits à base de canneberge peuvent potentialiser l'effet de la warfarine ; l'usage concomitant doit donc être évité.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Cranberry juice and other cranberry products may potentiate the effect of warfarin and therefore concomitant use should be avoided"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-12",
+    "plant": "vaccinium_macrocarpon",
+    "type": "interaction",
+    "statement": "Baisses des taux sanguins de tacrolimus rapportées avec le jus de canneberge (patiente greffée rénale) ; l'usage concomitant des préparations à base de canneberge et de tacrolimus doit être évité.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Decreased tacrolimus serum levels have been reported from the concomitant use of cranberry juice and tacrolimus in a renal allografted patient"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-13",
+    "plant": "vaccinium_macrocarpon",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables digestifs : nausées, diarrhée et dyspepsie ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Gastrointestinal disorders: nausea, diarrhoea and dyspepsia. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-14",
+    "plant": "vaccinium_macrocarpon",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables cutanés : urticaire et éruption cutanée ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Skin and subcutaneous tissue disorders: urticaria and rash. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-15",
+    "plant": "vaccinium_macrocarpon",
+    "type": "undesirable_effect",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vaccinium_macrocarpon-16",
+    "plant": "vaccinium_macrocarpon",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

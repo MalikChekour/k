@@ -881,5 +881,158 @@
    "coucou",
    "primula"
   ]
+ },
+ {
+  "id": "agrimonia_eupatoria",
+  "fr": "Aigremoine",
+  "latin": "Agrimonia eupatoria L.",
+  "part": "partie aérienne",
+  "queries": [
+   "agrimony herb",
+   "Agrimonia eupatoria herb",
+   "Agrimonia eupatoria plant"
+  ],
+  "keys": [
+   "aigremoine",
+   "agrimonie",
+   "agrimony",
+   "agrimonia eupatoria"
+  ],
+  "aliases": [
+   "aigremoine",
+   "eupatoire des anciens",
+   "agrimony"
+  ]
+ },
+ {
+  "id": "carum_carvi",
+  "fr": "Carvi (fruit)",
+  "latin": "Carum carvi L.",
+  "part": "fruit",
+  "queries": [
+   "caraway fruit",
+   "Carum carvi fruit",
+   "caraway"
+  ],
+  "keys": [
+   "carvi",
+   "carum carvi",
+   "caraway",
+   "cumin des prés"
+  ],
+  "aliases": [
+   "carvi",
+   "cumin des prés",
+   "caraway"
+  ]
+ },
+ {
+  "id": "malva_sylvestris",
+  "fr": "Mauve",
+  "latin": "Malva sylvestris L.",
+  "part": "fleur",
+  "queries": [
+   "common mallow flower",
+   "Malva sylvestris flowers",
+   "mallow flower"
+  ],
+  "keys": [
+   "mauve",
+   "malva",
+   "mallow",
+   "malva sylvestris"
+  ],
+  "aliases": [
+   "mauve sylvestre",
+   "grande mauve",
+   "mauve"
+  ]
+ },
+ {
+  "id": "origanum_majorana",
+  "fr": "Marjolaine",
+  "latin": "Origanum majorana L.",
+  "part": "partie aérienne",
+  "queries": [
+   "marjoram herb",
+   "Origanum majorana herba",
+   "Origanum majorana plant"
+  ],
+  "keys": [
+   "marjolaine",
+   "marjoram",
+   "origanum majorana",
+   "majorana"
+  ],
+  "aliases": [
+   "marjolaine",
+   "marjolaine à coquilles",
+   "marjoram"
+  ]
+ },
+ {
+  "id": "ribes_nigrum",
+  "fr": "Cassis (feuille)",
+  "latin": "Ribes nigrum L.",
+  "part": "feuille",
+  "queries": [
+   "blackcurrant leaf",
+   "Ribes nigrum leaves",
+   "Ribes nigrum plant"
+  ],
+  "keys": [
+   "cassis",
+   "ribes nigrum",
+   "blackcurrant",
+   "groseillier noir"
+  ],
+  "aliases": [
+   "cassis",
+   "cassissier",
+   "blackcurrant"
+  ]
+ },
+ {
+  "id": "serenoa_repens",
+  "fr": "Palmier de Floride, sabal",
+  "latin": "Serenoa repens (W. Bartram) Small",
+  "part": "fruit",
+  "queries": [
+   "saw palmetto fruit",
+   "Serenoa repens fruit",
+   "Serenoa repens"
+  ],
+  "keys": [
+   "palmier de floride",
+   "sabal",
+   "serenoa",
+   "saw palmetto"
+  ],
+  "aliases": [
+   "palmier de Floride",
+   "sabal",
+   "saw palmetto"
+  ]
+ },
+ {
+  "id": "vaccinium_macrocarpon",
+  "fr": "Canneberge",
+  "latin": "Vaccinium macrocarpon Aiton",
+  "part": "fruit",
+  "queries": [
+   "cranberry fruit",
+   "Vaccinium macrocarpon",
+   "cranberry juice"
+  ],
+  "keys": [
+   "canneberge",
+   "cranberry",
+   "vaccinium macrocarpon"
+  ],
+  "aliases": [
+   "canneberge",
+   "cranberry",
+   "airelle à gros fruits"
+  ]
  }
 ]

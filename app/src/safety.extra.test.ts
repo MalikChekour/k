@@ -322,3 +322,17 @@ test('lierre : contre-indiqué avant 2 ans, pas à 5 ans', () => {
   assert.equal(assess(bundle, ['hedera_helix'], { ageYears: 1, flags: [] }).verdict, 'contre_indication');
   assert.notEqual(assess(bundle, ['hedera_helix'], { ageYears: 5, flags: [] }).verdict, 'contre_indication');
 });
+
+test('canneberge : warfarine et tacrolimus = alerte ; cassis : restriction hydrique = contre-indication', () => {
+  const w = assess(bundle, ['vaccinium_macrocarpon'], { flags: [], meds: ['warfarine'] });
+  assert.ok(w.alerts.some(a => a.claimId === 'vaccinium_macrocarpon-02'));
+  assert.ok(assess(bundle, ['vaccinium_macrocarpon'], { flags: [], meds: ['tacrolimus'] }).alerts.some(a => a.claimId === 'vaccinium_macrocarpon-12'));
+  assert.equal(assess(bundle, ['ribes_nigrum'], { flags: ['fluid_restriction'] }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['ribes_nigrum'], { flags: [] }).verdict, 'contre_indication');
+});
+test('mauve, carvi, aigremoine, marjolaine, palmier : allergie = contre-indication, jamais pour tous', () => {
+  for (const id of ['malva_sylvestris', 'carum_carvi', 'agrimonia_eupatoria', 'origanum_majorana', 'serenoa_repens']) {
+    assert.equal(assess(bundle, [id], { flags: ['plant_allergy'] }).verdict, 'contre_indication', id);
+    assert.notEqual(assess(bundle, [id], { flags: [] }).verdict, 'contre_indication', id);
+  }
+});

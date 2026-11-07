@@ -48,7 +48,11 @@
         "cynara_scolymus-ind-01",
         "glycyrrhiza_glabra-ind-01",
         "althaea_officinalis-ind-02",
-        "plantago_ovata-ind-01"
+        "plantago_ovata-ind-01",
+        "agrimonia_eupatoria-ind-01",
+        "carum_carvi-ind-01",
+        "malva_sylvestris-ind-02",
+        "origanum_majorana-ind-01"
       ]
     },
     {
@@ -70,7 +74,8 @@
       "fr": "Petites plaies superficielles (usage cutané)",
       "claims": [
         "echinacea_purpurea-ind-02",
-        "equisetum_arvense-ind-02"
+        "equisetum_arvense-ind-02",
+        "agrimonia_eupatoria-ind-03"
       ]
     },
     {
@@ -81,7 +86,9 @@
         "taraxacum_officinale-ind-03",
         "equisetum_arvense-ind-01",
         "betula_pendula-ind-01",
-        "arctostaphylos_uva_ursi-ind-01"
+        "arctostaphylos_uva_ursi-ind-01",
+        "ribes_nigrum-ind-02",
+        "vaccinium_macrocarpon-ind-01"
       ]
     },
     {
@@ -103,7 +110,8 @@
         "pelargonium_sidoides-ind-01",
         "althaea_officinalis-ind-01",
         "hedera_helix-ind-01",
-        "primula_veris-ind-01"
+        "primula_veris-ind-01",
+        "malva_sylvestris-ind-01"
       ]
     },
     {
@@ -114,7 +122,8 @@
         "urtica_dioica-ind-02",
         "zingiber_officinale-ind-04",
         "harpagophytum_procumbens-ind-01",
-        "rosmarinus_officinalis-ind-02"
+        "rosmarinus_officinalis-ind-02",
+        "ribes_nigrum-ind-01"
       ]
     },
     {
