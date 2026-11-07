@@ -7,7 +7,7 @@ Regles (stdlib uniquement, aucune installation) :
   - status == "publie"    : exige reviewed_by + reviewed_on.
 Code de sortie != 0 si une seule affirmation echoue.
 """
-import json, re, sys, glob, urllib.request, urllib.parse, io, subprocess, tempfile, os
+import json, re, sys, unicodedata, glob, urllib.request, urllib.parse, io, subprocess, tempfile, os
 
 UA = {"User-Agent": "apothecaria-verify/0.1 (contact: holder.8922@gmail.com)"}
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id="
@@ -21,7 +21,7 @@ def norm(s):
 
 def squash(s):
     """Sans espaces ni ponctuation : insensible aux coupures de mots et a la version de pdftotext."""
-    return re.sub(r"[^a-z0-9à-ÿ]", "", s.lower().replace("­", ""))
+    return re.sub(r"[^a-z0-9à-ÿ]", "", unicodedata.normalize("NFKC", s).lower().replace("­", ""))
 
 
 def title_match(cited, actual):
