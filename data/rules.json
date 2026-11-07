@@ -273,5 +273,35 @@
     "plant": "solidago_virgaurea",
     "class": "diuretique",
     "claim": "solidago_virgaurea-05"
+  },
+  {
+    "plant": "allium_sativum",
+    "class": "antiretroviral",
+    "claim": "allium_sativum-12"
+  },
+  {
+    "plant": "allium_sativum",
+    "class": "anticoagulant_coumarinique",
+    "claim": "allium_sativum-11"
+  },
+  {
+    "plant": "allium_sativum",
+    "class": "anticoagulant_indanedione",
+    "claim": "allium_sativum-11"
+  },
+  {
+    "plant": "allium_sativum",
+    "class": "anticoagulant_oral_direct",
+    "claim": "allium_sativum-11"
+  },
+  {
+    "plant": "allium_sativum",
+    "class": "antiagregant",
+    "claim": "allium_sativum-11"
+  },
+  {
+    "plant": "trigonella_foenum_graecum",
+    "class": "antidiabetique",
+    "claim": "trigonella_foenum_graecum-06"
   }
 ]

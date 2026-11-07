@@ -64,7 +64,9 @@
         "linum_usitatissimum-ind-02",
         "marrubium_vulgare-ind-02",
         "pimpinella_anisum-ind-01",
-        "potentilla_erecta-ind-01"
+        "potentilla_erecta-ind-01",
+        "rubus_idaeus-ind-03",
+        "vaccinium_myrtillus-ind-01"
       ]
     },
     {
@@ -78,7 +80,8 @@
       "id": "regles",
       "fr": "Spasmes légers liés aux règles",
       "claims": [
-        "foeniculum_vulgare-ind-02"
+        "foeniculum_vulgare-ind-02",
+        "rubus_idaeus-ind-01"
       ]
     },
     {
@@ -133,7 +136,8 @@
         "verbascum_densiflorum-ind-01",
         "salix_purpurea-ind-02",
         "marrubium_vulgare-ind-01",
-        "pimpinella_anisum-ind-02"
+        "pimpinella_anisum-ind-02",
+        "allium_sativum-ind-02"
       ]
     },
     {
@@ -156,7 +160,9 @@
         "urtica_dioica-ind-03",
         "calendula_officinalis-ind-01",
         "plantago_lanceolata-ind-03",
-        "salvia_officinalis-ind-04"
+        "salvia_officinalis-ind-04",
+        "rosa_damascena-ind-02",
+        "trigonella_foenum_graecum-ind-02"
       ]
     },
     {
@@ -215,7 +221,8 @@
       "claims": [
         "panax_ginseng-ind-01",
         "eleutherococcus_senticosus-ind-01",
-        "rhodiola_rosea-ind-01"
+        "rhodiola_rosea-ind-01",
+        "camellia_sinensis-ind-01"
       ]
     }
   ]

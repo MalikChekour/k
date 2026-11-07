@@ -1,0 +1,539 @@
+[
+  {
+    "id": "syzygium_aromaticum-ind-01",
+    "plant": "syzygium_aromaticum",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des petites inflammations de la bouche ou de la gorge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of minor inflammations in"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-ind-02",
+    "plant": "syzygium_aromaticum",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement temporaire des douleurs dentaires dues à une carie.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Traditional herbal medicinal product for the temporary relief of toothache due to a dental cavity."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-ind-03",
+    "plant": "syzygium_aromaticum",
+    "type": "indication",
+    "statement": "Les indications sont fondées exclusivement sur un usage de longue date (usage traditionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-01",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Indication 1 (bains de bouche), adultes et personnes âgées : solution correspondant à 1 à 5 % d'huile essentielle, à appliquer plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Apply several times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-02",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Indication 2 (usage dentaire), adultes et personnes âgées : huile essentielle non diluée, ou solutions à une concentration d'au moins 50 %, ou gels à 20 %.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Undiluted essential oil or solutions in a strength of minimum 50% or gels in a strength of 20%."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-03",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Indication 2 : renouveler l'administration après 20 minutes, puis toutes les 2 heures si nécessaire.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Repeat administration after 20 minutes, then every 2 hours if necessary."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-04",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Durée maximale : ne pas utiliser plus d'une semaine (indications 1 et 2).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Not to be used for more than 1 week."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-05",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-06",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Voie d'administration : usage oromuqueux (indication 1) et usage dentaire (indication 2).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-07",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Mode d'emploi : un petit morceau de coton est imbibé d'huile non diluée ou d'une solution diluée ; les formes semi-solides sont placées sur un coton-tige.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "A small piece of cotton wool should be soaked in the undiluted oil or in a diluted solution; semisolid dosage forms should be placed on a cotton bud."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-pos-08",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Le coton-tige ou le coton doit être dirigé avec précision vers la partie cariée de la dent.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Cotton bud or cotton wool should be accurately directed to the decayed part of the tooth."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-01",
+    "plant": "syzygium_aromaticum",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active ou au baume du Pérou.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s) or to Peru balsam."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-02",
+    "plant": "syzygium_aromaticum",
+    "type": "age",
+    "statement": "Usage déconseillé chez les enfants et adolescents de moins de 18 ans (posologie).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-03",
+    "plant": "syzygium_aromaticum",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-04",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "Indication 2 : éviter le contact avec les gencives.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Avoid contact with gums."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-05",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "Le soulagement de la douleur dentaire par l'huile de girofle n'est qu'une mesure provisoire ; des soins dentaires doivent être recherchés dès que possible.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "The relief of toothache by clove essential oil is only a provisional measure. Dental attention should be sought as soon as possible."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-06",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-07",
+    "plant": "syzygium_aromaticum",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-08",
+    "plant": "syzygium_aromaticum",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-09",
+    "plant": "syzygium_aromaticum",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-10",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "Irritations des muqueuses et réactions allergiques rapportées ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Mucosal irritations and allergic reactions have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-11",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "En cas d'autre effet indésirable non mentionné ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-12",
+    "plant": "syzygium_aromaticum",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage après usage oromuqueux ou dentaire n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "No case of overdose from oromucosal or dental use has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-13",
+    "plant": "syzygium_aromaticum",
+    "type": "overdose",
+    "statement": "Après administration orale de 5 à 10 ml d'huile de girofle chez des enfants de moins de 2 ans, des états menaçant le pronostic vital ont été observés.",
+    "severity": "precaution",
+    "population": "moins de 2 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "After oral administration of 5-10 ml of clove oil in children below 2 years of age, life threatening conditions were observed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_2"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-14",
+    "plant": "syzygium_aromaticum",
+    "type": "overdose",
+    "statement": "Un surdosage peut entraîner une dépression du système nerveux central, des anomalies urinaires, une acidose à trou anionique, une altération de la fonction hépatique, un coma, des convulsions et une hypoglycémie.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Overdose may lead to CNS depression, urinary abnormalities, anion gap acidosis, deterioration of liver function, coma, seizure and low blood glucose levels."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-15",
+    "plant": "syzygium_aromaticum",
+    "type": "overdose",
+    "statement": "Le traitement est de soutien et symptomatique ; la littérature rapporte que la N-acétylcystéine a été utilisée avec succès comme antidote.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Treatment should be supportive and symptomatic; there have been reports in the literature that N-acetylcysteine has been successfully used as an antidote."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-16",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "L'eugénol, principal composant de l'huile de girofle, a donné des résultats équivoques dans plusieurs tests de génotoxicité et de cancérogénicité.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Eugenol, the main component of clove oil, showed equivocal results in several test systems for genotoxicity and carcinogenicity."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "syzygium_aromaticum-17",
+    "plant": "syzygium_aromaticum",
+    "type": "warning",
+    "statement": "Les tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité de l'huile de girofle entière n'ont pas été réalisés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity of the entire clove oil have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

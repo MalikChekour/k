@@ -77,7 +77,12 @@
       "fr": "Antirétroviral (inhibiteur de protéase / INTI)",
       "substances": [
         "fosamprenavir",
-        "indinavir"
+        "indinavir",
+        "saquinavir",
+        "ritonavir",
+        "invirase",
+        "norvir",
+        "kaletra"
       ]
     },
     {

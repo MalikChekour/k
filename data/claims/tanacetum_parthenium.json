@@ -1,0 +1,346 @@
+[
+  {
+    "id": "tanacetum_parthenium-ind-01",
+    "plant": "tanacetum_parthenium",
+    "type": "indication",
+    "statement": "Médicament phytothérapeutique traditionnel pour la prophylaxie des migraines, après que des affections graves ont été écartées par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "prophylaxis of migraine headaches after serious"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-ind-02",
+    "plant": "tanacetum_parthenium",
+    "type": "indication",
+    "statement": "Usage traditionnel uniquement, fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "exclusively based upon long-standing use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-pos-01",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées : 100 mg de substance végétale pulvérisée une fois par jour, ou 200 mg trois fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Single dose: 100 mg of powdered herbal"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-pos-02",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "La dose quotidienne de 100 mg peut être augmentée progressivement jusqu'à obtention d'un effet, sans dépasser 600 mg par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "The daily dosage of 100 mg may be gradually"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-pos-03",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "Dose journalière maximale : 600 mg de substance végétale pulvérisée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "the daily dose of 600 mg."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-pos-04",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "Durée : si les migraines réapparaissent après 2 mois d'utilisation (durée habituelle pour obtenir un effet), consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "If migraine headaches recur after using the medicinal product for 2 months (usual period of treatment to obtain an effect)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-pos-05",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-01",
+    "plant": "tanacetum_parthenium",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-02",
+    "plant": "tanacetum_parthenium",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à d'autres plantes de la famille des Astéracées (Composées).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "to other plants of the Asteraceae (Compositae) family."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "asteraceae_allergy"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-03",
+    "plant": "tanacetum_parthenium",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-04",
+    "plant": "tanacetum_parthenium",
+    "type": "pregnancy",
+    "statement": "L'usage n'est pas recommandé pendant la grossesse et l'allaitement.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "The use is not recommended during pregnancy and lactation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-05",
+    "plant": "tanacetum_parthenium",
+    "type": "pregnancy",
+    "statement": "Des études chez l'animal ont montré des signes de toxicité pour la reproduction.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Studies in animals have shown signs of reproductive toxicity"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-06",
+    "plant": "tanacetum_parthenium",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-07",
+    "plant": "tanacetum_parthenium",
+    "type": "undesirable_effect",
+    "statement": "Des troubles gastro-intestinaux ont été rapportés ; leur fréquence n'est pas connue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Gastrointestinal disturbances have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-08",
+    "plant": "tanacetum_parthenium",
+    "type": "warning",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-09",
+    "plant": "tanacetum_parthenium",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-10",
+    "plant": "tanacetum_parthenium",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-11",
+    "plant": "tanacetum_parthenium",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

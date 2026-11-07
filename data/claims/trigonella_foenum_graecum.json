@@ -1,0 +1,724 @@
+[
+  {
+    "id": "trigonella_foenum_graecum-ind-01",
+    "plant": "trigonella_foenum_graecum",
+    "type": "indication",
+    "statement": "Usage traditionnel : perte d'appétit temporaire.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used for temporary loss of appetite."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-ind-02",
+    "plant": "trigonella_foenum_graecum",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des petites inflammations de la peau.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the symptomatic treatment of minor inflammations of the skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-ind-03",
+    "plant": "trigonella_foenum_graecum",
+    "type": "indication",
+    "statement": "Les indications ci-dessus reposent exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-01",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1 (perte d'appétit), tisane de substance végétale : 1 à 6 g par jour dans 250 ml d'eau bouillante, avant les repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Herbal tea: 1-6 g daily of the herbal substance in 250 ml of boiling water, before meals"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-02",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, substance végétale concassée : 1 à 2 g avec un liquide, 3 fois par jour, avant les repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Comminuted herbal substance: 1-2 g with liquid, 3 times daily, before meals"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-03",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, macérât : 0,5 g de substance végétale concassée macérée dans 150 ml d'eau froide pendant 3 heures ; filtrer. Boire 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Macerate: 0.5 g comminuted herbal substance macerated in 150 ml cold water for 3 hours; strain. Drink 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-04",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, substance végétale pulvérisée : dose unitaire de 380 à 1100 mg, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Single dose: 380-1100 mg, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-05",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, substance végétale pulvérisée : dose quotidienne de 1140 à 3300 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Daily dose: 1140-3300 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-06",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, extrait sec (DER 4:1, éthanol 20 % V/V) : dose unitaire de 295 mg, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Single dose: 295 mg, 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-07",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, extrait sec : dose quotidienne de 590 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Daily dose: 590 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-08",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, extrait mou (DER 5-6:1, éthanol 60 % V/V) : dose unitaire de 500 mg, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Single dose: 500 mg, 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-09",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, indication 1, extrait mou : dose quotidienne de 1 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Daily dose: 1 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-10",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Indication 2 (usage cutané), substance végétale ou substance végétale pulvérisée en infusion : 50 g dans 250 ml d'eau, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Herbal substance or powdered herbal substance for infusion for cutaneous use: 50 g in 250 ml of water, 2-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-11",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Indication 2 : l'infusion encore tiède est utilisée en cataplasme sur les zones atteintes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "The still warm infusion is used in cataplasm over the affected areas."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-12",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Indication 1 : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-13",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Indication 2 : voie cutanée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Cutaneous use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-14",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Indication 1 : si les symptômes persistent plus de deux semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "If the symptoms persist more than two weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-pos-15",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Indication 2 : si les symptômes persistent plus d'une semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "If the symptoms persist more than one week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-01",
+    "plant": "trigonella_foenum_graecum",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-02",
+    "plant": "trigonella_foenum_graecum",
+    "type": "contraindication",
+    "statement": "Précaution : hypersensibilité aux arachides, au soja et aux autres plantes de la famille des Fabacées (légumineuses), citée comme contre-indication dans la monographie.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "peanut, soya, and to other plants of the Fabaceae (legume) family"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-03",
+    "plant": "trigonella_foenum_graecum",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans (indications 1 et 2).",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-04",
+    "plant": "trigonella_foenum_graecum",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données de sécurité adéquates.",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate safety data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-05",
+    "plant": "trigonella_foenum_graecum",
+    "type": "warning",
+    "statement": "Pour les extraits contenant de l'éthanol, la mention d'avertissement appropriée pour l'éthanol (annexe de la ligne directrice de la Commission européenne sur les excipients) doit être incluse.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "For extracts containing ethanol, the appropriate warning for ethanol, taken from the `Annex to the European Commission guideline on excipients in the labelling and package leaflet of medicinal products for human use', must be included."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-06",
+    "plant": "trigonella_foenum_graecum",
+    "type": "interaction",
+    "statement": "Effet hypoglycémiant possible du fénugrec : surveillance de la glycémie à envisager chez les patients traités pour un diabète sucré.",
+    "severity": "precaution",
+    "population": "patients traités pour un diabète sucré",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Due to a possible hypoglycaemic effect of fenugreek, close monitoring of glycaemic control should be considered in patients treated for diabetes mellitus."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-07",
+    "plant": "trigonella_foenum_graecum",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "trigonella_foenum_graecum-08",
+    "plant": "trigonella_foenum_graecum",
+    "type": "pregnancy",
+    "statement": "Données absentes ou limitées sur l'usage pendant la grossesse et l'allaitement.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "There are no or limited data from use during pregnancy and lactation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-09",
+    "plant": "trigonella_foenum_graecum",
+    "type": "pregnancy",
+    "statement": "Usage pendant la grossesse et l'allaitement, et chez les femmes en âge de procréer ne recourant pas à une contraception : non recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "The use during pregnancy and lactation and in women of childbearing potential not using"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-10",
+    "plant": "trigonella_foenum_graecum",
+    "type": "pregnancy",
+    "statement": "Des études chez l'animal ont montré une toxicité sur la reproduction, y compris sur la fertilité mâle et femelle.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Studies in animals have shown reproductive toxicity including male and female fertility"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-11",
+    "plant": "trigonella_foenum_graecum",
+    "type": "pregnancy",
+    "statement": "Chez le rat et la souris, à fortes doses de graines de fénugrec : résorption embryonnaire, mort fœtale, retard de croissance, malformations et altérations des performances neurocomportementales ont été rapportés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "In studies in rats and mice with high doses of fenugreek seed, embryo resorption, foetal death, growth retardation, malformations and altered neurobehavioral performance have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-12",
+    "plant": "trigonella_foenum_graecum",
+    "type": "warning",
+    "statement": "Baisse des taux d'hormones thyroïdiennes (T3) rapportée chez des rongeurs traités par des extraits hydro-éthanoliques à 110 mg/kg par jour et plus (données précliniques).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Decreased thyroid hormone levels (T3, triiodothyronine) were reported in rodents treated with hydro-ethanolic extracts at 110 mg/kg per day and above."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-13",
+    "plant": "trigonella_foenum_graecum",
+    "type": "warning",
+    "statement": "Toxicité testiculaire et baisse de la fertilité rapportées dans des études à fortes doses de graines de fénugrec chez la souris, le rat et le lapin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "testicular toxicity and decreased fertility have been reported in studies with high doses of fenugreek seed in mice, rats and rabbits"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-14",
+    "plant": "trigonella_foenum_graecum",
+    "type": "warning",
+    "statement": "Les études adéquates sur la toxicité pour la reproduction n'ont pas été réalisées.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Adequate studies on reproductive toxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-15",
+    "plant": "trigonella_foenum_graecum",
+    "type": "warning",
+    "statement": "Les tests de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Tests on genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-16",
+    "plant": "trigonella_foenum_graecum",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-17",
+    "plant": "trigonella_foenum_graecum",
+    "type": "overdose",
+    "statement": "Surdosage : des doses élevées (entre 25 g et 100 g de poudre de graines de fénugrec, réparties en deux doses quotidiennes égales) ont été rapportées comme provoquant des symptômes gastro-intestinaux mineurs, tels que diarrhée et flatulences, dans 4 cas sur 10.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "High doses (between 25 g and 100 g of powder of fenugreek seeds divided into two equal daily doses) have been reported to cause minor gastrointestinal symptoms such as diarrhoea and flatulence in 4 out of 10 cases."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-18",
+    "plant": "trigonella_foenum_graecum",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables digestifs (flatulences, diarrhée) et du système nerveux (vertiges) pouvant survenir ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Gastrointestinal disorders: flatulence, diarrhoea may occur. Nervous system disorders: dizziness may occur. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-19",
+    "plant": "trigonella_foenum_graecum",
+    "type": "undesirable_effect",
+    "statement": "Réactions allergiques rapportées après application locale (angio-œdème du visage, sifflements respiratoires) ou ingestion (asthme, rhinite allergique) ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Allergic reactions have been reported after local application (facial angioedema, wheezing) or ingestion (asthma, allergic rhinitis). The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-20",
+    "plant": "trigonella_foenum_graecum",
+    "type": "undesirable_effect",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

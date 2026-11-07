@@ -572,5 +572,61 @@
   "license": "CC BY-SA 4.0",
   "page_url": "https://commons.wikimedia.org/wiki/File:Solidago_virgaurea_subsp._virgaurea_sl10.jpg",
   "label": "File:Solidago altissima, 2020-09-27, Beechview, 01.jpg Tall Goldenrod (Solidago Altissima) blooming in the Beechview neighborhood of Pittsburgh"
+ },
+ "allium_sativum": {
+  "provider": "wikimedia",
+  "author": "Koorosh Orooj",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Garlic_.jpg",
+  "label": "File:Garlic .jpg Garlic\nPhoto by: Koorosh Orooj"
+ },
+ "camellia_sinensis": {
+  "provider": "wikimedia",
+  "author": "auteur non renseigné (Wikimedia Commons)",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Camellia_sinensis_BotGardBln1105YoungLeavesReadyForHarvest.JPG",
+  "label": "File:Camellia sinensis BotGardBln1105YoungLeavesReadyForHarvest.JPG "
+ },
+ "trigonella_foenum_graecum": {
+  "provider": "wikimedia",
+  "author": "Miansari66",
+  "license": "Public domain",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fenugreek_seed.JPG",
+  "label": "File:Fenugreek seed.JPG Methi dana"
+ },
+ "vaccinium_myrtillus": {
+  "provider": "wikimedia",
+  "author": "W.carter",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Fresh_bilberries_picked_in_Tuntorp_5.jpg",
+  "label": "File:Fresh bilberries picked in Tuntorp 5.jpg Bilberries (Vaccinium myrtillus) just picked in the forest in Tuntorp, Brastad, Lysekil Municipality, Sweden. The berries are spread on a tray to clean and prepare them."
+ },
+ "syzygium_aromaticum": {
+  "provider": "wikimedia",
+  "author": "Rillke",
+  "license": "CC BY-SA 3.0 de",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Cariophylli_flos_-_Myrtaceae_245049.jpg",
+  "label": "File:Cariophylli flos - Myrtaceae 245049.jpg dried Cloves (Syzygium aromaticum, syn. Eugenia aromaticum or Eugenia caryophyllata) are the aromatic dried flower buds of a tree in the family Myrtaceae.; Flower"
+ },
+ "rubus_idaeus": {
+  "provider": "wikimedia",
+  "author": "Dmitry Makeev",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Rubus_idaeus._img-001.jpg",
+  "label": "File:2020 year. Herbarium. Rubus idaeus. img-001.jpg Rubus idaeus. Leaf adaxial side. Herbarium of the city Elektrostal Moscow Oblast, 2020 year. Created by scanography. Collection D.Makeev. Scale 1 unit = 1 mm. These are original colors. Please do not "
+ },
+ "rosa_damascena": {
+  "provider": "wikimedia",
+  "author": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Rosa_damascena_002.JPG",
+  "label": "File:Rosa damascena 002.JPG Rosa x damascena, Rosaceae, Damask rose, flower."
+ },
+ "tanacetum_parthenium": {
+  "provider": "wikimedia",
+  "author": "H. Zell",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tanacetum_parthenium_002.JPG",
+  "label": "File:Tanacetum parthenium 002.JPG Tanacetum parthenium, Asteraceae, Feverfew, inflorescences."
  }
 }

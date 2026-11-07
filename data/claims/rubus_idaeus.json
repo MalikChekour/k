@@ -1,0 +1,455 @@
+[
+  {
+    "id": "rubus_idaeus-ind-01",
+    "plant": "rubus_idaeus",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des spasmes mineurs associés aux règles.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic relief of minor spasm associated with"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-ind-02",
+    "plant": "rubus_idaeus",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des inflammations légères de la bouche ou de la gorge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of mild inflammation in the mouth or throat."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-ind-03",
+    "plant": "rubus_idaeus",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des diarrhées légères.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of mild diarrhoea."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-ind-04",
+    "plant": "rubus_idaeus",
+    "type": "indication",
+    "statement": "Usage traditionnel : les indications reposent exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-01",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, spasmes des règles, extrait sec : dose unique de 113 à 226 mg, jusqu'à 3 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Dry extract: 113-226 mg, up to 3 to 4 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-02",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Extrait sec (spasmes des règles) : à prendre après les repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "To be taken after meals."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-03",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, inflammation de la bouche ou de la gorge, substance végétale broyée en infusion pour usage oromuqueux : dose unique de 1,5 à 8 g dans 150 ml d'eau bouillante, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Comminuted herbal substance for infusion preparation for oromucosal use: 1.5-8 g of the comminuted herbal substance in 150 ml of boiling water, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-04",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Infusion pour usage oromuqueux (bouche ou gorge) : en gargarisme.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Use as a gargle."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-05",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, diarrhées légères, tisane : dose unique de 1,5 à 8 g de substance végétale broyée dans 150 ml d'eau bouillante, en infusion, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Herbal tea: 1.5-8 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-06",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Voie orale pour les indications spasmes des règles et diarrhées légères.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-07",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Voie oromuqueuse pour l'indication inflammation de la bouche ou de la gorge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-08",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Spasmes des règles et inflammation de la bouche ou de la gorge : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-pos-09",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Diarrhées légères : si les symptômes persistent plus de 3 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "If the symptoms persist longer than 3 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-01",
+    "plant": "rubus_idaeus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-02",
+    "plant": "rubus_idaeus",
+    "type": "age",
+    "statement": "Utilisation non recommandée chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-03",
+    "plant": "rubus_idaeus",
+    "type": "age",
+    "statement": "Utilisation chez les enfants et adolescents de moins de 18 ans non établie, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-04",
+    "plant": "rubus_idaeus",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-05",
+    "plant": "rubus_idaeus",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-06",
+    "plant": "rubus_idaeus",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-07",
+    "plant": "rubus_idaeus",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-08",
+    "plant": "rubus_idaeus",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-09",
+    "plant": "rubus_idaeus",
+    "type": "undesirable_effects",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-10",
+    "plant": "rubus_idaeus",
+    "type": "warning",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-11",
+    "plant": "rubus_idaeus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

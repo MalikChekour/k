@@ -1626,5 +1626,202 @@
    "goldenrod",
    "solidago virgaurea"
   ]
+ },
+ {
+  "id": "allium_sativum",
+  "fr": "Ail (bulbe)",
+  "latin": "Allium sativum L.",
+  "part": "bulbe",
+  "queries": [
+   "garlic bulb",
+   "Allium sativum bulb",
+   "garlic cloves"
+  ],
+  "keys": [
+   "ail",
+   "garlic",
+   "allium sativum"
+  ],
+  "aliases": [
+   "ail",
+   "garlic",
+   "allium sativum"
+  ]
+ },
+ {
+  "id": "camellia_sinensis",
+  "fr": "Thé vert (feuille)",
+  "latin": "Camellia sinensis (L.) Kuntze",
+  "part": "feuille",
+  "queries": [
+   "green tea leaves",
+   "Camellia sinensis leaves",
+   "Camellia sinensis plant"
+  ],
+  "keys": [
+   "thé vert",
+   "thé",
+   "green tea",
+   "camellia",
+   "camellia sinensis (l.) kuntze"
+  ],
+  "aliases": [
+   "thé vert",
+   "thé",
+   "green tea",
+   "camellia",
+   "camellia sinensis (l.) kuntze"
+  ]
+ },
+ {
+  "id": "rosa_damascena",
+  "fr": "Rose (fleur)",
+  "latin": "Rosa gallica L., Rosa centifolia L., Rosa damascena Mill.",
+  "part": "fleur",
+  "queries": [
+   "Rosa damascena flowers",
+   "damask rose petals",
+   "Rosa centifolia flower"
+  ],
+  "keys": [
+   "rose",
+   "rose de damas",
+   "rosa",
+   "damask rose",
+   "rosa gallica",
+   "rosa centifolia",
+   "rosa damascena"
+  ],
+  "aliases": [
+   "rose",
+   "rose de damas",
+   "rosa",
+   "damask rose",
+   "rosa gallica",
+   "rosa centifolia"
+  ]
+ },
+ {
+  "id": "rubus_idaeus",
+  "fr": "Framboisier (feuille)",
+  "latin": "Rubus idaeus L.",
+  "part": "feuille",
+  "queries": [
+   "raspberry leaves",
+   "Rubus idaeus leaves",
+   "raspberry plant leaf"
+  ],
+  "keys": [
+   "framboisier",
+   "framboise",
+   "raspberry leaf",
+   "rubus",
+   "rubus idaeus"
+  ],
+  "aliases": [
+   "framboisier",
+   "framboise",
+   "raspberry leaf",
+   "rubus",
+   "rubus idaeus"
+  ]
+ },
+ {
+  "id": "syzygium_aromaticum",
+  "fr": "Clou de girofle (huile essentielle, usage dentaire/cutané)",
+  "latin": "Syzygium aromaticum (L.) Merill et L.M. Perry",
+  "part": "huile essentielle du bouton floral",
+  "queries": [
+   "clove tree flower buds",
+   "Syzygium aromaticum tree",
+   "cloves flower buds"
+  ],
+  "keys": [
+   "girofle",
+   "clou de girofle",
+   "clove",
+   "syzygium",
+   "eugenia",
+   "syzygium aromaticum"
+  ],
+  "aliases": [
+   "girofle",
+   "clou de girofle",
+   "clove",
+   "syzygium",
+   "eugenia",
+   "syzygium aromaticum"
+  ]
+ },
+ {
+  "id": "tanacetum_parthenium",
+  "fr": "Grande camomille (sommité)",
+  "latin": "Tanacetum parthenium (L.) Schultz Bip.",
+  "part": "sommité",
+  "queries": [
+   "feverfew flowering tops",
+   "Tanacetum parthenium plant",
+   "feverfew herb"
+  ],
+  "keys": [
+   "grande camomille",
+   "tanaisie",
+   "feverfew",
+   "tanacetum",
+   "tanacetum parthenium (l.) schultz bip."
+  ],
+  "aliases": [
+   "grande camomille",
+   "tanaisie",
+   "feverfew",
+   "tanacetum",
+   "tanacetum parthenium (l.) schultz bip."
+  ]
+ },
+ {
+  "id": "trigonella_foenum_graecum",
+  "fr": "Fenugrec (graine)",
+  "latin": "Trigonella foenum-graecum L.",
+  "part": "graine",
+  "queries": [
+   "fenugreek seeds",
+   "Trigonella foenum-graecum seeds",
+   "Trigonella foenum-graecum plant"
+  ],
+  "keys": [
+   "fenugrec",
+   "fenugreek",
+   "trigonella",
+   "trigonella foenum-graecum"
+  ],
+  "aliases": [
+   "fenugrec",
+   "fenugreek",
+   "trigonella",
+   "trigonella foenum-graecum"
+  ]
+ },
+ {
+  "id": "vaccinium_myrtillus",
+  "fr": "Myrtille (fruit séché)",
+  "latin": "Vaccinium myrtillus L.",
+  "part": "fruit séché",
+  "queries": [
+   "bilberry fruit dried",
+   "Vaccinium myrtillus berries",
+   "Vaccinium myrtillus plant"
+  ],
+  "keys": [
+   "myrtille",
+   "bilberry",
+   "vaccinium",
+   "vaccinium myrtillus"
+  ],
+  "aliases": [
+   "myrtille",
+   "bilberry",
+   "vaccinium",
+   "vaccinium myrtillus"
+  ]
  }
 ]

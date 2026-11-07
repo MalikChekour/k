@@ -1,0 +1,451 @@
+[
+  {
+    "id": "camellia_sinensis-ind-01",
+    "plant": "camellia_sinensis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement de la fatigue et de la sensation de faiblesse.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of fatigue and sensation of weakness."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-ind-02",
+    "plant": "camellia_sinensis",
+    "type": "indication",
+    "statement": "Produit traditionnel à base de plante pour l'indication précisée, fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-pos-01",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Tisane (feuille entière ou coupée) : 1,8 à 2,2 g dans 100 à 150 ml d'eau bouillante, en infusion, 3 à 5 fois par jour, chez les adultes et les personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "150 ml of boiling water as a herbal infusion"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-pos-02",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Poudre de substance végétale : dose unique de 390 mg, 3 fois par jour (jusqu'à 5 fois si nécessaire), chez les adultes et les personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Single dose: 390 mg, 3 times daily (up to 5 times if necessary)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-pos-03",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-pos-04",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus d'une semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-pos-05",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-01",
+    "plant": "camellia_sinensis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la (aux) substance(s) active(s).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-02",
+    "plant": "camellia_sinensis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'ulcères gastriques et duodénaux.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Gastric and duodenal ulcers"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "gastric_ulcer"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-03",
+    "plant": "camellia_sinensis",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de troubles cardiovasculaires tels que l'hypertension et l'arythmie.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "cardiovascular disorders such as hypertension and arrhythmia"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "hypertension",
+      "cardiovascular_disease"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-04",
+    "plant": "camellia_sinensis",
+    "type": "contraindication",
+    "statement": "Hyperthyroïdie : contre-indication mentionnée dans la monographie, classée ici en précaution générale faute de drapeau de population correspondant.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "hyperthyroidism"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-05",
+    "plant": "camellia_sinensis",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-06",
+    "plant": "camellia_sinensis",
+    "type": "warning",
+    "statement": "Non recommandé avant le coucher, car il peut provoquer des troubles du sommeil.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Not recommended before bedtime as it may cause sleep disturbances."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-07",
+    "plant": "camellia_sinensis",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation des médicaments, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "If symptoms worsen during the use of the medicinal products a doctor or a qualified health practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-08",
+    "plant": "camellia_sinensis",
+    "type": "interaction",
+    "statement": "Les préparations contenant de la caféine réduisent les actions des substances sédatives.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Caffeine containing preparations reduce actions of sedative substances"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-09",
+    "plant": "camellia_sinensis",
+    "type": "interaction",
+    "statement": "Les préparations contenant de la caféine augmentent les effets indésirables causés par les médicaments sympathomimétiques.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "increase side effects caused by sympathomimetic drugs"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-10",
+    "plant": "camellia_sinensis",
+    "type": "overdose",
+    "statement": "Surdosage (quantités correspondant à plus de 300 mg de caféine ou à 5 tasses de thé en boisson) : peut entraîner agitation, tremblements et excitabilité réflexe accrue. Les premiers signes d'intoxication sont vomissements et spasmes abdominaux.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Overdose (quantities corresponding to more than 300 mg caffeine or 5 cups of tea as a beverage) can lead to restlessness, tremor, and elevated reflex excitability. The first signs of poisoning are vomiting and abdominal spasm."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-11",
+    "plant": "camellia_sinensis",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-12",
+    "plant": "camellia_sinensis",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-13",
+    "plant": "camellia_sinensis",
+    "type": "pregnancy",
+    "statement": "La caféine traverse le placenta et est distribuée dans le lait maternel.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Caffeine crosses the placenta and is distributed in breast milk."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-14",
+    "plant": "camellia_sinensis",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "camellia_sinensis-15",
+    "plant": "camellia_sinensis",
+    "type": "undesirable_effects",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-16",
+    "plant": "camellia_sinensis",
+    "type": "warning",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

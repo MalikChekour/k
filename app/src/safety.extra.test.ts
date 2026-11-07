@@ -385,3 +385,15 @@ test('lot 4 : eau (orthosiphon, solidage, bugrane), foie/voies biliaires (marrub
   for (const id of ['pimpinella_anisum', 'gentiana_lutea', 'cinnamomum_verum', 'potentilla_erecta', 'linum_usitatissimum', 'levisticum_officinale'])
     assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
 });
+
+test('lot 5 : ail (anticoagulants, saquinavir), thé vert (caféine), fenugrec (antidiabétique), grande camomille (astéracées)', () => {
+  assert.ok(assess(bundle, ['allium_sativum'], { flags: [], meds: ['warfarine'] }).alerts.some(a => a.claimId === 'allium_sativum-11'));
+  assert.ok(assess(bundle, ['allium_sativum'], { flags: [], meds: ['aspirine'] }).alerts.some(a => a.claimId === 'allium_sativum-11'));
+  assert.ok(assess(bundle, ['allium_sativum'], { flags: [], meds: ['ritonavir'] }).alerts.some(a => a.claimId === 'allium_sativum-12'));
+  assert.equal(assess(bundle, ['camellia_sinensis'], { flags: ['hypertension'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['camellia_sinensis'], { flags: ['gastric_ulcer'] }).verdict, 'contre_indication');
+  assert.ok(assess(bundle, ['trigonella_foenum_graecum'], { flags: [], meds: ['metformine'] }).alerts.some(a => a.claimId === 'trigonella_foenum_graecum-06'));
+  assert.equal(assess(bundle, ['tanacetum_parthenium'], { flags: ['asteraceae_allergy'] }).verdict, 'contre_indication');
+  for (const id of ['vaccinium_myrtillus', 'rubus_idaeus', 'rosa_damascena', 'syzygium_aromaticum', 'allium_sativum'])
+    assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
+});
