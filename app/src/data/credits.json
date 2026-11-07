@@ -207,7 +207,7 @@
   "author": "Georg Eiermann",
   "license": "Unsplash License",
   "page_url": "https://unsplash.com/photos/green-fruit-on-brown-textile-Wm7yro2VlW0",
-  "label": "green fruit on brown textile Chestnut,  Aesculus hippocastanum"
+  "label": "green fruit on brown textile Chestnut, Aesculus hippocastanum"
  },
  "vitis_vinifera": {
   "provider": "unsplash",
@@ -235,7 +235,7 @@
   "author": "olive.titus",
   "license": "pdm",
   "page_url": "https://www.flickr.com/photos/96064256@N04/50238297472",
-  "label": "Busserole ou Raisin-d'ours commun, Arctostaphylos uva-ursi, Ericacées "
+  "label": "Busserole ou Raisin-d'ours commun, Arctostaphylos uva-ursi, Ericacées"
  },
  "pelargonium_sidoides": {
   "provider": "openverse",
@@ -270,7 +270,7 @@
   "author": "",
   "license": "cc0",
   "page_url": "https://www.rawpixel.com/image/6058517/free-public-domain-cc0-photo",
-  "label": " date fruit fruit green jujube jujube jujube tree plant trees"
+  "label": "date fruit fruit green jujube jujube jujube tree plant trees"
  },
  "carthamus_tinctorius": {
   "provider": "pexels",
@@ -288,7 +288,7 @@
  },
  "hedera_helix": {
   "provider": "pexels",
-  "author": "Sergej  *****",
+  "author": "Sergej *****",
   "license": "Pexels License",
   "page_url": "https://www.pexels.com/photo/close-up-of-lush-green-ivy-leaves-in-coesfeld-35991399/",
   "label": "Detailed close-up of vibrant green ivy leaves with intricate patterns in Coesfeld, Germany. close up of lush green ivy leaves in coesfeld 35991399"
@@ -372,7 +372,7 @@
  },
  "vitex_agnus_castus": {
   "provider": "pexels",
-  "author": "Semanur    Çoban",
+  "author": "Semanur Çoban",
   "license": "Pexels License",
   "page_url": "https://www.pexels.com/photo/vibrant-purple-vitex-flowers-outdoors-in-bloom-39635426/",
   "label": "Close-up of blooming purple Vitex (Vitex agnus-castus) flowers against a dark green background. vibrant purple vitex flowers outdoors in bloom 39635426"
@@ -446,5 +446,61 @@
   "license": "CC BY 2.0",
   "page_url": "https://commons.wikimedia.org/wiki/File:Angelica_sinensis_(7).jpg",
   "label": "File:Angelica sinensis (7).jpg Angelica sinensis"
+ },
+ "artemisia_absinthium": {
+  "provider": "wikimedia",
+  "author": "Agnieszka Kwiecień, Nova",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Artemisia_absinthium_Bylica_pio%C5%82un_2022-05-03_01.jpg",
+  "label": "File:Artemisia absinthium Bylica piołun 2022-05-03 01.jpg Artemisia absinthium cultivated in Wrocław University Botanical Garden, Wrocław, Poland."
+ },
+ "fumaria_officinalis": {
+  "provider": "wikimedia",
+  "author": "Didier Descouens",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Fumaria_officinalis_-_Habit.jpg",
+  "label": "File:(MHNT) Fumaria officinalis - Habit.jpg Drug fumitory - Inflorescence"
+ },
+ "melilotus_officinalis": {
+  "provider": "wikimedia",
+  "author": "AnemoneProjectors (talk)",
+  "license": "CC BY-SA 2.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ribbed_Melilot_(Melilotus_officinalis)_(4850713065).jpg",
+  "label": "File:Ribbed Melilot (Melilotus officinalis) (4850713065).jpg Ribbed Melilot (Melilotus officinalis) aka Yellow Sweet Clover, Yellow Melilot and Common Melilot, Great Ashby District Park, 27 July 2010."
+ },
+ "peumus_boldus": {
+  "provider": "wikimedia",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Peumus_boldus_kz03.jpg",
+  "label": "File:Peumus boldus kz03.jpg Peumus boldus in Dunedin Botanic Garden"
+ },
+ "rheum_palmatum": {
+  "provider": "wikimedia",
+  "author": "Agnieszka Kwiecień, Nova",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Rheum_tanguticum_2017-05-21_01.jpg",
+  "label": "File:Rheum tanguticum 2017-05-21 01.jpg Rheum tanguticum (Maxim. ex Regel) Balf. (syn. Rheum palmatum subsp. tanguticum (Maxim.) Stampf), inflorescence, plant cultivated in Wrocław University Botanical Garden, Wrocław, Poland."
+ },
+ "salix_purpurea": {
+  "provider": "wikimedia",
+  "author": "MPF",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2013-07-06_Purple_Willow,_Prudhoe,_Northumberland_06.jpg",
+  "label": "File:2013-07-06 Purple Willow, Prudhoe, Northumberland 06.jpg Purple Willow Salix purpurea on the banks of the Tyne at Prudhoe, Northumberland, UK"
+ },
+ "symphytum_officinale": {
+  "provider": "wikimedia",
+  "author": "Robert Flogaus-Faust",
+  "license": "CC BY 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Symphytum_officinale_RF.jpg",
+  "label": "File:Symphytum officinale RF.jpg True comfrey (Symphytum officinale), Rhine dam south of Geinsheim, Hesse, Germany"
+ },
+ "melaleuca_alternifolia": {
+  "provider": "wikimedia",
+  "author": "Geoff Derrin",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Melaleuca_alternifolia_flowers.jpg",
+  "label": "File:Melaleuca alternifolia flowers.jpg Flowers and foliage of Melaleuca alternifolia"
  }
 }

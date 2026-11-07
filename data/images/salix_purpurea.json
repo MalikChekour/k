@@ -1,0 +1,44 @@
+[
+ {
+  "provider": "wikimedia",
+  "pid": "136411181",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2013-07-06_Purple_Willow,_Prudhoe,_Northumberland_06.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013-07-06_Purple_Willow%2C_Prudhoe%2C_Northumberland_06.jpg/1280px-2013-07-06_Purple_Willow%2C_Prudhoe%2C_Northumberland_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:2013-07-06 Purple Willow, Prudhoe, Northumberland 06.jpg Purple Willow Salix purpurea on the banks of the Tyne at Prudhoe, Northumberland, UK",
+  "author": "MPF",
+  "license": "CC BY-SA 4.0",
+  "width": 4000,
+  "dhash": "e5edc9d41818f7c7",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "136411194",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2013-07-06_Purple_Willow,_Prudhoe,_Northumberland_10.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2013-07-06_Purple_Willow%2C_Prudhoe%2C_Northumberland_10.jpg/1280px-2013-07-06_Purple_Willow%2C_Prudhoe%2C_Northumberland_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:2013-07-06 Purple Willow, Prudhoe, Northumberland 10.jpg Purple Willow Salix purpurea on the banks of the Tyne at Prudhoe, Northumberland, UK",
+  "author": "MPF",
+  "license": "CC BY-SA 4.0",
+  "width": 4000,
+  "dhash": "579518b0944444c4",
+  "judge": true,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "wikimedia",
+  "pid": "1913152",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Salix_purpurea_002.jpg",
+  "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Salix_purpurea_002.jpg/1280px-Salix_purpurea_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "label": "File:Salix purpurea 002.jpg Purple Willow (Salix purpurea), male catkins, Location: Lahntal-Goßfelden, Hesse, Germany",
+  "author": "Willow",
+  "license": "CC BY-SA 2.5",
+  "width": 1944,
+  "dhash": "0c8d8d0822696166",
+  "judge": true,
+  "status": "propose",
+  "index": 2
+ }
+]
