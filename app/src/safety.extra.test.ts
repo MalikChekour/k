@@ -336,3 +336,24 @@ test('mauve, carvi, aigremoine, marjolaine, palmier : allergie = contre-indicati
     assert.notEqual(assess(bundle, [id], { flags: [] }).verdict, 'contre_indication', id);
   }
 });
+
+test('laxatifs stimulants (séné, cascara) : enfant, grossesse, MICI = contre-indication ; diurétique = alerte', () => {
+  for (const id of ['senna_alexandrina', 'rhamnus_purshiana']) {
+    assert.equal(assess(bundle, [id], { flags: ['pregnant'] }).verdict, 'contre_indication', id);
+    assert.equal(assess(bundle, [id], { flags: ['digestive_disease'] }).verdict, 'contre_indication', id);
+    assert.equal(assess(bundle, [id], { flags: [], ageYears: 8 }).verdict, 'contre_indication', id);
+    assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
+    assert.ok(assess(bundle, [id], { flags: [], meds: ['furosémide'] }).alerts.some(a => a.claimId.startsWith(id + '-1')), id);
+  }
+});
+test('eucalyptus : contre-indiqué avant 2 ans ; piment : jamais bloquant pour tous', () => {
+  assert.equal(assess(bundle, ['eucalyptus_globulus'], { flags: [], ageYears: 1 }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['eucalyptus_globulus'], { flags: [], ageYears: 30 }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['capsicum_frutescens'], { flags: [] }).verdict, 'contre_indication');
+});
+test('séné et cascara ne sont proposés pour aucun symptôme du mélange', () => {
+  for (const u of bundle.usages ?? []) {
+    const ids = JSON.stringify(u);
+    assert.ok(!ids.includes('senna_alexandrina') && !ids.includes('rhamnus_purshiana'), u.id);
+  }
+});

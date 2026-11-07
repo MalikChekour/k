@@ -1,0 +1,762 @@
+[
+  {
+    "id": "rhamnus_purshiana-ind-01",
+    "plant": "rhamnus_purshiana",
+    "type": "indication",
+    "statement": "Médicament à base de plantes à usage de courte durée dans les cas de constipation occasionnelle.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Herbal medicinal product for short-term use in cases of occasional constipation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-pos-01",
+    "plant": "rhamnus_purshiana",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : préparations équivalant à 10 à 30 mg de dérivés hydroxyanthracéniques, calculés en cascaroside A, à prendre une fois par jour, la nuit.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Herbal preparations equivalent to 10-30 mg hydroxyanthracene derivatives, calculated as cascaroside A, to be taken once daily at night."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-pos-02",
+    "plant": "rhamnus_purshiana",
+    "type": "posology",
+    "statement": "La dose individuelle correcte est la plus faible nécessaire pour obtenir une selle confortable, bien formée et molle.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The correct individual dose is the smallest required to produce a comfortable soft-formed motion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-pos-03",
+    "plant": "rhamnus_purshiana",
+    "type": "posology",
+    "statement": "Tisane : quantité de substance végétale broyée équivalant à au plus 30 mg de dérivés hydroxyanthracéniques, dans 150 ml d'eau bouillante, en infusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Herbal tea: amount of comminuted herbal substance (equivalent to not more than 30 mg hydroxyanthracene derivatives) in 150 ml of boiling water as herbal infusion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-pos-04",
+    "plant": "rhamnus_purshiana",
+    "type": "posology",
+    "statement": "La forme pharmaceutique doit permettre des dosages plus faibles.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The pharmaceutical form must allow lower dosages."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-pos-05",
+    "plant": "rhamnus_purshiana",
+    "type": "posology",
+    "statement": "Durée : ne pas utiliser plus d'une semaine. Il suffit généralement de prendre ce médicament une à trois fois au cours de cette semaine.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Usually it is sufficient to take this medicinal product up to two to three times during that week."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-pos-06",
+    "plant": "rhamnus_purshiana",
+    "type": "posology",
+    "statement": "Si les symptômes persistent pendant l'utilisation du médicament, consulter un médecin ou un pharmacien.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-01",
+    "plant": "rhamnus_purshiana",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-02",
+    "plant": "rhamnus_purshiana",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de maladies inflammatoires de l'intestin (par exemple maladie de Crohn, rectocolite hémorragique).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "inflammatory bowel diseases (e.g. Crohn's disease, ulcerative colitis)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "digestive_disease"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-03",
+    "plant": "rhamnus_purshiana",
+    "type": "contraindication",
+    "statement": "Contre-indication mentionnée en cas d'obstructions et de sténoses intestinales, d'atonie et d'appendicite.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Cases of intestinal obstructions and stenosis, atony, appendicitis"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-04",
+    "plant": "rhamnus_purshiana",
+    "type": "contraindication",
+    "statement": "Contre-indication mentionnée en cas de douleurs abdominales d'origine inconnue et d'état de déshydratation sévère avec déplétion en eau et en électrolytes.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "abdominal pain of unknown origin, severe dehydration state with water and electrolyte depletion"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-05",
+    "plant": "rhamnus_purshiana",
+    "type": "contraindication",
+    "statement": "Contre-indication mentionnée en cas d'impaction fécale : comme tous les laxatifs, ne pas utiliser chez les patients atteints d'impaction fécale.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Like all laxatives, cascara bark should not be taken by patients suffering from faecal impaction"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-06",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Ne pas utiliser en cas de troubles gastro-intestinaux non diagnostiqués, aigus ou persistants (par exemple douleurs abdominales, nausées, vomissements), sauf avis médical, ces symptômes pouvant être des signes d'un blocage intestinal (iléus).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "unless advised by a doctor because these symptoms can be signs of potential or existing intestinal blockage (ileus)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-07",
+    "plant": "rhamnus_purshiana",
+    "type": "pregnancy",
+    "statement": "Contre-indiquée pendant la grossesse, en raison de données expérimentales sur un risque génotoxique de plusieurs anthranoïdes (par exemple émodine et aloe-émodine).",
+    "severity": "contraindiquee",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The use during pregnancy is contraindicated because of experimental data concerning a genotoxic risk of several anthranoids, e.g. emodin and aloe-emodin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-08",
+    "plant": "rhamnus_purshiana",
+    "type": "pregnancy",
+    "statement": "Contre-indiquée pendant l'allaitement : après administration d'anthranoïdes, des métabolites actifs, tels que la rhéine, ont été excrétés en petites quantités dans le lait maternel.",
+    "severity": "contraindiquee",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The use during lactation is contraindicated because after administration of anthranoids, active metabolites, such as rhein, were excreted in breast milk in small amounts."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-09",
+    "plant": "rhamnus_purshiana",
+    "type": "age",
+    "statement": "Contre-indiquée chez les enfants de moins de 12 ans.",
+    "severity": "contraindiquee",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The use in children under 12 years of age is contraindicated"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-10",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Éviter l'usage prolongé des laxatifs stimulants : un usage de plus d'une courte période peut entraîner une altération de la fonction intestinale et une dépendance aux laxatifs.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Long-term use of stimulant laxatives should be avoided, as use for more than a brief period of treatment may lead to impaired function of the intestine and dependence on laxatives."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-11",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Si des laxatifs sont nécessaires chaque jour, la cause de la constipation doit être recherchée.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "If laxatives are needed every day, the cause of the constipation should be investigated."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-12",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Les préparations d'écorce de cascara ne doivent être utilisées que si l'effet thérapeutique ne peut être obtenu par un changement d'alimentation ou par l'administration de laxatifs de lest.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Cascara bark preparations should only be used if a therapeutic effect cannot be achieved by a change of diet or the administration of bulk forming agents."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-13",
+    "plant": "rhamnus_purshiana",
+    "type": "interaction",
+    "statement": "Interaction : les patients prenant des glycosides cardiaques, des antiarythmiques, des médicaments provoquant un allongement du QT, des diurétiques, des corticoïdes ou de la réglisse doivent consulter un médecin avant de prendre de l'écorce de cascara en association.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Patients taking cardiac glycosides, antiarrhythmic medicinal products, medicinal products inducing QT-prolongation, diuretics, adrenocorticosteroids or liquorice root, have to consult a doctor before taking cascara bark concomitantly."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-14",
+    "plant": "rhamnus_purshiana",
+    "type": "interaction",
+    "statement": "Interaction : l'hypokaliémie (résultant d'un abus prolongé de laxatifs) potentialise l'action des glycosides cardiaques et interagit avec les médicaments antiarythmiques.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Hypokalaemia (resulting from long-term laxative abuse) potentiates the action of cardiac glycosides and interacts with antiarrhythmic medicinal products."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-15",
+    "plant": "rhamnus_purshiana",
+    "type": "interaction",
+    "statement": "Interaction : l'association avec des diurétiques, des corticoïdes et de la réglisse peut augmenter la perte de potassium.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Concomitant use with diuretics, adrenocorticosteroids and liquorice root may enhance loss of potassium."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rhamnus_purshiana-16",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Chez les adultes incontinents, les protections doivent être changées plus fréquemment afin d'éviter un contact cutané prolongé avec les selles.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "to incontinent adults, pads should be changed more frequently to prevent extended skin contact with faeces."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-17",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Les patients présentant des troubles rénaux doivent être conscients d'un déséquilibre électrolytique possible.",
+    "severity": "precaution",
+    "population": "insuffisants rénaux",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Patients with kidney disorders should be aware of possible electrolyte imbalance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "kidney_disease"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-18",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation du médicament, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-19",
+    "plant": "rhamnus_purshiana",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-20",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Réactions d'hypersensibilité (prurit, urticaire, exanthème local ou généralisé) possibles.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Hypersensitivity reactions (pruritus, urticaria, local or generalised exanthema) may occur."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-21",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "L'écorce de cascara peut provoquer des douleurs abdominales, des spasmes et des selles liquides, en particulier chez les patients atteints de côlon irritable.",
+    "severity": "precaution",
+    "population": "patients atteints de côlon irritable",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Cascara bark may produce abdominal pain and spasm and passage of liquid stools, in particular in patients with irritable colon."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-22",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Ces symptômes peuvent aussi survenir de façon générale à la suite d'un surdosage individuel ; dans ce cas, une réduction de la dose est nécessaire.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "However, these symptoms may also occur generally as a consequence of individual overdosage. In such cases dose reduction is necessary."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-23",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Un usage chronique peut provoquer une pigmentation de la muqueuse intestinale (pseudomélanose colique), qui régresse généralement à l'arrêt du produit.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Furthermore, chronic use may cause pigmentation of the intestinal mucosa (pseudomelanosis coli), which usually recedes when the patient stops taking the preparation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-24",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Un usage prolongé peut entraîner un déséquilibre en eau et en électrolytes et conduire à une albuminurie et une hématurie.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Long term use may lead to water and electrolyte imbalance and may result in albuminuria and haematuria."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-25",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Coloration jaune ou brun-rouge des urines (dépendante du pH) due aux métabolites, non cliniquement significative, pouvant survenir pendant le traitement.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Yellow or red-brown (pH dependent) discolouration of urine by metabolites, which is not clinically significant, may occur during the treatment."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-26",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Fréquence des effets indésirables inconnue.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-27",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-28",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Les principaux symptômes de surdosage ou d'abus sont des douleurs de type colique et une diarrhée sévère avec pertes de liquide et d'électrolytes.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "The major symptoms of overdose/abuse are griping pain and severe diarrhoea with consequent losses of fluid and electrolytes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-29",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Le traitement doit être symptomatique, avec des quantités généreuses de liquide.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Treatment should be supportive with generous amounts of fluid."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-30",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Les électrolytes, en particulier le potassium, doivent être surveillés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Electrolytes, especially potassium, should be monitored."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-31",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Cette surveillance est particulièrement importante chez les personnes âgées.",
+    "severity": "precaution",
+    "population": "personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "This is especially important in the elderly."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rhamnus_purshiana-32",
+    "plant": "rhamnus_purshiana",
+    "type": "warning",
+    "statement": "Des surdosages chroniques de médicaments contenant des anthranoïdes peuvent entraîner une hépatite toxique.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+      "quote": "Chronic ingested overdoses of anthranoid containing medicinal products may lead to toxic hepatitis."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

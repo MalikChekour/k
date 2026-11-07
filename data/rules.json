@@ -158,5 +158,65 @@
     "plant": "vaccinium_macrocarpon",
     "class": "immunosuppresseur_greffe",
     "claim": "vaccinium_macrocarpon-12"
+  },
+  {
+    "plant": "rhamnus_purshiana",
+    "class": "digitalique",
+    "claim": "rhamnus_purshiana-13"
+  },
+  {
+    "plant": "rhamnus_purshiana",
+    "class": "diuretique",
+    "claim": "rhamnus_purshiana-13"
+  },
+  {
+    "plant": "rhamnus_purshiana",
+    "class": "corticoide",
+    "claim": "rhamnus_purshiana-13"
+  },
+  {
+    "plant": "rhamnus_purshiana",
+    "class": "digitalique",
+    "claim": "rhamnus_purshiana-14"
+  },
+  {
+    "plant": "rhamnus_purshiana",
+    "class": "diuretique",
+    "claim": "rhamnus_purshiana-15"
+  },
+  {
+    "plant": "rhamnus_purshiana",
+    "class": "corticoide",
+    "claim": "rhamnus_purshiana-15"
+  },
+  {
+    "plant": "senna_alexandrina",
+    "class": "digitalique",
+    "claim": "senna_alexandrina-14"
+  },
+  {
+    "plant": "senna_alexandrina",
+    "class": "diuretique",
+    "claim": "senna_alexandrina-14"
+  },
+  {
+    "plant": "senna_alexandrina",
+    "class": "corticoide",
+    "claim": "senna_alexandrina-14"
+  },
+  {
+    "plant": "senna_alexandrina",
+    "class": "digitalique",
+    "claim": "senna_alexandrina-15"
+  },
+  {
+    "plant": "senna_alexandrina",
+    "class": "diuretique",
+    "claim": "senna_alexandrina-16"
+  },
+  {
+    "plant": "senna_alexandrina",
+    "class": "corticoide",
+    "claim": "senna_alexandrina-16"
   }
 ]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "actaea_racemosa-ind-01",
+    "plant": "actaea_racemosa",
+    "type": "indication",
+    "statement": "Médicament à base de plantes pour le soulagement des troubles de la ménopause, tels que les bouffées de chaleur et les sueurs profuses.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Herbal medicinal product for the relief of menopausal complaints such as hot flushes and profuse sweating."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-pos-01",
+    "plant": "actaea_racemosa",
+    "type": "posology",
+    "statement": "Femmes adultes, extrait sec (DER 5-10:1, éthanol 58 % V/V) : 2,8 mg par prise, 2 fois par jour, soit 5,6 mg par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Single dose: 2.8 mg Dosage frequency: 2 times daily Daily dose: 5.6 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-pos-02",
+    "plant": "actaea_racemosa",
+    "type": "posology",
+    "statement": "Femmes adultes, extrait sec (DER 4,5-8,5:1, éthanol 60 % V/V) : 6,5 mg par jour, en une seule prise.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Single dose: 6.5 mg Dosage frequency: 1 single daily dose Daily dose: 6.5 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-pos-03",
+    "plant": "actaea_racemosa",
+    "type": "posology",
+    "statement": "Femmes adultes, extrait sec (DER 6-11:1, propan-2-ol 40 % V/V) : 2,5 mg ou 5,0 mg par prise, 1 à 2 fois par jour, soit 5,0 mg par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Single dose: 2.5 mg or 5.0 mg Dosage frequency: 1-2 times daily Daily dose: 5.0 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-pos-04",
+    "plant": "actaea_racemosa",
+    "type": "posology",
+    "statement": "Voie d'administration : orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-pos-05",
+    "plant": "actaea_racemosa",
+    "type": "posology",
+    "statement": "Ne pas prendre plus de 6 mois sans avis médical.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Cimicifugae rhizoma should not be taken for more than 6 months without medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-pos-06",
+    "plant": "actaea_racemosa",
+    "type": "posology",
+    "statement": "Si les symptômes persistent pendant l'utilisation du médicament, consulter un médecin ou un pharmacien.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-01",
+    "plant": "actaea_racemosa",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-02",
+    "plant": "actaea_racemosa",
+    "type": "age",
+    "statement": "Aucune indication pertinente chez l'homme, l'enfant et l'adolescent.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "There is no relevant indication in men, children and adolescents."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-03",
+    "plant": "actaea_racemosa",
+    "type": "warning",
+    "statement": "Prudence chez les patients ayant des antécédents de trouble hépatique.",
+    "severity": "precaution",
+    "population": "antécédents de trouble hépatique",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Patients with a history of liver disorder should take Cimicifugae rhizoma preparations with caution"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "liver_disease"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-04",
+    "plant": "actaea_racemosa",
+    "type": "warning",
+    "statement": "Arrêter la prise et consulter immédiatement un médecin en cas de signes évocateurs d'une atteinte du foie : fatigue, perte d'appétit, jaunissement de la peau et des yeux, douleur intense en haut de l'estomac avec nausées et vomissements, ou urines foncées.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Patients should stop taking Cimicifugae rhizoma preparations and consult their doctor immediately if they develop signs and symptoms suggestive of liver injury (tiredness, loss of appetite, yellowing of skin and eyes or severe upper stomach pain with nausea and vomiting or dark urine)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-05",
+    "plant": "actaea_racemosa",
+    "type": "warning",
+    "statement": "En cas de saignement vaginal ou d'autres symptômes, consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "If vaginal bleeding occurs or other symptoms occur, a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-06",
+    "plant": "actaea_racemosa",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation du médicament, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-07",
+    "plant": "actaea_racemosa",
+    "type": "warning",
+    "statement": "Ne pas utiliser sans avis médical chez les patients traités ou en cours de traitement pour un cancer du sein ou une autre tumeur hormono-dépendante.",
+    "severity": "precaution",
+    "population": "cancer du sein ou autre tumeur hormono-dépendante (traité ou en cours de traitement)",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Patients who have been treated or who are undergoing treatment for breast cancer or other hormone-dependent tumours should not use Cimicifugae rhizoma preparations without medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-08",
+    "plant": "actaea_racemosa",
+    "type": "interaction",
+    "statement": "Ne pas utiliser avec des oestrogènes, sauf avis médical.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Cimicifugae rhizoma preparations should not be used together with oestrogens unless advised by a doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-09",
+    "plant": "actaea_racemosa",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage bien établi). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-10",
+    "plant": "actaea_racemosa",
+    "type": "pregnancy",
+    "statement": "La sécurité pendant la grossesse et l'allaitement n'est pas établie.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-11",
+    "plant": "actaea_racemosa",
+    "type": "pregnancy",
+    "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-12",
+    "plant": "actaea_racemosa",
+    "type": "pregnancy",
+    "statement": "Les femmes en âge de procréer devraient envisager une contraception efficace pendant le traitement.",
+    "severity": "precaution",
+    "population": "femmes en âge de procréer",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Women of childbearing potential should consider using effective contraception during treatment."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-13",
+    "plant": "actaea_racemosa",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "No fertility data are available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-14",
+    "plant": "actaea_racemosa",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-15",
+    "plant": "actaea_racemosa",
+    "type": "adverse",
+    "statement": "Toxicité hépatique (y compris hépatite, ictère, perturbations des tests de la fonction hépatique) associée aux produits contenant du rhizome de cimicifuga. Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Liver toxicity (including hepatitis, jaundice, disturbances in the liver function tests) is associated with the use of Cimicifugae rhizoma containing products. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-16",
+    "plant": "actaea_racemosa",
+    "type": "adverse",
+    "statement": "Réactions cutanées allergiques (urticaire, démangeaisons, exanthème), œdème du visage et œdème périphérique ont été rapportés. Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Allergic skin reactions (urticaria, itching, exanthema), facial oedema and peripheral oedema have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-17",
+    "plant": "actaea_racemosa",
+    "type": "adverse",
+    "statement": "Symptômes gastro-intestinaux (troubles dyspeptiques, diarrhée) ont été rapportés. Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Gastrointestinal symptoms (i.e. dyspeptic disorders, diarrhoea) have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-18",
+    "plant": "actaea_racemosa",
+    "type": "warning",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un pharmacien.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "actaea_racemosa-19",
+    "plant": "actaea_racemosa",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "actaea_racemosa-20",
+    "plant": "actaea_racemosa",
+    "type": "preclinical",
+    "statement": "Une influence sur le cancer du sein ou d'autres tumeurs hormono-dépendantes ne peut pas être exclue.",
+    "severity": "precaution",
+    "population": "cancer du sein ou autre tumeur hormono-dépendante",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+      "quote": "Influence on breast cancer or other hormone-depending tumours cannot be excluded."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

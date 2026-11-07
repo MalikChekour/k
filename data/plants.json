@@ -1034,5 +1034,185 @@
    "cranberry",
    "airelle à gros fruits"
   ]
+ },
+ {
+  "id": "actaea_racemosa",
+  "fr": "Actée à grappes",
+  "latin": "Cimicifuga racemosa (L.) Nutt.",
+  "part": "rhizome",
+  "queries": [
+   "black cohosh rhizome",
+   "Actaea racemosa plant",
+   "black cohosh roots"
+  ],
+  "keys": [
+   "actée à grappes",
+   "actee a grappes",
+   "actaea racemosa",
+   "cimicifuga racemosa"
+  ],
+  "aliases": [
+   "actée à grappes",
+   "cimicifuga",
+   "black cohosh",
+   "cimicaire"
+  ]
+ },
+ {
+  "id": "capsicum_frutescens",
+  "fr": "Piment",
+  "latin": "Capsicum frutescens L.",
+  "part": "fruit",
+  "queries": [
+   "cayenne pepper plant",
+   "red chili peppers",
+   "capsicum frutescens fruit"
+  ],
+  "keys": [
+   "piment",
+   "piment de cayenne",
+   "capsicum frutescens",
+   "capsicum"
+  ],
+  "aliases": [
+   "piment",
+   "capsicum",
+   "capsaïcine",
+   "piment de Cayenne"
+  ]
+ },
+ {
+  "id": "eucalyptus_globulus",
+  "fr": "Eucalyptus (huile essentielle)",
+  "latin": "Eucalyptus globulus Labill.",
+  "part": "huile essentielle",
+  "queries": [
+   "eucalyptus globulus leaves",
+   "eucalyptus essential oil",
+   "eucalyptus tree"
+  ],
+  "keys": [
+   "eucalyptus",
+   "eucalyptus globulus",
+   "eucalyptus globulus labill.",
+   "eucalyptus polybractea",
+   "eucalyptus smithii",
+   "huile d'eucalyptus",
+   "eucalyptus oil"
+  ],
+  "aliases": [
+   "eucalyptus",
+   "gommier bleu",
+   "huile d'eucalyptus"
+  ]
+ },
+ {
+  "id": "oenothera_biennis",
+  "fr": "Onagre (huile)",
+  "latin": "Oenothera biennis L.",
+  "part": "huile de graines",
+  "queries": [
+   "evening primrose oil",
+   "evening primrose flowers",
+   "Oenothera biennis plant"
+  ],
+  "keys": [
+   "onagre",
+   "huile d'onagre",
+   "oenothera biennis",
+   "oenothera lamarckiana"
+  ],
+  "aliases": [
+   "onagre",
+   "huile d'onagre",
+   "evening primrose"
+  ]
+ },
+ {
+  "id": "rhamnus_purshiana",
+  "fr": "Cascara (écorce)",
+  "latin": "Rhamnus purshiana DC.",
+  "part": "écorce",
+  "queries": [
+   "cascara bark",
+   "Rhamnus purshiana bark",
+   "cascara sagrada bark"
+  ],
+  "keys": [
+   "cascara",
+   "cascara (écorce)",
+   "rhamnus purshiana",
+   "rhamnus purshiana dc."
+  ],
+  "aliases": [
+   "cascara",
+   "cascara sagrada",
+   "bourdaine d'Amérique"
+  ]
+ },
+ {
+  "id": "senna_alexandrina",
+  "fr": "Séné (feuille)",
+  "latin": "Senna alexandrina Mill.",
+  "part": "feuille",
+  "queries": [
+   "senna leaves",
+   "senna alexandrina plant",
+   "senna leaf herbal"
+  ],
+  "keys": [
+   "séné",
+   "sene",
+   "senna alexandrina"
+  ],
+  "aliases": [
+   "séné",
+   "sené",
+   "senna"
+  ]
+ },
+ {
+  "id": "verbascum_densiflorum",
+  "fr": "Molène",
+  "latin": "Verbascum densiflorum Bertol.",
+  "part": "fleur",
+  "queries": [
+   "mullein flowers",
+   "Verbascum densiflorum flowers",
+   "mullein flower herbal tea"
+  ],
+  "keys": [
+   "molène",
+   "bouillon blanc",
+   "verbascum densiflorum"
+  ],
+  "aliases": [
+   "molène",
+   "bouillon-blanc",
+   "bouillon blanc"
+  ]
+ },
+ {
+  "id": "vitex_agnus_castus",
+  "fr": "Gattilier",
+  "latin": "Vitex agnus-castus L.",
+  "part": "fruit",
+  "queries": [
+   "chaste tree berries",
+   "Vitex agnus-castus fruit",
+   "chasteberry plant"
+  ],
+  "keys": [
+   "gattilier",
+   "gattilier (fruit)",
+   "vitex agnus-castus",
+   "agnus castus"
+  ],
+  "aliases": [
+   "gattilier",
+   "agnus-castus",
+   "poivre des moines",
+   "arbre au chaste"
+  ]
  }
 ]

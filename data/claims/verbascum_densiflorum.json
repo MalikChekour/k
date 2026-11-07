@@ -1,0 +1,325 @@
+[
+  {
+    "id": "verbascum_densiflorum-ind-01",
+    "plant": "verbascum_densiflorum",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes de maux de gorge associés à une toux sèche (usage fondé exclusivement sur un usage de longue date).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "Traditional herbal medicinal product used to relieve symptoms of sore throat associated with dry cough"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-ind-02",
+    "plant": "verbascum_densiflorum",
+    "type": "indication",
+    "statement": "Usage fondé exclusivement sur un usage de longue date (usage traditionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-pos-01",
+    "plant": "verbascum_densiflorum",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, tisane : 1,5 à 2 g de substance végétale dans 150 ml d'eau bouillante, en infusion, 3 à 4 fois par jour (dose unitaire).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "Herbal tea: 1.5-2 g of the herbal substance or the comminuted herbal substance in 150 ml boiling water as a herbal infusion three to four times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-pos-02",
+    "plant": "verbascum_densiflorum",
+    "type": "posology",
+    "statement": "Dose quotidienne : 4,5 à 8 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "Daily dose: 4.5-8 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-pos-03",
+    "plant": "verbascum_densiflorum",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-pos-04",
+    "plant": "verbascum_densiflorum",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-01",
+    "plant": "verbascum_densiflorum",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-02",
+    "plant": "verbascum_densiflorum",
+    "type": "age",
+    "statement": "Usage déconseillé chez les moins de 12 ans (posologie).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-03",
+    "plant": "verbascum_densiflorum",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 12 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-04",
+    "plant": "verbascum_densiflorum",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-05",
+    "plant": "verbascum_densiflorum",
+    "type": "warning",
+    "statement": "En cas de dyspnée, de fièvre ou d'expectorations purulentes, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "If dyspnoea, fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-06",
+    "plant": "verbascum_densiflorum",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-07",
+    "plant": "verbascum_densiflorum",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-08",
+    "plant": "verbascum_densiflorum",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-09",
+    "plant": "verbascum_densiflorum",
+    "type": "undesirable_effects",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "None known"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "verbascum_densiflorum-10",
+    "plant": "verbascum_densiflorum",
+    "type": "warning",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "verbascum_densiflorum-11",
+    "plant": "verbascum_densiflorum",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]
