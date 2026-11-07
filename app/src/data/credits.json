@@ -341,5 +341,40 @@
   "license": "cc0",
   "page_url": "https://www.inaturalist.org/photos/138539343",
   "label": "Origanum majorana Angiospermae Flowers Lamiaceae Lamiales Mentheae Menthinae Nepetoideae Origanum Plants Tracheophyta"
+ },
+ "actaea_racemosa": {
+  "provider": "openverse",
+  "author": "natalie",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/296260364",
+  "label": "juli-silberkerze, park-wanzenkraut Actaea Actaea racemosa Actaeeae Angiospermae christophskraut Flowers hahnenfussgewächse Plants Ranunculales Ranunculoideae Tracheophyta"
+ },
+ "capsicum_frutescens": {
+  "provider": "pixabay",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/ornamental-peppers-fruit-592434/",
+  "label": "ornamental peppers, fruit, chili berries, violet, red, capsicum salsa, paprika, capsicum, chili, hot peppers, chili peppers, nightshade plant, solanaceae, capsicum annuum"
+ },
+ "eucalyptus_globulus": {
+  "provider": "pexels",
+  "author": "Mitchell Luo",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/green-leaves-of-eucalyptus-plant-5720106/",
+  "label": "Closeup of fresh green leaves on thick stem of eucalyptus plant against blurred background green leaves of eucalyptus plant 5720106"
+ },
+ "oenothera_biennis": {
+  "provider": "pixabay",
+  "author": "Elstef",
+  "license": "Pixabay Content License",
+  "page_url": "https://pixabay.com/photos/evening-primrose-flowers-6258876/",
+  "label": "evening primrose, flowers, imperial grove, oenothera biennis l, plants, yellow flowers, petals, buds, floral, spring, garden, nature, close up"
+ },
+ "vitex_agnus_castus": {
+  "provider": "pexels",
+  "author": "Semanur    Çoban",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/vibrant-purple-vitex-flowers-outdoors-in-bloom-39635426/",
+  "label": "Close-up of blooming purple Vitex (Vitex agnus-castus) flowers against a dark green background. vibrant purple vitex flowers outdoors in bloom 39635426"
  }
 }

@@ -1,0 +1,44 @@
+[
+ {
+  "provider": "openverse",
+  "pid": "7b6c6ff8-1391-49f4-9e96-351703f0cbef",
+  "page_url": "https://www.inaturalist.org/photos/80094031",
+  "thumb_url": "https://api.openverse.org/v1/images/7b6c6ff8-1391-49f4-9e96-351703f0cbef/thumb/",
+  "label": "Capsicum annuum glabriusculum aji de gallina, cayenne pepper, paprika, pimiento Angiospermae Capsiceae Capsicum Flowers nachtschattengewächse Plants Solanales Solanoideae Tracheophyta",
+  "author": "lanechaffin",
+  "license": "cc0",
+  "width": 1536,
+  "dhash": "830019079b87627b",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "pixabay",
+  "pid": "592434",
+  "page_url": "https://pixabay.com/photos/ornamental-peppers-fruit-592434/",
+  "thumb_url": "https://pixabay.com/get/g0ce348b798b952d547c85ab0905d598508e3a007c6b629fdde825b9d50669539be9dcd88036a938b62353ae9cd0bb163_640.jpg",
+  "label": "ornamental peppers, fruit, chili berries, violet, red, capsicum salsa, paprika, capsicum, chili, hot peppers, chili peppers, nightshade plant, solanaceae, capsicum annuum",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "width": 4608,
+  "dhash": "08091727373396c4",
+  "judge": true,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "openverse",
+  "pid": "2bb88f43-1c6e-40de-85fa-0b98f9080466",
+  "page_url": "https://www.inaturalist.org/photos/170974789",
+  "thumb_url": "https://api.openverse.org/v1/images/2bb88f43-1c6e-40de-85fa-0b98f9080466/thumb/",
+  "label": "Capsicum annuum glabriusculum aji de gallina, cayenne pepper, paprika, pimiento Angiospermae Capsiceae Capsicum Flowers nachtschattengewächse Plants Solanales Solanoideae Tracheophyta",
+  "author": "lanechaffin",
+  "license": "cc0",
+  "width": 1536,
+  "dhash": "16644a6db138dc9d",
+  "judge": true,
+  "status": "propose",
+  "index": 2
+ }
+]

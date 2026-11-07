@@ -1,0 +1,72 @@
+[
+ {
+  "provider": "pexels",
+  "pid": "5720106",
+  "page_url": "https://www.pexels.com/photo/green-leaves-of-eucalyptus-plant-5720106/",
+  "thumb_url": "https://images.pexels.com/photos/5720106/pexels-photo-5720106.jpeg?auto=compress&cs=tinysrgb&h=350",
+  "label": "Closeup of fresh green leaves on thick stem of eucalyptus plant against blurred background green leaves of eucalyptus plant 5720106",
+  "author": "Mitchell Luo",
+  "license": "Pexels License",
+  "width": 3897,
+  "dhash": "7efadc98d1b9e0e6",
+  "judge": true,
+  "status": "propose",
+  "index": 0
+ },
+ {
+  "provider": "pixabay",
+  "pid": "384363",
+  "page_url": "https://pixabay.com/photos/leaves-eucalyptus-eucalyptus-tree-384363/",
+  "thumb_url": "https://pixabay.com/get/g569b0af241fdec2d12eef8fbfa3ff3cbb627c8bb97ac9059640fe9e19cabc64c5f73358da008465560d7855d09585a15_640.jpg",
+  "label": "leaves, eucalyptus, eucalyptus tree, mustgum-eucalyptus, eucalyptus gunnii, myrtle plant, myrtaceae, oval, nature, silvery, silver, whitish",
+  "author": "Hans",
+  "license": "Pixabay Content License",
+  "width": 3000,
+  "dhash": "342c9ad96982ee09",
+  "judge": true,
+  "status": "propose",
+  "index": 1
+ },
+ {
+  "provider": "pexels",
+  "pid": "14770596",
+  "page_url": "https://www.pexels.com/photo/green-leaves-in-close-up-shot-14770596/",
+  "thumb_url": "https://images.pexels.com/photos/14770596/pexels-photo-14770596.jpeg?auto=compress&cs=tinysrgb&h=350",
+  "label": "Natural close-up of eucalyptus leaves outdoors, showcasing their unique texture and green tones. green leaves in close up shot 14770596",
+  "author": "Sonny Sixteen",
+  "license": "Pexels License",
+  "width": 4352,
+  "dhash": "d2cacaec7c58d8d7",
+  "judge": true,
+  "status": "propose",
+  "index": 2
+ },
+ {
+  "provider": "pixabay",
+  "pid": "1234010",
+  "page_url": "https://pixabay.com/photos/eucalyptus-leaves-green-foliage-1234010/",
+  "thumb_url": "https://pixabay.com/get/gd94893d28cc1a5172dea16025900efdf7d1aa339209ea252210f857511ed0f530f209b473ab8c7c6d561c4207cb544ec27d9e5676115933dde31ff5ab1ebc6b9_640.jpg",
+  "label": "eucalyptus leaves, green, nature, foliage, australian, tree, gum tree, blue sky, gum, eucalypt, grey-green, immature",
+  "author": "sandid",
+  "license": "Pixabay Content License",
+  "width": 3855,
+  "dhash": "d3f5b2e6e8e8d0b6",
+  "judge": true,
+  "status": "propose",
+  "index": 3
+ },
+ {
+  "provider": "pexels",
+  "pid": "1026237",
+  "page_url": "https://www.pexels.com/photo/green-leaf-plant-closeup-photography-1026237/",
+  "thumb_url": "https://images.pexels.com/photos/1026237/pexels-photo-1026237.jpeg?auto=compress&cs=tinysrgb&h=350",
+  "label": "Detailed view of eucalyptus leaves with a natural background, highlighting nature's intricate patterns. green leaf plant closeup photography 1026237",
+  "author": "Cátia Matos",
+  "license": "Pexels License",
+  "width": 4120,
+  "dhash": "d0c0612138d2f3d3",
+  "judge": true,
+  "status": "propose",
+  "index": 4
+ }
+]
