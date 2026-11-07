@@ -299,5 +299,47 @@
   "license": "cc0",
   "page_url": "https://www.inaturalist.org/photos/195846725",
   "label": "Primula veris macrocalyx Angiospermae Ericales Flowers Plants primel primelgewächse Primula veris Primuleae Primuloideae Tracheophyta"
+ },
+ "malva_sylvestris": {
+  "provider": "pexels",
+  "author": "Hilal",
+  "license": "Pexels License",
+  "page_url": "https://www.pexels.com/photo/purple-wild-mallow-bloom-in-mugla-turkiye-39318399/",
+  "label": "Close-up of a vibrant purple wild mallow flower in Muğla, Turkey's natural landscape. purple wild mallow bloom in mugla turkiye 39318399"
+ },
+ "vaccinium_macrocarpon": {
+  "provider": "openverse",
+  "author": "USDAgov",
+  "license": "pdm",
+  "page_url": "https://www.flickr.com/photos/41284017@N08/49815706511",
+  "label": "20191019-NRCS-LSC-1637 bogs cranberry departmentofagriculture fruit harvest usda usdepartmentofagriculture"
+ },
+ "ribes_nigrum": {
+  "provider": "openverse",
+  "author": "",
+  "license": "cc0",
+  "page_url": "https://www.rawpixel.com/image/6026114/photo-image-public-domain-leaf-plant",
+  "label": "Closeup black currant berries black currant leaf black currants blackcurrant cassis currant nature nature photo"
+ },
+ "agrimonia_eupatoria": {
+  "provider": "openverse",
+  "author": "Paul Braun",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/19526312",
+  "label": "Agrimonia eupatoria Agrimonia Agrimonieae Agrimoniinae Angiospermae Flowers Magnoliopsida odermennig Plantae Plants Rosaceae Rosales rosengewächse Rosoideae Tracheophyta"
+ },
+ "serenoa_repens": {
+  "provider": "openverse",
+  "author": "dande",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/178259870",
+  "label": "Serenoa repens Angiospermae Arecaceae Arecales Coryphoideae Liliopsida Plants Serenoa Tracheophyta Trachycarpeae"
+ },
+ "origanum_majorana": {
+  "provider": "openverse",
+  "author": "Matt Schultz",
+  "license": "cc0",
+  "page_url": "https://www.inaturalist.org/photos/138539343",
+  "label": "Origanum majorana Angiospermae Flowers Lamiaceae Lamiales Mentheae Menthinae Nepetoideae Origanum Plants Tracheophyta"
  }
 }
