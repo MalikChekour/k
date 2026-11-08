@@ -13,6 +13,9 @@ test('types EMA rangés dans la bonne rubrique', () => {
   assert.equal(rubricOf('interaction'), 'interactions');
   assert.equal(rubricOf('pregnancy'), 'grossesse');
   assert.equal(rubricOf('lactation'), 'grossesse');
+  assert.equal(rubricOf('pharmacodynamics'), 'savoir');
+  assert.equal(rubricOf('preclinical'), 'savoir');
+  assert.equal(rubricOf('adverse_effect'), 'precautions');
   assert.equal(rubricOf('contraindication'), 'precautions');
   assert.equal(rubricOf('type_inconnu'), 'precautions');
 });

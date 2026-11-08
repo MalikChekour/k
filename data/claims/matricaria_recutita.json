@@ -1,151 +1,488 @@
 [
- {
-  "id": "chamo-ci-asteraceae",
-  "plant": "matricaria_recutita",
-  "type": "contraindication",
-  "statement": "Contre-indiquee en cas d'hypersensibilite aux Asteracees (Composees).",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+  {
+    "id": "chamo-ci-asteraceae",
+    "plant": "matricaria_recutita",
+    "type": "contraindication",
+    "statement": "Contre-indiquee en cas d'hypersensibilite aux Asteracees (Composees).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Hypersensitivity to the active substance and to other plants of the Asteraceae (Compositae) family."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "asteraceae_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "asteraceae_allergy"
-  ]
- },
- {
-  "id": "chamo-int-cyp450-transplant",
-  "plant": "matricaria_recutita",
-  "type": "interaction",
-  "statement": "Interactions via le CYP450 rapportees uniquement chez les transplantes renaux sous fortes doses prolongees (voie orale).",
-  "severity": "moderee",
-  "population": "transplantes renaux",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "For patients after renal transplantation taking high dosages for longer periods (about two months) interactions based on effects on CYP450 have been reported."
+  {
+    "id": "chamo-int-cyp450-transplant",
+    "plant": "matricaria_recutita",
+    "type": "interaction",
+    "statement": "Interactions via le CYP450 rapportees uniquement chez les transplantes renaux sous fortes doses prolongees (voie orale).",
+    "severity": "moderee",
+    "population": "transplantes renaux",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "For patients after renal transplantation taking high dosages for longer periods (about two months) interactions based on effects on CYP450 have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "chamo-int-autres-voies",
-  "plant": "matricaria_recutita",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportee pour les voies cutanee, oromuqueuse, inhalation et bain.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "Cutaneous, oromucosal use, inhalation, or as bath additive: None reported."
+  {
+    "id": "chamo-int-autres-voies",
+    "plant": "matricaria_recutita",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportee pour les voies cutanee, oromuqueuse, inhalation et bain.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Cutaneous, oromucosal use, inhalation, or as bath additive: None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "chamo-grossesse-non-etablie",
-  "plant": "matricaria_recutita",
-  "type": "pregnancy",
-  "statement": "Pour les preparations autres que la forme a), la securite pendant la grossesse et l'allaitement n'est pas etablie.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been establis"
+  {
+    "id": "chamo-grossesse-non-etablie",
+    "plant": "matricaria_recutita",
+    "type": "pregnancy",
+    "statement": "Pour les preparations autres que la forme a), la securite pendant la grossesse et l'allaitement n'est pas etablie.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been establis"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "matricaria_recutita-ind-01",
-  "plant": "matricaria_recutita",
-  "type": "indication",
-  "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux mineurs (ballonnements, petits spasmes).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "Traditional herbal medicinal product used for the symptomatic treatment of minor gastro-intestinal complaints such as bloating and minor spasms."
+  {
+    "id": "matricaria_recutita-ind-01",
+    "plant": "matricaria_recutita",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des troubles gastro-intestinaux mineurs (ballonnements, petits spasmes).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the symptomatic treatment of minor gastro-intestinal complaints such as bloating and minor spasms."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "matricaria_recutita-ind-02",
-  "plant": "matricaria_recutita",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+  {
+    "id": "matricaria_recutita-ind-02",
+    "plant": "matricaria_recutita",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "matricaria_recutita-pos-01",
-  "plant": "matricaria_recutita",
-  "type": "posology",
-  "statement": "Usage traditionnel, infusion (indication 1) : dose unique de 1,5 à 4 g dans 150 ml d'eau bouillante, 3 à 4 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "Single dose: 1.5-4 g of the herbal substance or comminuted herbal substance in 150 ml of boiling water as a herbal infusion"
+  {
+    "id": "matricaria_recutita-pos-01",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Usage traditionnel, infusion (indication 1) : dose unique de 1,5 à 4 g dans 150 ml d'eau bouillante, 3 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Single dose: 1.5-4 g of the herbal substance or comminuted herbal substance in 150 ml of boiling water as a herbal infusion"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "matricaria_recutita-pos-02",
-  "plant": "matricaria_recutita",
-  "type": "posology",
-  "statement": "Durée : si les symptômes persistent plus d'une semaine, consulter un médecin ou un professionnel de santé.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-   "quote": "If the symptoms persist more than one week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  {
+    "id": "matricaria_recutita-pos-02",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus d'une semaine, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "If the symptoms persist more than one week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "matricaria_recutita-add-01",
+    "plant": "matricaria_recutita",
+    "type": "undesirable_effect",
+    "statement": "Réactions d'hypersensibilité, dont réactions allergiques graves (dyspnée, œdème de Quincke, collapsus vasculaire, choc anaphylactique), signalées après contact muqueux avec des préparations liquides de camomille. Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "following mucosal contact with liquid chamomile preparations have been reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "matricaria_recutita-add-02",
+    "plant": "matricaria_recutita",
+    "type": "information",
+    "statement": "Bains complets contre-indiqués en cas de plaies ouvertes, de grandes lésions cutanées, de maladies cutanées aiguës, de forte fièvre, d'infections sévères, de troubles circulatoires sévères et d'insuffisance cardiaque.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Full baths are contraindicated in cases of open wounds, large skin injuries, acute skin diseases, high fever, severe infections, severe circulatory disturbances and cardiac insufficency."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-03",
+    "plant": "matricaria_recutita",
+    "type": "information",
+    "statement": "Bains partiels ou bains de siège contre-indiqués en cas de plaies ouvertes, de grandes lésions cutanées, de maladies cutanées aiguës, de forte fièvre et d'infections sévères.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Partial baths or hip baths are contraindicated in cases of open wounds, large skin injuries, acute skin diseases, high fever and severe infections."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-04",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Tisane par voie orale (indication 1) : non établie chez l'enfant de moins de 6 mois, pour des raisons générales d'alimentation et d'apport en liquides.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "The oral use of the herbal tea for children below 6 months of age has not been established due to general considerations of nutrition and fluid intake."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_2"
+    ]
+  },
+  {
+    "id": "matricaria_recutita-add-05",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Pour les préparations b, c, d, f, i, j et n (toutes voies), l'usage chez l'enfant de moins de 12 ans n'est pas établi, faute de données suffisantes.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "The use of the herbal preparations b, c, d, f, i, j, and n in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "matricaria_recutita-add-06",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Usage traditionnel, infusion (indication 1), enfants de 6 mois à 2 ans : dose unique de 0,5 à 1,0 g, 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Children (6 months - 2 years) Single dose: 0.5-1.0 g Daily dose: 2-4 times"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-07",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Usage traditionnel, infusion (indication 1), enfants de 2 à 6 ans : dose unique de 1,0 à 1,5 g, 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Children (2-6 years) Single dose: 1.0-1.5 g Daily dose: 2-4 times"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-08",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Usage traditionnel, infusion (indication 1), enfants de 6 à 12 ans : dose unique de 1,5 à 3,0 g, 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Children (6-12 years) Single dose: 1.5-3.0 g Daily dose: 2-4 times"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-09",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Usage traditionnel, inhalation de vapeur (indication 2), adolescents, adultes et personnes âgées : dose unique de 3 à 10 g de plante dans 100 ml d'eau chaude.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Single dose: 3-10 g of herbal substance or comminuted herbal substance in 100 ml hot water for inhalation"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-10",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Usage traditionnel, infusion pour rinçage et gargarisme (indication 3), adolescents, adultes et personnes âgées : dose unique de 1 à 5 g dans 100 ml d'eau, plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Single dose: Herbal substance or comminuted herbal substance for infusion preparation for oromucosal use: 1-5 g in 100 ml water, for rinsing and gargling"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-11",
+    "plant": "matricaria_recutita",
+    "type": "posology",
+    "statement": "Voies d'utilisation selon l'indication : 1) orale ; 2) inhalation ; 3) bucco-muqueuse (rinçages, gargarismes) ; 4 et 5) cutanée et ajout au bain.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Indication 4) and 5) Cutaneous use, Use as bath additive"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-12",
+    "plant": "matricaria_recutita",
+    "type": "pregnancy",
+    "statement": "Préparation a) (matériel végétal) : la sécurité pendant la grossesse et l'allaitement est établie.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Preparation a) Safety during pregnancy and lactation has been established."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "matricaria_recutita-add-13",
+    "plant": "matricaria_recutita",
+    "type": "lactation",
+    "statement": "Allaitement : le cas échéant, nettoyer les mamelons avant la tétée des produits à base de matricaire destinés à l'usage cutané, pour éviter une sensibilisation du bébé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "If applicable before nursing the baby the nipples should be cleaned of matricaria containing products for cutaneous use to prevent a sensitization of the baby."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "matricaria_recutita-add-14",
+    "plant": "matricaria_recutita",
+    "type": "fertility",
+    "statement": "Pour les préparations b) à o), aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-15",
+    "plant": "matricaria_recutita",
+    "type": "driving",
+    "statement": "Conduite de véhicules et utilisation de machines : aucune étude n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "matricaria_recutita-add-16",
+    "plant": "matricaria_recutita",
+    "type": "overdose",
+    "statement": "Surdosage : aucun cas n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-17",
+    "plant": "matricaria_recutita",
+    "type": "preclinical",
+    "statement": "Études précliniques : les tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "matricaria_recutita-add-18",
+    "plant": "matricaria_recutita",
+    "type": "pharmacodynamics",
+    "statement": "Pharmacodynamie et pharmacocinétique : études non exigées pour cet usage traditionnel.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
+      "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC as amended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

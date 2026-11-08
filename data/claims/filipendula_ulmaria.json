@@ -1,171 +1,417 @@
 [
- {
-  "id": "filipendula_ulmaria-01",
-  "plant": "filipendula_ulmaria",
-  "type": "contraindication",
-  "statement": "Contre-indiquée en cas d'hypersensibilité aux salicylés.",
-  "severity": "contraindiquee",
-  "population": "allergie aux salicylés",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Hypersensitivity to salicylates."
+  {
+    "id": "filipendula_ulmaria-01",
+    "plant": "filipendula_ulmaria",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité aux salicylés.",
+    "severity": "contraindiquee",
+    "population": "allergie aux salicylés",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Hypersensitivity to salicylates."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "salicylate_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "salicylate_allergy"
-  ]
- },
- {
-  "id": "filipendula_ulmaria-02",
-  "plant": "filipendula_ulmaria",
-  "type": "warning",
-  "statement": "L'association avec les salicylés et autres AINS n'est pas recommandée sans avis médical.",
-  "severity": "moderee",
-  "population": "patients sous AINS ou salicylés",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Concomitant use with salicylates and other NSAIDs is not recommended without medical advice."
+  {
+    "id": "filipendula_ulmaria-02",
+    "plant": "filipendula_ulmaria",
+    "type": "warning",
+    "statement": "L'association avec les salicylés et autres AINS n'est pas recommandée sans avis médical.",
+    "severity": "moderee",
+    "population": "patients sous AINS ou salicylés",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Concomitant use with salicylates and other NSAIDs is not recommended without medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "filipendula_ulmaria-03",
-  "plant": "filipendula_ulmaria",
-  "type": "interaction",
-  "statement": "Aucune autre interaction rapportée dans la monographie EMA.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Traditional use None reported"
+  {
+    "id": "filipendula_ulmaria-03",
+    "plant": "filipendula_ulmaria",
+    "type": "interaction",
+    "statement": "Aucune autre interaction rapportée dans la monographie EMA.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "filipendula_ulmaria-04",
-  "plant": "filipendula_ulmaria",
-  "type": "pregnancy",
-  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "filipendula_ulmaria-04",
+    "plant": "filipendula_ulmaria",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "filipendula_ulmaria-05",
-  "plant": "filipendula_ulmaria",
-  "type": "age",
-  "statement": "Usage non établi avant 18 ans (données insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 18 ans",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+  {
+    "id": "filipendula_ulmaria-05",
+    "plant": "filipendula_ulmaria",
+    "type": "age",
+    "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_18"
-  ]
- },
- {
-  "id": "filipendula_ulmaria-ind-01",
-  "plant": "filipendula_ulmaria",
-  "type": "indication",
-  "statement": "Usage traditionnel : traitement d'appoint du rhume.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Traditional herbal medicinal product for the supportive treatment of common cold."
+  {
+    "id": "filipendula_ulmaria-ind-01",
+    "plant": "filipendula_ulmaria",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement d'appoint du rhume.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for the supportive treatment of common cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "filipendula_ulmaria-ind-02",
-  "plant": "filipendula_ulmaria",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Traditional herbal medicinal product for the relief of minor articular pain."
+  {
+    "id": "filipendula_ulmaria-ind-02",
+    "plant": "filipendula_ulmaria",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of minor articular pain."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "filipendula_ulmaria-pos-01",
-  "plant": "filipendula_ulmaria",
-  "type": "posology",
-  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1,5 à 6 g par dose unique, 2 à 18 g par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "Comminuted herbal substance as herbal tea: single dose: 1.5-6 g, as an infusion daily dose: 2-18 g"
+  {
+    "id": "filipendula_ulmaria-pos-01",
+    "plant": "filipendula_ulmaria",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1,5 à 6 g par dose unique, 2 à 18 g par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea: single dose: 1.5-6 g, as an infusion daily dose: 2-18 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "filipendula_ulmaria-pos-02",
-  "plant": "filipendula_ulmaria",
-  "type": "posology",
-  "statement": "Durée (rhume) : si les symptômes persistent plus de 7 jours, consulter un médecin ou un professionnel de santé.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
-   "quote": "If the symptoms persist longer than 7 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  {
+    "id": "filipendula_ulmaria-pos-02",
+    "plant": "filipendula_ulmaria",
+    "type": "posology",
+    "statement": "Durée (rhume) : si les symptômes persistent plus de 7 jours, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "If the symptoms persist longer than 7 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "filipendula_ulmaria-add-01",
+    "plant": "filipendula_ulmaria",
+    "type": "posology",
+    "statement": "Poudre de substance végétale, adultes et personnes âgées (rhume et douleurs articulaires) : 250 à 500 mg par dose unique, 250 à 1 500 mg par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Powdered herbal substance: single dose: 250-500 mg daily dose: 250-1500 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "filipendula_ulmaria-add-02",
+    "plant": "filipendula_ulmaria",
+    "type": "posology",
+    "statement": "Teinture (1:5), douleurs articulaires mineures, adultes et personnes âgées : 2 à 4 ml par dose unique, 6 à 12 ml par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "single dose: 2-4 ml daily dose: 6-12 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "filipendula_ulmaria-add-03",
+    "plant": "filipendula_ulmaria",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active (reine-des-prés).",
+    "severity": "contraindiquee",
+    "population": "allergie à la reine-des-prés",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "filipendula_ulmaria-add-04",
+    "plant": "filipendula_ulmaria",
+    "type": "warning",
+    "statement": "Rhume : consulter un médecin si la fièvre dépasse 39 °C, persiste ou s'accompagne de maux de tête sévères, ou si les symptômes s'aggravent pendant l'utilisation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "persists or is associated with severe headache, or if symptoms worsen during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "filipendula_ulmaria-add-05",
+    "plant": "filipendula_ulmaria",
+    "type": "information",
+    "statement": "Ne pas utiliser en cas d'arthrite aiguë, qui nécessite un avis médical.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "The product is not intended to be used in case of acute arthritis as this condition requires medical advice."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "filipendula_ulmaria-add-06",
+    "plant": "filipendula_ulmaria",
+    "type": "posology",
+    "statement": "Douleurs articulaires mineures : ne pas utiliser plus de 4 semaines.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Not to be used for more than 4 weeks."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "filipendula_ulmaria-add-07",
+    "plant": "filipendula_ulmaria",
+    "type": "posology",
+    "statement": "Rhume : commencer le traitement dès les premiers signes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "The therapy should start at first signs of common cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "filipendula_ulmaria-add-08",
+    "plant": "filipendula_ulmaria",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "filipendula_ulmaria-add-09",
+    "plant": "filipendula_ulmaria",
+    "type": "undesirable_effect",
+    "statement": "Aucun effet indésirable connu ; en cas de réaction indésirable, consulter un médecin ou un professionnel de santé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "None known. If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "filipendula_ulmaria-add-10",
+    "plant": "filipendula_ulmaria",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur la capacité à conduire et à utiliser des machines.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "filipendula_ulmaria-add-11",
+    "plant": "filipendula_ulmaria",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "filipendula_ulmaria-add-12",
+    "plant": "filipendula_ulmaria",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "filipendula_ulmaria-add-13",
+    "plant": "filipendula_ulmaria",
+    "type": "information",
+    "statement": "Les extraits contenant de l'éthanol doivent porter la mention d'étiquetage appropriée pour l'éthanol.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Filipendula ulmaria (L.) Maxim., herba (EMA/HMPC/434881/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-filipendula-ulmaria-l-maxim-herba-first-version_en.pdf",
+      "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

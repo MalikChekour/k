@@ -11,13 +11,18 @@ import { PLANT_PHOTOS } from '../plantPhotos';
 import { Bloom } from './Bloom';
 import { Badge, C, Chip, Source, s } from './shared';
 
-/** Pictogrammes sobres, uniquement dans la fiche plante. */
-const RUBRIC_ICON: Record<string, string> = { indication: '🎯', posologie: '⚖️', precautions: '⚠️', interactions: '💊', grossesse: '🤰' };
+/** Pictogrammes sobres et monochromes (symboles typographiques, forme « texte » forcée par U+FE0E), uniquement dans la fiche plante. */
+const T = '\uFE0E';
+const ICON = {
+  part: '\u2766', target: '\u25CE', prep: '\u2697' + T, avoid: '\u2298', caution: '\u26A0' + T, meds: '\u2695' + T,
+  names: '※', docs: '§', photo: '\u25A3', scale: '\u2696' + T, woman: '\u2640' + T, info: 'ℹ' + T,
+};
+const RUBRIC_ICON: Record<string, string> = { indication: ICON.target, posologie: ICON.scale, precautions: ICON.caution, interactions: ICON.meds, grossesse: ICON.woman, savoir: ICON.info };
 
 function Line({ icon, label, children }: { icon: string; label: string; children: React.ReactNode }) {
   return (
     <View style={{ flexDirection: 'row', gap: 10, alignItems: 'flex-start' }}>
-      <Text style={{ fontSize: 18, width: 26, textAlign: 'center' }} accessibilityElementsHidden importantForAccessibility="no">{icon}</Text>
+      <Text style={{ fontSize: 19, width: 26, textAlign: 'center', color: C.ink, fontFamily: undefined }} accessibilityElementsHidden importantForAccessibility="no">{icon}</Text>
       <View style={{ flex: 1, gap: 2 }}>
         <Text style={s.tag}>{label}</Text>
         <Text style={s.body}>{children}</Text>
@@ -33,15 +38,15 @@ function Overview({ plant }: { plant: PlantData }) {
   return (
     <View style={{ marginHorizontal: 20, marginTop: 16, backgroundColor: C.soft, borderRadius: 20, padding: 16, gap: 12 }}>
       <Text style={s.h2} accessibilityRole="header">À retenir</Text>
-      <Line icon="🌿" label="Partie utilisée">{o.part}</Line>
-      {o.usages.length > 0 && <Line icon="🎯" label="Proposée pour">{o.usages.join(' · ')}</Line>}
-      {o.infusion && <Line icon="🍵" label="Préparation décrite par l’EMA">{o.infusion.label}</Line>}
-      {o.avoid.length > 0 && <Line icon="⛔" label="À ne pas utiliser si">{o.avoid.join(' · ')}</Line>}
-      {o.caution.length > 0 && <Line icon="⚠️" label="Prudence si">{o.caution.join(' · ')}</Line>}
-      {o.medClasses.length > 0 && <Line icon="💊" label="Médicaments à signaler à votre pharmacien">{o.medClasses.join(' · ')}</Line>}
-      {o.aliases.length > 0 && <Line icon="🏷️" label="Autres noms">{o.aliases.join(', ')}</Line>}
-      <Line icon="📚" label="Base documentaire">{o.claimCount} affirmations vérifiées, {o.sourceCount} document{o.sourceCount > 1 ? 's' : ''} officiel{o.sourceCount > 1 ? 's' : ''}</Line>
-      {cr && <Line icon="📷" label="Photo">{[cr.author, cr.license].filter(Boolean).join(' · ')}</Line>}
+      <Line icon={ICON.part} label="Partie utilisée">{o.part}</Line>
+      {o.usages.length > 0 && <Line icon={ICON.target} label="Proposée pour">{o.usages.join(' · ')}</Line>}
+      {o.infusion && <Line icon={ICON.prep} label="Préparation décrite par l’EMA">{o.infusion.label}</Line>}
+      {o.avoid.length > 0 && <Line icon={ICON.avoid} label="À ne pas utiliser si">{o.avoid.join(' · ')}</Line>}
+      {o.caution.length > 0 && <Line icon={ICON.caution} label="Prudence si">{o.caution.join(' · ')}</Line>}
+      {o.medClasses.length > 0 && <Line icon={ICON.meds} label="Médicaments à signaler à votre pharmacien">{o.medClasses.join(' · ')}</Line>}
+      {o.aliases.length > 0 && <Line icon={ICON.names} label="Autres noms">{o.aliases.join(', ')}</Line>}
+      <Line icon={ICON.docs} label="Base documentaire">{o.claimCount} affirmations vérifiées, {o.sourceCount} document{o.sourceCount > 1 ? 's' : ''} officiel{o.sourceCount > 1 ? 's' : ''}</Line>
+      {cr && <Line icon={ICON.photo} label="Photo">{[cr.author, cr.license].filter(Boolean).join(' · ')}</Line>}
     </View>
   );
 }
@@ -99,7 +104,7 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
               ))}
               <View style={{ marginTop: 12, alignSelf: 'flex-start' }}>
                 <Chip
-                  label={favorites.includes(plant.id) ? 'Dans mon armoire ✓' : '+ Ajouter à mon armoire'}
+                  label={favorites.includes(plant.id) ? 'Dans mon armoire \u2713' : '+ Ajouter à mon armoire'}
                   on={favorites.includes(plant.id)}
                   onPress={() => writable && onToggleFav(plant.id)}
                 />

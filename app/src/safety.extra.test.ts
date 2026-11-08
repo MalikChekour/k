@@ -69,16 +69,18 @@ test('marques ajoutées : chacune rejoint la bonne classe (casse et tiret indiff
     assert.ok(classOf(brand.toUpperCase()).includes(cls), `${brand.toUpperCase()} doit aussi matcher`);
   }
 });
-test('AOD et ISRS : reconnus, mais sans règle => jamais « aucune alerte » rassurante avec une plante à règles', () => {
+test('AOD : reconnus mais sans règle avec le millepertuis ; ISRS : désormais couverts (affirmation EMA ajoutée)', () => {
   const aod = ['Xarelto', 'Eliquis', 'Pradaxa'], isrs = ['Prozac', 'Zoloft', 'Seroplex', 'Deroxat'];
   for (const m of aod) assert.deepEqual(classOf(m), ['anticoagulant_oral_direct'], m);
   for (const m of isrs) assert.deepEqual(classOf(m), ['antidepresseur_isrs'], m);
-  // millepertuis : alertes générales, et l'association n'est pas couverte
-  for (const m of [...aod, ...isrs]) {
+  // millepertuis + anticoagulant direct : l'association n'est pas couverte => jamais « aucune alerte » rassurante
+  for (const m of aod) {
     const r = assess(bundle, ['hypericum_perforatum'], { meds: [m] });
     assert.notEqual(r.verdict, 'aucune_alerte_dans_notre_base', m);
     assert.ok(r.notes.some((n: { status: string }) => n.status === 'non_couvert'), m);
   }
+  // millepertuis + ISRS : alerte sourcée (effets sérotoninergiques)
+  for (const m of isrs) assert.ok(assess(bundle, ['hypericum_perforatum'], { meds: [m] }).alerts.some(a => a.claimId === 'hypericum_perforatum-add-03'), m);
 });
 
 // --- Sous-chaînes piégeuses : mot entier uniquement -------------------------------------------------------------
@@ -408,4 +410,13 @@ test('lot 6 : kola (caféine), eau (renouée, olivier), bain de chêne = précau
   assert.notEqual(assess(bundle, ['juglans_regia'], { flags: [] }).verdict, 'contre_indication');
   for (const id of ['ruscus_aculeatus', 'cucurbita_pepo', 'prunus_africana', 'capsella_bursa_pastoris'])
     assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
+});
+
+test('enrichissement : ginkgo + dabigatran / nifédipine alertés ; valériane seule sans alerte ; les infos de fiche ne déclenchent pas d’alerte générale', () => {
+  assert.ok(assess(bundle, ['ginkgo_biloba'], { flags: [], meds: ['dabigatran'] }).alerts.some(a => a.claimId === 'ginkgo_biloba-add-15'));
+  assert.ok(assess(bundle, ['ginkgo_biloba'], { flags: [], meds: ['nifedipine'] }).alerts.some(a => a.claimId === 'ginkgo_biloba-add-16'));
+  assert.equal(assess(bundle, ['valeriana_officinalis'], { flags: [] }).alerts.length, 0);
+  // une affirmation « information » (ex. bain de valériane) reste lisible sur la fiche mais n'est jamais une alerte
+  const p = bundle.plants.find((x: { id: string }) => x.id === 'valeriana_officinalis');
+  assert.ok(p.claims.some((c: { type: string }) => c.type === 'information'));
 });

@@ -1,213 +1,359 @@
 [
- {
-  "id": "mentha_piperita-01",
-  "plant": "mentha_piperita",
-  "type": "contraindication",
-  "statement": "Contre-indiqué en cas d'hypersensibilité aux préparations de feuille de menthe poivrée ou au menthol.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Hypersensitivity to peppermint leaf preparations or to menthol."
+  {
+    "id": "mentha_piperita-01",
+    "plant": "mentha_piperita",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas d'hypersensibilité aux préparations de feuille de menthe poivrée ou au menthol.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Hypersensitivity to peppermint leaf preparations or to menthol."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "mentha_piperita-02",
-  "plant": "mentha_piperita",
-  "type": "warning",
-  "statement": "Les personnes souffrant de reflux gastro-œsophagien (brûlures d'estomac) doivent éviter la menthe poivrée, car les brûlures peuvent augmenter.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Patients with gastroesophageal reflux (heartburn) should avoid peppermint leaf preparations, because heartburn may increase."
+  {
+    "id": "mentha_piperita-02",
+    "plant": "mentha_piperita",
+    "type": "warning",
+    "statement": "Les personnes souffrant de reflux gastro-œsophagien (brûlures d'estomac) doivent éviter la menthe poivrée, car les brûlures peuvent augmenter.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Patients with gastroesophageal reflux (heartburn) should avoid peppermint leaf preparations, because heartburn may increase."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "mentha_piperita-03",
-  "plant": "mentha_piperita",
-  "type": "warning",
-  "statement": "En cas de calculs biliaires ou d'autre trouble biliaire, la prudence est de mise avec la menthe poivrée.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Patients with gallstones and any other biliary disorders should be cautious using peppermint leaf preparations."
+  {
+    "id": "mentha_piperita-03",
+    "plant": "mentha_piperita",
+    "type": "warning",
+    "statement": "En cas de calculs biliaires ou d'autre trouble biliaire, la prudence est de mise avec la menthe poivrée.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Patients with gallstones and any other biliary disorders should be cautious using peppermint leaf preparations."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "biliary_disease"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "biliary_disease"
-  ]
- },
- {
-  "id": "mentha_piperita-04",
-  "plant": "mentha_piperita",
-  "type": "age",
-  "statement": "Non recommandé avant 4 ans (données insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 4 ans",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "The use in children under 4 years of age is not recommended due to a lack of adequate data."
+  {
+    "id": "mentha_piperita-04",
+    "plant": "mentha_piperita",
+    "type": "age",
+    "statement": "Non recommandé avant 4 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 4 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "The use in children under 4 years of age is not recommended due to a lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_12"
-  ]
- },
- {
-  "id": "mentha_piperita-05",
-  "plant": "mentha_piperita",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportée dans la monographie EMA.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "None reported"
+  {
+    "id": "mentha_piperita-05",
+    "plant": "mentha_piperita",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "mentha_piperita-06",
-  "plant": "mentha_piperita",
-  "type": "pregnancy",
-  "statement": "La sécurité pendant la grossesse et l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "mentha_piperita-06",
+    "plant": "mentha_piperita",
+    "type": "pregnancy",
+    "statement": "La sécurité pendant la grossesse et l'allaitement n'est pas établie ; l'usage n'est pas recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "mentha_piperita-07",
-  "plant": "mentha_piperita",
-  "type": "driving",
-  "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
-  "severity": "donnees_absentes",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+  {
+    "id": "mentha_piperita-07",
+    "plant": "mentha_piperita",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "drives"
-  ]
- },
- {
-  "id": "mentha_piperita-ind-01",
-  "plant": "mentha_piperita",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement symptomatique des troubles digestifs, comme la dyspepsie et les flatulences.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product for the symptomatic relief of digestive disorders such as dyspepsia and flatulence."
+  {
+    "id": "mentha_piperita-ind-01",
+    "plant": "mentha_piperita",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des troubles digestifs, comme la dyspepsie et les flatulences.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic relief of digestive disorders such as dyspepsia and flatulence."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "mentha_piperita-pos-01",
-  "plant": "mentha_piperita",
-  "type": "posology",
-  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1,5 à 3,0 g dans 100 à 150 ml d'eau bouillante, 3 fois par jour.",
-  "severity": null,
-  "population": "adultes et personnes âgées",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Herbal tea: 1.5-3.0 g of the herbal substance or the comminuted herbal substance in 100-150 ml of boiling water as a herbal infusion 3 times daily"
+  {
+    "id": "mentha_piperita-pos-01",
+    "plant": "mentha_piperita",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 1,5 à 3,0 g dans 100 à 150 ml d'eau bouillante, 3 fois par jour.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Herbal tea: 1.5-3.0 g of the herbal substance or the comminuted herbal substance in 100-150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "mentha_piperita-pos-02",
-  "plant": "mentha_piperita",
-  "type": "posology",
-  "statement": "Usage traditionnel, enfants de 4 à 11 ans et adolescents : tisane de 1,0 à 2,0 g dans 100 à 150 ml d'eau bouillante, 3 fois par jour.",
-  "severity": null,
-  "population": "4 à 11 ans",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "Herbal tea: 1.0-2.0 g of the herbal substance or the comminuted herbal substance in 100-150 ml of boiling water as a herbal infusion 3 times daily"
+  {
+    "id": "mentha_piperita-pos-02",
+    "plant": "mentha_piperita",
+    "type": "posology",
+    "statement": "Usage traditionnel, enfants de 4 à 11 ans et adolescents : tisane de 1,0 à 2,0 g dans 100 à 150 ml d'eau bouillante, 3 fois par jour.",
+    "severity": null,
+    "population": "4 à 11 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Herbal tea: 1.0-2.0 g of the herbal substance or the comminuted herbal substance in 100-150 ml of boiling water as a herbal infusion 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "mentha_piperita-pos-03",
-  "plant": "mentha_piperita",
-  "type": "posology",
-  "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
-   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted"
+  {
+    "id": "mentha_piperita-pos-03",
+    "plant": "mentha_piperita",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "mentha_piperita-add-01",
+    "plant": "mentha_piperita",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées, teinture (préparations B et C, 1:5 : éthanol 45 % ou 70 %) : 2,0 à 3,0 ml, 3 fois par jour.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Preparations B), C) Tincture: 2.0-3.0 ml, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "mentha_piperita-add-02",
+    "plant": "mentha_piperita",
+    "type": "adverse_effect",
+    "statement": "Effet indésirable (fréquence inconnue) : le reflux gastro-œsophagien peut s'aggraver et les brûlures d'estomac peuvent augmenter.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "The gastroesophageal reflux may worsen and heartburn may increase. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "mentha_piperita-add-03",
+    "plant": "mentha_piperita",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "mentha_piperita-add-04",
+    "plant": "mentha_piperita",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "mentha_piperita-add-05",
+    "plant": "mentha_piperita",
+    "type": "preclinical",
+    "statement": "Tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "mentha_piperita-add-06",
+    "plant": "mentha_piperita",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "mentha_piperita-add-07",
+    "plant": "mentha_piperita",
+    "type": "posology",
+    "statement": "Forme d'emploi : tisane (feuille séchée ou drogue concassée) pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "Herbal substance and comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "mentha_piperita-add-08",
+    "plant": "mentha_piperita",
+    "type": "information",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, la mention d'étiquetage appropriée pour l'éthanol doit figurer sur l'emballage.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Mentha x piperita L., folium (EMA/HMPC/572705/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-mentha-x-piperita-l-folium-revision-1_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol,"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

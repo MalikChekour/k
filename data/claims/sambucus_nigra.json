@@ -191,5 +191,151 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "sambucus_nigra-add-01",
+    "plant": "sambucus_nigra",
+    "type": "posology",
+    "statement": "Extrait liquide (DER 1:1, éthanol 25 % V/V) : dose unique de 2 à 5 ml, trois fois par jour, pour les adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "b) Single dose: 2-5 ml three times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "sambucus_nigra-add-02",
+    "plant": "sambucus_nigra",
+    "type": "posology",
+    "statement": "Teinture (1:5, éthanol 25 % V/V) : dose unique de 10 à 25 ml, trois fois par jour, pour les adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "c) Single dose: 10-25 ml three times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "sambucus_nigra-add-03",
+    "plant": "sambucus_nigra",
+    "type": "posology",
+    "statement": "Décoction : 3 à 6 g de substance végétale broyée dans 200 ml d'eau, réparties en 2 prises par jour, pour les adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "Herbal tea: 3-6 g of the comminuted herbal substance in 200 ml water as a decoction divided in 2 single doses daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "sambucus_nigra-add-04",
+    "plant": "sambucus_nigra",
+    "type": "information",
+    "statement": "Teintures et extraits contenant de l'éthanol : l'étiquetage approprié concernant l'éthanol doit figurer sur le produit (ligne directrice sur les excipients).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "sambucus_nigra-add-05",
+    "plant": "sambucus_nigra",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "sambucus_nigra-add-06",
+    "plant": "sambucus_nigra",
+    "type": "adverse_effects",
+    "statement": "Aucun effet indésirable connu pour l'usage traditionnel (monographie EMA).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "Traditional use None known"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "sambucus_nigra-add-07",
+    "plant": "sambucus_nigra",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "sambucus_nigra-add-08",
+    "plant": "sambucus_nigra",
+    "type": "preclinical",
+    "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogenèse n'a été réalisé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Sambucus nigra L., flos (EMA/HMPC/611512/2016, revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-sambucus-nigra-l-flos-revision-1_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

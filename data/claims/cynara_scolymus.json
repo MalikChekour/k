@@ -230,5 +230,157 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "cynara_scolymus-add-01",
+    "plant": "cynara_scolymus",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : poudre de feuilles sèches, dose journalière de 600 à 1500 mg, en doses fractionnées 2 à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "Powdered dried leaves Daily dose 600-1500 mg (in divided doses, 2-4 times a day)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cynara_scolymus-add-02",
+    "plant": "cynara_scolymus",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : extrait sec de feuilles fraîches (DER 15-35:1, solvant eau), 200 à 900 mg par prise, dose journalière de 600 à 2700 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "Dry extract of fresh leaves (DER 15-35:1), extraction solvent water Single dose 200-900 mg Daily dose 600-2700 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cynara_scolymus-add-03",
+    "plant": "cynara_scolymus",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : extrait mou de feuilles fraîches (DER 15-30:1, solvant eau), 600 mg par prise, dose journalière de 1800 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "Single dose 600 mg Daily dose 1800 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cynara_scolymus-add-04",
+    "plant": "cynara_scolymus",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : extrait mou de feuilles sèches (DER 2,5-3,5:1, solvant éthanol 20 % V/V), 0,7 g par prise, 3 fois par jour, soit 2,1 g par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "Single dose 0.7 g 3 times daily Daily dose 2.1 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cynara_scolymus-add-05",
+    "plant": "cynara_scolymus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cynara_scolymus-add-06",
+    "plant": "cynara_scolymus",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cynara_scolymus-add-07",
+    "plant": "cynara_scolymus",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cynara_scolymus-add-08",
+    "plant": "cynara_scolymus",
+    "type": "pharmacokinetics",
+    "statement": "Étude pharmacocinétique non requise pour cet usage traditionnel (article 16c(1)(a)(iii) de la directive 2001/83/CE).",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
+      "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   }
 ]

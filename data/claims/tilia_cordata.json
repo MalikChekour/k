@@ -1,191 +1,411 @@
 [
- {
-  "id": "tilia_cordata-01",
-  "plant": "tilia_cordata",
-  "type": "contraindication",
-  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Hypersensitivity to the active substance."
+  {
+    "id": "tilia_cordata-01",
+    "plant": "tilia_cordata",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "tilia_cordata-02",
-  "plant": "tilia_cordata",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Traditional use None reported."
+  {
+    "id": "tilia_cordata-02",
+    "plant": "tilia_cordata",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Traditional use None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "tilia_cordata-03",
-  "plant": "tilia_cordata",
-  "type": "pregnancy",
-  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "tilia_cordata-03",
+    "plant": "tilia_cordata",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "tilia_cordata-04",
-  "plant": "tilia_cordata",
-  "type": "age",
-  "statement": "Usage non établi chez les enfants de moins de 12 ans (données insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 12 ans",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+  {
+    "id": "tilia_cordata-04",
+    "plant": "tilia_cordata",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants de moins de 12 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_12"
-  ]
- },
- {
-  "id": "tilia_cordata-05",
-  "plant": "tilia_cordata",
-  "type": "driving",
-  "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines n'a été réalisée.",
-  "severity": "donnees_absentes",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+  {
+    "id": "tilia_cordata-05",
+    "plant": "tilia_cordata",
+    "type": "driving",
+    "statement": "Aucune étude sur l'effet sur la conduite et l'utilisation de machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "tilia_cordata-06",
-  "plant": "tilia_cordata",
-  "type": "warning",
-  "statement": "Si les symptômes s'aggravent pendant l'utilisation, ou en cas de difficulté respiratoire, forte fièvre ou expectorations purulentes, consulter un médecin ou un professionnel de santé qualifié.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "If the symptoms worsen during the use of the medicinal product or if dyspnoea, high fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+  {
+    "id": "tilia_cordata-06",
+    "plant": "tilia_cordata",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, ou en cas de difficulté respiratoire, forte fièvre ou expectorations purulentes, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product or if dyspnoea, high fever or purulent sputum occurs, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "tilia_cordata-ind-01",
-  "plant": "tilia_cordata",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+  {
+    "id": "tilia_cordata-ind-01",
+    "plant": "tilia_cordata",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes du rhume.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of symptoms of common cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "tilia_cordata-ind-02",
-  "plant": "tilia_cordata",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Traditional herbal medicinal product for the relief of mild symptoms of mental stress."
+  {
+    "id": "tilia_cordata-ind-02",
+    "plant": "tilia_cordata",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of mild symptoms of mental stress."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "tilia_cordata-pos-01",
-  "plant": "tilia_cordata",
-  "type": "posology",
-  "statement": "Adolescents, adultes et personnes âgées : infusion de 1,5 g de substance végétale coupée dans 150 ml d'eau bouillante, 2 à 4 fois par jour (dose journalière 3 à 6 g).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Herbal tea: 1.5 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 2–4 times daily."
+  {
+    "id": "tilia_cordata-pos-01",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : infusion de 1,5 g de substance végétale coupée dans 150 ml d'eau bouillante, 2 à 4 fois par jour (dose journalière 3 à 6 g).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Herbal tea: 1.5 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion 2–4 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "tilia_cordata-pos-02",
-  "plant": "tilia_cordata",
-  "type": "posology",
-  "statement": "Adolescents, adultes et personnes âgées : extrait liquide, 2 ml en une prise, 1 à 2 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
-   "quote": "Single dose: 2 ml, 1-2 times daily"
+  {
+    "id": "tilia_cordata-pos-02",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : extrait liquide, 2 ml en une prise, 1 à 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Single dose: 2 ml, 1-2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "tilia_cordata-add-01",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Enfants de 4 à 12 ans (indication rhume) : tisane de 1 g de substance végétale coupée dans 150 ml d'eau bouillante.",
+    "severity": null,
+    "population": "enfants de 4 à 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Herbal tea: 1 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "tilia_cordata-add-02",
+    "plant": "tilia_cordata",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants de moins de 4 ans (indication rhume).",
+    "severity": "precaution",
+    "population": "moins de 4 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "The use in children under 4 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_6"
+    ]
+  },
+  {
+    "id": "tilia_cordata-add-03",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Pour le rhume, si les symptômes persistent plus d'une semaine pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-04",
+    "plant": "tilia_cordata",
+    "type": "information",
+    "statement": "Les teintures et extraits contenant de l'éthanol doivent comporter l'étiquetage approprié pour l'éthanol.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-05",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées : teinture, 1 ml en une prise, 1 à 2 fois par jour (dose journalière 1 à 2 ml).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Single dose: 1 ml, 1-2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-06",
+    "plant": "tilia_cordata",
+    "type": "adverse_effects",
+    "statement": "Aucun effet indésirable connu ; en cas d'effet indésirable, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "None known. If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-07",
+    "plant": "tilia_cordata",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-08",
+    "plant": "tilia_cordata",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-09",
+    "plant": "tilia_cordata",
+    "type": "preclinical",
+    "statement": "Tests adéquats de génotoxicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-10",
+    "plant": "tilia_cordata",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-11",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Pour le soulagement des symptômes légers de stress mental, si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tilia_cordata-add-12",
+    "plant": "tilia_cordata",
+    "type": "posology",
+    "statement": "Pour le rhume, le traitement doit commencer dès les premiers signes de la maladie.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-tilia-cordata-miller-tilia-platyphyllos-scop-tilia-x-vulgaris-heyne_en.pdf",
+      "quote": "The therapy should start at first signs of common cold."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

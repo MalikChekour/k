@@ -1,191 +1,541 @@
 [
- {
-  "id": "urtica_dioica-01",
-  "plant": "urtica_dioica",
-  "type": "contraindication",
-  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Hypersensitivity to the active substance."
+  {
+    "id": "urtica_dioica-01",
+    "plant": "urtica_dioica",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "urtica_dioica-02",
-  "plant": "urtica_dioica",
-  "type": "warning",
-  "statement": "Non recommandée en cas de restriction hydrique (un apport en liquide suffisant est requis pendant le traitement).",
-  "severity": "precaution",
-  "population": "restriction hydrique",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Urtica dioica L. and Urtica urens L., herba are not recommended for patients with conditions where reduced fluid intake is advised."
+  {
+    "id": "urtica_dioica-02",
+    "plant": "urtica_dioica",
+    "type": "warning",
+    "statement": "Non recommandée en cas de restriction hydrique (un apport en liquide suffisant est requis pendant le traitement).",
+    "severity": "precaution",
+    "population": "restriction hydrique",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Urtica dioica L. and Urtica urens L., herba are not recommended for patients with conditions where reduced fluid intake is advised."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "fluid_restriction"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "fluid_restriction"
-  ]
- },
- {
-  "id": "urtica_dioica-03",
-  "plant": "urtica_dioica",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportée dans la monographie EMA.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Traditional use None reported"
+  {
+    "id": "urtica_dioica-03",
+    "plant": "urtica_dioica",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "urtica_dioica-04",
-  "plant": "urtica_dioica",
-  "type": "pregnancy",
-  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "urtica_dioica-04",
+    "plant": "urtica_dioica",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "urtica_dioica-05",
-  "plant": "urtica_dioica",
-  "type": "age",
-  "statement": "Usage non établi avant 18 ans pour la préparation a) (données insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 18 ans",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "The use in children and adolescents under 18 years of age has not been established due to the lack of adequate data."
+  {
+    "id": "urtica_dioica-05",
+    "plant": "urtica_dioica",
+    "type": "age",
+    "statement": "Usage non établi avant 18 ans pour la préparation a) (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to the lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_18"
-  ]
- },
- {
-  "id": "urtica_dioica-ind-01",
-  "plant": "urtica_dioica",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des symptômes des petits troubles urinaires, en complément d'un apport hydrique suffisant.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product used for the relief of symptoms associated with minor urinary complaints in addition to the general recommendation of a sufficient fluid intake to increase the amount of urine."
+  {
+    "id": "urtica_dioica-ind-01",
+    "plant": "urtica_dioica",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes des petits troubles urinaires, en complément d'un apport hydrique suffisant.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of symptoms associated with minor urinary complaints in addition to the general recommendation of a sufficient fluid intake to increase the amount of urine."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "urtica_dioica-ind-02",
-  "plant": "urtica_dioica",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product for the relief of minor articular pain."
+  {
+    "id": "urtica_dioica-ind-02",
+    "plant": "urtica_dioica",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des douleurs articulaires mineures.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of minor articular pain."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "urtica_dioica-ind-03",
-  "plant": "urtica_dioica",
-  "type": "indication",
-  "statement": "Usage traditionnel : affections cutanées séborrhéiques.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product used in seborrhoeic skin conditions."
+  {
+    "id": "urtica_dioica-ind-03",
+    "plant": "urtica_dioica",
+    "type": "indication",
+    "statement": "Usage traditionnel : affections cutanées séborrhéiques.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used in seborrhoeic skin conditions."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "urtica_dioica-pos-01",
-  "plant": "urtica_dioica",
-  "type": "posology",
-  "statement": "Usage traditionnel (indication 1), adolescents à partir de 12 ans et adultes : tisane de 1,5 g dans 150 ml d'eau bouillante, 3 à 4 fois par jour (dose journalière 4,5 à 6 g).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "SD=1.5 g of the comminuted herbal substance in 150 ml of boiling water as infusion, 3-4 times daily DD=4.5-6 g"
+  {
+    "id": "urtica_dioica-pos-01",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1), adolescents à partir de 12 ans et adultes : tisane de 1,5 g dans 150 ml d'eau bouillante, 3 à 4 fois par jour (dose journalière 4,5 à 6 g).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "SD=1.5 g of the comminuted herbal substance in 150 ml of boiling water as infusion, 3-4 times daily DD=4.5-6 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "urtica_dioica-pos-02",
-  "plant": "urtica_dioica",
-  "type": "posology",
-  "statement": "Durée (indication 1) : si les symptômes persistent plus de deux semaines, consulter un médecin ou un professionnel de santé.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
-   "quote": "If symptoms persist longer than two weeks during the use of the medicinal product"
+  {
+    "id": "urtica_dioica-pos-02",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Durée (indication 1) : si les symptômes persistent plus de deux semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "If symptoms persist longer than two weeks during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "urtica_dioica-add-01",
+    "plant": "urtica_dioica",
+    "type": "age",
+    "statement": "Chez les enfants de moins de 12 ans, usage non recommandé pour les préparations b), c), d), e), g) et i) de l'indication 1, et pour l'indication 3.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "urtica_dioica-add-02",
+    "plant": "urtica_dioica",
+    "type": "warning",
+    "statement": "Si les troubles urinaires s'aggravent et que surviennent fièvre, dysurie, spasme ou sang dans les urines pendant le traitement, consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "If urinary tract complaints worsen and symptoms such as fever, dysuria, spasm, or blood in the urine occur during the use of medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "urtica_dioica-add-03",
+    "plant": "urtica_dioica",
+    "type": "information",
+    "statement": "Une douleur articulaire accompagnée de gonflement des articulations, de rougeur et de fièvre doit être examinée par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Articular pain accompanied by swelling of joints, redness and fever should be examined by a doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-04",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Durée (indications 2 et 3) : si les symptômes persistent plus de quatre semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "If symptoms persist longer than four weeks the use of the medicinal product a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-05",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 2), adultes et personnes âgées : tisane de 3 à 6 g de plante coupée dans 200 ml d'eau bouillante, 3 fois par jour (dose journalière 9 à 18 g).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "SD=3-6 g of the comminuted herbal substance in 200 ml boiling water as a herbal infusion, 3 times daily DD= 9-18 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-06",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1), adolescents de plus de 12 ans, adultes et personnes âgées : plante en poudre de 380 à 570 mg, 3 à 4 fois par jour (dose journalière 1140 à 2280 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Powdered herbal substance SD=380-570 mg, 3-4 times daily DD=1140-2280 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-07",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1), adolescents de plus de 12 ans, adultes et personnes âgées : jus frais exprimé (ratio 1:0,5 à 1,1) de 10 à 15 ml, 3 fois par jour (dose journalière 30 à 45 ml).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Expressed juice (1:0.5-1.1) from fresh herb SD=10-15 ml, 3 times daily DD=30-45 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-08",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1), adolescents de plus de 12 ans, adultes et personnes âgées : extrait liquide (ratio 1:1,8 à 2,2, éthanol 30 %) de 100 gouttes, 4 fois par jour (dose journalière 400 gouttes).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Liquid extract (1:1.8-2.2), extraction solvent ethanol 30% (V/V) SD=100 drops, 4 times daily DD=400 drops"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-09",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1), adolescents de plus de 12 ans, adultes et personnes âgées : extrait sec (ratio 5 à 10:1, eau) de 300 à 450 mg, 3 à 4 fois par jour (dose journalière 1200 à 1350 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Dry extract (5-10:1), extraction solvent water SD=300-450 mg, 3-4 times daily DD=1200-1350 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-10",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 2), adultes et personnes âgées : extrait liquide (ratio 1:1, éthanol 25 %) de 2 à 4 ml, jusqu'à 3 fois par jour (dose journalière 2 à 12 ml).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Liquid extract (1:1), extraction solvent ethanol 25% (V/V) SD=2-4 ml, up to 3 times daily DD=2-12 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-11",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 3), adolescents, adultes et personnes âgées : plante en poudre de 275 mg, 3 fois par jour (dose journalière 825 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Powdered herbal substance SD=275 mg, 3 times daily DD=825 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-12",
+    "plant": "urtica_dioica",
+    "type": "adverse_effect",
+    "statement": "Effets indésirables digestifs possibles : nausées, vomissements et diarrhée ; fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Gastrointestinal disorders: nausea, vomiting and diarrhoea. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-13",
+    "plant": "urtica_dioica",
+    "type": "adverse_effect",
+    "statement": "Effets indésirables cutanés possibles : démangeaisons allergiques, éruption cutanée et urticaire ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Skin and subcutaneous tissue disorders: allergic pruritus, rash and urticaria. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "urtica_dioica-add-14",
+    "plant": "urtica_dioica",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant le traitement (indications 1, 2 et 3), consulter un médecin ou un professionnel de santé.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "urtica_dioica-add-15",
+    "plant": "urtica_dioica",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-16",
+    "plant": "urtica_dioica",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "No fertility data are available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-17",
+    "plant": "urtica_dioica",
+    "type": "driving",
+    "statement": "Aucune étude n'a été réalisée sur l'effet sur la capacité à conduire et à utiliser des machines.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-18",
+    "plant": "urtica_dioica",
+    "type": "preclinical",
+    "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "urtica_dioica-add-19",
+    "plant": "urtica_dioica",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Urtica dioica L.; Urtica urens L., herba (EMA/HMPC/261302/2022)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-urtica-dioica-l-urtica-urens-l-herba-revision-1_en.pdf",
+      "quote": "Method of administration Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

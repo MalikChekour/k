@@ -303,5 +303,20 @@
     "plant": "trigonella_foenum_graecum",
     "class": "antidiabetique",
     "claim": "trigonella_foenum_graecum-06"
+  },
+  {
+    "plant": "ginkgo_biloba",
+    "class": "anticoagulant_oral_direct",
+    "claim": "ginkgo_biloba-add-15"
+  },
+  {
+    "plant": "ginkgo_biloba",
+    "class": "antihypertenseur",
+    "claim": "ginkgo_biloba-add-16"
+  },
+  {
+    "plant": "hypericum_perforatum",
+    "class": "antidepresseur_isrs",
+    "claim": "hypericum_perforatum-add-03"
   }
 ]

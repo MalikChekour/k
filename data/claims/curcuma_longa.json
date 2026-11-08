@@ -1,155 +1,353 @@
 [
- {
-  "id": "curcuma_longa-01",
-  "plant": "curcuma_longa",
-  "type": "contraindication",
-  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "Hypersensitivity to the active substance."
+  {
+    "id": "curcuma_longa-01",
+    "plant": "curcuma_longa",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "curcuma_longa-02",
-  "plant": "curcuma_longa",
-  "type": "warning",
-  "statement": "Non recommandé en cas d'obstruction des voies biliaires, cholangite, maladie du foie, calculs biliaires et autres maladies biliaires (stimulation de la sécrétion biliaire).",
-  "severity": "precaution",
-  "population": "maladies hépatobiliaires",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "Due to possible stimulation on bile secretion Curcuma longa is not recommended in case of obstruction of the bile duct, cholangitis, liver disease, gallstones and any other biliary diseases."
+  {
+    "id": "curcuma_longa-02",
+    "plant": "curcuma_longa",
+    "type": "warning",
+    "statement": "Non recommandé en cas d'obstruction des voies biliaires, cholangite, maladie du foie, calculs biliaires et autres maladies biliaires (stimulation de la sécrétion biliaire).",
+    "severity": "precaution",
+    "population": "maladies hépatobiliaires",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Due to possible stimulation on bile secretion Curcuma longa is not recommended in case of obstruction of the bile duct, cholangitis, liver disease, gallstones and any other biliary diseases."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "biliary_disease"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "biliary_disease"
-  ]
- },
- {
-  "id": "curcuma_longa-03",
-  "plant": "curcuma_longa",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportée dans la monographie EMA.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "Traditional use None reported"
+  {
+    "id": "curcuma_longa-03",
+    "plant": "curcuma_longa",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "curcuma_longa-04",
-  "plant": "curcuma_longa",
-  "type": "pregnancy",
-  "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "curcuma_longa-04",
+    "plant": "curcuma_longa",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "curcuma_longa-05",
-  "plant": "curcuma_longa",
-  "type": "age",
-  "statement": "Usage non établi avant 18 ans (données insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 18 ans",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+  {
+    "id": "curcuma_longa-05",
+    "plant": "curcuma_longa",
+    "type": "age",
+    "statement": "Usage non établi avant 18 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_18"
-  ]
- },
- {
-  "id": "curcuma_longa-ind-01",
-  "plant": "curcuma_longa",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des troubles digestifs (sensation de plénitude, digestion lente, flatulences).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product used for the relief of digestive disturbances, such as feelings of fullness, slow digestion and flatulence."
+  {
+    "id": "curcuma_longa-ind-01",
+    "plant": "curcuma_longa",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des troubles digestifs (sensation de plénitude, digestion lente, flatulences).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product used for the relief of digestive disturbances, such as feelings of fullness, slow digestion and flatulence."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "curcuma_longa-pos-01",
-  "plant": "curcuma_longa",
-  "type": "posology",
-  "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 0,5 à 1,0 g dans 150 ml d'eau bouillante, 2 à 3 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "Herbal tea: 0.5-1.0 g comminuted herbal substance in 150 ml of boiling water as an infusion, 2-3 times daily;"
+  {
+    "id": "curcuma_longa-pos-01",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées : tisane de 0,5 à 1,0 g dans 150 ml d'eau bouillante, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Herbal tea: 0.5-1.0 g comminuted herbal substance in 150 ml of boiling water as an infusion, 2-3 times daily;"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "curcuma_longa-pos-02",
-  "plant": "curcuma_longa",
-  "type": "posology",
-  "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
-   "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product"
+  {
+    "id": "curcuma_longa-pos-02",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "curcuma_longa-add-01",
+    "plant": "curcuma_longa",
+    "type": "adverse_effect",
+    "statement": "Effets indésirables possibles : légère sécheresse de la bouche, flatulences et irritation gastrique ; fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Mild symptoms of dry mouth, flatulence and gastric irritation may occur."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-02",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Poudre de substance végétale : 0,5 à 1 g, 2 à 3 fois par jour (adultes et personnes âgées).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Powdered herbal substance: 0.5-1 g, 2-3 times daily;"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-03",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Teinture (ratio 1:10) : 0,5 à 1 ml, 3 fois par jour (adultes et personnes âgées).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Tincture (1:10): 0.5-1 ml, 3 times daily;"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-04",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Extrait sec (DER 13-25:1) : 90 à 162 mg, répartis en 2 à 5 prises par jour (adultes et personnes âgées).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Dry extract (DER 13-25:1): 90-162 mg, divided in 2-5 doses daily;"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-05",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Extrait sec (DER 5,5-6,5:1) : 100 à 200 mg, 2 fois par jour (adultes et personnes âgées).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Dry extract (DER 5.5-6.5:1): 100-200 mg, 2 times daily;"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-06",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Teinture (ratio 1:5) : 10 ml une fois par jour, ou 5 ml dans 60 ml d'eau, 3 fois par jour (adultes et personnes âgées).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Tincture (1:5): 10 ml once daily or 5 ml in 60 ml water, 3 times daily;"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-07",
+    "plant": "curcuma_longa",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Method of administration Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-08",
+    "plant": "curcuma_longa",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-09",
+    "plant": "curcuma_longa",
+    "type": "fertility",
+    "statement": "Fertilité : aucune donnée disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-10",
+    "plant": "curcuma_longa",
+    "type": "driving",
+    "statement": "Effet sur la conduite et l'utilisation de machines : aucune étude réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "curcuma_longa-add-11",
+    "plant": "curcuma_longa",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité pour la reproduction, de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Curcuma longa L., rhizoma (EMA/HMPC/329755/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-curcuma-longa-l-rhizoma-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

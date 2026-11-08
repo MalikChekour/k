@@ -3,7 +3,7 @@ import type { Bundle, Claim, PlantData } from './safety.ts';
 import { plantsForUsage } from './usages.ts';
 import type { Usage } from './usages.ts';
 
-export type Rubric = 'indication' | 'posologie' | 'precautions' | 'interactions' | 'grossesse';
+export type Rubric = 'indication' | 'posologie' | 'precautions' | 'interactions' | 'grossesse' | 'savoir';
 /** Les doses de l'EMA valent pour des préparations précises (extrait standardisé, tisane…) : jamais à transposer. */
 export const POSOLOGY_NOTE =
   "Ces doses sont celles de préparations précises décrites dans la monographie officielle (extrait standardisé, tisane…). " +
@@ -15,22 +15,31 @@ export const RUBRICS: { id: Rubric; fr: string }[] = [
   { id: 'precautions', fr: 'Précautions' },
   { id: 'interactions', fr: 'Interactions' },
   { id: 'grossesse', fr: 'Grossesse' },
+  { id: 'savoir', fr: 'En savoir plus' },
 ];
 
 /** Type d'affirmation -> rubrique de la fiche. Un type inconnu tombe dans « Précautions » (jamais masqué). */
 export function rubricOf(type: string): Rubric {
   switch (type) {
-    case 'indication': return 'indication';
-    case 'posology': return 'posologie';
+    case 'indication':
+    case 'indication_basis':
+    case 'traditional_use': return 'indication';
+    case 'posology':
+    case 'preparation': return 'posologie';
     case 'interaction': return 'interactions';
     case 'pregnancy':
     case 'lactation': return 'grossesse';
+    case 'pharmacology':
+    case 'pharmacodynamics':
+    case 'pharmacokinetics':
+    case 'preclinical':
+    case 'quality': return 'savoir';
     default: return 'precautions';
   }
 }
 
 export function groupClaims(claims: Claim[]): Record<Rubric, Claim[]> {
-  const out: Record<Rubric, Claim[]> = { indication: [], posologie: [], precautions: [], interactions: [], grossesse: [] };
+  const out: Record<Rubric, Claim[]> = { indication: [], posologie: [], precautions: [], interactions: [], grossesse: [], savoir: [] };
   for (const c of claims) out[rubricOf(c.type)].push(c);
   return out;
 }

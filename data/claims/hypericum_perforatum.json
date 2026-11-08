@@ -1,207 +1,581 @@
 [
- {
-  "id": "hypericum_perforatum-01",
-  "plant": "hypericum_perforatum",
-  "type": "contraindication",
-  "statement": "Association contre-indiquee avec anticoagulants de type coumarine, ciclosporine, evérolimus, sirolimus, tacrolimus systemique (voir §4.5). Portee selon la dose d'hyperforine a faire confirmer par le relecteur.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "Concomitant use with coumarin-type anticoagulants, cyclosporine, everolimus, sirolimus, tacrolimus for systemic use"
+  {
+    "id": "hypericum_perforatum-01",
+    "plant": "hypericum_perforatum",
+    "type": "contraindication",
+    "statement": "Association contre-indiquee avec anticoagulants de type coumarine, ciclosporine, evérolimus, sirolimus, tacrolimus systemique (voir §4.5). Portee selon la dose d'hyperforine a faire confirmer par le relecteur.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Concomitant use with coumarin-type anticoagulants, cyclosporine, everolimus, sirolimus, tacrolimus for systemic use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-02",
-  "plant": "hypericum_perforatum",
-  "type": "interaction",
-  "statement": "Les preparations de millepertuis induisent CYP3A4, CYP2B6, CYP2C9, CYP2C19 et la P-glycoproteine.",
-  "severity": "majeure",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "Hyperici herba preparations induce the activity of CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein."
+  {
+    "id": "hypericum_perforatum-02",
+    "plant": "hypericum_perforatum",
+    "type": "interaction",
+    "statement": "Les preparations de millepertuis induisent CYP3A4, CYP2B6, CYP2C9, CYP2C19 et la P-glycoproteine.",
+    "severity": "majeure",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Hyperici herba preparations induce the activity of CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "hypericum_perforatum-03",
-  "plant": "hypericum_perforatum",
-  "type": "interaction",
-  "statement": "Baisse des concentrations des contraceptifs hormonaux : saignements intermenstruels et securite contraceptive reduite ; mesures contraceptives supplementaires necessaires.",
-  "severity": "majeure",
-  "population": "femmes sous contraception hormonale",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "The reduction of plasma concentrations of hormonal contraceptives may lead to increased intermenstrual bleeding and reduced safety in birth control."
+  {
+    "id": "hypericum_perforatum-03",
+    "plant": "hypericum_perforatum",
+    "type": "interaction",
+    "statement": "Baisse des concentrations des contraceptifs hormonaux : saignements intermenstruels et securite contraceptive reduite ; mesures contraceptives supplementaires necessaires.",
+    "severity": "majeure",
+    "population": "femmes sous contraception hormonale",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "The reduction of plasma concentrations of hormonal contraceptives may lead to increased intermenstrual bleeding and reduced safety in birth control."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-04",
-  "plant": "hypericum_perforatum",
-  "type": "pregnancy",
-  "statement": "Usage non recommande pendant la grossesse et l'allaitement (toxicite reproductive chez l'animal).",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "The use is not recommended during pregnancy and lactation."
+  {
+    "id": "hypericum_perforatum-04",
+    "plant": "hypericum_perforatum",
+    "type": "pregnancy",
+    "statement": "Usage non recommande pendant la grossesse et l'allaitement (toxicite reproductive chez l'animal).",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "The use is not recommended during pregnancy and lactation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "hypericum_perforatum-05",
-  "plant": "hypericum_perforatum",
-  "type": "age",
-  "statement": "Usage non recommande avant 18 ans (donnees insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 18 ans",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "the use in children and adolescents under 18 years of age is not recommended."
+  {
+    "id": "hypericum_perforatum-05",
+    "plant": "hypericum_perforatum",
+    "type": "age",
+    "statement": "Usage non recommande avant 18 ans (donnees insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "the use in children and adolescents under 18 years of age is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_18"
-  ]
- },
- {
-  "id": "hypericum_perforatum-06",
-  "plant": "hypericum_perforatum",
-  "type": "interaction",
-  "statement": "Prudence avec les médicaments métabolisés par CYP3A4, CYP2B6, CYP2C9, CYP2C19 ou transportés par la P-glycoprotéine (ex. amitriptyline, fexofénadine, alprazolam, diazépam, midazolam, méthadone, simvastatine, digoxine, finastéride) : baisse possible des concentrations plasmatiques.",
-  "severity": "moderee",
-  "population": "patients sous médicaments à marge étroite ou métabolisés par ces voies",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "because a reduction of plasma concentrations is possible."
+  {
+    "id": "hypericum_perforatum-06",
+    "plant": "hypericum_perforatum",
+    "type": "interaction",
+    "statement": "Prudence avec les médicaments métabolisés par CYP3A4, CYP2B6, CYP2C9, CYP2C19 ou transportés par la P-glycoprotéine (ex. amitriptyline, fexofénadine, alprazolam, diazépam, midazolam, méthadone, simvastatine, digoxine, finastéride) : baisse possible des concentrations plasmatiques.",
+    "severity": "moderee",
+    "population": "patients sous médicaments à marge étroite ou métabolisés par ces voies",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "because a reduction of plasma concentrations is possible."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-ind-01",
-  "plant": "hypericum_perforatum",
-  "type": "indication",
-  "statement": "Usage bien établi : traitement des épisodes dépressifs légers à modérés (à discuter avec un médecin).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "Herbal medicinal product for the treatment of mild to moderate depressive episodes."
+  {
+    "id": "hypericum_perforatum-ind-01",
+    "plant": "hypericum_perforatum",
+    "type": "indication",
+    "statement": "Usage bien établi : traitement des épisodes dépressifs légers à modérés (à discuter avec un médecin).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Herbal medicinal product for the treatment of mild to moderate depressive episodes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-ind-02",
-  "plant": "hypericum_perforatum",
-  "type": "indication",
-  "statement": "Usage bien établi : traitement de courte durée des symptômes des troubles dépressifs légers (à discuter avec un médecin).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "Herbal medicinal product for the short-term treatment of symptoms in mild depressive disorders."
+  {
+    "id": "hypericum_perforatum-ind-02",
+    "plant": "hypericum_perforatum",
+    "type": "indication",
+    "statement": "Usage bien établi : traitement de courte durée des symptômes des troubles dépressifs légers (à discuter avec un médecin).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Herbal medicinal product for the short-term treatment of symptoms in mild depressive disorders."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-ind-03",
-  "plant": "hypericum_perforatum",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement de l'épuisement mental passager.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product for the relief of temporary mental exhaustion."
+  {
+    "id": "hypericum_perforatum-ind-03",
+    "plant": "hypericum_perforatum",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement de l'épuisement mental passager.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of temporary mental exhaustion."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-pos-01",
-  "plant": "hypericum_perforatum",
-  "type": "posology",
-  "statement": "Usage bien établi, adultes et personnes âgées (préparation a) : dose unique de 300 à 600 mg, 1 à 3 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "Single dose: 300-600 mg Dosage frequency: 1-3 times daily Daily dose: 600-1800 mg"
+  {
+    "id": "hypericum_perforatum-pos-01",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Usage bien établi, adultes et personnes âgées (préparation a) : dose unique de 300 à 600 mg, 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Single dose: 300-600 mg Dosage frequency: 1-3 times daily Daily dose: 600-1800 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "hypericum_perforatum-pos-02",
-  "plant": "hypericum_perforatum",
-  "type": "posology",
-  "statement": "Durée : un effet peut être attendu dans les 4 semaines ; si les symptômes persistent, consulter un médecin.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
-   "quote": "The onset of the effect can be expected within 4 weeks of treatment. If the symptoms persist during the use of the medicinal product, a doctor should be consulted."
+  {
+    "id": "hypericum_perforatum-pos-02",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Durée : un effet peut être attendu dans les 4 semaines ; si les symptômes persistent, consulter un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "The onset of the effect can be expected within 4 weeks of treatment. If the symptoms persist during the use of the medicinal product, a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "hypericum_perforatum-add-01",
+    "plant": "hypericum_perforatum",
+    "type": "contraindication",
+    "statement": "Contre-indication : hypersensibilité à la substance active (millepertuis).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-02",
+    "plant": "hypericum_perforatum",
+    "type": "contraindication",
+    "statement": "Association contre-indiquée avec les inhibiteurs de protéase (ex. fosamprenavir, indinavir), les inhibiteurs nucléosidiques de la transcriptase inverse, l'irinotécan, l'imatinib et autres cytostatiques métabolisés par CYP3A4, CYP2B6, CYP2C9, CYP2C19 ou transportés par la P-glycoprotéine.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "fosamprenavir, indinavir and other protease inhibitors, nucleoside reverse transcriptase inhibitors, irinotecan, imatinib and other cytostatic agents metabolised by CYP3A4, CYP2B6, CYP2C9, CYP2C19 or transported by P-glycoprotein"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-03",
+    "plant": "hypericum_perforatum",
+    "type": "interaction",
+    "statement": "Les préparations de millepertuis peuvent renforcer les effets sérotoninergiques associés aux antidépresseurs comme les inhibiteurs de la recapture de la sérotonine (ex. sertraline, paroxétine) ou la buspirone ; un syndrome sérotoninergique est très rarement rapporté.",
+    "severity": "moderee",
+    "population": "patients sous ISRS ou buspirone",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Hyperici herba preparations may contribute to serotonergic effects when combined with antidepressants such as serotonin reuptake inhibitors"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-04",
+    "plant": "hypericum_perforatum",
+    "type": "adverse_effect",
+    "statement": "Effets indésirables possibles, fréquence inconnue : troubles digestifs (nausées, douleurs abdominales, diarrhée), réactions cutanées allergiques, fatigue et agitation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Gastrointestinal disorders (such as nausea, abdominal pain and diarrhoea), allergic skin reactions, fatigue and restlessness may occur. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-05",
+    "plant": "hypericum_perforatum",
+    "type": "adverse_effect",
+    "statement": "Peau claire : possibles picotements, sensibilité au froid ou à la douleur, sensation de brûlure, et coup de soleil accentué au soleil intense.",
+    "severity": null,
+    "population": "personnes à peau claire",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Fair-skinned individuals may react with dysesthesia (e.g. tingling, sensitivity cold or pain, burning sensation) and intensified sunburn-like symptoms under intense sunlight."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-06",
+    "plant": "hypericum_perforatum",
+    "type": "overdose",
+    "statement": "Surdosage (préparation a) : jusqu'à 4,5 g d'extrait sec par jour pendant 2 semaines, puis 15 g juste avant l'hospitalisation, ont été suivis de crises convulsives et de confusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "After the intake of up to 4.5 g dry extract per day for 2 weeks and additionally 15 g dry extract just before hospitalisation seizures and confusion have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-07",
+    "plant": "hypericum_perforatum",
+    "type": "interaction",
+    "statement": "Avant une chirurgie programmée, identifier les interactions possibles avec les produits utilisés en anesthésie générale ou loco-régionale ; si nécessaire, le produit doit être arrêté.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Prior to elective surgery possible interactions with products used during general and regional anaesthesia should be identified."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-08",
+    "plant": "hypericum_perforatum",
+    "type": "age",
+    "statement": "Usage cutané : chez l'enfant de moins de 12 ans, l'usage n'est pas recommandé (pas de donnée sur un usage sûr).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Since no data on the safe use in children are available, the use in children under 12 years of age is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-09",
+    "plant": "hypericum_perforatum",
+    "type": "pregnancy",
+    "statement": "Des études sur des extraits et des composés isolés du millepertuis rapportent des effets in vitro et in vivo pouvant affecter le développement du fœtus chez les mères traitées.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Several studies on extracts of and isolated compounds from Hypericum perforatum report in vitro and in vivo effects that could affect the development of fetuses from treated mothers."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-10",
+    "plant": "hypericum_perforatum",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des petites inflammations de la peau (comme les coups de soleil) et aide à la cicatrisation des petites plaies.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the symptomatic treatment of minor inflammations of the skin (such as sunburn) and as an aid in healing of minor wounds."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-11",
+    "plant": "hypericum_perforatum",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des inconforts digestifs légers.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "symptomatic relief of mild gastrointestinal discomfort."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-12",
+    "plant": "hypericum_perforatum",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement d'appoint de l'agitation nerveuse et des difficultés d'endormissement.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for the supportive treatment of nervous restlessness and associated with difficulties in falling asleep."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-13",
+    "plant": "hypericum_perforatum",
+    "type": "driving",
+    "statement": "Aucune étude adéquate sur l'effet sur la conduite de véhicules et l'utilisation de machines.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "No adequate studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hypericum_perforatum-add-14",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Usage traditionnel (tisane, préparation j) : 1,5 à 2 g de plante broyée dans 150 ml d'eau bouillante, 2 à 3 fois par jour (3 à 6 g par jour).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Herbal tea: 1.5 - 2 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion, 2-3 times daily Daily dose: 3-6 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-15",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées (préparation i) : 2,5 ml, 3 fois par jour (7,5 ml par jour).",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Single dose: 2.5 ml Dosage frequency: 3 times daily Daily dose: 7.5 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-16",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Usage traditionnel, adultes et personnes âgées (tisane, préparation j) : 2 à 3 g de plante broyée dans 150 ml d'eau bouillante, 2 fois par jour.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Herbal tea: 2-3 g of the comminuted herbal substance in 150 ml of boiling water as a herbal infusion, 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-17",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Usage cutané (usage traditionnel, préparation j) : infusion de 2 g de plante broyée dans 150 ml d'eau, plusieurs fois par jour en lavage ou en compresse imbibée.",
+    "severity": null,
+    "population": "adolescents, adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Comminuted herbal preparation for infusion preparation for cutaneous use: 2 g of the comminuted herbal substance in 150 ml of water, several times daily as washing or impregnated dressing"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-18",
+    "plant": "hypericum_perforatum",
+    "type": "posology",
+    "statement": "Usage traditionnel (indications 1 et 4) : si les symptômes persistent plus de 2 semaines, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-19",
+    "plant": "hypericum_perforatum",
+    "type": "pharmacokinetics",
+    "statement": "L'hyperforine active le récepteur PXR : l'induction des enzymes CYP3A4, CYP2B6, CYP2C9, CYP2C19 et de la P-glycoprotéine dépend de la dose ; l'élimination d'autres substances peut donc s'accélérer et leurs concentrations plasmatiques baisser.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "Hyperforin induces the activity of the metabolic enzymes CYP3A4, CYP2B6, CYP2C9, CYP2C19 and P-glycoprotein dose-dependently via activation of the PXR system. Therefore, the elimination of other drug substances may be accelerated, resulting in decreased plasma concentrations."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hypericum_perforatum-add-20",
+    "plant": "hypericum_perforatum",
+    "type": "preclinical",
+    "statement": "Un test d'Ames a donné des résultats faiblement positifs, attribués à la quercétine et jugés sans pertinence pour la sécurité humaine ; aucun signe de mutagénicité n'a été détecté dans d'autres tests in vitro et in vivo.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Hypericum perforatum L., herba (EMA/HMPC/7695/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hypericum-perforatum-l-herba-revision-1_en.pdf",
+      "quote": "The weak positive results of an ethanolic extract in the AMES-test (Salmonella typhimurium TA 98 and TA 100, with and without metabolic activation) could be assigned to quercetin and are irrelevant to human safety. No signs of mutagenicity could be detected in further in-vitro and in-vivo test systems."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

@@ -1,151 +1,407 @@
 [
- {
-  "id": "valeriana_officinalis-01",
-  "plant": "valeriana_officinalis",
-  "type": "contraindication",
-  "statement": "Contre-indiquee en cas d'hypersensibilite a la substance active.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "Hypersensitivity to the active substance."
+  {
+    "id": "valeriana_officinalis-01",
+    "plant": "valeriana_officinalis",
+    "type": "contraindication",
+    "statement": "Contre-indiquee en cas d'hypersensibilite a la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "valeriana_officinalis-02",
-  "plant": "valeriana_officinalis",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportee dans la monographie EMA (usage etabli et traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "Traditional use None reported"
+  {
+    "id": "valeriana_officinalis-02",
+    "plant": "valeriana_officinalis",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportee dans la monographie EMA (usage etabli et traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "valeriana_officinalis-03",
-  "plant": "valeriana_officinalis",
-  "type": "pregnancy",
-  "statement": "Securite pendant la grossesse et l'allaitement non etablie ; usage non recommande.",
-  "severity": "precaution",
-  "population": "femmes enceintes ou allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "valeriana_officinalis-03",
+    "plant": "valeriana_officinalis",
+    "type": "pregnancy",
+    "statement": "Securite pendant la grossesse et l'allaitement non etablie ; usage non recommande.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant",
-   "lactating"
-  ]
- },
- {
-  "id": "valeriana_officinalis-ind-01",
-  "plant": "valeriana_officinalis",
-  "type": "indication",
-  "statement": "Usage bien établi : soulagement des tensions nerveuses légères et des troubles du sommeil.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "Herbal medicinal product for the relief of mild nervous tension and sleep disorders."
+  {
+    "id": "valeriana_officinalis-ind-01",
+    "plant": "valeriana_officinalis",
+    "type": "indication",
+    "statement": "Usage bien établi : soulagement des tensions nerveuses légères et des troubles du sommeil.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Herbal medicinal product for the relief of mild nervous tension and sleep disorders."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "valeriana_officinalis-ind-02",
-  "plant": "valeriana_officinalis",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+  {
+    "id": "valeriana_officinalis-ind-02",
+    "plant": "valeriana_officinalis",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "valeriana_officinalis-pos-01",
-  "plant": "valeriana_officinalis",
-  "type": "posology",
-  "statement": "Usage bien établi, adolescents, adultes et personnes âgées : dose unique de 400 à 600 mg d'extrait sec, jusqu'à 3 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "Single dose: 400-600 mg dry extract; For relief of mild nervous tension up to 3 times daily."
+  {
+    "id": "valeriana_officinalis-pos-01",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Usage bien établi, adolescents, adultes et personnes âgées : dose unique de 400 à 600 mg d'extrait sec, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Single dose: 400-600 mg dry extract; For relief of mild nervous tension up to 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "valeriana_officinalis-pos-02",
-  "plant": "valeriana_officinalis",
-  "type": "posology",
-  "statement": "Usage traditionnel (sommeil) : une dose unique une demi-heure à une heure avant le coucher, une dose plus tôt le soir si nécessaire.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "For relief of sleep disorders, a single dose half to one hour before bedtime with an earlier dose during the evening if necessary."
+  {
+    "id": "valeriana_officinalis-pos-02",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Usage traditionnel (sommeil) : une dose unique une demi-heure à une heure avant le coucher, une dose plus tôt le soir si nécessaire.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "For relief of sleep disorders, a single dose half to one hour before bedtime with an earlier dose during the evening if necessary."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "valeriana_officinalis-pos-03",
-  "plant": "valeriana_officinalis",
-  "type": "posology",
-  "statement": "Durée : pour un effet optimal, une utilisation continue de 2 à 4 semaines est recommandée.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
-   "quote": "To achieve an optimal treatment effect, continued use over 2-4 weeks is recommended."
+  {
+    "id": "valeriana_officinalis-pos-03",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Durée : pour un effet optimal, une utilisation continue de 2 à 4 semaines est recommandée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "To achieve an optimal treatment effect, continued use over 2-4 weeks is recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- }
+  {
+    "id": "valeriana_officinalis-add-01",
+    "plant": "valeriana_officinalis",
+    "type": "age",
+    "statement": "Utilisation non recommandée chez l'enfant de moins de 12 ans, par manque de données de sécurité et d'efficacité.",
+    "severity": "precaution",
+    "population": "enfants de moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "The use is not recommended in children below 12 years of age due to a lack of data on safety and efficacy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "valeriana_officinalis-add-02",
+    "plant": "valeriana_officinalis",
+    "type": "information",
+    "statement": "Les bains complets sont contre-indiqués en cas de plaies ouvertes, de grandes lésions cutanées, de maladies cutanées aiguës, de forte fièvre, d'infections graves, de troubles circulatoires sévères ou d'insuffisance cardiaque (usage en bain, usage traditionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Full baths are contraindicated in cases of open wounds, large skin injuries, acute skin diseases,"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-03",
+    "plant": "valeriana_officinalis",
+    "type": "driving",
+    "statement": "Peut altérer la capacité à conduire et à utiliser des machines ; les personnes concernées ne doivent pas conduire ni utiliser de machines.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "May impair ability to drive and use machines. Affected patients should not drive or operate machinery."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "valeriana_officinalis-add-04",
+    "plant": "valeriana_officinalis",
+    "type": "overdose",
+    "statement": "Une dose d'environ 20 g de racine de valériane a provoqué fatigue, crampes abdominales, sensation d'oppression thoracique, étourdissements, tremblements des mains et mydriase, disparus en 24 heures.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Valerian root at a dose of approximately 20 g caused symptoms such as fatigue, abdominal cramp, chest tightness, light-headedness, hand tremor and mydriasis, which disappeared within 24 hours."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-05",
+    "plant": "valeriana_officinalis",
+    "type": "adverse_effect",
+    "statement": "Des symptômes digestifs (par ex. nausées, crampes abdominales) peuvent survenir après ingestion de préparations de racine de valériane ; fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Gastrointestinal symptoms (e.g. nausea, abdominal cramps) may occur after ingestion of valerian root preparations."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-06",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Usage en tisane (usage traditionnel) : 0,3 à 3 g de substance végétale broyée dans 150 ml d'eau bouillante, en infusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "0.3-3 g of the comminuted herbal substance in 150 ml of boiling water"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-07",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Usage en bain (usage traditionnel) : dose unique de 100 g pour un bain complet.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "single dose: 100 g for a full bath"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-08",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Dose quotidienne maximale : 4 doses unitaires.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Maximum daily dose: 4 single doses"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-09",
+    "plant": "valeriana_officinalis",
+    "type": "posology",
+    "statement": "Si les symptômes persistent ou s'aggravent après 2 semaines d'utilisation continue, consulter un médecin ou un pharmacien.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "If the symptoms persist or worsen after 2 weeks of continued use, a doctor or a pharmacist should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-10",
+    "plant": "valeriana_officinalis",
+    "type": "pharmacodynamics",
+    "statement": "Les extraits secs de racine de valériane pris par voie orale, aux doses recommandées, ont montré qu'ils améliorent la latence d'endormissement et la qualité du sommeil.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "have been shown to improve sleep latency and sleep quality"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-11",
+    "plant": "valeriana_officinalis",
+    "type": "pharmacodynamics",
+    "statement": "Ces effets ne peuvent pas être attribués avec certitude à un constituant connu.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "These effects cannot be attributed with certainty to any known constituents."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-12",
+    "plant": "valeriana_officinalis",
+    "type": "pharmacokinetics",
+    "statement": "Aucune donnée pharmacocinétique disponible.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "No data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-13",
+    "plant": "valeriana_officinalis",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "valeriana_officinalis-add-14",
+    "plant": "valeriana_officinalis",
+    "type": "preclinical",
+    "statement": "Extraits éthanoliques de racine de valériane : faible toxicité chez le rongeur lors des tests aigus.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Valeriana officinalis L., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-valeriana-officinalis-l-radix_en.pdf",
+      "quote": "Ethanol extracts of valerian root have shown low toxicity in rodents during acute tests"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]
