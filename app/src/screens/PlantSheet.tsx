@@ -4,10 +4,47 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { Claim, PlantData } from '../safety';
 import { POSOLOGY_NOTE, RUBRICS, groupClaims } from '../library';
 import { bundle } from '../bundle';
+import { overviewOf } from '../overview';
+import credits from '../data/credits.json';
 import { styleFor } from '../plantStyle';
 import { PLANT_PHOTOS } from '../plantPhotos';
 import { Bloom } from './Bloom';
 import { Badge, C, Chip, Source, s } from './shared';
+
+/** Pictogrammes sobres, uniquement dans la fiche plante. */
+const RUBRIC_ICON: Record<string, string> = { indication: '🎯', posologie: '⚖️', precautions: '⚠️', interactions: '💊', grossesse: '🤰' };
+
+function Line({ icon, label, children }: { icon: string; label: string; children: React.ReactNode }) {
+  return (
+    <View style={{ flexDirection: 'row', gap: 10, alignItems: 'flex-start' }}>
+      <Text style={{ fontSize: 18, width: 26, textAlign: 'center' }} accessibilityElementsHidden importantForAccessibility="no">{icon}</Text>
+      <View style={{ flex: 1, gap: 2 }}>
+        <Text style={s.tag}>{label}</Text>
+        <Text style={s.body}>{children}</Text>
+      </View>
+    </View>
+  );
+}
+
+/** « À retenir » : synthèse calculée à partir des seules affirmations vérifiées de la fiche. */
+function Overview({ plant }: { plant: PlantData }) {
+  const o = overviewOf(plant, bundle);
+  const cr = (credits as Record<string, { author?: string; license?: string }>)[plant.id];
+  return (
+    <View style={{ marginHorizontal: 20, marginTop: 16, backgroundColor: C.soft, borderRadius: 20, padding: 16, gap: 12 }}>
+      <Text style={s.h2} accessibilityRole="header">À retenir</Text>
+      <Line icon="🌿" label="Partie utilisée">{o.part}</Line>
+      {o.usages.length > 0 && <Line icon="🎯" label="Proposée pour">{o.usages.join(' · ')}</Line>}
+      {o.infusion && <Line icon="🍵" label="Préparation décrite par l’EMA">{o.infusion.label}</Line>}
+      {o.avoid.length > 0 && <Line icon="⛔" label="À ne pas utiliser si">{o.avoid.join(' · ')}</Line>}
+      {o.caution.length > 0 && <Line icon="⚠️" label="Prudence si">{o.caution.join(' · ')}</Line>}
+      {o.medClasses.length > 0 && <Line icon="💊" label="Médicaments à signaler à votre pharmacien">{o.medClasses.join(' · ')}</Line>}
+      {o.aliases.length > 0 && <Line icon="🏷️" label="Autres noms">{o.aliases.join(', ')}</Line>}
+      <Line icon="📚" label="Base documentaire">{o.claimCount} affirmations vérifiées, {o.sourceCount} document{o.sourceCount > 1 ? 's' : ''} officiel{o.sourceCount > 1 ? 's' : ''}</Line>
+      {cr && <Line icon="📷" label="Photo">{[cr.author, cr.license].filter(Boolean).join(' · ')}</Line>}
+    </View>
+  );
+}
 
 const EMPTY_NOTE: Record<string, string> = {
   interactions: 'Aucune interaction renseignée dans notre base pour cette plante. Ce n’est pas une preuve d’absence d’interaction.',
@@ -68,12 +105,13 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
                 />
               </View>
             </View>
+            <Overview plant={plant} />
             <View style={{ padding: 20, gap: 12 }}>
               {RUBRICS.map(r => (
                 <View key={r.id} style={{ gap: 10 }}>
                   <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 14 }}>
                     <View style={{ width: 10, height: 10, borderRadius: 5, backgroundColor: st.color }} />
-                    <Text style={s.h2} accessibilityRole="header">{r.fr}</Text>
+                    <Text style={s.h2} accessibilityRole="header">{RUBRIC_ICON[r.id] ? RUBRIC_ICON[r.id] + ' ' : ''}{r.fr}</Text>
                   </View>
                   {r.id === 'posologie' && groups[r.id].length > 0 && (
                     <View style={{ backgroundColor: C.soft, borderRadius: 16, padding: 12 }}><Text style={s.warn}>{POSOLOGY_NOTE}</Text></View>

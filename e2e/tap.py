@@ -77,6 +77,7 @@ for tab in ['Mélange', 'Sécurité', 'Armoire', 'Labo', 'Plantes']:
 tap(root, 'Ouvrir la fiche Camomille matricaire'); time.sleep(2)
 root = dump('fiche')
 report.append('fiche ouverte: ' + str(bool(center(root, 'Fermer la fiche'))))
+report.append('fiche: synthese A retenir presente=' + str(has_text(root, 'À retenir')))
 tap(root, 'Fermer la fiche'); time.sleep(1.5)
 root = dump('apres_fiche')
 # Sources
