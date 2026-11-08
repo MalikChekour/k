@@ -76,6 +76,9 @@ for tab in ['Mélange', 'Sécurité', 'Armoire', 'Labo', 'Plantes']:
 # ouvre une fiche plante puis la referme
 tap(root, 'Ouvrir la fiche Camomille matricaire'); time.sleep(2)
 root = dump('fiche')
+for _ in range(5):
+    if center(root, 'Fermer la fiche'): break
+    time.sleep(3); root = dump('fiche')
 report.append('fiche ouverte: ' + str(bool(center(root, 'Fermer la fiche'))))
 report.append('fiche: synthese A retenir presente=' + str(has_text(root, 'À retenir')))
 tap(root, 'Fermer la fiche'); time.sleep(1.5)
