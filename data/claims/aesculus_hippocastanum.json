@@ -1,308 +1,582 @@
 [
- {
-  "id": "aesculus_hippocastanum-ind-01",
-  "plant": "aesculus_hippocastanum",
-  "type": "indication",
-  "statement": "Usage bien établi : traitement de l'insuffisance veineuse chronique (jambes gonflées, varices, sensation de lourdeur, douleur, fatigue, démangeaisons, tensions et crampes des mollets).",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Herbal medicinal product for treatment of chronic venous insufficiency, which is characterised by swollen legs, varicose veins, a feeling of heaviness, pain, tiredness, itching, tension and cramps in the calves."
+  {
+    "id": "aesculus_hippocastanum-ind-01",
+    "plant": "aesculus_hippocastanum",
+    "type": "indication",
+    "statement": "Usage bien établi : traitement de l'insuffisance veineuse chronique (jambes gonflées, varices, sensation de lourdeur, douleur, fatigue, démangeaisons, tensions et crampes des mollets).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Herbal medicinal product for treatment of chronic venous insufficiency, which is characterised by swollen legs, varicose veins, a feeling of heaviness, pain, tiredness, itching, tension and cramps in the calves."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-ind-02",
-  "plant": "aesculus_hippocastanum",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des sensations d'inconfort et de lourdeur des jambes liées à des troubles circulatoires veineux mineurs.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product to relieve symptoms of discomfort and heaviness of legs related to minor venous circulatory disturbances."
+  {
+    "id": "aesculus_hippocastanum-ind-02",
+    "plant": "aesculus_hippocastanum",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des sensations d'inconfort et de lourdeur des jambes liées à des troubles circulatoires veineux mineurs.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product to relieve symptoms of discomfort and heaviness of legs related to minor venous circulatory disturbances."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-ind-03",
-  "plant": "aesculus_hippocastanum",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des signes d'ecchymoses (bleus), tels que l'œdème local et l'hématome.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Traditional herbal medicinal product for relief of signs of bruises, such as local oedema and haematoma."
+  {
+    "id": "aesculus_hippocastanum-ind-03",
+    "plant": "aesculus_hippocastanum",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des signes d'ecchymoses (bleus), tels que l'œdème local et l'hématome.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of signs of bruises, such as local oedema and haematoma."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-pos-01",
-  "plant": "aesculus_hippocastanum",
-  "type": "posology",
-  "statement": "Usage bien établi, adultes et personnes âgées : extrait sec standardisé à 21 mg de glycosides triterpéniques (calculés en protoaescigénine), 2 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Standardised dry extract corresponding to a content of 21 mg triterpene glycosides calculated as protoaescigenin"
+  {
+    "id": "aesculus_hippocastanum-pos-01",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage bien établi, adultes et personnes âgées : extrait sec standardisé à 21 mg de glycosides triterpéniques (calculés en protoaescigénine), 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Standardised dry extract corresponding to a content of 21 mg triterpene glycosides calculated as protoaescigenin"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-pos-02",
-  "plant": "aesculus_hippocastanum",
-  "type": "posology",
-  "statement": "Durée : au moins 4 semaines de traitement peuvent être nécessaires avant un effet bénéfique ; une utilisation prolongée est possible après avis médical.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "At least 4 weeks of treatment may be required before any beneficial effect is observed."
+  {
+    "id": "aesculus_hippocastanum-pos-02",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Durée : au moins 4 semaines de traitement peuvent être nécessaires avant un effet bénéfique ; une utilisation prolongée est possible après avis médical.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "At least 4 weeks of treatment may be required before any beneficial effect is observed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-pos-03",
-  "plant": "aesculus_hippocastanum",
-  "type": "posology",
-  "statement": "Usage traditionnel (préparations semi-solides) : appliquer une fine couche sur la zone atteinte, 1 à 3 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Single dose: Apply a thin layer on the affected area Daily dose: 1-3 times."
+  {
+    "id": "aesculus_hippocastanum-pos-03",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage traditionnel (préparations semi-solides) : appliquer une fine couche sur la zone atteinte, 1 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Single dose: Apply a thin layer on the affected area Daily dose: 1-3 times."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-01",
-  "plant": "aesculus_hippocastanum",
-  "type": "contraindication",
-  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Hypersensitivity to the active substance."
+  {
+    "id": "aesculus_hippocastanum-01",
+    "plant": "aesculus_hippocastanum",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-02",
-  "plant": "aesculus_hippocastanum",
-  "type": "age",
-  "statement": "Usage non recommandé chez les moins de 18 ans (manque de données sur la sécurité et l'efficacité).",
-  "severity": "precaution",
-  "population": "moins de 18 ans",
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "The use is not recommended in adolescents under 18 years of age due to a lack of data on safety and efficacy."
+  {
+    "id": "aesculus_hippocastanum-02",
+    "plant": "aesculus_hippocastanum",
+    "type": "age",
+    "statement": "Usage non recommandé chez les moins de 18 ans (manque de données sur la sécurité et l'efficacité).",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "The use is not recommended in adolescents under 18 years of age due to a lack of data on safety and efficacy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_18"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-03",
-  "plant": "aesculus_hippocastanum",
-  "type": "age",
-  "statement": "Usage non recommandé chez les moins de 12 ans, en l'absence de données de sécurité suffisantes.",
-  "severity": "precaution",
-  "population": "moins de 12 ans",
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "In the absence of sufficient safety data, the use in children below 12 years of age is not recommended."
+  {
+    "id": "aesculus_hippocastanum-03",
+    "plant": "aesculus_hippocastanum",
+    "type": "age",
+    "statement": "Usage non recommandé chez les moins de 12 ans, en l'absence de données de sécurité suffisantes.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "In the absence of sufficient safety data, the use in children below 12 years of age is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_12"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-04",
-  "plant": "aesculus_hippocastanum",
-  "type": "warning",
-  "statement": "En cas d'inflammation de la peau, de thrombophlébite ou d'induration sous-cutanée, de douleur intense, d'ulcères, de gonflement soudain d'une ou des deux jambes, ou d'insuffisance cardiaque ou rénale : consulter un médecin.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "If there is inflammation of the skin, thrombophlebitis or subcutaneous induration, severe pain, ulcers, sudden swelling of one or both legs, cardiac or renal insufficiency, a doctor should be consulted."
+  {
+    "id": "aesculus_hippocastanum-04",
+    "plant": "aesculus_hippocastanum",
+    "type": "warning",
+    "statement": "En cas d'inflammation de la peau, de thrombophlébite ou d'induration sous-cutanée, de douleur intense, d'ulcères, de gonflement soudain d'une ou des deux jambes, ou d'insuffisance cardiaque ou rénale : consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "If there is inflammation of the skin, thrombophlebitis or subcutaneous induration, severe pain, ulcers, sudden swelling of one or both legs, cardiac or renal insufficiency, a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-05",
-  "plant": "aesculus_hippocastanum",
-  "type": "warning",
-  "statement": "Usage cutané : ne pas appliquer sur peau lésée, autour des yeux ou sur les muqueuses.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Cutaneous use: The product should not be used on broken skin, around the eyes or on mucous membranes."
+  {
+    "id": "aesculus_hippocastanum-05",
+    "plant": "aesculus_hippocastanum",
+    "type": "warning",
+    "statement": "Usage cutané : ne pas appliquer sur peau lésée, autour des yeux ou sur les muqueuses.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Cutaneous use: The product should not be used on broken skin, around the eyes or on mucous membranes."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-06",
-  "plant": "aesculus_hippocastanum",
-  "type": "warning",
-  "statement": "Si les symptômes s'aggravent ou en cas de signes d'infection cutanée pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "If symptoms worsen or signs of skin infections occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  {
+    "id": "aesculus_hippocastanum-06",
+    "plant": "aesculus_hippocastanum",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent ou en cas de signes d'infection cutanée pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "If symptoms worsen or signs of skin infections occur during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-07",
-  "plant": "aesculus_hippocastanum",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportée dans la monographie EMA (usage bien établi et traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Traditional use None reported"
+  {
+    "id": "aesculus_hippocastanum-07",
+    "plant": "aesculus_hippocastanum",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage bien établi et traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "aesculus_hippocastanum-08",
-  "plant": "aesculus_hippocastanum",
-  "type": "pregnancy",
-  "statement": "Sécurité pendant la grossesse non établie ; usage non recommandé en l'absence de données suffisantes.",
-  "severity": "precaution",
-  "population": "femmes enceintes",
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "aesculus_hippocastanum-08",
+    "plant": "aesculus_hippocastanum",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-09",
-  "plant": "aesculus_hippocastanum",
-  "type": "lactation",
-  "statement": "Sécurité pendant l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
-  "severity": "precaution",
-  "population": "femmes allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "aesculus_hippocastanum-09",
+    "plant": "aesculus_hippocastanum",
+    "type": "lactation",
+    "statement": "Sécurité pendant l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "lactating"
-  ]
- },
- {
-  "id": "aesculus_hippocastanum-10",
-  "plant": "aesculus_hippocastanum",
-  "type": "driving",
-  "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
-  "severity": "donnees_absentes",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
-   "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+  {
+    "id": "aesculus_hippocastanum-10",
+    "plant": "aesculus_hippocastanum",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "drives"
-  ]
- }
+  {
+    "id": "aesculus_hippocastanum-add-01",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 1, insuffisance veineuse) : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-02",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage traditionnel (indication 2, ecchymoses) : si les symptômes persistent plus de 5 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 5 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-03",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage bien établi, forme orale : 300 mg d'extrait liquide par prise, 2 fois par jour (600 mg par jour), chez l'adulte et la personne âgée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Single dose: 300 mg liquid extract 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-04",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage traditionnel, forme orale : 99 mg d'extrait sec par prise, 2 fois par jour (198 mg par jour), chez l'adulte et la personne âgée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Single dose: 99 mg dry extract 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-05",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage traditionnel, forme orale : 154 mg par prise, 3 à 4 fois par jour (462 à 616 mg par jour), chez l'adulte et la personne âgée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Single dose: 154 mg 3-4 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-06",
+    "plant": "aesculus_hippocastanum",
+    "type": "posology",
+    "statement": "Usage traditionnel, formes semi-solides : la quantité de préparation varie selon le produit (par exemple l'équivalent de 0,85 % de préparation pour l'un, 20 % pour un autre).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "In semi-solid dosage forms: amount equivalent to 0.85% herbal preparation"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-07",
+    "plant": "aesculus_hippocastanum",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables rapportés (usage bien établi et traditionnel par voie orale) : troubles gastro-intestinaux, maux de tête, vertiges, démangeaisons et réactions allergiques. Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Gastrointestinal complaints, headache, vertigo, itching and allergic reactions have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "aesculus_hippocastanum-add-08",
+    "plant": "aesculus_hippocastanum",
+    "type": "undesirable_effect",
+    "statement": "Usage cutané (traditionnel) : réactions d'hypersensibilité de la peau (démangeaisons et érythème) rapportées. Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Hypersensitivity reactions of the skin (itching and erythema) have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "aesculus_hippocastanum-add-09",
+    "plant": "aesculus_hippocastanum",
+    "type": "overdose",
+    "statement": "Surdosage : aucun cas n'a été rapporté, que ce soit pour l'usage bien établi ou l'usage traditionnel.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-10",
+    "plant": "aesculus_hippocastanum",
+    "type": "fertility",
+    "statement": "Fertilité : aucune donnée disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-11",
+    "plant": "aesculus_hippocastanum",
+    "type": "pharmacodynamics",
+    "statement": "Mécanisme d'action exact inconnu ; les études précliniques et cliniques indiquent qu'un effet sur le tonus veineux et sur le débit de filtration capillaire est impliqué.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "The exact mechanism of action is not known, but preclinical and clinical pharmacological studies indicate that an effect on venous tone and capillary filtration rate is involved."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-12",
+    "plant": "aesculus_hippocastanum",
+    "type": "pharmacodynamics",
+    "statement": "Méta-analyse de 17 essais cliniques : l'extrait de graines de marronnier d'Inde réduit significativement les symptômes de l'insuffisance veineuse chronique par rapport au placebo.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Based on a systematic review (meta-analysis) of 17 clinical trials, it can be concluded that horse chestnut seed extract significantly reduces symptoms of chronic venous insufficiency, such as"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-13",
+    "plant": "aesculus_hippocastanum",
+    "type": "pharmacokinetics",
+    "statement": "Pharmacocinétique (usage bien établi) : aucune donnée pertinente disponible.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "No relevant data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-14",
+    "plant": "aesculus_hippocastanum",
+    "type": "preclinical",
+    "statement": "Données précliniques : faible toxicité après administration orale de la préparation à base de marron d'Inde.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Available preclinical data indicate low toxicity following oral administration of the herbal preparation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "aesculus_hippocastanum-add-15",
+    "plant": "aesculus_hippocastanum",
+    "type": "preclinical",
+    "statement": "Aucun test adéquat de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

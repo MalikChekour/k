@@ -1,230 +1,488 @@
 [
- {
-  "id": "humulus_lupulus-ind-01",
-  "plant": "humulus_lupulus",
-  "type": "indication",
-  "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+  {
+    "id": "humulus_lupulus-ind-01",
+    "plant": "humulus_lupulus",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes légers de stress mental et aide au sommeil.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Traditional herbal medicinal product for relief of mild symptoms of mental stress and to aid sleep."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "humulus_lupulus-pos-01",
-  "plant": "humulus_lupulus",
-  "type": "posology",
-  "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : tisane de 500 mg de substance végétale coupée dans 150 à 200 ml d'eau bouillante, jusqu'à 4 fois par jour.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Herbal tea: 500 mg of comminuted herbal substance in 150-200 ml of boiling water as a herbal infusion, up to 4 times daily."
+  {
+    "id": "humulus_lupulus-pos-01",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : tisane de 500 mg de substance végétale coupée dans 150 à 200 ml d'eau bouillante, jusqu'à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Herbal tea: 500 mg of comminuted herbal substance in 150-200 ml of boiling water as a herbal infusion, up to 4 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "humulus_lupulus-pos-02",
-  "plant": "humulus_lupulus",
-  "type": "posology",
-  "statement": "Stress mental, poudre : 400 mg 2 fois par jour pour les adultes et 200 mg 2 fois par jour pour les adolescents.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Powdered herbal substance: 400 mg two times daily for adults and 200 mg two times daily for adolescents."
+  {
+    "id": "humulus_lupulus-pos-02",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Stress mental, poudre : 400 mg 2 fois par jour pour les adultes et 200 mg 2 fois par jour pour les adolescents.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Powdered herbal substance: 400 mg two times daily for adults and 200 mg two times daily for adolescents."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "humulus_lupulus-pos-03",
-  "plant": "humulus_lupulus",
-  "type": "posology",
-  "statement": "Aide au sommeil (usage traditionnel), adolescents, adultes et personnes âgées : tisane de 500 à 1000 mg de substance végétale coupée dans 150 à 200 ml d'eau bouillante, 30 à 60 min avant le coucher.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Herbal tea: 500-1000 mg of comminuted herbal substance in 150-200 ml of boiling water as an herbal infusion 30 - 60 min before bedtime."
+  {
+    "id": "humulus_lupulus-pos-03",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Aide au sommeil (usage traditionnel), adolescents, adultes et personnes âgées : tisane de 500 à 1000 mg de substance végétale coupée dans 150 à 200 ml d'eau bouillante, 30 à 60 min avant le coucher.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Herbal tea: 500-1000 mg of comminuted herbal substance in 150-200 ml of boiling water as an herbal infusion 30 - 60 min before bedtime."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "humulus_lupulus-pos-04",
-  "plant": "humulus_lupulus",
-  "type": "posology",
-  "statement": "Si les symptômes persistent plus de deux semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
-  "severity": null,
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "If the symptoms persist longer than two weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+  {
+    "id": "humulus_lupulus-pos-04",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Si les symptômes persistent plus de deux semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "If the symptoms persist longer than two weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "humulus_lupulus-01",
-  "plant": "humulus_lupulus",
-  "type": "contraindication",
-  "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
-  "severity": "contraindiquee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Hypersensitivity to the active substance."
+  {
+    "id": "humulus_lupulus-01",
+    "plant": "humulus_lupulus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "plant_allergy"
-  ]
- },
- {
-  "id": "humulus_lupulus-02",
-  "plant": "humulus_lupulus",
-  "type": "age",
-  "statement": "Usage non établi chez les moins de 12 ans (données insuffisantes).",
-  "severity": "precaution",
-  "population": "moins de 12 ans",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+  {
+    "id": "humulus_lupulus-02",
+    "plant": "humulus_lupulus",
+    "type": "age",
+    "statement": "Usage non établi chez les moins de 12 ans (données insuffisantes).",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "The use in children under 12 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "age_lt_12"
-  ]
- },
- {
-  "id": "humulus_lupulus-03",
-  "plant": "humulus_lupulus",
-  "type": "warning",
-  "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or qualified health care practitioner should be consulted."
+  {
+    "id": "humulus_lupulus-03",
+    "plant": "humulus_lupulus",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "always"
-  ]
- },
- {
-  "id": "humulus_lupulus-04",
-  "plant": "humulus_lupulus",
-  "type": "interaction",
-  "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
-  "severity": "aucune_rapportee",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Traditional use None reported"
+  {
+    "id": "humulus_lupulus-04",
+    "plant": "humulus_lupulus",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction : voir autres sources avant d'affirmer le contraire.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Traditional use None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": []
- },
- {
-  "id": "humulus_lupulus-05",
-  "plant": "humulus_lupulus",
-  "type": "pregnancy",
-  "statement": "Sécurité pendant la grossesse non établie ; usage non recommandé en l'absence de données suffisantes.",
-  "severity": "precaution",
-  "population": "femmes enceintes",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "humulus_lupulus-05",
+    "plant": "humulus_lupulus",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "pregnant"
-  ]
- },
- {
-  "id": "humulus_lupulus-06",
-  "plant": "humulus_lupulus",
-  "type": "lactation",
-  "statement": "Sécurité pendant l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
-  "severity": "precaution",
-  "population": "femmes allaitantes",
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+  {
+    "id": "humulus_lupulus-06",
+    "plant": "humulus_lupulus",
+    "type": "lactation",
+    "statement": "Sécurité pendant l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "lactating"
-  ]
- },
- {
-  "id": "humulus_lupulus-07",
-  "plant": "humulus_lupulus",
-  "type": "driving",
-  "statement": "Peut altérer l'aptitude à conduire et à utiliser des machines : ne pas conduire ni utiliser de machines si l'on est concerné.",
-  "severity": "precaution",
-  "population": null,
-  "source": {
-   "kind": "doc",
-   "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
-   "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
-   "quote": "May impair ability to drive and use machines. Affected patients should not drive or operate machinery."
+  {
+    "id": "humulus_lupulus-07",
+    "plant": "humulus_lupulus",
+    "type": "driving",
+    "statement": "Peut altérer l'aptitude à conduire et à utiliser des machines : ne pas conduire ni utiliser de machines si l'on est concerné.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "May impair ability to drive and use machines. Affected patients should not drive or operate machinery."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
   },
-  "status": "verifie",
-  "reviewed_by": null,
-  "reviewed_on": null,
-  "applies_to": [
-   "drives"
-  ]
- }
+  {
+    "id": "humulus_lupulus-add-01",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : extrait liquide (1:1) de 0,5 à 2,0 ml, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Liquid extract (1:1): 0.5-2.0 ml, up to 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-02",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : extrait liquide (1:10) de 19 g, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Liquid extract (1:10): 19 g, 2-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-03",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : teinture (1:5) de 1 à 2 ml, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Tincture (1:5): 1-2 ml, up to 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-04",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : extrait sec (4-5:1) de 125 mg, 2 à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Dry extract (4-5:1): 125 mg, 2-3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-05",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Aide au sommeil (usage traditionnel), adolescents, adultes et personnes âgées : poudre de 800 à 2000 mg, 30 à 60 min avant le coucher.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Powdered herbal substance: 800"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-06",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Aide au sommeil (usage traditionnel), adolescents, adultes et personnes âgées : extrait sec (4-5:1) de 125 à 250 mg, 60 min avant le coucher.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Dry extract (4-5:1): 125-250 mg, 60 min before bedtime."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-07",
+    "plant": "humulus_lupulus",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale uniquement.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-08",
+    "plant": "humulus_lupulus",
+    "type": "information",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, la mention d'étiquetage appropriée concernant l'éthanol doit figurer sur l'étiquetage du produit.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-09",
+    "plant": "humulus_lupulus",
+    "type": "undesirable_effects",
+    "statement": "Aucun effet indésirable connu n'est mentionné dans la monographie EMA (usage traditionnel). Cela ne vaut pas absence d'effet indésirable.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Traditional use None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "humulus_lupulus-add-10",
+    "plant": "humulus_lupulus",
+    "type": "information",
+    "statement": "En cas d'effet indésirable, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-11",
+    "plant": "humulus_lupulus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé (usage traditionnel).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "humulus_lupulus-add-12",
+    "plant": "humulus_lupulus",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "No fertility data are available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "humulus_lupulus-add-13",
+    "plant": "humulus_lupulus",
+    "type": "preclinical",
+    "statement": "Des tests de génotoxicité adéquats n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "humulus_lupulus-add-14",
+    "plant": "humulus_lupulus",
+    "type": "preclinical",
+    "statement": "Les tests de toxicité sur la reproduction et de cancérogénicité n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
 ]

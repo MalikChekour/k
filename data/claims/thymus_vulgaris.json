@@ -433,24 +433,6 @@
     "applies_to": []
   },
   {
-    "id": "thymus_vulgaris-add-14",
-    "plant": "thymus_vulgaris",
-    "type": "pharmacokinetics",
-    "statement": "Les données de pharmacocinétique ne sont pas exigées pour cette monographie d'usage traditionnel.",
-    "severity": "donnees_absentes",
-    "population": null,
-    "source": {
-      "kind": "doc",
-      "title": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
-      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
-      "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC as amended."
-    },
-    "status": "verifie",
-    "reviewed_by": null,
-    "reviewed_on": null,
-    "applies_to": []
-  },
-  {
     "id": "thymus_vulgaris-add-15",
     "plant": "thymus_vulgaris",
     "type": "posology",

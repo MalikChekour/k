@@ -245,5 +245,233 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "plantago_lanceolata-add-01",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Indication 1, usage bucco-pharyngé (macérat dans 150 ml d'eau froide) : enfants à partir de 3 ans, adolescents, adultes et personnes âgées : 1,4 g par prise, 3 à 4 fois par jour (4,2 à 5,6 g par jour).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "as macerate in 150 ml of cold water Children from 3 years of age, adolescents, adults and elderly: Single dose: 1.4 g Dosage frequency: 3-4 times daily Daily dose: 4.2-5.6 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-add-02",
+    "plant": "plantago_lanceolata",
+    "type": "age",
+    "statement": "Usage bucco-pharyngé (préparations b et c) non recommandé chez les moins de 12 ans, en raison de données insuffisantes.",
+    "severity": "precaution",
+    "population": "moins de 12 ans (voie bucco-pharyngée)",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "The oromucosal use in children under 12 years of age is not recommended due to the lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-add-03",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Voie orale, préparation c : adolescents, adultes et personnes âgées : 233 mg par prise, 3 fois par jour (699 mg par jour).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Single dose: 233 mg Dosage frequency: 3 times daily Daily dose: 699 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-add-04",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Voie orale, préparation d : adolescents, adultes et personnes âgées : 0,94 à 2,6 g par prise, 3 à 6 fois par jour (3,75 à 7,5 g par jour).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Single dose: 0.94 - 2.6 g Dosage frequency: 3-6 times daily Daily dose: 3.75 - 7.5 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-add-05",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Usage bucco-pharyngé, préparation c : adolescents, adultes et personnes âgées : 160 mg par prise, 4 à 8 fois par jour (toutes les 2 h), soit 640 à 1 280 mg par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Adolescents, adults and elderly Single dose: 160 mg Dosage frequency: 4-8 times daily (every 2 h) Daily dose: 640-1280 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-add-06",
+    "plant": "plantago_lanceolata",
+    "type": "posology",
+    "statement": "Indication 2 (toux du rhume), voie orale, extrait liquide (préparation j) : adolescents, adultes et personnes âgées : 0,4 à 1,26 g par prise, 3 à 4 fois par jour. La dose journalière est écrite « 1.2-4.8 mg » dans la monographie, unité probablement erronée : chiffre non repris.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Single dose: 0.4-1.26 g liquid extract Dosage frequency: 3-4 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-add-07",
+    "plant": "plantago_lanceolata",
+    "type": "age",
+    "statement": "Voie orale, préparation k : non recommandée chez les moins de 6 ans, en raison de données insuffisantes.",
+    "severity": "precaution",
+    "population": "moins de 6 ans (voie orale, préparation k)",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "The oral use in children under 6 years of age is not recommended due to the lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_6"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-add-08",
+    "plant": "plantago_lanceolata",
+    "type": "information",
+    "statement": "Ces indications reposent exclusivement sur un long usage traditionnel (monographie d'usage traditionnel de l'UE).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_lanceolata-add-09",
+    "plant": "plantago_lanceolata",
+    "type": "undesirable_effects",
+    "statement": "Aucun effet indésirable connu. En cas d'effet indésirable, consulter un médecin ou un professionnel de santé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "None known. If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-add-10",
+    "plant": "plantago_lanceolata",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-add-11",
+    "plant": "plantago_lanceolata",
+    "type": "fertility",
+    "statement": "Aucune donnée disponible sur la fertilité.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_lanceolata-add-12",
+    "plant": "plantago_lanceolata",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   }
 ]

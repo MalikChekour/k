@@ -420,5 +420,277 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-01",
+    "plant": "glycyrrhiza_glabra",
+    "type": "overdose",
+    "statement": "Surdosage (usage prolongé ou forte quantité) : rétention d'eau, potassium bas, hypertension, troubles du rythme cardiaque et encéphalopathie hypertensive ont été rapportés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "Cases of overdose have been reported with prolonged use (more than 4 weeks) and/or intake of high amount of liquorice, with symptoms such as water retention, hypokalaemia, hypertension, cardiac rhythm disorders, and hypertensive encephalopathy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-02",
+    "plant": "glycyrrhiza_glabra",
+    "type": "interaction",
+    "statement": "Des études cliniques montrent que 300 mg/jour de glycyrrhizine pendant 14 jours diminuent modérément l'exposition à des médicaments métabolisés par le CYP3A4, comme le midazolam et l'oméprazole.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "Clinical studies have shown that the oral intake of 300 mg/day of glycyrrhizin for 14 days can modestly decrease the systemic exposure to drugs metabolised by CYP 3A4 enzymes such as midazolam and omeprazole."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-03",
+    "plant": "glycyrrhiza_glabra",
+    "type": "pregnancy",
+    "statement": "Données limitées chez la femme enceinte.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "There are limited data from use in pregnant women."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-04",
+    "plant": "glycyrrhiza_glabra",
+    "type": "lactation",
+    "statement": "La glycyrrhizine a été détectée dans le lait maternel de certaines femmes ; l'acide glycyrrhétinique n'a pas été mesuré.",
+    "severity": "donnees_absentes",
+    "population": "femmes allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "Glycyrrhizin is detectable in the breastmilk of some women taking liquorice, but studies measuring glycyrrhetinic acid have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-05",
+    "plant": "glycyrrhiza_glabra",
+    "type": "lactation",
+    "statement": "L'effet de la réglisse ou de ses constituants sur les nouveau-nés et les nourrissons est inconnu.",
+    "severity": "donnees_absentes",
+    "population": "nouveau-nés et nourrissons",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "The effect of liquorice root or its constituents on newborns/infants is unknown."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-06",
+    "plant": "glycyrrhiza_glabra",
+    "type": "posology",
+    "statement": "Indication toux (usage traditionnel) : dose journalière de 3 à 13,5 g de racine coupée pour les adultes et les personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "13.5 g."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-07",
+    "plant": "glycyrrhiza_glabra",
+    "type": "information",
+    "statement": "Les indications reposent exclusivement sur un usage traditionnel de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-08",
+    "plant": "glycyrrhiza_glabra",
+    "type": "fertility",
+    "statement": "Aucune donnée adéquate sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "No adequate fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-09",
+    "plant": "glycyrrhiza_glabra",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-10",
+    "plant": "glycyrrhiza_glabra",
+    "type": "preclinical",
+    "statement": "Chez le rat, l'acide 18-glycyrrhétinique traverse la barrière placentaire et se retrouve dans les fœtus.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "A study has shown that 18β-glycyrrhetinic acid crosses through the placental barrier and can be detected in the rat foetuses."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-11",
+    "plant": "glycyrrhiza_glabra",
+    "type": "preclinical",
+    "statement": "Dans des études de toxicité sur le développement, la glycyrrhizine a montré une embryotoxicité mineure chez le fœtus de rat, surtout au niveau des reins et des poumons, à des doses de 239 à 1000 mg/kg à partir du 7e jour de gestation.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "In developmental toxicity studies, glycyrrhizin (as ammonium salt or as free acid) exhibited minor embryotoxicity to the developing rat foetus mainly in kidneys and lungs, at doses from 239 up to 1000 mg/kg starting from 7th day of pregnancy."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-12",
+    "plant": "glycyrrhiza_glabra",
+    "type": "preclinical",
+    "statement": "Deux autres études suggèrent qu'un extrait de réglisse à 100 mg/kg pendant 7 jours pourrait aggraver la perte de poids et les malformations fœtales provoquées par une exposition intra-utérine au cyclophosphamide.",
+    "severity": "precaution",
+    "population": "femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "Another two studies suggested that 100 mg/kg of liquorice extract repeated for 7 days may also aggravate body weight loss and malformations of foetuses, induced by intrauterine exposure to cyclophosphamide."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-13",
+    "plant": "glycyrrhiza_glabra",
+    "type": "undesirable_effects",
+    "statement": "La monographie ne décrit pas d'effets indésirables précis ; en cas de réaction, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "glycyrrhiza_glabra-add-14",
+    "plant": "glycyrrhiza_glabra",
+    "type": "posology",
+    "statement": "Voie orale uniquement : tisane (infusion ou décoction) de racine coupée, ou préparations liquides pour voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

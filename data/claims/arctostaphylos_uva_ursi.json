@@ -285,5 +285,195 @@
     "applies_to": [
       "kidney_disease"
     ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-01",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Extraits secs (c et d) : dose unitaire correspondant à 100 à 210 mg de dérivés de l'hydroquinone exprimés en arbutine anhydre, 2 à 4 fois par jour ; dose journalière correspondant à 200 à 840 mg de dérivés de l'hydroquinone exprimés en arbutine anhydre. Femmes adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "mg of hydroquinone derivatives calculated as anhydrous arbutin"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-02",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale. Le macérat doit être utilisé immédiatement après sa préparation.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "The macerate should be used immediately after preparation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-03",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "adverse_effect",
+    "statement": "Effets indésirables rapportés : nausées, vomissements, douleurs d'estomac ; fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Nausea, vomiting, stomach-ache have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-04",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "information",
+    "statement": "Pour les extraits contenant de l'éthanol, la mention d'étiquetage appropriée concernant l'éthanol doit figurer sur l'étiquette.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-05",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "evidence",
+    "statement": "Produit à usage traditionnel : l'indication repose exclusivement sur un usage de longue date.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-06",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté (usage traditionnel).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-07",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-08",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "preclinical",
+    "statement": "Tests de génotoxicité adéquats non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-09",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "arctostaphylos_uva_ursi-add-10",
+    "plant": "arctostaphylos_uva_ursi",
+    "type": "adverse_effect",
+    "statement": "En cas d'autre effet indésirable non cité ci-dessus, consulter un médecin ou un professionnel de santé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

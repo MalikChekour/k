@@ -348,19 +348,6 @@
      "source": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
-    },
-    {
-     "id": "matricaria_recutita-add-18",
-     "type": "pharmacodynamics",
-     "statement": "Pharmacodynamie et pharmacocinétique : études non exigées pour cet usage traditionnel.",
-     "severity": null,
-     "population": null,
-     "status": "verifie",
-     "reviewed_by": null,
-     "applies_to": [],
-     "source": "EU herbal monograph on Matricaria recutita L., flos (EMA/HMPC)",
-     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-matricaria-recutita-l-flos_en.pdf",
-     "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC as amended."
     }
    ]
   },
@@ -4894,6 +4881,173 @@
      "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
      "quote": "Not to be taken for more than 2 weeks."
+    },
+    {
+     "id": "foeniculum_vulgare-add-01",
+     "type": "pregnancy",
+     "statement": "Chez la femme enceinte et allaitante, l'apport quotidien d'estragole doit rester inférieur à 0,05 mg par personne et par jour.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "In pregnant and breast-feeding women, the daily intake of estragole has to be below 0.05 mg/person per day."
+    },
+    {
+     "id": "foeniculum_vulgare-add-02",
+     "type": "age",
+     "statement": "Chez l'enfant de 4 à 12 ans, usage non recommandé si l'apport quotidien d'estragole dépasse la valeur indicative de la monographie, sauf justification par une évaluation du risque fondée sur des données de sécurité adéquates.",
+     "severity": "precaution",
+     "population": "4 à 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "The use in children between 4 and 12 years of age is not recommended if the daily intake of estragole exceeds the guidance value of 1.0"
+    },
+    {
+     "id": "foeniculum_vulgare-add-03",
+     "type": "posology",
+     "statement": "Usage traditionnel, enfants de 4 à 12 ans (indications 1 et 3) : utilisation de courte durée, pour des symptômes légers et passagers uniquement (moins d'une semaine).",
+     "severity": null,
+     "population": "4 à 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "For short-term use in mild transitory symptoms only (less than one week)."
+    },
+    {
+     "id": "foeniculum_vulgare-add-04",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et adolescents (indication 2, spasmes menstruels) : tisane de 1,5 g dans 250 ml d'eau bouillante, 15 minutes d'infusion, 3 fois par jour (4,5 g par jour au maximum).",
+     "severity": null,
+     "population": "adultes et adolescents",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Herbal tea: 1.5 g of herbal substance in 250 ml of boiling water (steep for 15 minutes) as a herbal infusion 3 times daily."
+    },
+    {
+     "id": "foeniculum_vulgare-add-05",
+     "type": "adverse_effect",
+     "statement": "Des réactions allergiques au fenouil, touchant la peau ou les voies respiratoires, peuvent survenir ; leur fréquence n'est pas connue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Allergic reactions to fennel, affecting the skin or the respiratory system may occur. The frequency is not known."
+    },
+    {
+     "id": "foeniculum_vulgare-add-06",
+     "type": "information",
+     "statement": "Dans la population générale, l'exposition à l'estragole doit être maintenue aussi basse que pratiquement possible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "In the general population exposure to estragole should be kept as low as practically achievable."
+    },
+    {
+     "id": "foeniculum_vulgare-add-07",
+     "type": "preclinical",
+     "statement": "L'estragole est considéré comme un cancérogène génotoxique chez les rongeurs.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Estragole is considered a genotoxic carcinogen in rodents"
+    },
+    {
+     "id": "foeniculum_vulgare-add-08",
+     "type": "preclinical",
+     "statement": "Un extrait aqueux de graines de fenouil, administré chaque jour à 24 souris femelles BALB/c du 6e au 15e jour de gestation, a montré un effet tératogène dose-dépendant.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "An aqueous extract of fennel seeds given daily to 24 female BALB/c mice from day 6 to day 15 of pregnancy showed a dose-dependent teratogenic effect."
+    },
+    {
+     "id": "foeniculum_vulgare-add-09",
+     "type": "preclinical",
+     "statement": "Un extrait aqueux de fenouil a été testé au test d'Ames sur les souches TA98 et TA100 de Salmonella typhimurium : résultat négatif.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "A fennel aqueous extract was tested in an Ames test on Salmonella typhimurium strains TA98, TA100 and turned out as negative."
+    },
+    {
+     "id": "foeniculum_vulgare-add-10",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité sur la reproduction n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity have not been performed."
+    },
+    {
+     "id": "foeniculum_vulgare-add-11",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "foeniculum_vulgare-add-12",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Foeniculum vulgare Miller subsp. vulgare var. vulgare, fructus (EMA/HMPC/372841/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-foeniculum-vulgare-miller-subsp-vulgare-var-vulgare-fructus-revision-1_en.pdf",
+     "quote": "No cases of overdose have been reported."
     }
    ]
   },
@@ -5220,19 +5374,6 @@
      "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
-    },
-    {
-     "id": "thymus_vulgaris-add-14",
-     "type": "pharmacokinetics",
-     "statement": "Les données de pharmacocinétique ne sont pas exigées pour cette monographie d'usage traditionnel.",
-     "severity": "donnees_absentes",
-     "population": null,
-     "status": "verifie",
-     "reviewed_by": null,
-     "applies_to": [],
-     "source": "Community herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (EMA/HMPC/342332/2013)",
-     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-thymus-vulgaris-l-and-thymus-zygis-l-herba_en.pdf",
-     "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC as amended."
     },
     {
      "id": "thymus_vulgaris-add-15",
@@ -5998,6 +6139,179 @@
      "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
      "quote": "Herbal tea: 1.5 g in 250 ml boiling water as herbal infusion divided in 3 single doses."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-01",
+     "type": "undesirable_effect",
+     "statement": "Effets indésirables digestifs (diarrhée, nausées, vomissements, douleurs abdominales) rapportés ; fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Gastrointestinal symptoms (diarrhoea, nausea, vomiting, abdominal pain) have been reported."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-02",
+     "type": "undesirable_effect",
+     "statement": "Réactions d'hypersensibilité (par ex. éruption cutanée, urticaire, œdème du visage) rapportées ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Hypersensitivity reactions (e.g. rash, hives, facial oedema) have been reported."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-03",
+     "type": "undesirable_effect",
+     "statement": "Effets sur le système nerveux central (maux de tête, vertiges) rapportés ; fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Central nervous system effects (headache, vertigo) have been reported."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-04",
+     "type": "posology",
+     "statement": "Douleurs articulaires mineures : si les symptômes persistent plus de 4 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "If the symptoms persist longer than 4 weeks"
+    },
+    {
+     "id": "harpagophytum_procumbens-add-05",
+     "type": "posology",
+     "statement": "Troubles digestifs légers : si les symptômes persistent plus de 2 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks"
+    },
+    {
+     "id": "harpagophytum_procumbens-add-06",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product"
+    },
+    {
+     "id": "harpagophytum_procumbens-add-07",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, douleurs articulaires mineures, selon une autre préparation de la monographie : dose unitaire de 435 mg, 3 fois par jour (dose journalière 1,35 g).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Single dose: 435 mg, 3 times daily"
+    },
+    {
+     "id": "harpagophytum_procumbens-add-08",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, douleurs articulaires mineures, teinture (éthanol 25 % V/V) : dose unitaire de 0,5 à 1 ml, 3 fois par jour (jusqu'à 3 ml par jour).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Single dose: 0.5-1 ml, 3 times daily"
+    },
+    {
+     "id": "harpagophytum_procumbens-add-09",
+     "type": "posology",
+     "statement": "Adultes et personnes âgées, troubles digestifs légers, selon une autre préparation de la monographie : dose unitaire de 100 mg, 2 à 3 fois par jour (dose journalière jusqu'à 300 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Single dose: 100 mg, 2 to 3 times daily"
+    },
+    {
+     "id": "harpagophytum_procumbens-add-10",
+     "type": "posology",
+     "statement": "Forme d'usage : substance végétale broyée à utiliser en tisane, ou préparations liquides ou solides pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-11",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage rapporté (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-12",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "harpagophytum_procumbens-add-13",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -6625,6 +6939,120 @@
      "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-01",
+     "type": "warning",
+     "statement": "Douleurs articulaires accompagnées de gonflement de l'articulation, de rougeur ou de fièvre : consulter un médecin.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Articular pain accompanied by swelling of joint, redness or fever should be examined by a doctor."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-02",
+     "type": "warning",
+     "statement": "Hypertension : un bain chaud complet doit être utilisé avec précaution.",
+     "severity": "precaution",
+     "population": "hypertension",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "hypertension"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "In cases of hypertension, a full hot bath should be used with caution."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-03",
+     "type": "posology",
+     "statement": "Usage en bain : température recommandée de 35 à 38 °C, pendant 10 à 20 minutes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "for 10 to 20 minutes"
+    },
+    {
+     "id": "rosmarinus_officinalis-add-04",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-05",
+     "type": "age",
+     "statement": "Usage en bain : chez les moins de 12 ans, non recommandé (données insuffisantes) et un avis médical doit être demandé.",
+     "severity": "precaution",
+     "population": "moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended due to lack of adequate data and because medical advice should be sought."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-06",
+     "type": "adverse_effect",
+     "statement": "Effet indésirable : hypersensibilité, dermatite de contact (fréquence inconnue).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity (contact dermatitis)."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-07",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "rosmarinus_officinalis-add-08",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "No fertility data available."
     }
    ]
   },
@@ -6865,6 +7293,195 @@
      "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "salvia_officinalis-add-01",
+     "type": "overdose",
+     "statement": "Une ingestion d'huile de sauge correspondant à plus de 15 g de feuille est rapportée comme ayant provoqué une sensation de chaleur, une tachycardie, des vertiges et des convulsions épileptiformes. Aucun cas de surdosage par les feuilles seules n'a été rapporté.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Intake of sage oil corresponding to more than 15 g of sage leaf is reported to cause sensation of heat, tachycardia, vertigo and epileptiform convulsions"
+    },
+    {
+     "id": "salvia_officinalis-add-02",
+     "type": "preclinical",
+     "statement": "La thuyone est rapportée comme neurotoxique ; il est donc préférable de choisir des chémotypes à faible teneur en thuyone.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Thujone is reported to be neurotoxic, hence chemotypes with low content of thujone should be preferred."
+    },
+    {
+     "id": "salvia_officinalis-add-03",
+     "type": "warning",
+     "statement": "Teneur en thuyone : l'exposition quotidienne doit rester inférieure à 6,0 mg.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "The daily exposure has to be below 6.0 mg."
+    },
+    {
+     "id": "salvia_officinalis-add-04",
+     "type": "pregnancy",
+     "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé (usage traditionnel).",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Traditional use not recommended. No fertility data available."
+    },
+    {
+     "id": "salvia_officinalis-add-05",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "salvia_officinalis-add-06",
+     "type": "preclinical",
+     "statement": "Tests de génotoxicité et de cancérogénicité adéquats non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Adequate tests on genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "salvia_officinalis-add-07",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Tests on reproductive toxicity have not been performed."
+    },
+    {
+     "id": "salvia_officinalis-add-08",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu n'est mentionné dans la monographie ; en cas d'effet indésirable, consulter un médecin ou un professionnel de santé.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "salvia_officinalis-add-09",
+     "type": "posology",
+     "statement": "Durée (indication 3, bouche et gorge) : si les symptômes persistent plus de 1 semaine, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "salvia_officinalis-add-10",
+     "type": "posology",
+     "statement": "Durée (indication 2, sueurs) : une utilisation de longue durée est possible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Long-term use is possible"
+    },
+    {
+     "id": "salvia_officinalis-add-11",
+     "type": "posology",
+     "statement": "Usage traditionnel, sueurs nocturnes (indication 2) : 1,5 ml d'extrait liquide dans un peu de liquide, 1 heure juste avant le coucher.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "For night sweat: 1.5 ml in some liquid 1 hour directly before bedtime."
+    },
+    {
+     "id": "salvia_officinalis-add-12",
+     "type": "posology",
+     "statement": "Autre préparation (indication 1) : teinture de 2 à 3 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "Tincture 2-3 ml 3 times daily"
+    },
+    {
+     "id": "salvia_officinalis-add-13",
+     "type": "posology",
+     "statement": "Autre préparation (indication 3, gargarisme) : extrait liquide de 0,5 ml dans 150 ml d'eau tiède, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "0.5 ml in 150 ml warm water for gargle 3 times daily."
+    },
+    {
+     "id": "salvia_officinalis-add-14",
+     "type": "information",
+     "statement": "Les teintures et extraits contenant de l'éthanol doivent porter un étiquetage approprié concernant l'éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Salvia officinalis L., folium (EMA/HMPC/277152/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-salvia-officinalis-l-folium-revision-1_en.pdf",
+     "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
     }
    ]
   },
@@ -7043,6 +7660,151 @@
      "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
      "quote": "Not relevant"
+    },
+    {
+     "id": "calendula_officinalis-add-01",
+     "type": "undesirable_effect",
+     "statement": "Une sensibilisation cutanée a été rapportée ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Skin sensitization has been reported."
+    },
+    {
+     "id": "calendula_officinalis-add-02",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "calendula_officinalis-add-03",
+     "type": "preclinical",
+     "statement": "Des tests de génotoxicité disponibles (extrait liquide à 60 % d'éthanol) n'ont donné aucun motif d'inquiétude.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Available tests on genotoxicity (liquid extract with 60% ethanol) did not give any reason for concern."
+    },
+    {
+     "id": "calendula_officinalis-add-04",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité sur la reproduction et de cancérogénicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "calendula_officinalis-add-05",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1 (peau) : application d'une fine couche de préparation semi-solide sur la zone atteinte, 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "For all preparations b) to f) Single dose: apply a thin layer of semi-solid preparation to the affected area"
+    },
+    {
+     "id": "calendula_officinalis-add-06",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1 (peau) : préparation semi-solide équivalant à 2 à 10 % de substance végétale (préparation b).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "In semi-solid dosage forms: amount equivalent to 2-10% herbal substance"
+    },
+    {
+     "id": "calendula_officinalis-add-07",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1 (peau) : compresses imprégnées à retirer après 30 à 60 minutes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Impregnated dressings: remove after 30-60 minutes"
+    },
+    {
+     "id": "calendula_officinalis-add-08",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 2 (bouche, gorge) : préparation d) en gargarisme ou bain de bouche à 2 %, 2 à 4 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "As a gargle or mouth wash in a 2% solution"
+    },
+    {
+     "id": "calendula_officinalis-add-09",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1 (peau) : utilisable chez les enfants, adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Children, adolescents, adults and elderly"
+    },
+    {
+     "id": "calendula_officinalis-add-10",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 2 (bouche, gorge) : adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "Adolescents, adults and elderly"
+    },
+    {
+     "id": "calendula_officinalis-add-11",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Calendula officinalis L., flos (EMA/HMPC/437450/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-calendula-officinalis-l-flos-revision-1_en.pdf",
+     "quote": "No fertility data available."
     }
    ]
   },
@@ -7262,6 +8024,151 @@
      "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "taraxacum_officinale-add-01",
+     "type": "undesirable_effect",
+     "statement": "Des réactions allergiques peuvent survenir ; leur fréquence n'est pas connue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Allergic reactions may occur. The frequency is not known."
+    },
+    {
+     "id": "taraxacum_officinale-add-02",
+     "type": "information",
+     "statement": "Pour augmenter la diurèse (indication 3, voies urinaires), un apport hydrique suffisant est nécessaire pendant le traitement.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "adequate fluid intake is required during treatment"
+    },
+    {
+     "id": "taraxacum_officinale-add-03",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : teinture (1 partie de drogue pour 5 parties de solvant, éthanol 45 % V/V) : dose unique de 5 à 10 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Tincture (ratio of herbal substance to extraction solvent 1:5), extraction solvent ethanol 45% V/V: single dose 5-10 ml, 3 times daily"
+    },
+    {
+     "id": "taraxacum_officinale-add-04",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées, indications 1 et 3 seulement : jus de racine fraîche, dose unique de 4 à 8 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Juice from fresh root: single dose 4-8 ml, 3 times daily"
+    },
+    {
+     "id": "taraxacum_officinale-add-05",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : jus exprimé de racine fraîche (DER 1:1, traité à la vapeur d'éthanol), dose unique de 5 ml diluée dans un peu d'eau, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Expressed juice (DER 1:1) from fresh root subjected to a steam of ethanol: single dose 5 ml, diluted in small volume of water, 3 times daily"
+    },
+    {
+     "id": "taraxacum_officinale-add-06",
+     "type": "information",
+     "statement": "Pour les préparations contenant de l'éthanol, la monographie exige la mention d'étiquetage correspondante concernant l'éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "For preparations containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "taraxacum_officinale-add-07",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté dans l'usage traditionnel.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "taraxacum_officinale-add-08",
+     "type": "evidence",
+     "statement": "Les indications retenues reposent uniquement sur un usage de longue date (usage traditionnel), et non sur des essais cliniques décrits dans la monographie.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indications exclusively based upon long-standing use."
+    },
+    {
+     "id": "taraxacum_officinale-add-09",
+     "type": "form",
+     "statement": "Forme : drogue coupée à utiliser en tisane (usage oral), ou préparations liquides pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "taraxacum_officinale-add-10",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": "fertilité",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "taraxacum_officinale-add-11",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "EU herbal monograph on Taraxacum officinale F.H. Wigg., radix (EMA/HMPC/475726/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-taraxacum-officinale-fh-wigg-radix_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -7709,6 +8616,174 @@
      "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "plantago_lanceolata-add-01",
+     "type": "posology",
+     "statement": "Indication 1, usage bucco-pharyngé (macérat dans 150 ml d'eau froide) : enfants à partir de 3 ans, adolescents, adultes et personnes âgées : 1,4 g par prise, 3 à 4 fois par jour (4,2 à 5,6 g par jour).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "as macerate in 150 ml of cold water Children from 3 years of age, adolescents, adults and elderly: Single dose: 1.4 g Dosage frequency: 3-4 times daily Daily dose: 4.2-5.6 g"
+    },
+    {
+     "id": "plantago_lanceolata-add-02",
+     "type": "age",
+     "statement": "Usage bucco-pharyngé (préparations b et c) non recommandé chez les moins de 12 ans, en raison de données insuffisantes.",
+     "severity": "precaution",
+     "population": "moins de 12 ans (voie bucco-pharyngée)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_12"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "The oromucosal use in children under 12 years of age is not recommended due to the lack of adequate data."
+    },
+    {
+     "id": "plantago_lanceolata-add-03",
+     "type": "posology",
+     "statement": "Voie orale, préparation c : adolescents, adultes et personnes âgées : 233 mg par prise, 3 fois par jour (699 mg par jour).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Single dose: 233 mg Dosage frequency: 3 times daily Daily dose: 699 mg"
+    },
+    {
+     "id": "plantago_lanceolata-add-04",
+     "type": "posology",
+     "statement": "Voie orale, préparation d : adolescents, adultes et personnes âgées : 0,94 à 2,6 g par prise, 3 à 6 fois par jour (3,75 à 7,5 g par jour).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Single dose: 0.94 - 2.6 g Dosage frequency: 3-6 times daily Daily dose: 3.75 - 7.5 g"
+    },
+    {
+     "id": "plantago_lanceolata-add-05",
+     "type": "posology",
+     "statement": "Usage bucco-pharyngé, préparation c : adolescents, adultes et personnes âgées : 160 mg par prise, 4 à 8 fois par jour (toutes les 2 h), soit 640 à 1 280 mg par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Adolescents, adults and elderly Single dose: 160 mg Dosage frequency: 4-8 times daily (every 2 h) Daily dose: 640-1280 mg"
+    },
+    {
+     "id": "plantago_lanceolata-add-06",
+     "type": "posology",
+     "statement": "Indication 2 (toux du rhume), voie orale, extrait liquide (préparation j) : adolescents, adultes et personnes âgées : 0,4 à 1,26 g par prise, 3 à 4 fois par jour. La dose journalière est écrite « 1.2-4.8 mg » dans la monographie, unité probablement erronée : chiffre non repris.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Single dose: 0.4-1.26 g liquid extract Dosage frequency: 3-4 times daily"
+    },
+    {
+     "id": "plantago_lanceolata-add-07",
+     "type": "age",
+     "statement": "Voie orale, préparation k : non recommandée chez les moins de 6 ans, en raison de données insuffisantes.",
+     "severity": "precaution",
+     "population": "moins de 6 ans (voie orale, préparation k)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "The oral use in children under 6 years of age is not recommended due to the lack of adequate data."
+    },
+    {
+     "id": "plantago_lanceolata-add-08",
+     "type": "information",
+     "statement": "Ces indications reposent exclusivement sur un long usage traditionnel (monographie d'usage traditionnel de l'UE).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    {
+     "id": "plantago_lanceolata-add-09",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu. En cas d'effet indésirable, consulter un médecin ou un professionnel de santé.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "None known. If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "plantago_lanceolata-add-10",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "plantago_lanceolata-add-11",
+     "type": "fertility",
+     "statement": "Aucune donnée disponible sur la fertilité.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "plantago_lanceolata-add-12",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Plantago lanceolata L., folium (EMA/HMPC/887979/2022, final revision 1)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-plantaginis-lanceolatae-folium-revision-1_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -7986,21 +9061,6 @@
      "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
-    },
-    {
-     "id": "cynara_scolymus-add-08",
-     "type": "pharmacokinetics",
-     "statement": "Étude pharmacocinétique non requise pour cet usage traditionnel (article 16c(1)(a)(iii) de la directive 2001/83/CE).",
-     "severity": "donnees_absentes",
-     "population": null,
-     "status": "verifie",
-     "reviewed_by": null,
-     "applies_to": [
-      "always"
-     ],
-     "source": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
-     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
-     "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC."
     }
    ]
   },
@@ -8221,6 +9281,181 @@
      "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "equisetum_arvense-add-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1, adolescents, adultes et personnes âgées : forme solide (substance végétale broyée), 500 à 570 mg, 3 fois par jour (dose journalière 1,5 à 1,7 g).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "Comminuted herbal substances in solid form: single dose: 500-570 mg 3 times daily daily dose: 1.5-1.7 g"
+    },
+    {
+     "id": "equisetum_arvense-add-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1, adolescents, adultes et personnes âgées : préparation liquide b (suc exprimé de plante fraîche), 10 à 20 ml, 3 fois par jour (dose journalière 30 à 60 ml).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "b) single dose: 10-20 ml, 3 times daily daily dose: 30-60 ml"
+    },
+    {
+     "id": "equisetum_arvense-add-03",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 1, adolescents, adultes et personnes âgées : préparation sèche d (extrait sec), 370 mg 3 fois par jour ou 540 mg 2 fois par jour (dose journalière 1080 à 1110 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "d) single dose: 370 mg 3 times daily or 540 mg 2 times daily daily dose: 1080-1110 mg"
+    },
+    {
+     "id": "equisetum_arvense-add-04",
+     "type": "posology",
+     "statement": "Usage traditionnel, indication 2 (cutané), adolescents, adultes et personnes âgées : suc exprimé, 40 ml dans 500 ml d'eau pour compresses imprégnées et irrigation, une à plusieurs fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "b) single dose: 40 ml of the expressed juice in 500 ml water for impregnated dressing and irrigation daily dose: one to several times"
+    },
+    {
+     "id": "equisetum_arvense-add-05",
+     "type": "information",
+     "statement": "Pour les préparations autres que la tisane, assurer un apport hydrique suffisant (usage traditionnel, indication 1).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "For preparations other than tea preparations ensure appropriate fluid intake."
+    },
+    {
+     "id": "equisetum_arvense-add-06",
+     "type": "warning",
+     "statement": "En cas de signes d'infection cutanée, consulter un médecin ou un professionnel de santé (usage cutané, indication 2).",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "If signs of skin infection are observed, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "equisetum_arvense-add-07",
+     "type": "information",
+     "statement": "Pour les extraits contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol doit être inclus (exigence d'étiquetage de la monographie).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "For extracts containing ethanol, the appropriate labelling for ethanol, taken from the"
+    },
+    {
+     "id": "equisetum_arvense-add-08",
+     "type": "undesirable_effect",
+     "statement": "Troubles gastro-intestinaux légers rapportés (usage traditionnel, indication 1) ; fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "Mild gastrointestinal complaints have been reported. The frequency is not known."
+    },
+    {
+     "id": "equisetum_arvense-add-09",
+     "type": "undesirable_effect",
+     "statement": "Réactions allergiques (par ex. éruption cutanée, gonflement du visage) rapportées ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "Allergic reactions (e.g. rash, swelling of the face) have been reported."
+    },
+    {
+     "id": "equisetum_arvense-add-10",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "equisetum_arvense-add-11",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "equisetum_arvense-add-12",
+     "type": "preclinical",
+     "statement": "Tests de génotoxicité adéquats non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "equisetum_arvense-add-13",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction et de cancérogenèse non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Equisetum arvense L., herba (EMA/HMPC/278091/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-equisetum-arvense-l-herba_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -8424,6 +9659,122 @@
      "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "betula_pendula-add-01",
+     "type": "posology",
+     "statement": "Usage traditionnel, adolescents, adultes et personnes âgées : extrait liquide stabilisé, 2,5 ml, 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "Liquid extract stabilized: Single dose: 2.5 ml, 3 times daily"
+    },
+    {
+     "id": "betula_pendula-add-02",
+     "type": "undesirable_effect",
+     "statement": "Effets indésirables rapportés : troubles gastro-intestinaux (nausées, vomissements, diarrhée) et réactions allergiques (démangeaisons, éruption, urticaire, rhinite allergique). Fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "Gastrointestinal complaints (nausea, vomiting, diarrhoea) and allergic reactions (itching, rash, urticaria, allergic rhinitis) have been reported."
+    },
+    {
+     "id": "betula_pendula-add-03",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été signalé (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "betula_pendula-add-04",
+     "type": "excipient",
+     "statement": "Pour les extraits contenant de l'éthanol, l'étiquetage approprié pour l'éthanol doit figurer sur l'étiquette du produit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "betula_pendula-add-05",
+     "type": "indication_basis",
+     "statement": "L'indication repose exclusivement sur un usage ancien (usage traditionnel).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    {
+     "id": "betula_pendula-add-06",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "betula_pendula-add-07",
+     "type": "preclinical",
+     "statement": "Des tests de génotoxicité adéquats n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "betula_pendula-add-08",
+     "type": "preclinical",
+     "statement": "Des tests de toxicité sur la reproduction et de cancérogenèse n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Betula pendula Roth and/or Betula pubescens Ehrh. as well as hybrids of both species, folium (EMA/HMPC/573241/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-betula-pendula-roth-betula-pubescens-ehrh-folium_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -8644,6 +9995,146 @@
      "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
      "quote": "Kidney disorders"
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-01",
+     "type": "posology",
+     "statement": "Extraits secs (c et d) : dose unitaire correspondant à 100 à 210 mg de dérivés de l'hydroquinone exprimés en arbutine anhydre, 2 à 4 fois par jour ; dose journalière correspondant à 200 à 840 mg de dérivés de l'hydroquinone exprimés en arbutine anhydre. Femmes adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "mg of hydroquinone derivatives calculated as anhydrous arbutin"
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-02",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale. Le macérat doit être utilisé immédiatement après sa préparation.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "The macerate should be used immediately after preparation."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-03",
+     "type": "adverse_effect",
+     "statement": "Effets indésirables rapportés : nausées, vomissements, douleurs d'estomac ; fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "Nausea, vomiting, stomach-ache have been reported."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-04",
+     "type": "information",
+     "statement": "Pour les extraits contenant de l'éthanol, la mention d'étiquetage appropriée concernant l'éthanol doit figurer sur l'étiquette.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-05",
+     "type": "evidence",
+     "statement": "Produit à usage traditionnel : l'indication repose exclusivement sur un usage de longue date.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-06",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-07",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-08",
+     "type": "preclinical",
+     "statement": "Tests de génotoxicité adéquats non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-09",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "arctostaphylos_uva_ursi-add-10",
+     "type": "adverse_effect",
+     "statement": "En cas d'autre effet indésirable non cité ci-dessus, consulter un médecin ou un professionnel de santé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium, revision 2 (EMA/HMPC/750269/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-arctostaphylos-uva-ursi-l-spreng-folium-revision-2_en.pdf",
+     "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
     }
    ]
   },
@@ -8834,6 +10325,174 @@
      "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
      "quote": "Hepatotoxicity and hepatitis cases were reported in association with the administration of the medicinal product."
+    },
+    {
+     "id": "pelargonium_sidoides-add-01",
+     "type": "posology",
+     "statement": "Enfants de 6 à 12 ans, préparations b) et c) : 13,3 mg, 3 fois par jour, ou 20 mg, 2 fois par jour (dose journalière 40 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Single dose: 13.3 mg, 3 times daily; or 20 mg, 2 times daily Daily dose: 40 mg"
+    },
+    {
+     "id": "pelargonium_sidoides-add-02",
+     "type": "posology",
+     "statement": "Enfants de 3 à 5 ans, préparations b) et c) : 6,67 mg, 3 fois par jour (dose journalière 20 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Single dose: 6.67 mg, 3 times daily Daily dose: 20 mg"
+    },
+    {
+     "id": "pelargonium_sidoides-add-03",
+     "type": "posology",
+     "statement": "Les préparations b) et c) ne doivent être données aux enfants de moins de 6 ans que sous forme liquide.",
+     "severity": "precaution",
+     "population": "enfants de moins de 6 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "The herbal preparations should be given to children under 6 years only in liquid dosage forms."
+    },
+    {
+     "id": "pelargonium_sidoides-add-04",
+     "type": "adverse_effect",
+     "statement": "Réactions d'hypersensibilité, y compris réaction anaphylactique : effet indésirable, fréquence inconnue.",
+     "severity": "moderee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Hypersensitivity, (anaphylactic reaction). The frequency is not known."
+    },
+    {
+     "id": "pelargonium_sidoides-add-05",
+     "type": "adverse_effect",
+     "statement": "Éruption cutanée, prurit, urticaire, angio-œdème : effets indésirables, fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Rash, pruritus, urticaria, angioedema. The frequency is not known."
+    },
+    {
+     "id": "pelargonium_sidoides-add-06",
+     "type": "adverse_effect",
+     "statement": "Saignement du nez (épistaxis) signalé comme effet indésirable, fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "bleeding_disorder"
+     ],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Nasal bleeding. The frequency is not known."
+    },
+    {
+     "id": "pelargonium_sidoides-add-07",
+     "type": "adverse_effect",
+     "statement": "Diarrhée, douleur épigastrique, nausées, vomissements et saignement des gencives signalés comme effets indésirables, fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Diarrhoea, epigastric pain, nausea, vomiting, gingival bleeding. The frequency is not known."
+    },
+    {
+     "id": "pelargonium_sidoides-add-08",
+     "type": "information",
+     "statement": "Pour les extraits liquides contenant de l'éthanol, l'étiquetage doit comporter la mention appropriée concernant l'éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "For liquid extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "pelargonium_sidoides-add-09",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été signalé.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "pelargonium_sidoides-add-10",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "pelargonium_sidoides-add-11",
+     "type": "preclinical",
+     "statement": "Les tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse ne sont pas disponibles.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity are not available."
+    },
+    {
+     "id": "pelargonium_sidoides-add-12",
+     "type": "evidence",
+     "statement": "Il s'agit d'un médicament à base de plante d'usage traditionnel, dont l'indication repose exclusivement sur un usage de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Pelargonium sidoides DC; Pelargonium reniforme Curt., radix, revision 2 (EMA/HMPC/648100/2022)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-pelargonium-sidoides-dc-pelargonium-reniforme-curt-radix-revision-2_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
     }
    ]
   },
@@ -9154,6 +10813,208 @@
      "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
      "quote": "take other liquorice containing products as serious adverse events may occur such as water retention, hypokalaemia, hypertension, cardiac rhythm disorders."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-01",
+     "type": "overdose",
+     "statement": "Surdosage (usage prolongé ou forte quantité) : rétention d'eau, potassium bas, hypertension, troubles du rythme cardiaque et encéphalopathie hypertensive ont été rapportés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "Cases of overdose have been reported with prolonged use (more than 4 weeks) and/or intake of high amount of liquorice, with symptoms such as water retention, hypokalaemia, hypertension, cardiac rhythm disorders, and hypertensive encephalopathy."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-02",
+     "type": "interaction",
+     "statement": "Des études cliniques montrent que 300 mg/jour de glycyrrhizine pendant 14 jours diminuent modérément l'exposition à des médicaments métabolisés par le CYP3A4, comme le midazolam et l'oméprazole.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "Clinical studies have shown that the oral intake of 300 mg/day of glycyrrhizin for 14 days can modestly decrease the systemic exposure to drugs metabolised by CYP 3A4 enzymes such as midazolam and omeprazole."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-03",
+     "type": "pregnancy",
+     "statement": "Données limitées chez la femme enceinte.",
+     "severity": "precaution",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "There are limited data from use in pregnant women."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-04",
+     "type": "lactation",
+     "statement": "La glycyrrhizine a été détectée dans le lait maternel de certaines femmes ; l'acide glycyrrhétinique n'a pas été mesuré.",
+     "severity": "donnees_absentes",
+     "population": "femmes allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "Glycyrrhizin is detectable in the breastmilk of some women taking liquorice, but studies measuring glycyrrhetinic acid have not been performed."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-05",
+     "type": "lactation",
+     "statement": "L'effet de la réglisse ou de ses constituants sur les nouveau-nés et les nourrissons est inconnu.",
+     "severity": "donnees_absentes",
+     "population": "nouveau-nés et nourrissons",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "The effect of liquorice root or its constituents on newborns/infants is unknown."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-06",
+     "type": "posology",
+     "statement": "Indication toux (usage traditionnel) : dose journalière de 3 à 13,5 g de racine coupée pour les adultes et les personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "13.5 g."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-07",
+     "type": "information",
+     "statement": "Les indications reposent exclusivement sur un usage traditionnel de longue date.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-08",
+     "type": "fertility",
+     "statement": "Aucune donnée adéquate sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "No adequate fertility data available."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-09",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogenèse n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-10",
+     "type": "preclinical",
+     "statement": "Chez le rat, l'acide 18-glycyrrhétinique traverse la barrière placentaire et se retrouve dans les fœtus.",
+     "severity": "precaution",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "A study has shown that 18β-glycyrrhetinic acid crosses through the placental barrier and can be detected in the rat foetuses."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-11",
+     "type": "preclinical",
+     "statement": "Dans des études de toxicité sur le développement, la glycyrrhizine a montré une embryotoxicité mineure chez le fœtus de rat, surtout au niveau des reins et des poumons, à des doses de 239 à 1000 mg/kg à partir du 7e jour de gestation.",
+     "severity": "precaution",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "In developmental toxicity studies, glycyrrhizin (as ammonium salt or as free acid) exhibited minor embryotoxicity to the developing rat foetus mainly in kidneys and lungs, at doses from 239 up to 1000 mg/kg starting from 7th day of pregnancy."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-12",
+     "type": "preclinical",
+     "statement": "Deux autres études suggèrent qu'un extrait de réglisse à 100 mg/kg pendant 7 jours pourrait aggraver la perte de poids et les malformations fœtales provoquées par une exposition intra-utérine au cyclophosphamide.",
+     "severity": "precaution",
+     "population": "femmes enceintes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "Another two studies suggested that 100 mg/kg of liquorice extract repeated for 7 days may also aggravate body weight loss and malformations of foetuses, induced by intrauterine exposure to cyclophosphamide."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-13",
+     "type": "undesirable_effects",
+     "statement": "La monographie ne décrit pas d'effets indésirables précis ; en cas de réaction, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "glycyrrhiza_glabra-add-14",
+     "type": "posology",
+     "statement": "Voie orale uniquement : tisane (infusion ou décoction) de racine coupée, ou préparations liquides pour voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Glycyrrhiza glabra L.; Glycyrrhiza inflata Bat.; Glycyrrhiza uralensis Fisch., radix (EMA/HMPC/108399/2024, Final - Revision 1, 04 March 2026)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-glycyrrhiza-glabra-l-glycyrrhiza-inflata-bat-glycyrrhiza-uralensis-fisch-radix-revision-1_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
     }
    ]
   },
@@ -9330,6 +11191,194 @@
      "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
      "quote": "May impair ability to drive and use machines. Affected patients should not drive or operate machinery."
+    },
+    {
+     "id": "humulus_lupulus-add-01",
+     "type": "posology",
+     "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : extrait liquide (1:1) de 0,5 à 2,0 ml, jusqu'à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Liquid extract (1:1): 0.5-2.0 ml, up to 3 times daily."
+    },
+    {
+     "id": "humulus_lupulus-add-02",
+     "type": "posology",
+     "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : extrait liquide (1:10) de 19 g, 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Liquid extract (1:10): 19 g, 2-3 times daily."
+    },
+    {
+     "id": "humulus_lupulus-add-03",
+     "type": "posology",
+     "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : teinture (1:5) de 1 à 2 ml, jusqu'à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Tincture (1:5): 1-2 ml, up to 3 times daily."
+    },
+    {
+     "id": "humulus_lupulus-add-04",
+     "type": "posology",
+     "statement": "Stress mental (usage traditionnel), adolescents, adultes et personnes âgées : extrait sec (4-5:1) de 125 mg, 2 à 3 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Dry extract (4-5:1): 125 mg, 2-3 times daily."
+    },
+    {
+     "id": "humulus_lupulus-add-05",
+     "type": "posology",
+     "statement": "Aide au sommeil (usage traditionnel), adolescents, adultes et personnes âgées : poudre de 800 à 2000 mg, 30 à 60 min avant le coucher.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Powdered herbal substance: 800"
+    },
+    {
+     "id": "humulus_lupulus-add-06",
+     "type": "posology",
+     "statement": "Aide au sommeil (usage traditionnel), adolescents, adultes et personnes âgées : extrait sec (4-5:1) de 125 à 250 mg, 60 min avant le coucher.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Dry extract (4-5:1): 125-250 mg, 60 min before bedtime."
+    },
+    {
+     "id": "humulus_lupulus-add-07",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale uniquement.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Oral use."
+    },
+    {
+     "id": "humulus_lupulus-add-08",
+     "type": "information",
+     "statement": "Pour les teintures et extraits contenant de l'éthanol, la mention d'étiquetage appropriée concernant l'éthanol doit figurer sur l'étiquetage du produit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "For tinctures and extracts containing ethanol the appropriate labelling for ethanol"
+    },
+    {
+     "id": "humulus_lupulus-add-09",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu n'est mentionné dans la monographie EMA (usage traditionnel). Cela ne vaut pas absence d'effet indésirable.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Traditional use None known."
+    },
+    {
+     "id": "humulus_lupulus-add-10",
+     "type": "information",
+     "statement": "En cas d'effet indésirable, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "humulus_lupulus-add-11",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été signalé (usage traditionnel).",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "humulus_lupulus-add-12",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "No fertility data are available."
+    },
+    {
+     "id": "humulus_lupulus-add-13",
+     "type": "preclinical",
+     "statement": "Des tests de génotoxicité adéquats n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "humulus_lupulus-add-14",
+     "type": "preclinical",
+     "statement": "Les tests de toxicité sur la reproduction et de cancérogénicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Humulus lupulus L., flos (EMA/HMPC/682384/2013, Final, 06 May 2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-humulus-lupulus-l-flos_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -9564,6 +11613,205 @@
      "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-01",
+     "type": "posology",
+     "statement": "Usage traditionnel (indication 1, insuffisance veineuse) : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-02",
+     "type": "posology",
+     "statement": "Usage traditionnel (indication 2, ecchymoses) : si les symptômes persistent plus de 5 jours pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 5 days during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-03",
+     "type": "posology",
+     "statement": "Usage bien établi, forme orale : 300 mg d'extrait liquide par prise, 2 fois par jour (600 mg par jour), chez l'adulte et la personne âgée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Single dose: 300 mg liquid extract 2 times daily"
+    },
+    {
+     "id": "aesculus_hippocastanum-add-04",
+     "type": "posology",
+     "statement": "Usage traditionnel, forme orale : 99 mg d'extrait sec par prise, 2 fois par jour (198 mg par jour), chez l'adulte et la personne âgée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Single dose: 99 mg dry extract 2 times daily"
+    },
+    {
+     "id": "aesculus_hippocastanum-add-05",
+     "type": "posology",
+     "statement": "Usage traditionnel, forme orale : 154 mg par prise, 3 à 4 fois par jour (462 à 616 mg par jour), chez l'adulte et la personne âgée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Single dose: 154 mg 3-4 times daily"
+    },
+    {
+     "id": "aesculus_hippocastanum-add-06",
+     "type": "posology",
+     "statement": "Usage traditionnel, formes semi-solides : la quantité de préparation varie selon le produit (par exemple l'équivalent de 0,85 % de préparation pour l'un, 20 % pour un autre).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "In semi-solid dosage forms: amount equivalent to 0.85% herbal preparation"
+    },
+    {
+     "id": "aesculus_hippocastanum-add-07",
+     "type": "undesirable_effect",
+     "statement": "Effets indésirables rapportés (usage bien établi et traditionnel par voie orale) : troubles gastro-intestinaux, maux de tête, vertiges, démangeaisons et réactions allergiques. Fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Gastrointestinal complaints, headache, vertigo, itching and allergic reactions have been reported."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-08",
+     "type": "undesirable_effect",
+     "statement": "Usage cutané (traditionnel) : réactions d'hypersensibilité de la peau (démangeaisons et érythème) rapportées. Fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Hypersensitivity reactions of the skin (itching and erythema) have been reported."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-09",
+     "type": "overdose",
+     "statement": "Surdosage : aucun cas n'a été rapporté, que ce soit pour l'usage bien établi ou l'usage traditionnel.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-10",
+     "type": "fertility",
+     "statement": "Fertilité : aucune donnée disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-11",
+     "type": "pharmacodynamics",
+     "statement": "Mécanisme d'action exact inconnu ; les études précliniques et cliniques indiquent qu'un effet sur le tonus veineux et sur le débit de filtration capillaire est impliqué.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "The exact mechanism of action is not known, but preclinical and clinical pharmacological studies indicate that an effect on venous tone and capillary filtration rate is involved."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-12",
+     "type": "pharmacodynamics",
+     "statement": "Méta-analyse de 17 essais cliniques : l'extrait de graines de marronnier d'Inde réduit significativement les symptômes de l'insuffisance veineuse chronique par rapport au placebo.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Based on a systematic review (meta-analysis) of 17 clinical trials, it can be concluded that horse chestnut seed extract significantly reduces symptoms of chronic venous insufficiency, such as"
+    },
+    {
+     "id": "aesculus_hippocastanum-add-13",
+     "type": "pharmacokinetics",
+     "statement": "Pharmacocinétique (usage bien établi) : aucune donnée pertinente disponible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "No relevant data available."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-14",
+     "type": "preclinical",
+     "statement": "Données précliniques : faible toxicité après administration orale de la préparation à base de marron d'Inde.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Available preclinical data indicate low toxicity following oral administration of the herbal preparation."
+    },
+    {
+     "id": "aesculus_hippocastanum-add-15",
+     "type": "preclinical",
+     "statement": "Aucun test adéquat de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Aesculus hippocastanum L., semen (EMA/HMPC/628242/2018, Final - Revision 1, 15 January 2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-aesculus-hippocastanum-l-semen-final-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -9826,6 +12074,194 @@
      "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "vitis_vinifera-add-01",
+     "type": "posology",
+     "statement": "Usage bien établi, durée d'utilisation : durée recommandée de 12 semaines ; 2 à 3 semaines de traitement peuvent être nécessaires avant d'observer des effets bénéfiques ; utilisation prolongée possible après avis médical.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "The recommended duration of use is 12 weeks. Two to three weeks of treatment may be"
+    },
+    {
+     "id": "vitis_vinifera-add-02",
+     "type": "posology",
+     "statement": "Usage traditionnel, adultes et personnes âgées : poudre de feuille (substance végétale pulvérisée) 270 à 350 mg, 3 à 5 fois par jour, par voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "270-350 mg, 3-5 times daily"
+    },
+    {
+     "id": "vitis_vinifera-add-03",
+     "type": "posology",
+     "statement": "Usage cutané (usage traditionnel) : crème contenant de l'extrait mou (DER 2,5-4:1, eau) ; 10 g de crème contiennent 282 mg d'extrait mou.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "base (10 g contain 282 mg soft extract)."
+    },
+    {
+     "id": "vitis_vinifera-add-04",
+     "type": "information",
+     "statement": "Usage traditionnel, indications hémorroïdes et fragilité capillaire cutanée : si la réponse symptomatique est insuffisante ou non satisfaisante dans la semaine, consulter un médecin.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "In the event of inadequate or unsatisfactory symptomatic response within 1 week, a doctor should be consulted."
+    },
+    {
+     "id": "vitis_vinifera-add-05",
+     "type": "posology",
+     "statement": "Usage traditionnel, soulagement des sensations de jambes lourdes liées à des troubles veineux mineurs : durée recommandée de 4 semaines.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "The recommended duration of use is 4 weeks."
+    },
+    {
+     "id": "vitis_vinifera-add-06",
+     "type": "adverse_effect",
+     "statement": "Effets indésirables cutanés : réactions d'hypersensibilité de la peau (démangeaisons, érythème, urticaire) signalées ; fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "Hypersensitivity reactions of the skin (itching and erythema, urticaria) have been reported. The frequency is not known."
+    },
+    {
+     "id": "vitis_vinifera-add-07",
+     "type": "adverse_effect",
+     "statement": "Effets indésirables possibles : nausées, troubles gastro-intestinaux et maux de tête ; fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "Nausea, gastrointestinal complaints and headache may occur. The frequency is not known."
+    },
+    {
+     "id": "vitis_vinifera-add-08",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "vitis_vinifera-add-09",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été signalé.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "No cases of overdose have been reported."
+    },
+    {
+     "id": "vitis_vinifera-add-10",
+     "type": "pharmacodynamics",
+     "statement": "Usage bien établi : l'extrait sec de feuille de vigne rouge (4-6:1), pris par voie orale, a fait l'objet d'études sur la réduction de l'œdème chez des patients atteints d'insuffisance veineuse chronique (stades I ou II).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "The efficacy of orally administered dry extract of red vine leaves (4-6:1) in reducing oedema has been studied in patients suffering from chronic venous insufficiency (CVI, grade I or II)."
+    },
+    {
+     "id": "vitis_vinifera-add-11",
+     "type": "pharmacodynamics",
+     "statement": "Usage bien établi : selon la monographie, l'extrait de feuille de vigne améliore la circulation sanguine microvasculaire chez les patients atteints d'insuffisance veineuse chronique.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "Grapevine leaf extract improves the microvascular blood flow in CVI patients."
+    },
+    {
+     "id": "vitis_vinifera-add-12",
+     "type": "preclinical",
+     "statement": "Usage traditionnel : les tests de génotoxicité, de cancérogénicité et de toxicité pour la reproduction n'ont pas été réalisés pour les préparations de feuille découpée (tisane) ou pulvérisée (poudre).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "Tests on genotoxicity, carcinogenicity and reproductive toxicity have not been performed for comminuted and powdered preparations."
+    },
+    {
+     "id": "vitis_vinifera-add-13",
+     "type": "preclinical",
+     "statement": "Usage bien établi : l'extrait de feuille de vigne n'a pas été mutagène dans le test du micronoyau, le test de mutation génique sur cellules V79 de hamster chinois et le test d'Ames sur Salmonella.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "In the micronucleus test, the gene mutation test in V79 cells of Chinese hamsters and the Ames Salmonella/microsome plate incorporation test the extract of grapevine leaf proved not to be mutagenic."
+    },
+    {
+     "id": "vitis_vinifera-add-14",
+     "type": "preclinical",
+     "statement": "Usage bien établi : étude de tératogénicité chez le lapin (traitement du 6e au 18e jour de gestation) sans effet toxique jusqu'à 3 000 mg/kg de poids corporel (écrit « 3.000 » dans la monographie).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitis vinifera L., folium (EMA/HMPC/464684/2016, Final, 30 May 2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitis-vinifera-l-folium-revision-1_en.pdf",
+     "quote": "The teratogenicity study in rabbits (treatment from 6th-18th day of pregnancy) did not reveal any toxic effects in doses up to 3.000 mg/kg body weight."
     }
    ]
   },
@@ -10007,6 +12443,235 @@
      "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "althaea_officinalis-add-01",
+     "type": "posology",
+     "statement": "Indication 1 (irritation de la bouche ou du pharynx, toux sèche), adolescents, adultes et personnes âgées : tisane (macérat) de 0,5 à 3 g de racine broyée dans 150 ml d'eau, plusieurs fois par jour ; maximum 15 g par jour.",
+     "severity": null,
+     "population": "adolescents, adultes et personnes âgées (indication 1)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "150 ml of water as a macerate several times daily Maximum daily dose: 15 g"
+    },
+    {
+     "id": "althaea_officinalis-add-02",
+     "type": "posology",
+     "statement": "Indication 1, enfants : de 3 à 5 ans, 0,5 à 1,0 g de racine broyée dans 150 ml d'eau en macérat, 3 fois par jour (1,5 à 3,0 g par jour) ; de 6 à 11 ans, 0,5 à 1,5 g, 3 fois par jour (1,5 à 4,5 g par jour).",
+     "severity": null,
+     "population": "enfants de 3 à 11 ans (indication 1)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "of the comminuted herbal substance in 150 ml of water as a macerate 3 times daily"
+    },
+    {
+     "id": "althaea_officinalis-add-03",
+     "type": "posology",
+     "statement": "Extrait fluide DER 1:1 (éthanol 25 %), indications 1 et 2, adultes et personnes âgées : 2 à 5 ml, 3 fois par jour (6 à 15 ml par jour).",
+     "severity": null,
+     "population": "adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Indication 1) and 2) Adults and elderly"
+    },
+    {
+     "id": "althaea_officinalis-add-04",
+     "type": "posology",
+     "statement": "Extrait fluide DER 1:19,5 à 23,5, indication 1, adolescents, adultes et personnes âgées : 4,6 g par prise, 3 à 6 fois par jour (13,8 à 27,6 g par jour).",
+     "severity": null,
+     "population": "adolescents, adultes et personnes âgées (indication 1)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Adolescents, adults and elderly Single dose: 4.6 g"
+    },
+    {
+     "id": "althaea_officinalis-add-05",
+     "type": "posology",
+     "statement": "Extrait fluide DER 1:19,5 à 23,5, indication 1, enfants : de 3 à 5 ans, 1,9 g par prise, 4 fois par jour (7,6 g par jour) ; de 6 à 11 ans, 2,3 g par prise, 5 fois par jour (11,5 g par jour).",
+     "severity": null,
+     "population": "enfants de 3 à 11 ans (indication 1)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Single dose: 1.9 g 4 times daily Daily dose: 7.6 g"
+    },
+    {
+     "id": "althaea_officinalis-add-06",
+     "type": "posology",
+     "statement": "Macérat pour sirop, indication 1, adolescents, adultes et personnes âgées : quantité équivalant à 0,21 à 0,87 g de racine par prise (10 à 15 ml de sirop), 3 à 5 fois par jour (30 à 50 ml de sirop par jour).",
+     "severity": null,
+     "population": "adolescents, adultes et personnes âgées (indication 1)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Single dose: macerate amount corresponding to 0.21 to 0.87 g of the herbal substance"
+    },
+    {
+     "id": "althaea_officinalis-add-07",
+     "type": "posology",
+     "statement": "Extrait sec (DER 3 à 9:1), adolescents, adultes et personnes âgées : maximum 15 g de racine équivalente par jour, en plusieurs prises.",
+     "severity": null,
+     "population": "adolescents, adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Maximum daily dose: extract amount corresponding to 15 g of herbal substance"
+    },
+    {
+     "id": "althaea_officinalis-add-08",
+     "type": "posology",
+     "statement": "Voie d'administration : indication 1, usage par voie orale ou oromuqueuse ; indication 2, usage par voie orale uniquement.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Indication 1) Oral or oromucosal use Indication 2) Oral use"
+    },
+    {
+     "id": "althaea_officinalis-add-09",
+     "type": "interaction",
+     "statement": "L'absorption des autres médicaments pris en même temps peut être retardée. Par précaution, ne pas prendre le produit d'une demi-heure à 1 heure avant ou après d'autres médicaments.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Absorption of concomitantly administered medicines may be delayed."
+    },
+    {
+     "id": "althaea_officinalis-add-10",
+     "type": "warning",
+     "statement": "Si les symptômes s'aggravent pendant l'utilisation, consulter un médecin ou un professionnel de santé.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "althaea_officinalis-add-11",
+     "type": "age",
+     "statement": "Forme solide : usage non recommandé chez les enfants de moins de 6 ans, en raison de la forme pharmaceutique.",
+     "severity": "precaution",
+     "population": "moins de 6 ans (forme solide)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "The use of the solid dosage form in children under 6 years of age is not recommended because of the pharmaceutical form."
+    },
+    {
+     "id": "althaea_officinalis-add-12",
+     "type": "age",
+     "statement": "Extrait fluide DER 1:1 : usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données suffisantes.",
+     "severity": "precaution",
+     "population": "moins de 18 ans (extrait fluide DER 1:1)",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    {
+     "id": "althaea_officinalis-add-13",
+     "type": "undesirable_effects",
+     "statement": "Aucun effet indésirable connu selon la monographie EMA. En cas de réaction indésirable, consulter un médecin ou un professionnel de santé. Ne vaut pas absence de risque.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "None known If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "althaea_officinalis-add-14",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté dans la monographie EMA.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "althaea_officinalis-add-15",
+     "type": "preclinical",
+     "statement": "Des tests de génotoxicité adéquats n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "althaea_officinalis-add-16",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction ni de cancérogénicité n'a été réalisé.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "althaea_officinalis-add-17",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Althaea officinalis L., radix (EMA/HMPC/436679/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-althaea-officinalis-l-radix_en.pdf",
+     "quote": "No fertility data available."
     }
    ]
   },
@@ -10584,6 +13249,112 @@
      "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-01",
+     "type": "posology",
+     "statement": "Autre préparation : substance végétale broyée en poudre, 0,75 à 3 g par jour pour les adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Powdered herbal substance: 0.75-3 g"
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-02",
+     "type": "posology",
+     "statement": "Autre préparation : extrait liquide (ratio drogue/extrait 1:1, éthanol 30-40 %), 2 à 3 ml par jour pour les adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Liquid extract (DER 1:1, extraction solvent ethanol 30-40% v/v): 2-3 ml"
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-03",
+     "type": "posology",
+     "statement": "Autre préparation : teinture, 10 à 15 ml par jour pour les adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Tincture: 10-15 ml"
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-04",
+     "type": "undesirable_effect",
+     "statement": "Effets indésirables possibles : insomnie, irritabilité, tachycardie et maux de tête. Leur fréquence n'est pas connue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Insomnia, irritability, tachycardia and headaches may occur. The frequency is not known."
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-05",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été signalé.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-06",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-07",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés de manière adéquate.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "eleutherococcus_senticosus-add-08",
+     "type": "preclinical",
+     "statement": "Des tests in vitro (Salmonella typhimurium TA 100 et TA 98) et un test du micronoyau chez la souris n'ont pas révélé de potentiel mutagène des extraits aqueux et éthanoliques.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+     "quote": "did not reveal any mutagenic potential of aqueous and ethanolic extracts"
     }
    ]
   },
@@ -10753,6 +13524,177 @@
      "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "panax_ginseng-add-01",
+     "type": "undesirable_effect",
+     "statement": "Effets indésirables digestifs rapportés : inconfort gastrique, nausées, vomissements, diarrhée et constipation. Fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Gastrointestinal disorders: stomach discomfort, nausea, vomiting, diarrhoea, and constipation have been reported."
+    },
+    {
+     "id": "panax_ginseng-add-02",
+     "type": "undesirable_effect",
+     "statement": "Réactions d'hypersensibilité rapportées (urticaire, démangeaisons). Fréquence inconnue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Hypersensitivity reactions (urticaria, itching) have been reported"
+    },
+    {
+     "id": "panax_ginseng-add-03",
+     "type": "posology",
+     "statement": "Ginseng blanc, substance végétale pulvérisée : dose unitaire 250 à 1200 mg, dose journalière 600 à 2000 mg, une fois par jour (1200 mg) ou 2 à 8 fois par jour. Adultes et personnes âgées.",
+     "severity": null,
+     "population": "adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Powdered herbal substance: Single dose: 250-1200 mg Daily dose: 600-2000 mg Dosage frequency: once daily (1200 mg), 2-8 times daily"
+    },
+    {
+     "id": "panax_ginseng-add-04",
+     "type": "posology",
+     "statement": "Extrait sec DER 3-7:1 (éthanol 40 %, titré à 4 % de ginsénosides) : dose journalière 40 à 200 mg, 1 à 2 fois par jour ; peut être augmentée jusqu'à 600 mg par jour pendant les 5 premiers jours dans des situations particulières. Adultes et personnes âgées.",
+     "severity": null,
+     "population": "adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Daily dose: 40-200 mg (can be increased up to 600 mg in the first 5 days in special situations)"
+    },
+    {
+     "id": "panax_ginseng-add-05",
+     "type": "posology",
+     "statement": "Ginseng rouge, substance végétale pulvérisée : dose unitaire 600 à 1200 mg, dose journalière 1200 à 1800 mg, 1 à 3 fois par jour. Adultes et personnes âgées.",
+     "severity": null,
+     "population": "adultes et personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Single dose: 600 mg -1200 mg Daily dose: 1200 mg - 1800 mg Dosage frequency: 1-3 times daily"
+    },
+    {
+     "id": "panax_ginseng-add-06",
+     "type": "undesirable_effect",
+     "statement": "Insomnie rapportée. Fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Insomnia has been reported. The frequency is not known."
+    },
+    {
+     "id": "panax_ginseng-add-07",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Method of administration Oral use."
+    },
+    {
+     "id": "panax_ginseng-add-08",
+     "type": "information",
+     "statement": "Pour les extraits contenant de l'éthanol, la mention d'étiquetage appropriée pour l'éthanol doit figurer sur la notice (ligne directrice sur les excipients).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "panax_ginseng-add-09",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté. Ne vaut pas absence de risque.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "panax_ginseng-add-10",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "panax_ginseng-add-11",
+     "type": "preclinical",
+     "statement": "Aucun test adéquat de toxicité sur la reproduction n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity have not been performed."
+    },
+    {
+     "id": "panax_ginseng-add-12",
+     "type": "preclinical",
+     "statement": "Aucun signe de génotoxicité dans un test d'Ames (Salmonella typhimurium, plusieurs souches), avec et sans activation métabolique, sur un extrait à l'éthanol 40 %. Confirmé avec un extrait à l'éthanol 80 % (test OECD 471 et test du micronoyau).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "No signs of genotoxicity were observed in an AMES-test (Salmonella typhimurium strains TA 1535, TA 1537, TA 1538, TA 98 and TA 100) with and without metabolic activation"
+    },
+    {
+     "id": "panax_ginseng-add-13",
+     "type": "preclinical",
+     "statement": "Après 2 ans d'administration orale d'un extrait à l'éthanol 80 %, à des doses allant jusqu'à 5000 mg/kg p.c., aucun signe de cancérogénicité n'a été observé chez la souris ou le rat.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+     "quote": "no signs of carcinogenicity were observed in mice or rats"
     }
    ]
   },
@@ -12041,6 +14983,257 @@
      "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "hedera_helix-add-01",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, préparation b) (extrait sec DER 6-7:1, éthanol 40 % m/m) : 14 à 18 mg par prise, trois fois par jour (dose journalière 42 à 54 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 14-18 mg three times daily Daily dose: 42-54 mg"
+    },
+    {
+     "id": "hedera_helix-add-02",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, préparation c) (extrait sec DER 3-6:1, éthanol 60 % m/m) : 33 mg par prise, deux fois par jour (dose journalière 66 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 33 mg two times daily Daily dose: 66 mg"
+    },
+    {
+     "id": "hedera_helix-add-03",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, préparation d) (extrait liquide DER 1:1, éthanol 70 % V/V) : 100 mg par prise, trois fois par jour (dose journalière 300 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 100 mg three times daily Daily dose: 300 mg"
+    },
+    {
+     "id": "hedera_helix-add-04",
+     "type": "posology",
+     "statement": "Adolescents, adultes et personnes âgées, préparation e) (extrait mou DER 2,2-2,9:1, éthanol 50 % V/V, propylène glycol 98:2) : 40 mg par prise, trois fois par jour (dose journalière 120 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 40 mg three times daily Daily dose: 120 mg"
+    },
+    {
+     "id": "hedera_helix-add-05",
+     "type": "posology",
+     "statement": "Enfants de 6 à 11 ans, préparation b) (extrait sec DER 6-7:1, éthanol 40 % m/m) : 9 à 18 mg par prise, une à trois fois par jour (dose journalière 15 à 40 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 9-18 mg, one to three times daily Daily dose: 15-40 mg"
+    },
+    {
+     "id": "hedera_helix-add-06",
+     "type": "posology",
+     "statement": "Enfants de 6 à 11 ans, préparation c) (extrait sec DER 3-6:1, éthanol 60 % m/m) : 25 mg par prise, deux fois par jour (dose journalière 50 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 25 mg, two times daily"
+    },
+    {
+     "id": "hedera_helix-add-07",
+     "type": "posology",
+     "statement": "Enfants de 6 à 11 ans, préparation d) (extrait liquide DER 1:1, éthanol 70 % V/V) : 75 mg par prise, trois fois par jour (dose journalière 225 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 75 mg, three times daily Daily dose: 225 mg"
+    },
+    {
+     "id": "hedera_helix-add-08",
+     "type": "posology",
+     "statement": "Enfants de 6 à 11 ans, préparation e) (extrait mou DER 2,2-2,9:1, éthanol 50 % V/V, propylène glycol 98:2) : 20 à 26 mg par prise, trois à quatre fois par jour (dose journalière maximale 80 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 20-26 mg, three to four times Daily Daily dose: maximum of 80 mg"
+    },
+    {
+     "id": "hedera_helix-add-09",
+     "type": "posology",
+     "statement": "Enfants de 6 à 11 ans, produits contenant de l'éthanol : dose journalière maximale de 34 mg, soit 210 mg de substance végétale (préparation a).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "finished products: 34 mg; corresponding to 210 mg herbal substance"
+    },
+    {
+     "id": "hedera_helix-add-10",
+     "type": "posology",
+     "statement": "Enfants de 2 à 5 ans, préparation b) (extrait sec DER 6-7:1, éthanol 40 % m/m) : 7 à 9 mg par prise, deux à trois fois par jour (dose journalière 14 à 27 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 7-9 mg, two to three times daily Daily dose: 14-27 mg"
+    },
+    {
+     "id": "hedera_helix-add-11",
+     "type": "posology",
+     "statement": "Enfants de 2 à 5 ans, préparation c) (extrait sec DER 3-6:1, éthanol 60 % m/m) : 17 mg par prise, deux fois par jour (dose journalière 34 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 17 mg, two times daily Daily dose 34 mg"
+    },
+    {
+     "id": "hedera_helix-add-12",
+     "type": "posology",
+     "statement": "Enfants de 2 à 5 ans, préparation e) (extrait mou DER 2,2-2,9:1, éthanol 50 % V/V, propylène glycol 98:2) : 20 mg par prise, trois fois par jour (dose journalière 60 mg).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Single dose: 20 mg, three times daily Daily dose: 60 mg"
+    },
+    {
+     "id": "hedera_helix-add-13",
+     "type": "posology",
+     "statement": "Enfants de 2 à 5 ans, produits contenant de l'éthanol : dose journalière maximale de 24 mg, soit 150 mg de substance végétale (préparation a).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "finished products: 24 mg; corresponding to 150 mg herbal substance"
+    },
+    {
+     "id": "hedera_helix-add-14",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale uniquement.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Oral use"
+    },
+    {
+     "id": "hedera_helix-add-15",
+     "type": "overdose",
+     "statement": "Un cas rapporté : un enfant de 4 ans a présenté de l'agressivité et une diarrhée après l'ingestion accidentelle d'un extrait de lierre correspondant à 1,8 g de substance végétale.",
+     "severity": "precaution",
+     "population": "enfant de 4 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_6"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "after accidental intake of an ivy extract corresponding to 1.8 g herbal substance"
+    },
+    {
+     "id": "hedera_helix-add-16",
+     "type": "pharmacodynamics",
+     "statement": "Le mécanisme d'action n'est pas connu.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "The mechanism of action is not known."
+    },
+    {
+     "id": "hedera_helix-add-17",
+     "type": "pharmacokinetics",
+     "statement": "Aucune donnée pharmacocinétique n'est disponible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "No data available."
+    },
+    {
+     "id": "hedera_helix-add-18",
+     "type": "preclinical",
+     "statement": "Données de génotoxicité, de cancérogenèse et de toxicité pour la reproduction non disponibles pour les préparations de lierre.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "Data on genotoxicity, carcinogenicity and reproductive toxicity testing for ivy leaf preparations are not available."
+    },
+    {
+     "id": "hedera_helix-add-19",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+     "quote": "No fertility data are available."
     }
    ]
   },
@@ -12648,6 +15841,88 @@
      "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "primula_veris-add-01",
+     "type": "undesirable_effect",
+     "statement": "Des réactions allergiques peuvent survenir ; leur fréquence n'est pas connue.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Allergic reactions may occur. The frequency is not known."
+    },
+    {
+     "id": "primula_veris-add-02",
+     "type": "overdose",
+     "statement": "Un surdosage peut provoquer des troubles gastriques, des vomissements ou une diarrhée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Overdose may lead to stomach upset, vomiting or diarrhoea."
+    },
+    {
+     "id": "primula_veris-add-03",
+     "type": "labelling",
+     "statement": "Pour les extraits contenant de l'éthanol, un étiquetage spécifique à l'éthanol doit figurer sur le produit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "primula_veris-add-04",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "primula_veris-add-05",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Method of administration Oral use."
+    },
+    {
+     "id": "primula_veris-add-06",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogenèse n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Primula veris L. and/or Primula elatior (L.) Hill, flos (EMA/HMPC/136582/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-primula-veris-l-and-or-primula-elatior-l-hill-flos_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },

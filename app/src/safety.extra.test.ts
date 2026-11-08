@@ -420,3 +420,19 @@ test('enrichissement : ginkgo + dabigatran / nifédipine alertés ; valériane s
   const p = bundle.plants.find((x: { id: string }) => x.id === 'valeriana_officinalis');
   assert.ok(p.claims.some((c: { type: string }) => c.type === 'information'));
 });
+
+test('enrichissement lot 2 : alertes générales sourcées, infos de fiche sans alerte, aucune rubrique « non requis »', () => {
+  const pl = (id: string) => bundle.plants.find((x: { id: string }) => x.id === id);
+  // pélargonium : hypersensibilité / anaphylaxie signalée à tout le monde
+  assert.ok(assess(bundle, ['pelargonium_sidoides'], { flags: [] }).alerts.some(a => a.claimId === 'pelargonium_sidoides-add-04'));
+  // guimauve : absorption retardée des autres médicaments (interaction générale)
+  assert.ok(assess(bundle, ['althaea_officinalis'], { flags: [] }).alerts.some(a => a.claimId === 'althaea_officinalis-add-09'));
+  // sauge : thuyone, grossesse (drapeau) — l'alerte existe et reste sourcée
+  assert.ok(assess(bundle, ['salvia_officinalis'], { flags: [] }).alerts.some(a => a.claimId === 'salvia_officinalis-add-03'));
+  // l'étiquetage de l'éthanol est une information de fiche, jamais une alerte
+  const eth = pl('equisetum_arvense').claims.find((c: { id: string }) => c.id === 'equisetum_arvense-add-07');
+  assert.equal(eth.type, 'information'); assert.equal(eth.severity, null);
+  assert.ok(!assess(bundle, ['equisetum_arvense'], { flags: [] }).alerts.some(a => a.claimId === 'equisetum_arvense-add-07'));
+  // aucune citation « Not required » n'a été retenue comme information
+  for (const p of bundle.plants) for (const c of p.claims) assert.ok(!/^Not required as per Article/i.test(c.quote), c.id);
+});

@@ -345,5 +345,351 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "hedera_helix-add-01",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, préparation b) (extrait sec DER 6-7:1, éthanol 40 % m/m) : 14 à 18 mg par prise, trois fois par jour (dose journalière 42 à 54 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 14-18 mg three times daily Daily dose: 42-54 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-02",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, préparation c) (extrait sec DER 3-6:1, éthanol 60 % m/m) : 33 mg par prise, deux fois par jour (dose journalière 66 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 33 mg two times daily Daily dose: 66 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-03",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, préparation d) (extrait liquide DER 1:1, éthanol 70 % V/V) : 100 mg par prise, trois fois par jour (dose journalière 300 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 100 mg three times daily Daily dose: 300 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-04",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Adolescents, adultes et personnes âgées, préparation e) (extrait mou DER 2,2-2,9:1, éthanol 50 % V/V, propylène glycol 98:2) : 40 mg par prise, trois fois par jour (dose journalière 120 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 40 mg three times daily Daily dose: 120 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-05",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 6 à 11 ans, préparation b) (extrait sec DER 6-7:1, éthanol 40 % m/m) : 9 à 18 mg par prise, une à trois fois par jour (dose journalière 15 à 40 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 9-18 mg, one to three times daily Daily dose: 15-40 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-06",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 6 à 11 ans, préparation c) (extrait sec DER 3-6:1, éthanol 60 % m/m) : 25 mg par prise, deux fois par jour (dose journalière 50 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 25 mg, two times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-07",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 6 à 11 ans, préparation d) (extrait liquide DER 1:1, éthanol 70 % V/V) : 75 mg par prise, trois fois par jour (dose journalière 225 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 75 mg, three times daily Daily dose: 225 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-08",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 6 à 11 ans, préparation e) (extrait mou DER 2,2-2,9:1, éthanol 50 % V/V, propylène glycol 98:2) : 20 à 26 mg par prise, trois à quatre fois par jour (dose journalière maximale 80 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 20-26 mg, three to four times Daily Daily dose: maximum of 80 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-09",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 6 à 11 ans, produits contenant de l'éthanol : dose journalière maximale de 34 mg, soit 210 mg de substance végétale (préparation a).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "finished products: 34 mg; corresponding to 210 mg herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-10",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 2 à 5 ans, préparation b) (extrait sec DER 6-7:1, éthanol 40 % m/m) : 7 à 9 mg par prise, deux à trois fois par jour (dose journalière 14 à 27 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 7-9 mg, two to three times daily Daily dose: 14-27 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-11",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 2 à 5 ans, préparation c) (extrait sec DER 3-6:1, éthanol 60 % m/m) : 17 mg par prise, deux fois par jour (dose journalière 34 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 17 mg, two times daily Daily dose 34 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-12",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 2 à 5 ans, préparation e) (extrait mou DER 2,2-2,9:1, éthanol 50 % V/V, propylène glycol 98:2) : 20 mg par prise, trois fois par jour (dose journalière 60 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Single dose: 20 mg, three times daily Daily dose: 60 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-13",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Enfants de 2 à 5 ans, produits contenant de l'éthanol : dose journalière maximale de 24 mg, soit 150 mg de substance végétale (préparation a).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "finished products: 24 mg; corresponding to 150 mg herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-14",
+    "plant": "hedera_helix",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale uniquement.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-15",
+    "plant": "hedera_helix",
+    "type": "overdose",
+    "statement": "Un cas rapporté : un enfant de 4 ans a présenté de l'agressivité et une diarrhée après l'ingestion accidentelle d'un extrait de lierre correspondant à 1,8 g de substance végétale.",
+    "severity": "precaution",
+    "population": "enfant de 4 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "after accidental intake of an ivy extract corresponding to 1.8 g herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_6"
+    ]
+  },
+  {
+    "id": "hedera_helix-add-16",
+    "plant": "hedera_helix",
+    "type": "pharmacodynamics",
+    "statement": "Le mécanisme d'action n'est pas connu.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "The mechanism of action is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-17",
+    "plant": "hedera_helix",
+    "type": "pharmacokinetics",
+    "statement": "Aucune donnée pharmacocinétique n'est disponible.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "No data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-18",
+    "plant": "hedera_helix",
+    "type": "preclinical",
+    "statement": "Données de génotoxicité, de cancérogenèse et de toxicité pour la reproduction non disponibles pour les préparations de lierre.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "Data on genotoxicity, carcinogenicity and reproductive toxicity testing for ivy leaf preparations are not available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hedera_helix-add-19",
+    "plant": "hedera_helix",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Hedera helix L., folium (EMA/HMPC/325716/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-hedera-helix-l-folium-revision-2_en.pdf",
+      "quote": "No fertility data are available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   }
 ]

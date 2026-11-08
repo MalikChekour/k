@@ -209,5 +209,241 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "panax_ginseng-add-01",
+    "plant": "panax_ginseng",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables digestifs rapportés : inconfort gastrique, nausées, vomissements, diarrhée et constipation. Fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Gastrointestinal disorders: stomach discomfort, nausea, vomiting, diarrhoea, and constipation have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-02",
+    "plant": "panax_ginseng",
+    "type": "undesirable_effect",
+    "statement": "Réactions d'hypersensibilité rapportées (urticaire, démangeaisons). Fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Hypersensitivity reactions (urticaria, itching) have been reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "panax_ginseng-add-03",
+    "plant": "panax_ginseng",
+    "type": "posology",
+    "statement": "Ginseng blanc, substance végétale pulvérisée : dose unitaire 250 à 1200 mg, dose journalière 600 à 2000 mg, une fois par jour (1200 mg) ou 2 à 8 fois par jour. Adultes et personnes âgées.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Powdered herbal substance: Single dose: 250-1200 mg Daily dose: 600-2000 mg Dosage frequency: once daily (1200 mg), 2-8 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-04",
+    "plant": "panax_ginseng",
+    "type": "posology",
+    "statement": "Extrait sec DER 3-7:1 (éthanol 40 %, titré à 4 % de ginsénosides) : dose journalière 40 à 200 mg, 1 à 2 fois par jour ; peut être augmentée jusqu'à 600 mg par jour pendant les 5 premiers jours dans des situations particulières. Adultes et personnes âgées.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Daily dose: 40-200 mg (can be increased up to 600 mg in the first 5 days in special situations)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-05",
+    "plant": "panax_ginseng",
+    "type": "posology",
+    "statement": "Ginseng rouge, substance végétale pulvérisée : dose unitaire 600 à 1200 mg, dose journalière 1200 à 1800 mg, 1 à 3 fois par jour. Adultes et personnes âgées.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Single dose: 600 mg -1200 mg Daily dose: 1200 mg - 1800 mg Dosage frequency: 1-3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-06",
+    "plant": "panax_ginseng",
+    "type": "undesirable_effect",
+    "statement": "Insomnie rapportée. Fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Insomnia has been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-07",
+    "plant": "panax_ginseng",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Method of administration Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-08",
+    "plant": "panax_ginseng",
+    "type": "information",
+    "statement": "Pour les extraits contenant de l'éthanol, la mention d'étiquetage appropriée pour l'éthanol doit figurer sur la notice (ligne directrice sur les excipients).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-09",
+    "plant": "panax_ginseng",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté. Ne vaut pas absence de risque.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-10",
+    "plant": "panax_ginseng",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-11",
+    "plant": "panax_ginseng",
+    "type": "preclinical",
+    "statement": "Aucun test adéquat de toxicité sur la reproduction n'a été réalisé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-12",
+    "plant": "panax_ginseng",
+    "type": "preclinical",
+    "statement": "Aucun signe de génotoxicité dans un test d'Ames (Salmonella typhimurium, plusieurs souches), avec et sans activation métabolique, sur un extrait à l'éthanol 40 %. Confirmé avec un extrait à l'éthanol 80 % (test OECD 471 et test du micronoyau).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "No signs of genotoxicity were observed in an AMES-test (Salmonella typhimurium strains TA 1535, TA 1537, TA 1538, TA 98 and TA 100) with and without metabolic activation"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "panax_ginseng-add-13",
+    "plant": "panax_ginseng",
+    "type": "preclinical",
+    "statement": "Après 2 ans d'administration orale d'un extrait à l'éthanol 80 %, à des doses allant jusqu'à 5000 mg/kg p.c., aucun signe de cancérogénicité n'a été observé chez la souris ou le rat.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Panax ginseng C.A.Mey., radix (EMA/HMPC/27744/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-panax-ginseng-camey-radix-revision-1_en.pdf",
+      "quote": "no signs of carcinogenicity were observed in mice or rats"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

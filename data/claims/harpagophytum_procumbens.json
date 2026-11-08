@@ -245,5 +245,243 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-01",
+    "plant": "harpagophytum_procumbens",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables digestifs (diarrhée, nausées, vomissements, douleurs abdominales) rapportés ; fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Gastrointestinal symptoms (diarrhoea, nausea, vomiting, abdominal pain) have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-02",
+    "plant": "harpagophytum_procumbens",
+    "type": "undesirable_effect",
+    "statement": "Réactions d'hypersensibilité (par ex. éruption cutanée, urticaire, œdème du visage) rapportées ; fréquence inconnue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Hypersensitivity reactions (e.g. rash, hives, facial oedema) have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "harpagophytum_procumbens-add-03",
+    "plant": "harpagophytum_procumbens",
+    "type": "undesirable_effect",
+    "statement": "Effets sur le système nerveux central (maux de tête, vertiges) rapportés ; fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Central nervous system effects (headache, vertigo) have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-04",
+    "plant": "harpagophytum_procumbens",
+    "type": "posology",
+    "statement": "Douleurs articulaires mineures : si les symptômes persistent plus de 4 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "If the symptoms persist longer than 4 weeks"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-05",
+    "plant": "harpagophytum_procumbens",
+    "type": "posology",
+    "statement": "Troubles digestifs légers : si les symptômes persistent plus de 2 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-06",
+    "plant": "harpagophytum_procumbens",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "harpagophytum_procumbens-add-07",
+    "plant": "harpagophytum_procumbens",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, douleurs articulaires mineures, selon une autre préparation de la monographie : dose unitaire de 435 mg, 3 fois par jour (dose journalière 1,35 g).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Single dose: 435 mg, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-08",
+    "plant": "harpagophytum_procumbens",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, douleurs articulaires mineures, teinture (éthanol 25 % V/V) : dose unitaire de 0,5 à 1 ml, 3 fois par jour (jusqu'à 3 ml par jour).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Single dose: 0.5-1 ml, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-09",
+    "plant": "harpagophytum_procumbens",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, troubles digestifs légers, selon une autre préparation de la monographie : dose unitaire de 100 mg, 2 à 3 fois par jour (dose journalière jusqu'à 300 mg).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Single dose: 100 mg, 2 to 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-10",
+    "plant": "harpagophytum_procumbens",
+    "type": "posology",
+    "statement": "Forme d'usage : substance végétale broyée à utiliser en tisane, ou préparations liquides ou solides pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-11",
+    "plant": "harpagophytum_procumbens",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage rapporté (usage traditionnel).",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-12",
+    "plant": "harpagophytum_procumbens",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "harpagophytum_procumbens-add-13",
+    "plant": "harpagophytum_procumbens",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Harpagophytum procumbens DC. and/or Harpagophytum zeyheri Decne., radix (EMA/HMPC)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-harpagophytum-procumbens-dc-andor-harpagophytum-zeyheri-decne-radix_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

@@ -285,5 +285,159 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "rosmarinus_officinalis-add-01",
+    "plant": "rosmarinus_officinalis",
+    "type": "warning",
+    "statement": "Douleurs articulaires accompagnées de gonflement de l'articulation, de rougeur ou de fièvre : consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Articular pain accompanied by swelling of joint, redness or fever should be examined by a doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-add-02",
+    "plant": "rosmarinus_officinalis",
+    "type": "warning",
+    "statement": "Hypertension : un bain chaud complet doit être utilisé avec précaution.",
+    "severity": "precaution",
+    "population": "hypertension",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "In cases of hypertension, a full hot bath should be used with caution."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "hypertension"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-add-03",
+    "plant": "rosmarinus_officinalis",
+    "type": "posology",
+    "statement": "Usage en bain : température recommandée de 35 à 38 °C, pendant 10 à 20 minutes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "for 10 to 20 minutes"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-add-04",
+    "plant": "rosmarinus_officinalis",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-add-05",
+    "plant": "rosmarinus_officinalis",
+    "type": "age",
+    "statement": "Usage en bain : chez les moins de 12 ans, non recommandé (données insuffisantes) et un avis médical doit être demandé.",
+    "severity": "precaution",
+    "population": "moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended due to lack of adequate data and because medical advice should be sought."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_12"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-add-06",
+    "plant": "rosmarinus_officinalis",
+    "type": "adverse_effect",
+    "statement": "Effet indésirable : hypersensibilité, dermatite de contact (fréquence inconnue).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "Hypersensitivity (contact dermatitis)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "rosmarinus_officinalis-add-07",
+    "plant": "rosmarinus_officinalis",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosmarinus_officinalis-add-08",
+    "plant": "rosmarinus_officinalis",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "EU herbal monograph on Rosmarinus officinalis L., folium (EMA/HMPC/513940/2021)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rosmarinus-officinalis-l-folium-revision-1_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   }
 ]

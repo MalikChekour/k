@@ -209,5 +209,151 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-01",
+    "plant": "eleutherococcus_senticosus",
+    "type": "posology",
+    "statement": "Autre préparation : substance végétale broyée en poudre, 0,75 à 3 g par jour pour les adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Powdered herbal substance: 0.75-3 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-02",
+    "plant": "eleutherococcus_senticosus",
+    "type": "posology",
+    "statement": "Autre préparation : extrait liquide (ratio drogue/extrait 1:1, éthanol 30-40 %), 2 à 3 ml par jour pour les adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Liquid extract (DER 1:1, extraction solvent ethanol 30-40% v/v): 2-3 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-03",
+    "plant": "eleutherococcus_senticosus",
+    "type": "posology",
+    "statement": "Autre préparation : teinture, 10 à 15 ml par jour pour les adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Tincture: 10-15 ml"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-04",
+    "plant": "eleutherococcus_senticosus",
+    "type": "undesirable_effect",
+    "statement": "Effets indésirables possibles : insomnie, irritabilité, tachycardie et maux de tête. Leur fréquence n'est pas connue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Insomnia, irritability, tachycardia and headaches may occur. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-05",
+    "plant": "eleutherococcus_senticosus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-06",
+    "plant": "eleutherococcus_senticosus",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-07",
+    "plant": "eleutherococcus_senticosus",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés de manière adéquate.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eleutherococcus_senticosus-add-08",
+    "plant": "eleutherococcus_senticosus",
+    "type": "preclinical",
+    "statement": "Des tests in vitro (Salmonella typhimurium TA 100 et TA 98) et un test du micronoyau chez la souris n'ont pas révélé de potentiel mutagène des extraits aqueux et éthanoliques.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Eleutherococcus senticosus (Rupr. et Maxim.) Maxim., radix (EMA/HMPC/680618/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-eleutherococcus-senticosus-rupr-et-maxim-maxim-radix_en.pdf",
+      "quote": "did not reveal any mutagenic potential of aqueous and ethanolic extracts"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

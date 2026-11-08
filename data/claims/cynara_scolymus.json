@@ -362,25 +362,5 @@
     "applies_to": [
       "always"
     ]
-  },
-  {
-    "id": "cynara_scolymus-add-08",
-    "plant": "cynara_scolymus",
-    "type": "pharmacokinetics",
-    "statement": "Étude pharmacocinétique non requise pour cet usage traditionnel (article 16c(1)(a)(iii) de la directive 2001/83/CE).",
-    "severity": "donnees_absentes",
-    "population": null,
-    "source": {
-      "kind": "doc",
-      "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (EMA/HMPC/194014/2017, final)",
-      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cynara-cardunculus-l-syn-cynara-scolymus-l-folium_en.pdf",
-      "quote": "Not required as per Article 16c(1)(a)(iii) of Directive 2001/83/EC."
-    },
-    "status": "verifie",
-    "reviewed_by": null,
-    "reviewed_on": null,
-    "applies_to": [
-      "always"
-    ]
   }
 ]
