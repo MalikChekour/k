@@ -555,5 +555,271 @@
       "pregnant",
       "lactating"
     ]
+  },
+  {
+    "id": "plantago_ovata-add-01",
+    "plant": "plantago_ovata",
+    "type": "undesirable_effect",
+    "statement": "Flatulences possibles, qui disparaissent en général au cours du traitement. Fréquence inconnue.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Flatulence may occur with the use of the product, which generally disappears in the course of the treatment. Abdominal distension and risk of intestinal or oesophageal obstruction and faecal impaction may occur, particularly if swallowed with insufficient fluid. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-02",
+    "plant": "plantago_ovata",
+    "type": "undesirable_effect",
+    "statement": "Réactions d'hypersensibilité possibles chez les personnes exposées : rhinite, conjonctivite, bronchospasme et, dans certains cas, anaphylaxie.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "individuals exposed to the product can develop hypersensitivity reactions such as rhinitis, conjunctivitis, bronchospasm and in some cases, anaphylaxis."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-add-03",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Le produit contient des allergènes puissants ; l'exposition est possible par voie orale, par contact avec la peau et, pour les poudres, par inhalation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Ispaghula contains potent allergens. The exposure to these allergens is possible through oral administration, contact with the skin and, in the case of powder formulations, also by inhalation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-add-04",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Une sensibilisation par inhalation peut survenir ; elle est plus fréquente chez les personnes atopiques.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "sensitisation may occur due to inhalation, this is more frequent in atopic individuals."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-add-05",
+    "plant": "plantago_ovata",
+    "type": "undesirable_effect",
+    "statement": "Des symptômes cutanés (éruption, prurit) ont aussi été signalés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Cutaneous symptoms such as exanthema and/or pruritus have also been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-add-06",
+    "plant": "plantago_ovata",
+    "type": "pharmacodynamics",
+    "statement": "Effet laxatif habituellement obtenu 12 à 24 heures après une prise unique ; parfois, l'effet maximal n'est atteint qu'après 2 à 3 jours.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Ispaghula husk usually acts as a laxative within 12 to 24 hours after single administration. Sometimes the maximum effect is reached after 2 to 3 days."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-07",
+    "plant": "plantago_ovata",
+    "type": "posology",
+    "statement": "Les laxatifs de lest (agents de masse) doivent être utilisés avant les autres laxatifs (purgatifs) si un changement d'alimentation n'a pas suffi.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Laxative bulk producers should be used before using other purgatives if change of nutrition is not successful."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-08",
+    "plant": "plantago_ovata",
+    "type": "warning",
+    "statement": "Chez les personnes à risque, il est recommandé d'évaluer cliniquement une éventuelle sensibilisation et, si cela se justifie, de réaliser des tests diagnostiques spécifiques.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "It is recommended to assess clinically the possible sensitisation of individuals at risk and, if justified, to perform specific diagnostic tests."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "plantago_ovata-add-09",
+    "plant": "plantago_ovata",
+    "type": "overdose",
+    "statement": "Surdosage : peut provoquer une gêne abdominale, des flatulences et une occlusion intestinale ; il faut maintenir un apport suffisant en liquide et une prise en charge symptomatique.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Overdose with ispaghula husk may cause abdominal discomfort, flatulence and intestinal obstruction. Adequate fluid intake should be maintained and management should be symptomatic."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-10",
+    "plant": "plantago_ovata",
+    "type": "pharmacodynamics",
+    "statement": "Gonflé par l'eau, le produit augmente le volume du contenu intestinal, ce qui étire la paroi et déclenche la défécation ; le mucilage gonflé forme une couche lubrifiante qui facilite le transit.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "When taken with a sufficient amount of liquid (at least 30 ml per 1 g of herbal substance) ispaghula husk produces an increased volume of intestinal contents due to its highly bulking properties and hence a stretch stimulus, which triggers defecation; at the same time the swollen mass of mucilage forms a lubricating layer, which makes the transit of intestinal contents easier."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-11",
+    "plant": "plantago_ovata",
+    "type": "pharmacodynamics",
+    "statement": "Une baisse d'environ 7 % du LDL-cholestérol a été rapportée dans l'hypercholestérolémie légère à modérée ; aucune étude sur l'effet sur les événements cardiovasculaires et la mortalité totale n'est disponible.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "In mild to moderate hypercholesterolemia a reduction of LDL cholesterol of approximately 7% has been reported. Investigations, which study the effect of ispaghula husk on the incidence of cardiovascular events and total mortality, are not available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-12",
+    "plant": "plantago_ovata",
+    "type": "preclinical",
+    "statement": "Tests de génotoxicité et de cancérogénicité : non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "Tests on genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "plantago_ovata-add-13",
+    "plant": "plantago_ovata",
+    "type": "pharmacokinetics",
+    "statement": "Les fibres alimentaires sont fermentées par les bactéries du côlon à des degrés variables, avec production de dioxyde de carbone, d'hydrogène, de méthane et d'acides gras à chaîne courte, absorbés ensuite vers la circulation hépatique.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "To varying degrees, dietary fibre is fermented by bacteria in the colon, resulting in production of carbon dioxide, hydrogen, methane, water, and short-chain fatty acids, which are absorbed and brought into the hepatic circulation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "plantago_ovata-add-14",
+    "plant": "plantago_ovata",
+    "type": "fertility",
+    "statement": "Chez le rat, aucun effet sur la fertilité n'a été constaté après administration orale.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+      "quote": "There is no evidence of an effect on the fertility in the rat following oral application"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   }
 ]

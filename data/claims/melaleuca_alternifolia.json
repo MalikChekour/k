@@ -375,7 +375,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["plant_allergy"]
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-02",
@@ -393,7 +395,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-03",
@@ -411,7 +415,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_12"]
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-04",
@@ -429,7 +435,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_12"]
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-05",
@@ -447,7 +455,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-06",
@@ -465,7 +475,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-07",
@@ -483,7 +495,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-08",
@@ -501,7 +515,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-09",
@@ -519,7 +535,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-10",
@@ -537,7 +555,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-11",
@@ -555,7 +575,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-12",
@@ -573,7 +595,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-13",
@@ -609,7 +633,10 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["pregnant", "lactating"]
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-15",
@@ -627,7 +654,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-16",
@@ -645,7 +674,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["drives"]
+    "applies_to": [
+      "drives"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-17",
@@ -663,7 +694,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-18",
@@ -681,7 +714,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-19",
@@ -699,7 +734,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-20",
@@ -735,7 +772,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-22",
@@ -753,7 +792,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-23",
@@ -771,7 +812,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "melaleuca_alternifolia-24",
@@ -789,6 +832,80 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "melaleuca_alternifolia-add-01",
+    "plant": "melaleuca_alternifolia",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogenèse : non réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Tests on reproductive toxicity and on carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-add-02",
+    "plant": "melaleuca_alternifolia",
+    "type": "preclinical",
+    "statement": "Génotoxicité : l'huile essentielle n'est pas clastogène dans le test des aberrations chromosomiques sur lymphocytes humains in vitro, et n'est pas génotoxique dans le test du micronoyau chez la souris in vivo (jusqu'à 1750 mg/kg) ; les données du test d'Ames sont incomplètes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Melaleucae aetheroleum was not clastogenic using the chromosomal aberration test in human lymphocytes in vitro and not genotoxic in in vivo mouse micronucleus test (up to 1750 mg/kg). Ames test data are incomplete."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-add-03",
+    "plant": "melaleuca_alternifolia",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparation liquide ou semi-solide pour usage cutané (indications 1 à 3), ou préparation liquide pour usage buccal (indication 4).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Herbal preparation in liquid and semi-solid dosage forms for cutaneous use (indication 1-3) or in liquid dosage form for oromucosal use (indication 4)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melaleuca_alternifolia-add-04",
+    "plant": "melaleuca_alternifolia",
+    "type": "information",
+    "statement": "Conserver dans des récipients hermétiquement fermés, à l'abri de la lumière et de la chaleur.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+      "quote": "Store in air-tight containers, protected from light and heat."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

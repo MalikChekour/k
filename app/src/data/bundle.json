@@ -14714,6 +14714,99 @@
      "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "hamamelis_virginiana-add-01",
+     "type": "posology",
+     "statement": "Modes d'administration : usage cutané, usage rectal, usage anorectal et usage bucco-muqueux.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Cutaneous use. Rectal use. Anorectal use. Oromucosal use."
+    },
+    {
+     "id": "hamamelis_virginiana-add-02",
+     "type": "information",
+     "statement": "Les teintures et extraits contenant de l'éthanol doivent porter l'étiquetage approprié pour l'éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "For extracts and tinctures containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "hamamelis_virginiana-add-03",
+     "type": "undesirable_effects",
+     "statement": "Si d'autres effets indésirables non mentionnés ci-dessus surviennent, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "hamamelis_virginiana-add-04",
+     "type": "overdose",
+     "statement": "Aucun cas de surdosage n'a été rapporté.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "hamamelis_virginiana-add-05",
+     "type": "preclinical",
+     "statement": "L'application externe des préparations d'Hamamelis virginiana L. peut être considérée comme sûre.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "The external application of preparations of Hamamelis virginiana L. can be regarded as safe."
+    },
+    {
+     "id": "hamamelis_virginiana-add-06",
+     "type": "preclinical",
+     "statement": "Un essai de cancérogénicité a été réalisé avec un extrait aqueux ; aucun effet cancérogène n'a été identifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "One test on carcinogenicity has been performed with an aqueous extract. No carcinogenetic effect has been identified."
+    },
+    {
+     "id": "hamamelis_virginiana-add-07",
+     "type": "preclinical",
+     "statement": "Les essais de génotoxicité et de toxicité pour la reproduction n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+     "quote": "Tests on genotoxicity and reproductive toxicity have not been performed."
     }
    ]
   },
@@ -15659,6 +15752,202 @@
      "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
      "quote": "The use of ispaghula husk may be considered during pregnancy and lactation, if necessary and if change of nutrition is not successful."
+    },
+    {
+     "id": "plantago_ovata-add-01",
+     "type": "undesirable_effect",
+     "statement": "Flatulences possibles, qui disparaissent en général au cours du traitement. Fréquence inconnue.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Flatulence may occur with the use of the product, which generally disappears in the course of the treatment. Abdominal distension and risk of intestinal or oesophageal obstruction and faecal impaction may occur, particularly if swallowed with insufficient fluid. The frequency is not known."
+    },
+    {
+     "id": "plantago_ovata-add-02",
+     "type": "undesirable_effect",
+     "statement": "Réactions d'hypersensibilité possibles chez les personnes exposées : rhinite, conjonctivite, bronchospasme et, dans certains cas, anaphylaxie.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "individuals exposed to the product can develop hypersensitivity reactions such as rhinitis, conjunctivitis, bronchospasm and in some cases, anaphylaxis."
+    },
+    {
+     "id": "plantago_ovata-add-03",
+     "type": "warning",
+     "statement": "Le produit contient des allergènes puissants ; l'exposition est possible par voie orale, par contact avec la peau et, pour les poudres, par inhalation.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Ispaghula contains potent allergens. The exposure to these allergens is possible through oral administration, contact with the skin and, in the case of powder formulations, also by inhalation."
+    },
+    {
+     "id": "plantago_ovata-add-04",
+     "type": "warning",
+     "statement": "Une sensibilisation par inhalation peut survenir ; elle est plus fréquente chez les personnes atopiques.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "sensitisation may occur due to inhalation, this is more frequent in atopic individuals."
+    },
+    {
+     "id": "plantago_ovata-add-05",
+     "type": "undesirable_effect",
+     "statement": "Des symptômes cutanés (éruption, prurit) ont aussi été signalés.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Cutaneous symptoms such as exanthema and/or pruritus have also been reported."
+    },
+    {
+     "id": "plantago_ovata-add-06",
+     "type": "pharmacodynamics",
+     "statement": "Effet laxatif habituellement obtenu 12 à 24 heures après une prise unique ; parfois, l'effet maximal n'est atteint qu'après 2 à 3 jours.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Ispaghula husk usually acts as a laxative within 12 to 24 hours after single administration. Sometimes the maximum effect is reached after 2 to 3 days."
+    },
+    {
+     "id": "plantago_ovata-add-07",
+     "type": "posology",
+     "statement": "Les laxatifs de lest (agents de masse) doivent être utilisés avant les autres laxatifs (purgatifs) si un changement d'alimentation n'a pas suffi.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Laxative bulk producers should be used before using other purgatives if change of nutrition is not successful."
+    },
+    {
+     "id": "plantago_ovata-add-08",
+     "type": "warning",
+     "statement": "Chez les personnes à risque, il est recommandé d'évaluer cliniquement une éventuelle sensibilisation et, si cela se justifie, de réaliser des tests diagnostiques spécifiques.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "plant_allergy"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "It is recommended to assess clinically the possible sensitisation of individuals at risk and, if justified, to perform specific diagnostic tests."
+    },
+    {
+     "id": "plantago_ovata-add-09",
+     "type": "overdose",
+     "statement": "Surdosage : peut provoquer une gêne abdominale, des flatulences et une occlusion intestinale ; il faut maintenir un apport suffisant en liquide et une prise en charge symptomatique.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Overdose with ispaghula husk may cause abdominal discomfort, flatulence and intestinal obstruction. Adequate fluid intake should be maintained and management should be symptomatic."
+    },
+    {
+     "id": "plantago_ovata-add-10",
+     "type": "pharmacodynamics",
+     "statement": "Gonflé par l'eau, le produit augmente le volume du contenu intestinal, ce qui étire la paroi et déclenche la défécation ; le mucilage gonflé forme une couche lubrifiante qui facilite le transit.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "When taken with a sufficient amount of liquid (at least 30 ml per 1 g of herbal substance) ispaghula husk produces an increased volume of intestinal contents due to its highly bulking properties and hence a stretch stimulus, which triggers defecation; at the same time the swollen mass of mucilage forms a lubricating layer, which makes the transit of intestinal contents easier."
+    },
+    {
+     "id": "plantago_ovata-add-11",
+     "type": "pharmacodynamics",
+     "statement": "Une baisse d'environ 7 % du LDL-cholestérol a été rapportée dans l'hypercholestérolémie légère à modérée ; aucune étude sur l'effet sur les événements cardiovasculaires et la mortalité totale n'est disponible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "In mild to moderate hypercholesterolemia a reduction of LDL cholesterol of approximately 7% has been reported. Investigations, which study the effect of ispaghula husk on the incidence of cardiovascular events and total mortality, are not available."
+    },
+    {
+     "id": "plantago_ovata-add-12",
+     "type": "preclinical",
+     "statement": "Tests de génotoxicité et de cancérogénicité : non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "Tests on genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "plantago_ovata-add-13",
+     "type": "pharmacokinetics",
+     "statement": "Les fibres alimentaires sont fermentées par les bactéries du côlon à des degrés variables, avec production de dioxyde de carbone, d'hydrogène, de méthane et d'acides gras à chaîne courte, absorbés ensuite vers la circulation hépatique.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "To varying degrees, dietary fibre is fermented by bacteria in the colon, resulting in production of carbon dioxide, hydrogen, methane, water, and short-chain fatty acids, which are absorbed and brought into the hepatic circulation."
+    },
+    {
+     "id": "plantago_ovata-add-14",
+     "type": "fertility",
+     "statement": "Chez le rat, aucun effet sur la fertilité n'a été constaté après administration orale.",
+     "severity": "aucune_rapportee",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Plantago ovata Forssk., seminis tegumentum (EMA/HMPC/199774/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-plantago-ovata-forssk-seminis-tegumentum_en.pdf",
+     "quote": "There is no evidence of an effect on the fertility in the rat following oral application"
     }
    ]
   },
@@ -16278,6 +16567,58 @@
      "source": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "agrimonia_eupatoria-add-01",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "agrimonia_eupatoria-add-02",
+     "type": "preclinical",
+     "statement": "Les tests de génotoxicité, de cancérogenèse et de toxicité pour la reproduction n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+     "quote": "Tests on genotoxicity, carcinogenicity and reproductive toxicity have not been performed."
+    },
+    {
+     "id": "agrimonia_eupatoria-add-03",
+     "type": "posology",
+     "statement": "Voies d'administration pour les autres usages : voie oromuqueuse (gargarisme) pour les petites inflammations de la bouche et de la gorge, voie cutanée (compresse imprégnée) et bain additionnel pour la peau.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+     "quote": "Indication 2) Oromucosal use. Indication 3) Cutaneous use. Use as a bath additive."
+    },
+    {
+     "id": "agrimonia_eupatoria-add-04",
+     "type": "posology",
+     "statement": "Voie d'administration pour la diarrhée légère : voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-agrimonia-eupatoria-l-herba_en.pdf",
+     "quote": "Oral use."
     }
    ]
   },
@@ -16493,6 +16834,45 @@
      "source": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "carum_carvi-add-01",
+     "type": "preclinical",
+     "statement": "Tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "carum_carvi-add-02",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "carum_carvi-add-04",
+     "type": "posology",
+     "statement": "Mode d'administration : voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+     "quote": "Oral use."
     }
    ]
   },
@@ -16800,6 +17180,32 @@
      "source": "European Union herbal monograph on Malva sylvestris L., flos (EMA/HMPC/749511/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-malva-sylvestris-l-flos-first-version_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "malva_sylvestris-add-01",
+     "type": "preclinical",
+     "statement": "Aucun test de génotoxicité, de toxicité pour la reproduction ni de cancérogénicité n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Malva sylvestris L., flos (EMA/HMPC/749511/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-malva-sylvestris-l-flos-first-version_en.pdf",
+     "quote": "Tests on genotoxicity, reproductive toxicity and carcinogenicity has not been performed."
+    },
+    {
+     "id": "malva_sylvestris-add-02",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : substance végétale broyée, en tisane pour usage oral, ou substance broyée destinée à une préparation par infusion ou décoction pour usage oromuqueux.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Malva sylvestris L., flos (EMA/HMPC/749511/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-malva-sylvestris-l-flos-first-version_en.pdf",
+     "quote": "Comminuted herbal substance for infusion or decoction preparation for oromucosal use."
     }
    ]
   },
@@ -17107,6 +17513,32 @@
      "source": "European Union herbal monograph on Origanum majorana L., herba (EMA/HMPC/166517/2015)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-origanum-majorana-l-herba_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "origanum_majorana-add-01",
+     "type": "posology",
+     "statement": "Préparation cutanée : extrait à un rapport de 1:5 (substance végétale / solvant d'extraction), dont les solvants d'extraction sont l'éthanol à 96 % V/V et la vaseline blanche.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Origanum majorana L., herba (EMA/HMPC/166517/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-origanum-majorana-l-herba_en.pdf",
+     "quote": "ratio of herbal substance to extraction solvent 1:5), extraction solvents ethanol 96% V/V and white petroleum jelly."
+    },
+    {
+     "id": "origanum_majorana-add-02",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Origanum majorana L., herba (EMA/HMPC/166517/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-origanum-majorana-l-herba_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -17496,6 +17928,32 @@
      "source": "European Union herbal monograph on Ribes nigrum L., folium (EMA/HMPC/745353/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "ribes_nigrum-add-01",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé (monographie, section 5.3).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Ribes nigrum L., folium (EMA/HMPC/745353/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "ribes_nigrum-add-02",
+     "type": "posology",
+     "statement": "Substance végétale pulvérisée, également indiquée pour l'indication 2 (voies urinaires) : dose unitaire de 340 mg, 3 à 5 fois par jour.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Ribes nigrum L., folium (EMA/HMPC/745353/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
+     "quote": "Single dose: 340 mg of powdered herbal substance 3-5 times daily"
     }
    ]
   },
@@ -17932,6 +18390,58 @@
      "source": "European Union herbal monograph on Serenoa repens (W. Bartram) Small, fructus (EMA/HMPC/280079/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-serenoa-repens-w-bartram-small-fructus_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "serenoa_repens-add-02",
+     "type": "pharmacodynamics",
+     "statement": "Mécanisme d'action inconnu (usage bien établi).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Serenoa repens (W. Bartram) Small, fructus (EMA/HMPC/280079/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-serenoa-repens-w-bartram-small-fructus_en.pdf",
+     "quote": "The mechanism of action is not known."
+    },
+    {
+     "id": "serenoa_repens-add-03",
+     "type": "pharmacodynamics",
+     "statement": "Code ATC proposé : G04CX02 (usage bien établi).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Serenoa repens (W. Bartram) Small, fructus (EMA/HMPC/280079/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-serenoa-repens-w-bartram-small-fructus_en.pdf",
+     "quote": "Proposed ATC code: G04CX02"
+    },
+    {
+     "id": "serenoa_repens-add-04",
+     "type": "pharmacokinetics",
+     "statement": "Pharmacocinétique (usage bien établi) : aucune donnée disponible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Serenoa repens (W. Bartram) Small, fructus (EMA/HMPC/280079/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-serenoa-repens-w-bartram-small-fructus_en.pdf",
+     "quote": "No data available."
+    },
+    {
+     "id": "serenoa_repens-add-05",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés (usage bien établi).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Serenoa repens (W. Bartram) Small, fructus (EMA/HMPC/280079/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-serenoa-repens-w-bartram-small-fructus_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -18308,6 +18818,19 @@
      "source": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "vaccinium_macrocarpon-add-01",
+     "type": "preclinical",
+     "statement": "Essais de toxicité pour la reproduction, de génotoxicité et de cancérogenèse : non réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -18709,6 +19232,71 @@
      "source": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
      "quote": "Influence on breast cancer or other hormone-depending tumours cannot be excluded."
+    },
+    {
+     "id": "actaea_racemosa-add-01",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de génotoxicité, de cancérogenèse et de toxicité pour la reproduction n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+     "quote": "Adequate tests on genotoxicity, carcinogenicity and reproductive toxicity have not been performed."
+    },
+    {
+     "id": "actaea_racemosa-add-02",
+     "type": "preclinical",
+     "statement": "Chez des souris femelles transgéniques porteuses de tumeurs, traitées par un extrait isopropanolique de cimicifuga (équivalent à 40 mg de racine et rhizome), le pourcentage de souris présentant des métastases pulmonaires détectables à l'autopsie a été augmenté par rapport au régime témoin.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+     "quote": "In Cimicifugae rhizoma-treated (isopropanolic black cohosh extract equivalent to 40 mg of root and rhizome), tumour-bearing, female transgenic mice, the percentage of mice with detectable metastatic lung tumours at necropsy was increased compared to those on the control diet."
+    },
+    {
+     "id": "actaea_racemosa-add-03",
+     "type": "pharmacodynamics",
+     "statement": "Le mode d'action et les constituants responsables de l'amélioration des plaintes de la ménopause ne sont pas connus.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+     "quote": "Neither the mode of action nor the constituents relevant for the improvement of menopausal complaints are known."
+    },
+    {
+     "id": "actaea_racemosa-add-04",
+     "type": "pharmacokinetics",
+     "statement": "Aucune donnée pharmacocinétique n'est disponible.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+     "quote": "No data available."
+    },
+    {
+     "id": "actaea_racemosa-add-05",
+     "type": "pharmacodynamics",
+     "statement": "Classé dans les autres gynécologiques, avec un code ATC proposé G02CX04.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Cimicifuga racemosa (L.) Nutt., rhizoma (EMA/HMPC/48745/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-cimicifuga-racemosa-l-nutt-rhizome-revision-1_en.pdf",
+     "quote": "Pharmacotherapeutic group: other gynaecologicals."
     }
    ]
   },
@@ -19237,6 +19825,99 @@
      "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "capsicum_frutescens-add-01",
+     "type": "posology",
+     "statement": "Formes semi-solides : les préparations a, b et c (extraits mous) sont admises ; pour l'emplâtre, seule la préparation a est indiquée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "Herbal preparation a, b, c)"
+    },
+    {
+     "id": "capsicum_frutescens-add-02",
+     "type": "adverse",
+     "statement": "Pour les formes semi-solides, la fréquence des réactions d'hypersensibilité cutanée et allergiques (urticaire, cloques, vésiculation) est inconnue.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "The frequency is not known."
+    },
+    {
+     "id": "capsicum_frutescens-add-03",
+     "type": "pharmacodynamics",
+     "statement": "Appliquée localement, la capsaïcine provoque une irritation locale qui se manifeste par un érythème et une sensation de brûlure, parfois de démangeaison.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "Topically applied capsaicin triggers local irritation, which manifests symptomatically as erythema and a burning, sometimes itchy sensation."
+    },
+    {
+     "id": "capsicum_frutescens-add-04",
+     "type": "pharmacodynamics",
+     "statement": "Une application répétée entraîne un appauvrissement en substance P dans le neurone, puis une désensibilisation prolongée à la brûlure et à la douleur.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "Substance P depletion of the neuron following repeated application leads to a long-term desensitisation to burning and pain."
+    },
+    {
+     "id": "capsicum_frutescens-add-05",
+     "type": "pharmacokinetics",
+     "statement": "Les données animales suggèrent une biodisponibilité systémique de la capsaïcine appliquée localement comprise entre 27 et 34 %.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "Animal data suggest a systemic bioavailability of topically applied capsaicin ranging from 27 to 34%."
+    },
+    {
+     "id": "capsicum_frutescens-add-06",
+     "type": "preclinical",
+     "statement": "Pour les préparations à base de plante, les données précliniques sont incomplètes : aucun essai de toxicité sur la reproduction, de génotoxicité ou de cancérogenèse n'existe.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity do not exist."
+    },
+    {
+     "id": "capsicum_frutescens-add-07",
+     "type": "preclinical",
+     "statement": "Les données publiées sur le potentiel mutagène et cancérogène de la capsaïcine sont non concluantes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+     "quote": "Published data on potential mutagenicity and carcinogenicity of capsaicin were inconclusive."
     }
    ]
   },
@@ -19871,6 +20552,97 @@
      "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
      "quote": "Accidental overdose of ointments or bath preparations may cause skin irritation."
+    },
+    {
+     "id": "eucalyptus_globulus-add-01",
+     "type": "preclinical",
+     "statement": "Tests adéquats de toxicité pour la reproduction, de génotoxicité et de cancérogénicité : non réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "eucalyptus_globulus-add-02",
+     "type": "posology",
+     "statement": "Bain additif (indications 1 et 2) : température de l'eau recommandée de 35 à 38 °C.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "Recommended bath temperature is 35-38"
+    },
+    {
+     "id": "eucalyptus_globulus-add-03",
+     "type": "posology",
+     "statement": "Indication 2, bain additif : si les symptômes persistent plus d'une semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "eucalyptus_globulus-add-04",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations solides pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "Herbal preparations in solid dosage forms for oral use."
+    },
+    {
+     "id": "eucalyptus_globulus-add-05",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations liquides pour inhalation, usage cutané et bain additif.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "Herbal preparations in liquid dosage forms for inhalation, cutaneous use and bath additive."
+    },
+    {
+     "id": "eucalyptus_globulus-add-06",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations semi-solides pour usage cutané.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "Herbal preparations in semi-solid dosage forms for cutaneous use."
+    },
+    {
+     "id": "eucalyptus_globulus-add-07",
+     "type": "posology",
+     "statement": "Préparation à base de plante : huile essentielle.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+     "quote": "Herbal preparations Essential oil"
     }
    ]
   },
@@ -20149,6 +20921,32 @@
      "source": "European Union herbal monograph on Oenothera biennis L. or Oenothera lamarckiana L., oleum (EMA/HMPC/753041/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-oenothera-biennis-l-oenothera-lamarckiana-l-oleum-revision-1_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "oenothera_biennis-add-01",
+     "type": "composition",
+     "statement": "Huile grasse obtenue à partir des graines d'Oenothera biennis L. ou d'Oenothera lamarckiana L., par extraction et/ou expression.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Oenothera biennis L. or Oenothera lamarckiana L., oleum (EMA/HMPC/753041/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-oenothera-biennis-l-oenothera-lamarckiana-l-oleum-revision-1_en.pdf",
+     "quote": "Fatty oil obtained from seeds of Oenothera biennis L. or Oenothera lamarckiana L. by extraction and/or expression."
+    },
+    {
+     "id": "oenothera_biennis-add-02",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparation à base de plantes sous formes galéniques solides, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Oenothera biennis L. or Oenothera lamarckiana L., oleum (EMA/HMPC/753041/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-oenothera-biennis-l-oenothera-lamarckiana-l-oleum-revision-1_en.pdf",
+     "quote": "Herbal preparation in solid dosage forms for oral use."
     }
    ]
   },
@@ -20727,6 +21525,99 @@
      "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
      "quote": "Chronic ingested overdoses of anthranoid containing medicinal products may lead to toxic hepatitis."
+    },
+    {
+     "id": "rhamnus_purshiana-add-01",
+     "type": "pregnancy",
+     "statement": "Aucune donnée sur la fertilité n'est disponible pour cette plante.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "No fertility data are available"
+    },
+    {
+     "id": "rhamnus_purshiana-add-02",
+     "type": "information",
+     "statement": "Les formes liquides contenant de l'éthanol doivent porter un étiquetage approprié concernant l'éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "For liquid dosage forms containing ethanol the appropriate labelling for ethanol"
+    },
+    {
+     "id": "rhamnus_purshiana-add-03",
+     "type": "pharmacodynamics",
+     "statement": "La défécation survient après un délai de 8 à 12 heures, le temps nécessaire au transport jusqu'au côlon et à la transformation en composé actif.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "Defaecation takes place after a delay of 8 - 12 hours due to the time taken for transport to the colon and metabolisation into the active compound."
+    },
+    {
+     "id": "rhamnus_purshiana-add-04",
+     "type": "pharmacodynamics",
+     "statement": "Un des deux mécanismes d'action est la stimulation de la motilité du gros intestin, qui accélère le transit colique.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "Stimulation of the motility of the large intestine resulting in accelerated colonic transit."
+    },
+    {
+     "id": "rhamnus_purshiana-add-05",
+     "type": "pharmacokinetics",
+     "statement": "Ces glycosides sont transformés par les bactéries du gros intestin en métabolite actif (émodine-9-anthrone).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "They are converted by the bacteria of the large intestine into the active metabolite (emodin-9-anthrone)."
+    },
+    {
+     "id": "rhamnus_purshiana-add-06",
+     "type": "preclinical",
+     "statement": "Plusieurs dérivés de l'hydroxyanthracène se sont montrés mutagènes et génotoxiques dans plusieurs tests in vitro, sans que cela soit démontré in vivo.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "several hydroxyl anthracene derivatives were mutagenic and genotoxic in several in vitro test systems, however this was not proven in in vivo systems."
+    },
+    {
+     "id": "rhamnus_purshiana-add-07",
+     "type": "preclinical",
+     "statement": "Dans les études de cancérogenèse à long terme, des effets sur les reins et sur le côlon et le cæcum ont été rapportés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Rhamnus purshiana DC., cortex (EMA/HMPC/726270/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-rhamnus-purshiana-dc-cortex-revision-1_en.pdf",
+     "quote": "In long term carcinogenicity studies effects on kidneys and colon/caecum were reported."
     }
    ]
   },
@@ -21273,6 +22164,112 @@
      "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
      "quote": "Chronic ingested overdoses of anthranoid containing medicinal products may lead to toxic"
+    },
+    {
+     "id": "senna_alexandrina-add-01",
+     "type": "pharmacodynamics",
+     "statement": "La défécation survient après un délai de 8 à 12 heures, le temps de transport jusqu'au côlon et de transformation en composé actif.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "Defaecation takes place after a delay of 8-12 hours due to the time taken for transport to the colon and metabolisation into the active compound."
+    },
+    {
+     "id": "senna_alexandrina-add-02",
+     "type": "posology",
+     "statement": "Substance végétale broyée et standardisée, utilisable en tisane pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "Standardised comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "senna_alexandrina-add-03",
+     "type": "posology",
+     "statement": "Préparations à base de plante standardisées, sous forme liquide ou solide, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "Standardised herbal preparations in liquid or solid dosage forms for oral use."
+    },
+    {
+     "id": "senna_alexandrina-add-04",
+     "type": "warning",
+     "statement": "La fréquence des effets indésirables n'est pas connue.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "The frequencies are not known."
+    },
+    {
+     "id": "senna_alexandrina-add-05",
+     "type": "pharmacodynamics",
+     "statement": "Les sennosides ne sont pas absorbés dans l'intestin grêle ; ce sont les bactéries du gros intestin qui les transforment en métabolite actif, la rhéine-anthrone.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "The β-O-linked glycosides (sennosides) are not absorbed in the upper gut; they are converted by bacteria of the large intestine into the active metabolite (rhein anthrone)."
+    },
+    {
+     "id": "senna_alexandrina-add-06",
+     "type": "pharmacokinetics",
+     "statement": "Chez l'humain, après 7 jours de prise orale de poudre de gousses de séné (20 mg de sennosides), la concentration sanguine maximale de rhéine est de 100 ng/ml ; aucune accumulation de rhéine n'a été observée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "In human pharmacokinetic studies with senna pods powder (20 mg sennosides), administered orally for 7 days, a maximum concentration of 100 ng rhein/ml was found in the blood. An accumulation of rhein was not observed."
+    },
+    {
+     "id": "senna_alexandrina-add-07",
+     "type": "preclinical",
+     "statement": "Aucune donnée préclinique n'est disponible pour les feuilles de séné ni leurs préparations ; il peut être supposé que les données obtenues avec les gousses de séné sont transposables aux préparations de feuilles.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "There are no preclinical data available for senna leaves or preparations thereof. It can be assumed that data obtained with senna pods can be transferred to senna leaf preparations."
+    },
+    {
+     "id": "senna_alexandrina-add-08",
+     "type": "preclinical",
+     "statement": "Les gousses de séné et plusieurs dérivés hydroxyanthracéniques (sauf sennosides, rhéine et sennidines) se sont montrés mutagènes et génotoxiques dans plusieurs tests in vitro ; pour le séné et l'aloe-émodine, cet effet n'a pas été démontré in vivo.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+     "quote": "Senna pods, extracts thereof and several hydroxyl anthracene derivatives (except sennosides, rhein and sennidins) were mutagenic and genotoxic in several in vitro test systems. However, for senna and aloe-emodin this was not proven in in vivo systems."
     }
    ]
   },
@@ -21524,6 +22521,45 @@
      "source": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "verbascum_densiflorum-add-01",
+     "type": "indication",
+     "statement": "Usage traditionnel : soulagement des symptômes de maux de gorge associés à une toux sèche et à un rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+     "quote": "used to relieve symptoms of sore throat associated with dry cough and cold"
+    },
+    {
+     "id": "verbascum_densiflorum-add-02",
+     "type": "fertility",
+     "statement": "Aucune donnée de fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+     "quote": "No fertility data available."
+    },
+    {
+     "id": "verbascum_densiflorum-add-03",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité pour la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-verbascum-thapsus-l-v-densiflorum-bertol-v-thapsiforme-schrad-and-v-phlomoides-l-flos_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -22059,6 +23095,129 @@
      "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
      "quote": "In two repeat-dose toxicity studies in rats (4 weeks, 26 weeks) signs of liver toxicity have been observed."
+    },
+    {
+     "id": "vitex_agnus_castus-add-01",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "No fertility data are available."
+    },
+    {
+     "id": "vitex_agnus_castus-add-02",
+     "type": "pregnancy",
+     "statement": "Les études animales sont insuffisantes concernant la toxicité pour la reproduction.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant"
+     ],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "Animal studies are insufficient with respect to reproductive toxicity"
+    },
+    {
+     "id": "vitex_agnus_castus-add-03",
+     "type": "lactation",
+     "statement": "Des données issues d'études de reproduction suggèrent que le fruit peut affecter la lactation.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "Data from reproductive studies suggest that agnus castus fruit may affect lactation."
+    },
+    {
+     "id": "vitex_agnus_castus-add-04",
+     "type": "information",
+     "statement": "Les teintures contenant de l'éthanol doivent porter la mention d'étiquetage appropriée concernant l'éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "For tinctures containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "vitex_agnus_castus-add-05",
+     "type": "pharmacodynamics",
+     "statement": "Le mécanisme d'action n'est pas connu.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "The mode of action is not known."
+    },
+    {
+     "id": "vitex_agnus_castus-add-06",
+     "type": "pharmacodynamics",
+     "statement": "En pharmacologie humaine, une baisse des taux élevés de prolactine par le fruit n'a pas été démontrée de façon concluante.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "In human pharmacology a reduction of elevated prolactin levels by agnus castus fruit has not been conclusively proven."
+    },
+    {
+     "id": "vitex_agnus_castus-add-07",
+     "type": "pharmacodynamics",
+     "statement": "Les résultats sont contradictoires concernant la fixation aux récepteurs des œstrogènes en général.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "There are contradictory results concerning binding to oestrogen receptor in general"
+    },
+    {
+     "id": "vitex_agnus_castus-add-08",
+     "type": "preclinical",
+     "statement": "Les tests de mutagénicité et de cancérogénicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "Tests on mutagenicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "vitex_agnus_castus-add-09",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité pour la reproduction n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity have not been performed."
     }
    ]
   },
@@ -22522,6 +23681,71 @@
      "source": "European Union herbal monograph on Artemisia absinthium L., herba (EMA/HMPC/751490/2016)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
      "quote": "Thujone is known for its uterus stimulating activity."
+    },
+    {
+     "id": "artemisia_absinthium-add-01",
+     "type": "preclinical",
+     "statement": "Les tests de toxicité sur la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés sur les préparations d'Absinthii herba couvertes par la monographie.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Artemisia absinthium L., herba (EMA/HMPC/751490/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed with the preparations of Absinthii herba covered by this monograph."
+    },
+    {
+     "id": "artemisia_absinthium-add-02",
+     "type": "information",
+     "statement": "Les teintures contenant de l'éthanol doivent porter l'étiquetage approprié pour l'éthanol, conforme à la ligne directrice sur les excipients.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Artemisia absinthium L., herba (EMA/HMPC/751490/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+     "quote": "For tinctures containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "artemisia_absinthium-add-03",
+     "type": "posology",
+     "statement": "Teinture préparée au ratio 1:5, solvant d'extraction : éthanol à 70 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Artemisia absinthium L., herba (EMA/HMPC/751490/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+     "quote": "Tincture (1:5), extraction solvent ethanol"
+    },
+    {
+     "id": "artemisia_absinthium-add-04",
+     "type": "posology",
+     "statement": "Jus frais exprimé de la plante fraîche, préparé au ratio 1:0,5 à 0,9.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Artemisia absinthium L., herba (EMA/HMPC/751490/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+     "quote": "Expressed juice from the fresh herb"
+    },
+    {
+     "id": "artemisia_absinthium-add-05",
+     "type": "posology",
+     "statement": "Forme : substance végétale broyée, utilisée en tisane pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Artemisia absinthium L., herba (EMA/HMPC/751490/2016)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-artemisia-absinthium-l-herba_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
     }
    ]
   },
@@ -22921,6 +24145,45 @@
      "source": "European Union herbal monograph on Fumaria officinalis L., herba (EMA/HMPC/367011/2021)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-fumaria-officinalis-l-herba-revision-1_en.pdf",
      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    {
+     "id": "fumaria_officinalis-add-01",
+     "type": "information",
+     "statement": "Pour les teintures et les extraits contenant de l'éthanol, la mention appropriée concernant l'éthanol doit figurer dans l'étiquetage, selon la ligne directrice sur les excipients dans l'étiquetage et la notice des médicaments à usage humain.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Fumaria officinalis L., herba (EMA/HMPC/367011/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-fumaria-officinalis-l-herba-revision-1_en.pdf",
+     "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    {
+     "id": "fumaria_officinalis-add-02",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction ni de cancérogénicité n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Fumaria officinalis L., herba (EMA/HMPC/367011/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-fumaria-officinalis-l-herba-revision-1_en.pdf",
+     "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "fumaria_officinalis-add-03",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de génotoxicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Fumaria officinalis L., herba (EMA/HMPC/367011/2021)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-fumaria-officinalis-l-herba-revision-1_en.pdf",
+     "quote": "Adequate tests on genotoxicity have not been performed."
     }
    ]
   },
@@ -23552,6 +24815,58 @@
      "source": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
      "quote": "Proper storage and handling are needed to avoid the formation of oxidation products which have greater potential for skin sensitisation."
+    },
+    {
+     "id": "melaleuca_alternifolia-add-01",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction et de cancérogenèse : non réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+     "quote": "Tests on reproductive toxicity and on carcinogenicity have not been performed."
+    },
+    {
+     "id": "melaleuca_alternifolia-add-02",
+     "type": "preclinical",
+     "statement": "Génotoxicité : l'huile essentielle n'est pas clastogène dans le test des aberrations chromosomiques sur lymphocytes humains in vitro, et n'est pas génotoxique dans le test du micronoyau chez la souris in vivo (jusqu'à 1750 mg/kg) ; les données du test d'Ames sont incomplètes.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+     "quote": "Melaleucae aetheroleum was not clastogenic using the chromosomal aberration test in human lymphocytes in vitro and not genotoxic in in vivo mouse micronucleus test (up to 1750 mg/kg). Ames test data are incomplete."
+    },
+    {
+     "id": "melaleuca_alternifolia-add-03",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparation liquide ou semi-solide pour usage cutané (indications 1 à 3), ou préparation liquide pour usage buccal (indication 4).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+     "quote": "Herbal preparation in liquid and semi-solid dosage forms for cutaneous use (indication 1-3) or in liquid dosage form for oromucosal use (indication 4)."
+    },
+    {
+     "id": "melaleuca_alternifolia-add-04",
+     "type": "information",
+     "statement": "Conserver dans des récipients hermétiquement fermés, à l'abri de la lumière et de la chaleur.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Melaleuca alternifolia (Maiden and Betch) Cheel, M. linariifolia Smith, M. dissitiflora F. Mueller and/or other species of Melaleuca, aetheroleum (EMA/HMPC/320930/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melaleuca-alternifolia-maiden-and-betch-cheel-m-linariifolia-smith-m-dissitiflora-f-mueller-and-or-other-species-melaleuca-aetheroleum-first-version_en.pdf",
+     "quote": "Store in air-tight containers, protected from light and heat."
     }
    ]
   },

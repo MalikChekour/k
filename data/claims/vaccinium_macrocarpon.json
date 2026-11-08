@@ -491,5 +491,23 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "vaccinium_macrocarpon-add-01",
+    "plant": "vaccinium_macrocarpon",
+    "type": "preclinical",
+    "statement": "Essais de toxicité pour la reproduction, de génotoxicité et de cancérogenèse : non réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium macrocarpon Aiton, fructus (EMA/HMPC/49135/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-macrocarpon-aiton-fructus_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

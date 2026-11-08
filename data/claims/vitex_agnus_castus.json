@@ -704,5 +704,173 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "vitex_agnus_castus-add-01",
+    "plant": "vitex_agnus_castus",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "No fertility data are available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "vitex_agnus_castus-add-02",
+    "plant": "vitex_agnus_castus",
+    "type": "pregnancy",
+    "statement": "Les études animales sont insuffisantes concernant la toxicité pour la reproduction.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "Animal studies are insufficient with respect to reproductive toxicity"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant"
+    ]
+  },
+  {
+    "id": "vitex_agnus_castus-add-03",
+    "plant": "vitex_agnus_castus",
+    "type": "lactation",
+    "statement": "Des données issues d'études de reproduction suggèrent que le fruit peut affecter la lactation.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "Data from reproductive studies suggest that agnus castus fruit may affect lactation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "lactating"
+    ]
+  },
+  {
+    "id": "vitex_agnus_castus-add-04",
+    "plant": "vitex_agnus_castus",
+    "type": "information",
+    "statement": "Les teintures contenant de l'éthanol doivent porter la mention d'étiquetage appropriée concernant l'éthanol.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "For tinctures containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vitex_agnus_castus-add-05",
+    "plant": "vitex_agnus_castus",
+    "type": "pharmacodynamics",
+    "statement": "Le mécanisme d'action n'est pas connu.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "The mode of action is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vitex_agnus_castus-add-06",
+    "plant": "vitex_agnus_castus",
+    "type": "pharmacodynamics",
+    "statement": "En pharmacologie humaine, une baisse des taux élevés de prolactine par le fruit n'a pas été démontrée de façon concluante.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "In human pharmacology a reduction of elevated prolactin levels by agnus castus fruit has not been conclusively proven."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vitex_agnus_castus-add-07",
+    "plant": "vitex_agnus_castus",
+    "type": "pharmacodynamics",
+    "statement": "Les résultats sont contradictoires concernant la fixation aux récepteurs des œstrogènes en général.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "There are contradictory results concerning binding to oestrogen receptor in general"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vitex_agnus_castus-add-08",
+    "plant": "vitex_agnus_castus",
+    "type": "preclinical",
+    "statement": "Les tests de mutagénicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "Tests on mutagenicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vitex_agnus_castus-add-09",
+    "plant": "vitex_agnus_castus",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité pour la reproduction n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vitex agnus-castus L., fructus (EMA/HMPC/606742/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vitex-agnus-castus-l-fructus-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

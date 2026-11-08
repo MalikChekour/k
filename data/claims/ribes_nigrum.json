@@ -177,7 +177,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_18"]
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
   {
     "id": "ribes_nigrum-pos-09",
@@ -249,7 +251,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["plant_allergy"]
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
   {
     "id": "ribes_nigrum-02",
@@ -267,7 +271,11 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["fluid_restriction", "cardiovascular_disease", "kidney_disease"]
+    "applies_to": [
+      "fluid_restriction",
+      "cardiovascular_disease",
+      "kidney_disease"
+    ]
   },
   {
     "id": "ribes_nigrum-03",
@@ -285,7 +293,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_18"]
+    "applies_to": [
+      "age_lt_18"
+    ]
   },
   {
     "id": "ribes_nigrum-04",
@@ -303,7 +313,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "ribes_nigrum-05",
@@ -321,7 +333,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "ribes_nigrum-06",
@@ -339,7 +353,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "ribes_nigrum-07",
@@ -357,7 +373,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "ribes_nigrum-08",
@@ -393,7 +411,10 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["pregnant", "lactating"]
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
   {
     "id": "ribes_nigrum-10",
@@ -429,7 +450,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["drives"]
+    "applies_to": [
+      "drives"
+    ]
   },
   {
     "id": "ribes_nigrum-12",
@@ -465,7 +488,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "ribes_nigrum-14",
@@ -479,6 +504,42 @@
       "title": "European Union herbal monograph on Ribes nigrum L., folium (EMA/HMPC/745353/2016)",
       "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
       "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ribes_nigrum-add-01",
+    "plant": "ribes_nigrum",
+    "type": "preclinical",
+    "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé (monographie, section 5.3).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ribes nigrum L., folium (EMA/HMPC/745353/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ribes_nigrum-add-02",
+    "plant": "ribes_nigrum",
+    "type": "posology",
+    "statement": "Substance végétale pulvérisée, également indiquée pour l'indication 2 (voies urinaires) : dose unitaire de 340 mg, 3 à 5 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ribes nigrum L., folium (EMA/HMPC/745353/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-ribes-nigrum-l-folium_en.pdf",
+      "quote": "Single dose: 340 mg of powdered herbal substance 3-5 times daily"
     },
     "status": "verifie",
     "reviewed_by": null,

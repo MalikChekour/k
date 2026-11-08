@@ -69,7 +69,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_12"]
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
   {
     "id": "carum_carvi-01",
@@ -87,7 +89,10 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["plant_allergy", "asteraceae_allergy"]
+    "applies_to": [
+      "plant_allergy",
+      "asteraceae_allergy"
+    ]
   },
   {
     "id": "carum_carvi-02",
@@ -105,7 +110,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_12"]
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
   {
     "id": "carum_carvi-03",
@@ -123,7 +130,11 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["liver_disease", "biliary_disease", "digestive_disease"]
+    "applies_to": [
+      "liver_disease",
+      "biliary_disease",
+      "digestive_disease"
+    ]
   },
   {
     "id": "carum_carvi-04",
@@ -141,7 +152,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "carum_carvi-05",
@@ -177,7 +190,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "carum_carvi-07",
@@ -213,7 +228,10 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["pregnant", "lactating"]
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
   },
   {
     "id": "carum_carvi-09",
@@ -231,7 +249,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["drives"]
+    "applies_to": [
+      "drives"
+    ]
   },
   {
     "id": "carum_carvi-10",
@@ -245,6 +265,60 @@
       "title": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
       "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
       "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carum_carvi-add-01",
+    "plant": "carum_carvi",
+    "type": "preclinical",
+    "statement": "Tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carum_carvi-add-02",
+    "plant": "carum_carvi",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "carum_carvi-add-04",
+    "plant": "carum_carvi",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-carum-carvi-l-fructus_en.pdf",
+      "quote": "Oral use."
     },
     "status": "verifie",
     "reviewed_by": null,

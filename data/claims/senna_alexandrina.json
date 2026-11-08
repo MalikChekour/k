@@ -141,7 +141,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["plant_allergy"]
+    "applies_to": [
+      "plant_allergy"
+    ]
   },
   {
     "id": "senna_alexandrina-02",
@@ -159,7 +161,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["age_lt_12"]
+    "applies_to": [
+      "age_lt_12"
+    ]
   },
   {
     "id": "senna_alexandrina-03",
@@ -177,7 +181,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-04",
@@ -195,7 +201,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["digestive_disease"]
+    "applies_to": [
+      "digestive_disease"
+    ]
   },
   {
     "id": "senna_alexandrina-05",
@@ -213,7 +221,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-06",
@@ -231,7 +241,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-07",
@@ -249,7 +261,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["pregnant"]
+    "applies_to": [
+      "pregnant"
+    ]
   },
   {
     "id": "senna_alexandrina-08",
@@ -267,7 +281,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["lactating"]
+    "applies_to": [
+      "lactating"
+    ]
   },
   {
     "id": "senna_alexandrina-09",
@@ -303,7 +319,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["drives"]
+    "applies_to": [
+      "drives"
+    ]
   },
   {
     "id": "senna_alexandrina-11",
@@ -321,7 +339,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-12",
@@ -339,7 +359,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-13",
@@ -357,7 +379,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-14",
@@ -429,7 +453,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["kidney_disease"]
+    "applies_to": [
+      "kidney_disease"
+    ]
   },
   {
     "id": "senna_alexandrina-18",
@@ -447,7 +473,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-19",
@@ -465,7 +493,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-20",
@@ -483,7 +513,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-21",
@@ -501,7 +533,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-22",
@@ -519,7 +553,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-23",
@@ -537,7 +573,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-24",
@@ -555,7 +593,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-25",
@@ -573,7 +613,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-26",
@@ -591,7 +633,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-27",
@@ -609,7 +653,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-28",
@@ -627,7 +673,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-29",
@@ -645,7 +693,9 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
   },
   {
     "id": "senna_alexandrina-30",
@@ -663,6 +713,154 @@
     "status": "verifie",
     "reviewed_by": null,
     "reviewed_on": null,
-    "applies_to": ["always"]
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "senna_alexandrina-add-01",
+    "plant": "senna_alexandrina",
+    "type": "pharmacodynamics",
+    "statement": "La défécation survient après un délai de 8 à 12 heures, le temps de transport jusqu'au côlon et de transformation en composé actif.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "Defaecation takes place after a delay of 8-12 hours due to the time taken for transport to the colon and metabolisation into the active compound."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "senna_alexandrina-add-02",
+    "plant": "senna_alexandrina",
+    "type": "posology",
+    "statement": "Substance végétale broyée et standardisée, utilisable en tisane pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "Standardised comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "senna_alexandrina-add-03",
+    "plant": "senna_alexandrina",
+    "type": "posology",
+    "statement": "Préparations à base de plante standardisées, sous forme liquide ou solide, pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "Standardised herbal preparations in liquid or solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "senna_alexandrina-add-04",
+    "plant": "senna_alexandrina",
+    "type": "warning",
+    "statement": "La fréquence des effets indésirables n'est pas connue.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "The frequencies are not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "senna_alexandrina-add-05",
+    "plant": "senna_alexandrina",
+    "type": "pharmacodynamics",
+    "statement": "Les sennosides ne sont pas absorbés dans l'intestin grêle ; ce sont les bactéries du gros intestin qui les transforment en métabolite actif, la rhéine-anthrone.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "The β-O-linked glycosides (sennosides) are not absorbed in the upper gut; they are converted by bacteria of the large intestine into the active metabolite (rhein anthrone)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "senna_alexandrina-add-06",
+    "plant": "senna_alexandrina",
+    "type": "pharmacokinetics",
+    "statement": "Chez l'humain, après 7 jours de prise orale de poudre de gousses de séné (20 mg de sennosides), la concentration sanguine maximale de rhéine est de 100 ng/ml ; aucune accumulation de rhéine n'a été observée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "In human pharmacokinetic studies with senna pods powder (20 mg sennosides), administered orally for 7 days, a maximum concentration of 100 ng rhein/ml was found in the blood. An accumulation of rhein was not observed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "senna_alexandrina-add-07",
+    "plant": "senna_alexandrina",
+    "type": "preclinical",
+    "statement": "Aucune donnée préclinique n'est disponible pour les feuilles de séné ni leurs préparations ; il peut être supposé que les données obtenues avec les gousses de séné sont transposables aux préparations de feuilles.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "There are no preclinical data available for senna leaves or preparations thereof. It can be assumed that data obtained with senna pods can be transferred to senna leaf preparations."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "senna_alexandrina-add-08",
+    "plant": "senna_alexandrina",
+    "type": "preclinical",
+    "statement": "Les gousses de séné et plusieurs dérivés hydroxyanthracéniques (sauf sennosides, rhéine et sennidines) se sont montrés mutagènes et génotoxiques dans plusieurs tests in vitro ; pour le séné et l'aloe-émodine, cet effet n'a pas été démontré in vivo.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Senna alexandrina Mill. (Cassia senna L.; Cassia angustifolia Vahl), folium (EMA/HMPC/625849/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-folium-revision-1_en.pdf",
+      "quote": "Senna pods, extracts thereof and several hydroxyl anthracene derivatives (except sennosides, rhein and sennidins) were mutagenic and genotoxic in several in vitro test systems. However, for senna and aloe-emodin this was not proven in in vivo systems."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

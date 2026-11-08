@@ -839,5 +839,131 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "eucalyptus_globulus-add-01",
+    "plant": "eucalyptus_globulus",
+    "type": "preclinical",
+    "statement": "Tests adéquats de toxicité pour la reproduction, de génotoxicité et de cancérogénicité : non réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eucalyptus_globulus-add-02",
+    "plant": "eucalyptus_globulus",
+    "type": "posology",
+    "statement": "Bain additif (indications 1 et 2) : température de l'eau recommandée de 35 à 38 °C.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "Recommended bath temperature is 35-38"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eucalyptus_globulus-add-03",
+    "plant": "eucalyptus_globulus",
+    "type": "posology",
+    "statement": "Indication 2, bain additif : si les symptômes persistent plus d'une semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eucalyptus_globulus-add-04",
+    "plant": "eucalyptus_globulus",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations solides pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "Herbal preparations in solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eucalyptus_globulus-add-05",
+    "plant": "eucalyptus_globulus",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations liquides pour inhalation, usage cutané et bain additif.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "Herbal preparations in liquid dosage forms for inhalation, cutaneous use and bath additive."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eucalyptus_globulus-add-06",
+    "plant": "eucalyptus_globulus",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations semi-solides pour usage cutané.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "Herbal preparations in semi-solid dosage forms for cutaneous use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "eucalyptus_globulus-add-07",
+    "plant": "eucalyptus_globulus",
+    "type": "posology",
+    "statement": "Préparation à base de plante : huile essentielle.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Eucalyptus globulus Labill.; Eucalyptus polybractea R.T. Baker; Eucalyptus smithii R.T. Baker, aetheroleum (EMA/HMPC/320292/2023)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-eucalyptus-globulus-labill-eucalyptus-polybractea-rt-baker-eucalyptus-smithii-rt-baker-aetheroleum-revision-1_en.pdf",
+      "quote": "Herbal preparations Essential oil"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

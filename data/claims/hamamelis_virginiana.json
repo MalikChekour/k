@@ -395,5 +395,133 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "hamamelis_virginiana-add-01",
+    "plant": "hamamelis_virginiana",
+    "type": "posology",
+    "statement": "Modes d'administration : usage cutané, usage rectal, usage anorectal et usage bucco-muqueux.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Cutaneous use. Rectal use. Anorectal use. Oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-add-02",
+    "plant": "hamamelis_virginiana",
+    "type": "information",
+    "statement": "Les teintures et extraits contenant de l'éthanol doivent porter l'étiquetage approprié pour l'éthanol.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "For extracts and tinctures containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-add-03",
+    "plant": "hamamelis_virginiana",
+    "type": "undesirable_effects",
+    "statement": "Si d'autres effets indésirables non mentionnés ci-dessus surviennent, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-add-04",
+    "plant": "hamamelis_virginiana",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "hamamelis_virginiana-add-05",
+    "plant": "hamamelis_virginiana",
+    "type": "preclinical",
+    "statement": "L'application externe des préparations d'Hamamelis virginiana L. peut être considérée comme sûre.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "The external application of preparations of Hamamelis virginiana L. can be regarded as safe."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-add-06",
+    "plant": "hamamelis_virginiana",
+    "type": "preclinical",
+    "statement": "Un essai de cancérogénicité a été réalisé avec un extrait aqueux ; aucun effet cancérogène n'a été identifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "One test on carcinogenicity has been performed with an aqueous extract. No carcinogenetic effect has been identified."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "hamamelis_virginiana-add-07",
+    "plant": "hamamelis_virginiana",
+    "type": "preclinical",
+    "statement": "Les essais de génotoxicité et de toxicité pour la reproduction n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Hamamelis virginiana L., folium (EMA/HMPC/114586/2008)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-hamamelis-virginiana-l-folium_en.pdf",
+      "quote": "Tests on genotoxicity and reproductive toxicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

@@ -692,5 +692,133 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "capsicum_frutescens-add-01",
+    "plant": "capsicum_frutescens",
+    "type": "posology",
+    "statement": "Formes semi-solides : les préparations a, b et c (extraits mous) sont admises ; pour l'emplâtre, seule la préparation a est indiquée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "Herbal preparation a, b, c)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsicum_frutescens-add-02",
+    "plant": "capsicum_frutescens",
+    "type": "adverse",
+    "statement": "Pour les formes semi-solides, la fréquence des réactions d'hypersensibilité cutanée et allergiques (urticaire, cloques, vésiculation) est inconnue.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "capsicum_frutescens-add-03",
+    "plant": "capsicum_frutescens",
+    "type": "pharmacodynamics",
+    "statement": "Appliquée localement, la capsaïcine provoque une irritation locale qui se manifeste par un érythème et une sensation de brûlure, parfois de démangeaison.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "Topically applied capsaicin triggers local irritation, which manifests symptomatically as erythema and a burning, sometimes itchy sensation."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsicum_frutescens-add-04",
+    "plant": "capsicum_frutescens",
+    "type": "pharmacodynamics",
+    "statement": "Une application répétée entraîne un appauvrissement en substance P dans le neurone, puis une désensibilisation prolongée à la brûlure et à la douleur.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "Substance P depletion of the neuron following repeated application leads to a long-term desensitisation to burning and pain."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsicum_frutescens-add-05",
+    "plant": "capsicum_frutescens",
+    "type": "pharmacokinetics",
+    "statement": "Les données animales suggèrent une biodisponibilité systémique de la capsaïcine appliquée localement comprise entre 27 et 34 %.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "Animal data suggest a systemic bioavailability of topically applied capsaicin ranging from 27 to 34%."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsicum_frutescens-add-06",
+    "plant": "capsicum_frutescens",
+    "type": "preclinical",
+    "statement": "Pour les préparations à base de plante, les données précliniques sont incomplètes : aucun essai de toxicité sur la reproduction, de génotoxicité ou de cancérogenèse n'existe.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity do not exist."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsicum_frutescens-add-07",
+    "plant": "capsicum_frutescens",
+    "type": "preclinical",
+    "statement": "Les données publiées sur le potentiel mutagène et cancérogène de la capsaïcine sont non concluantes.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Capsicum annuum L. var. minimum (Miller) Heiser and small fruited varieties of Capsicum frutescens L., fructus (EMA/HMPC/674139/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-capsicum-annuum-l-var-minimum-miller-heiser-and-small-fruited-varieties-capsicum-frutescens-l-fructus_en.pdf",
+      "quote": "Published data on potential mutagenicity and carcinogenicity of capsaicin were inconclusive."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]
