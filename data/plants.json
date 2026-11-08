@@ -1823,5 +1823,258 @@
    "vaccinium",
    "vaccinium myrtillus"
   ]
+ },
+ {
+  "id": "capsella_bursa_pastoris",
+  "fr": "Bourse-à-pasteur",
+  "latin": "Capsella bursa-pastoris (L.) Medikus",
+  "part": "partie aérienne",
+  "queries": [
+   "shepherd's purse plant",
+   "Capsella bursa-pastoris",
+   "shepherd's purse flowers"
+  ],
+  "keys": [
+   "bourse-à-pasteur",
+   "shepherd's purse",
+   "capsella",
+   "capsella bursa-pastoris"
+  ],
+  "aliases": [
+   "bourse-à-pasteur",
+   "shepherd's purse",
+   "capsella",
+   "capsella bursa-pastoris"
+  ]
+ },
+ {
+  "id": "centaurium_erythraea",
+  "fr": "Petite centaurée",
+  "latin": "Centaurium erythraea Rafn s.l.",
+  "part": "sommité fleurie",
+  "queries": [
+   "centaury flowering plant",
+   "Centaurium erythraea",
+   "Centaurium erythraea flowers"
+  ],
+  "keys": [
+   "petite centaurée",
+   "centaurée",
+   "centaury",
+   "centaurium",
+   "centaurium erythraea rafn s.l."
+  ],
+  "aliases": [
+   "petite centaurée",
+   "centaurée",
+   "centaury",
+   "centaurium",
+   "centaurium erythraea rafn s.l."
+  ]
+ },
+ {
+  "id": "cola_nitida",
+  "fr": "Kolatier, noix de kola (graine)",
+  "latin": "Cola nitida (Vent.) Schott et Endl. et C. acuminata (P. Beauv.) Schott et Endl.",
+  "part": "graine",
+  "queries": [
+   "kola nut",
+   "Cola nitida tree fruit",
+   "cola nuts seeds"
+  ],
+  "keys": [
+   "kola",
+   "noix de kola",
+   "cola",
+   "cola nitida",
+   "cola nitida (vent.) schott et endl. et c. acuminata (p. beauv.) schott et endl."
+  ],
+  "aliases": [
+   "kola",
+   "noix de kola",
+   "cola",
+   "cola nitida",
+   "cola nitida (vent.) schott et endl. et c. acuminata (p. beauv.) schott et endl."
+  ]
+ },
+ {
+  "id": "cucurbita_pepo",
+  "fr": "Courge (graine)",
+  "latin": "Cucurbita pepo L.",
+  "part": "graine",
+  "queries": [
+   "pumpkin seeds",
+   "Cucurbita pepo seeds",
+   "pumpkin seed kernels"
+  ],
+  "keys": [
+   "courge",
+   "graine de courge",
+   "citrouille",
+   "pumpkin seed",
+   "cucurbita",
+   "cucurbita pepo l."
+  ],
+  "aliases": [
+   "courge",
+   "graine de courge",
+   "citrouille",
+   "pumpkin seed",
+   "cucurbita",
+   "cucurbita pepo l."
+  ]
+ },
+ {
+  "id": "juglans_regia",
+  "fr": "Noyer (feuille)",
+  "latin": "Juglans regia L.",
+  "part": "feuille",
+  "queries": [
+   "walnut leaves",
+   "Juglans regia leaves",
+   "walnut tree leaf"
+  ],
+  "keys": [
+   "noyer",
+   "feuille de noyer",
+   "walnut leaf",
+   "juglans",
+   "juglans regia l."
+  ],
+  "aliases": [
+   "noyer",
+   "feuille de noyer",
+   "walnut leaf",
+   "juglans",
+   "juglans regia l."
+  ]
+ },
+ {
+  "id": "olea_europaea",
+  "fr": "Olivier (feuille)",
+  "latin": "Olea europaea L.",
+  "part": "feuille",
+  "queries": [
+   "olive leaves",
+   "Olea europaea leaves",
+   "olive tree leaf"
+  ],
+  "keys": [
+   "olivier",
+   "olive",
+   "olive leaf",
+   "olea",
+   "olea europaea"
+  ],
+  "aliases": [
+   "olivier",
+   "olive",
+   "olive leaf",
+   "olea",
+   "olea europaea"
+  ]
+ },
+ {
+  "id": "polygonum_aviculare",
+  "fr": "Renouée des oiseaux (sommité)",
+  "latin": "Polygonum aviculare L.",
+  "part": "partie aérienne",
+  "queries": [
+   "knotgrass herb",
+   "Polygonum aviculare plant",
+   "Polygonum aviculare leaves"
+  ],
+  "keys": [
+   "renouée des oiseaux",
+   "traînasse",
+   "knotgrass",
+   "polygonum",
+   "polygonum aviculare"
+  ],
+  "aliases": [
+   "renouée des oiseaux",
+   "traînasse",
+   "knotgrass",
+   "polygonum",
+   "polygonum aviculare"
+  ]
+ },
+ {
+  "id": "prunus_africana",
+  "fr": "Prunier d'Afrique (écorce)",
+  "latin": "Prunus africana (Hook.f.) Kalkman",
+  "part": "écorce",
+  "queries": [
+   "Prunus africana bark",
+   "Prunus africana tree",
+   "pygeum africanum bark"
+  ],
+  "keys": [
+   "prunier d'afrique",
+   "pygeum",
+   "african cherry",
+   "prunus africana",
+   "prunus africana (hook.f.) kalkman"
+  ],
+  "aliases": [
+   "prunier d'afrique",
+   "pygeum",
+   "african cherry",
+   "prunus africana",
+   "prunus africana (hook.f.) kalkman"
+  ]
+ },
+ {
+  "id": "quercus_robur",
+  "fr": "Chêne (écorce)",
+  "latin": "Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd.",
+  "part": "écorce",
+  "queries": [
+   "oak bark",
+   "Quercus robur bark",
+   "oak tree bark close-up"
+  ],
+  "keys": [
+   "chêne",
+   "écorce de chêne",
+   "oak bark",
+   "quercus",
+   "quercus robur",
+   "quercus petraea",
+   "quercus pubescens"
+  ],
+  "aliases": [
+   "chêne",
+   "écorce de chêne",
+   "oak bark",
+   "quercus",
+   "quercus robur",
+   "quercus petraea"
+  ]
+ },
+ {
+  "id": "ruscus_aculeatus",
+  "fr": "Petit houx (rhizome)",
+  "latin": "Ruscus aculeatus L.",
+  "part": "rhizome",
+  "queries": [
+   "butcher's broom rhizome",
+   "Ruscus aculeatus plant",
+   "Ruscus aculeatus"
+  ],
+  "keys": [
+   "petit houx",
+   "fragon",
+   "butcher's broom",
+   "ruscus",
+   "ruscus aculeatus"
+  ],
+  "aliases": [
+   "petit houx",
+   "fragon",
+   "butcher's broom",
+   "ruscus",
+   "ruscus aculeatus"
+  ]
  }
 ]

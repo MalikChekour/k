@@ -1,0 +1,487 @@
+[
+  {
+    "id": "cola_nitida-ind-01",
+    "plant": "cola_nitida",
+    "type": "indication",
+    "statement": "Usage traditionnel : produit à base de plante traditionnel pour les symptômes de fatigue passagère et de sensation de faiblesse (usage fondé exclusivement sur un usage de longue date).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptoms of temporary fatigue and sensation of weakness."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-01",
+    "plant": "cola_nitida",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, poudre de substance végétale : 1 à 3 g, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Powdered herbal substance: 1-3 g, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-02",
+    "plant": "cola_nitida",
+    "type": "posology",
+    "statement": "Tisane (poudre de substance végétale) : 1 à 3 g dans 150 ml d'eau, en décoction, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Herbal tea: 1-3 g of powdered herbal substance in 150 ml of water as a decoction, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-03",
+    "plant": "cola_nitida",
+    "type": "posology",
+    "statement": "Extrait liquide : 0,6 à 1,2 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Liquid extract: 0.6-1.2 ml, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-04",
+    "plant": "cola_nitida",
+    "type": "posology",
+    "statement": "Teinture : 1 à 4 ml, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Tincture: 1-4 ml, 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-05",
+    "plant": "cola_nitida",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-06",
+    "plant": "cola_nitida",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus d'une semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "If the symptoms persist longer than 1 week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-pos-07",
+    "plant": "cola_nitida",
+    "type": "age",
+    "statement": "Utilisation non recommandée chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "cola_nitida-01",
+    "plant": "cola_nitida",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "cola_nitida-02",
+    "plant": "cola_nitida",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'ulcères gastriques et duodénaux.",
+    "severity": "contraindiquee",
+    "population": "ulcères gastriques et duodénaux",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Gastric and duodenal ulcers"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "gastric_ulcer"
+    ]
+  },
+  {
+    "id": "cola_nitida-03",
+    "plant": "cola_nitida",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas de troubles cardiovasculaires tels que l'hypertension et l'arythmie.",
+    "severity": "contraindiquee",
+    "population": "troubles cardiovasculaires, hypertension, arythmie",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "cardiovascular disorders such as hypertension and arrhythmia"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "hypertension",
+      "cardiovascular_disease"
+    ]
+  },
+  {
+    "id": "cola_nitida-04",
+    "plant": "cola_nitida",
+    "type": "contraindication",
+    "statement": "Contre-indication mentionnée : hyperthyroïdie.",
+    "severity": "precaution",
+    "population": "hyperthyroïdie",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "hyperthyroidism"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-05",
+    "plant": "cola_nitida",
+    "type": "warning",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "cola_nitida-06",
+    "plant": "cola_nitida",
+    "type": "warning",
+    "statement": "Non recommandé avant le coucher, car il peut provoquer des troubles du sommeil.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Not recommended before bedtime as it may cause sleep disturbances."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-07",
+    "plant": "cola_nitida",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-08",
+    "plant": "cola_nitida",
+    "type": "warning",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol doit être inclus (ligne directrice sur les excipients).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-09",
+    "plant": "cola_nitida",
+    "type": "interaction",
+    "statement": "Comme d'autres préparations contenant de la caféine, les préparations de kola réduisent l'action des médicaments sédatifs et augmentent les effets indésirables causés par les médicaments sympathomimétiques.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Colae semen preparations like other caffeine containing preparations reduce action of sedative drugs and increase side effects caused by sympathomimetic drugs."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-10",
+    "plant": "cola_nitida",
+    "type": "interaction",
+    "statement": "Les patients prenant des inhibiteurs de la monoamine oxydase (IMAO) doivent utiliser les préparations de kola avec précaution.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Patients taking MAO-inhibitor drugs should use Colae semen preparations with caution."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-11",
+    "plant": "cola_nitida",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established. In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "cola_nitida-12",
+    "plant": "cola_nitida",
+    "type": "pregnancy",
+    "statement": "La caféine traverse le placenta et est distribuée dans le lait maternel.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "Caffeine crosses the placenta and is distributed in breast milk."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "cola_nitida-13",
+    "plant": "cola_nitida",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-14",
+    "plant": "cola_nitida",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "cola_nitida-15",
+    "plant": "cola_nitida",
+    "type": "adverse_effects",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cola_nitida-16",
+    "plant": "cola_nitida",
+    "type": "warning",
+    "statement": "En cas de réactions indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cola_nitida-17",
+    "plant": "cola_nitida",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cola nitida (Vent.) Schott et Endl. and its varieties and Cola acuminata (P. Beauv.) Schott et Endl., semen (EMA/HMPC/722367/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cola-nitida-vent-schott-et-endl-and-its-varieties-and-cola-acuminata-p-beauv-schott-et-endl-semen_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

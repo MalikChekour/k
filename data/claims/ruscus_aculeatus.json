@@ -1,0 +1,399 @@
+[
+  {
+    "id": "ruscus_aculeatus-ind-01",
+    "plant": "ruscus_aculeatus",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulager les symptômes d'inconfort et de lourdeur des jambes liés à de légers troubles de la circulation veineuse.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product to relieve symptoms of discomfort and heaviness of legs related to minor venous circulatory disturbances."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-ind-02",
+    "plant": "ruscus_aculeatus",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des démangeaisons et brûlures associées aux hémorroïdes, après exclusion de pathologies graves par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic relief of itching and burning associated with haemorrhoids, after serious conditions have been excluded by a medical doctor"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-ind-03",
+    "plant": "ruscus_aculeatus",
+    "type": "indication",
+    "statement": "Produit à usage traditionnel, pour les indications citées, uniquement fondé sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-pos-01",
+    "plant": "ruscus_aculeatus",
+    "type": "posology",
+    "statement": "Adultes, substance végétale en poudre : 350 mg par prise, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Single dose: 350 mg, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-pos-02",
+    "plant": "ruscus_aculeatus",
+    "type": "posology",
+    "statement": "Adultes, extrait sec (DER 2,5-6,5:1, extraction à l'eau) : 150 à 200 mg par prise, dose quotidienne maximale 450 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Single dose: 150 to 200 mg, Daily dose to maximum 450 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-pos-03",
+    "plant": "ruscus_aculeatus",
+    "type": "posology",
+    "statement": "Adultes, extrait sec (DER 5,0-8,5:1, éthanol 80 % V/V) : 86 mg par prise, 1 à 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Single dose: 86 mg, 1-2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-pos-04",
+    "plant": "ruscus_aculeatus",
+    "type": "posology",
+    "statement": "Adultes, extrait sec (DER 6-9:1, éthanol 96 % V/V) : 45 mg par prise, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Single dose: 45 mg, 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-pos-05",
+    "plant": "ruscus_aculeatus",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-pos-06",
+    "plant": "ruscus_aculeatus",
+    "type": "posology",
+    "statement": "Voie d'administration : orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-01",
+    "plant": "ruscus_aculeatus",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-02",
+    "plant": "ruscus_aculeatus",
+    "type": "age",
+    "statement": "Pas d'usage pertinent chez les enfants et les adolescents.",
+    "severity": "precaution",
+    "population": "enfants et adolescents",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "There is no relevant use in children and adolescents."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-03",
+    "plant": "ruscus_aculeatus",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-04",
+    "plant": "ruscus_aculeatus",
+    "type": "warning",
+    "statement": "En cas d'inflammation de la peau ou d'induration sous-cutanée, d'ulcères, de gonflement soudain d'une ou des deux jambes, ou d'insuffisance cardiaque ou rénale, consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "If there is inflammation of the skin or subcutaneous induration, ulcers, sudden swelling of one or both legs, cardiac or renal insufficiency, a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-05",
+    "plant": "ruscus_aculeatus",
+    "type": "warning",
+    "statement": "En cas de saignement rectal, consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "If rectal bleeding occurs a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-06",
+    "plant": "ruscus_aculeatus",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-07",
+    "plant": "ruscus_aculeatus",
+    "type": "pregnancy",
+    "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé ; la sécurité n'est pas établie.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-08",
+    "plant": "ruscus_aculeatus",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-09",
+    "plant": "ruscus_aculeatus",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-10",
+    "plant": "ruscus_aculeatus",
+    "type": "undesirable_effect",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "ruscus_aculeatus-11",
+    "plant": "ruscus_aculeatus",
+    "type": "undesirable_effect",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "ruscus_aculeatus-12",
+    "plant": "ruscus_aculeatus",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Ruscus aculeatus L., rhizoma (EMA/HMPC/188804/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-ruscus-aculeatus-l-rhizoma-revision-1_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

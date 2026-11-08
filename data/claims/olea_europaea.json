@@ -1,0 +1,418 @@
+[
+  {
+    "id": "olea_europaea-ind-01",
+    "plant": "olea_europaea",
+    "type": "indication",
+    "statement": "Usage traditionnel : médicament à base de plantes traditionnel utilisé pour favoriser l'élimination rénale de l'eau, dans les cas légers de rétention d'eau, après que des affections graves ont été écartées par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product used to promote the renal elimination of water, in mild cases of water retention after serious conditions have been excluded by a medical doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-ind-02",
+    "plant": "olea_europaea",
+    "type": "indication",
+    "statement": "Usage traditionnel : utilisation dans l'indication spécifiée, fondée exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "product for use in specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-01",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, feuilles séchées ou découpées pour infusion : dose unitaire de 6 à 10 g, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "g up to 3 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-02",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, feuilles séchées en poudre (formes solides pour voie orale) : dose unitaire de 275 mg, 3 à 5 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Single dose: 275 mg 3-5 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-03",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane : 5 g de feuilles séchées (ou 10 g de feuilles fraîches) dans 150 ml d'eau, en décoction, 2 fois par jour (matin et soir).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Herbal tea: 10 g of fresh leaves or 5 g of dried leaves in 150 ml of water as a decoction 2 times daily (morning and evening)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-04",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Temps de décoction : laisser mijoter jusqu'à obtenir 100 ml de décoction.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Decoction time: allow to simmer to reach 100 ml of decoction."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-05",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Durée : la substance végétale est traditionnellement utilisée pendant 2 à 4 semaines.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "The herbal substance is traditionally used over a period of 2-4 weeks."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-06",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Si les symptômes persistent plus d'une semaine pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "If the symptoms persist longer than one week during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-07",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-pos-08",
+    "plant": "olea_europaea",
+    "type": "posology",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "olea_europaea-01",
+    "plant": "olea_europaea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "olea_europaea-02",
+    "plant": "olea_europaea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée dans les situations où une restriction hydrique est recommandée (par exemple maladie cardiaque ou rénale sévère).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Conditions where a reduced fluid intake is recommended (e.g. severe cardiac or renal disease)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "fluid_restriction"
+    ]
+  },
+  {
+    "id": "olea_europaea-03",
+    "plant": "olea_europaea",
+    "type": "warning",
+    "statement": "Les patients atteints de maladie cardiaque ou d'insuffisance rénale doivent demander l'avis d'un médecin avant de prendre le médicament.",
+    "severity": "precaution",
+    "population": "maladie cardiaque ou insuffisance rénale",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "Patients with cardiac disease or renal impairment should seek medical advice before taking Olea medication."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "cardiovascular_disease",
+      "kidney_disease"
+    ]
+  },
+  {
+    "id": "olea_europaea-04",
+    "plant": "olea_europaea",
+    "type": "age",
+    "statement": "Usage non établi chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "olea_europaea-05",
+    "plant": "olea_europaea",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "If symptoms worsen during the use of the medicinal product, a medical doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "olea_europaea-06",
+    "plant": "olea_europaea",
+    "type": "undesirable",
+    "statement": "En cas d'effets indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "olea_europaea-07",
+    "plant": "olea_europaea",
+    "type": "undesirable",
+    "statement": "Aucun effet indésirable connu.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "None known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-08",
+    "plant": "olea_europaea",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-09",
+    "plant": "olea_europaea",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "None reported"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-10",
+    "plant": "olea_europaea",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "olea_europaea-11",
+    "plant": "olea_europaea",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "olea_europaea-12",
+    "plant": "olea_europaea",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Olea europaea L., folium (EMA/HMPC/359238/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-olea-europaea-l-folium-first-version_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

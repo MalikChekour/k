@@ -397,3 +397,15 @@ test('lot 5 : ail (anticoagulants, saquinavir), thé vert (caféine), fenugrec (
   for (const id of ['vaccinium_myrtillus', 'rubus_idaeus', 'rosa_damascena', 'syzygium_aromaticum', 'allium_sativum'])
     assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
 });
+
+test('lot 6 : kola (caféine), eau (renouée, olivier), bain de chêne = précaution seulement, noyer (plaies)', () => {
+  assert.equal(assess(bundle, ['cola_nitida'], { flags: ['hypertension'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['cola_nitida'], { flags: ['gastric_ulcer'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['polygonum_aviculare'], { flags: ['fluid_restriction'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['olea_europaea'], { flags: ['fluid_restriction'] }).verdict, 'contre_indication');
+  assert.equal(assess(bundle, ['centaurium_erythraea'], { flags: ['gastric_ulcer'] }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['quercus_robur'], { flags: ['hypertension'] }).verdict, 'contre_indication');
+  assert.notEqual(assess(bundle, ['juglans_regia'], { flags: [] }).verdict, 'contre_indication');
+  for (const id of ['ruscus_aculeatus', 'cucurbita_pepo', 'prunus_africana', 'capsella_bursa_pastoris'])
+    assert.notEqual(assess(bundle, [id], { flags: [], ageYears: 40 }).verdict, 'contre_indication', id);
+});

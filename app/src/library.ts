@@ -49,13 +49,23 @@ export function severityLabel(sev?: string | null): string {
 
 /** Recherche insensible à la casse et aux accents : nom français, nom latin, partie utilisée, autres noms (chinois, pinyin…),
  * et — via `viaUsage` — les plantes dont une indication figure dans une catégorie de symptôme qui correspond à la saisie. */
-export function filterPlants(plants: PlantData[], query: string, rubric: Rubric | null, viaUsage?: Set<string>): PlantData[] {
+export function filterPlants(plants: PlantData[], query: string, rubric: Rubric | null, viaUsage?: Set<string>, groupIds?: string[] | null): PlantData[] {
   const q = normalize(query);
   return plants.filter(p => {
+    if (groupIds && !groupIds.includes(p.id)) return false;
     if (rubric && !p.claims.some(c => rubricOf(c.type) === rubric)) return false;
     if (!q) return true;
     return normalize(`${p.fr} ${p.latin} ${p.part} ${(p.aliases ?? []).join(' ')}`).includes(q) || !!viaUsage?.has(p.id);
   });
+}
+
+/** Plantes des familles (ex. « Adaptogènes ») dont le nom contient la saisie (≥ 3 lettres). */
+export function plantIdsForGroupQuery(groups: { fr: string; plants: string[] }[], query: string): Set<string> {
+  const q = normalize(query);
+  const out = new Set<string>();
+  if (q.length < 3) return out;
+  for (const g of groups) if (normalize(g.fr).includes(q)) for (const id of g.plants) out.add(id);
+  return out;
 }
 
 /** Identifiants des plantes proposées pour les catégories de symptôme dont le libellé contient la saisie (≥ 3 lettres). */

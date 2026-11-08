@@ -1,0 +1,303 @@
+[
+  {
+    "id": "capsella_bursa_pastoris-ind-01",
+    "plant": "capsella_bursa_pastoris",
+    "type": "indication",
+    "statement": "Usage traditionnel : réduction des saignements menstruels abondants chez la femme, usage fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Traditional herbal medicinal product for the reduction of heavy menstrual bleeding in women"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-pos-01",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Adultes : début de l'utilisation 3 à 5 jours avant les règles, à poursuivre pendant les saignements menstruels.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Use to be started 3-5 days before the menstruation and to be continued during menstrual bleeding."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-pos-02",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Adultes, substance végétale broyée : 1 à 5 g par prise unique pour la préparation d'une tisane, 2 à 4 fois par jour (dose quotidienne : 3 à 20 g).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Comminuted herbal substance: 1-5 g as a single dose for the preparation of herbal tea, 2-4 times daily (daily dose: 3-20 g)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-pos-03",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Adultes, extrait liquide : 1 à 4 ml par prise unique, 3 fois par jour (dose quotidienne : 3 à 12 ml).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Liquid extract: 1-4 ml as a single dose, 3 times daily (daily dose: 3-12 ml)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-pos-04",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent pendant l'utilisation du médicament, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-pos-05",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Mode d'administration : voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-01",
+    "plant": "capsella_bursa_pastoris",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "capsella_bursa_pastoris-02",
+    "plant": "capsella_bursa_pastoris",
+    "type": "age",
+    "statement": "Usage non recommandé chez les adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "The use in adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "capsella_bursa_pastoris-03",
+    "plant": "capsella_bursa_pastoris",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "capsella_bursa_pastoris-04",
+    "plant": "capsella_bursa_pastoris",
+    "type": "warning",
+    "statement": "Pour les extraits contenant de l'éthanol, l'étiquetage approprié pour l'éthanol doit être inclus.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "For extracts containing ethanol, the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "capsella_bursa_pastoris-05",
+    "plant": "capsella_bursa_pastoris",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-06",
+    "plant": "capsella_bursa_pastoris",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "capsella_bursa_pastoris-07",
+    "plant": "capsella_bursa_pastoris",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-08",
+    "plant": "capsella_bursa_pastoris",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "capsella_bursa_pastoris-09",
+    "plant": "capsella_bursa_pastoris",
+    "type": "undesirable_effects",
+    "statement": "Aucun effet indésirable connu. En cas de réactions indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "None known. If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-10",
+    "plant": "capsella_bursa_pastoris",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

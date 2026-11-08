@@ -267,7 +267,7 @@
  },
  "ziziphus_jujuba": {
   "provider": "openverse",
-  "author": "",
+  "author": "auteur non renseigné (openverse)",
   "license": "cc0",
   "page_url": "https://www.rawpixel.com/image/6058517/free-public-domain-cc0-photo",
   "label": "date fruit fruit green jujube jujube jujube tree plant trees"
@@ -316,7 +316,7 @@
  },
  "ribes_nigrum": {
   "provider": "openverse",
-  "author": "",
+  "author": "auteur non renseigné (openverse)",
   "license": "cc0",
   "page_url": "https://www.rawpixel.com/image/6026114/photo-image-public-domain-leaf-plant",
   "label": "Closeup black currant berries black currant leaf black currants blackcurrant cassis currant nature nature photo"
@@ -628,5 +628,75 @@
   "license": "CC BY-SA 3.0",
   "page_url": "https://commons.wikimedia.org/wiki/File:Tanacetum_parthenium_002.JPG",
   "label": "File:Tanacetum parthenium 002.JPG Tanacetum parthenium, Asteraceae, Feverfew, inflorescences."
+ },
+ "olea_europaea": {
+  "provider": "unsplash",
+  "author": "Susana Bartolome",
+  "license": "Unsplash License",
+  "page_url": "https://unsplash.com/photos/green-olives-growing-on-a-branch-against-blue-sky--ZJ9fM0kgZM",
+  "label": "Green olives growing on a branch against blue sky "
+ },
+ "ruscus_aculeatus": {
+  "provider": "wikimedia",
+  "author": "Dominicus Johannes Bergsma",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ruscus_aculeatus_%27John_Redmond%27._Locatie,_Tuinreservaat_Jonkervallei_04.jpg",
+  "label": "File:Ruscus aculeatus 'John Redmond'. Locatie, Tuinreservaat Jonkervallei 04.jpg Ruscus aculeatus' John Redmond. Few offered very slow growing shrub."
+ },
+ "cucurbita_pepo": {
+  "provider": "wikimedia",
+  "author": "Dmitry Makeev",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pumpkin_seed._img_006.jpg",
+  "label": "File:Pumpkin seed. img 006.jpg Pumpkin seed."
+ },
+ "prunus_africana": {
+  "provider": "wikimedia",
+  "author": "Marco Schmidt [1]",
+  "license": "CC BY-SA 2.5",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Prunus_africana_MS_3588.jpg",
+  "label": "File:Prunus africana MS 3588.jpg Prunus africana, bark harvested for medicine, Mt. Cameroon"
+ },
+ "juglans_regia": {
+  "provider": "wikimedia",
+  "author": "Dalgial",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Juglans_regia_02.JPG",
+  "label": "File:Juglans regia 02.JPG Juglans regia in Bupyung Korea. 부평역 근처 주택가에 사는 호두나무."
+ },
+ "polygonum_aviculare": {
+  "provider": "wikimedia",
+  "author": "Dalgial",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Polygonum_aviculare_4.JPG",
+  "label": "File:Polygonum aviculare 4.JPG Polygonum aviculare"
+ },
+ "quercus_robur": {
+  "provider": "wikimedia",
+  "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+  "license": "CC BY-SA 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Swamp_White_Oak_Quercus_bicolor_Bark_Closeup_Vertical.JPG",
+  "label": "File:Swamp White Oak Quercus bicolor Bark Closeup Vertical.JPG Photograph of the bark of the Swamp Whiteen (Quercus bicolor en   ).  Photo taken at the Tyler Arboretum where its species was identified. The tree is at least as old as 1873."
+ },
+ "capsella_bursa_pastoris": {
+  "provider": "wikimedia",
+  "author": "mister_bumble",
+  "license": "CC BY 4.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Capsella_bursa-pastoris_128793631.jpg",
+  "label": "File:Capsella bursa-pastoris 128793631.jpg shepherd's-purse (Capsella bursa-pastoris)"
+ },
+ "centaurium_erythraea": {
+  "provider": "wikimedia",
+  "author": "Christian Fischer",
+  "license": "CC BY-SA 3.0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:CentauriumErythraea3.jpg",
+  "label": "File:CentauriumErythraea3.jpg Inflorescence of Common Centaury, Centaurium erythraea, with opened and still closed blossoms. Very late flowering time in mid October on a warm, sunny day (plant artificially shaded)."
+ },
+ "cola_nitida": {
+  "provider": "wikimedia",
+  "author": "Benoît Prieur",
+  "license": "CC0",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Grand_Frais_(Beynost)_noix_de_cola_de_C%C3%B4te_d%27Ivoire_(ao%C3%BBt_2023).jpg",
+  "label": "File:Grand Frais (Beynost) noix de cola de Côte d'Ivoire (août 2023).jpg Grand Frais (Beynost) noix de cola de Côte d'Ivoire (août 2023)."
  }
 }

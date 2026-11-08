@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { filterPlants, groupClaims, rubricOf, severityLabel, sourcesOf } from './library.ts';
+import { filterPlants, groupClaims, plantIdsForGroupQuery, rubricOf, severityLabel, sourcesOf } from './library.ts';
 import type { PlantData } from './safety.ts';
 
 const bundle = JSON.parse(readFileSync(new URL('./data/bundle.json', import.meta.url), 'utf-8'));
@@ -64,4 +64,14 @@ test('recherche : autre nom (pinyin) et symptôme', async () => {
   assert.ok(ids.has('valeriana_officinalis'));
   assert.ok(filterPlants(bundle.plants, 'sommeil', null, ids).some(p => p.id === 'valeriana_officinalis'));
   assert.equal(plantIdsForSymptomQuery(bundle, bundle.usages, 'so').size, 0);
+});
+
+test('familles : « Adaptogènes » filtre la liste, répond à la recherche et ne cite que des plantes connues', () => {
+  const g = bundle.groups.find((x: { id: string }) => x.id === 'adaptogenes');
+  assert.ok(g && g.note.includes('réglementaire'));
+  const ids = new Set(bundle.plants.map((p: { id: string }) => p.id));
+  for (const id of g.plants) assert.ok(ids.has(id), id);
+  assert.deepEqual(filterPlants(bundle.plants, '', null, undefined, g.plants).map(p => p.id).sort(), [...g.plants].sort());
+  assert.ok(plantIdsForGroupQuery(bundle.groups, 'adaptogene').has('rhodiola_rosea'));
+  assert.equal(plantIdsForGroupQuery(bundle.groups, 'ad').size, 0);
 });

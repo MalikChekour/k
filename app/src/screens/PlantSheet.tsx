@@ -3,6 +3,7 @@ import { Image, Modal, Pressable, ScrollView, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { Claim, PlantData } from '../safety';
 import { POSOLOGY_NOTE, RUBRICS, groupClaims } from '../library';
+import { bundle } from '../bundle';
 import { styleFor } from '../plantStyle';
 import { PLANT_PHOTOS } from '../plantPhotos';
 import { Bloom } from './Bloom';
@@ -53,6 +54,12 @@ export function PlantSheet({ plant, onClose, favorites, writable, onToggleFav }:
               </View>
               <Text style={s.h1} accessibilityRole="header">{plant.fr}</Text>
               <Text style={s.latin}>{plant.latin}</Text>
+              {(bundle.groups ?? []).filter(g => g.plants.includes(plant.id)).map(g => (
+                <View key={g.id} style={{ marginTop: 10, backgroundColor: C.soft, borderRadius: 16, padding: 12, gap: 4 }}>
+                  <Text style={s.tag}>Famille : {g.fr}</Text>
+                  <Text style={s.warn}>{g.note}</Text>
+                </View>
+              ))}
               <View style={{ marginTop: 12, alignSelf: 'flex-start' }}>
                 <Chip
                   label={favorites.includes(plant.id) ? 'Dans mon armoire ✓' : '+ Ajouter à mon armoire'}

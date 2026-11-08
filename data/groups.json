@@ -1,0 +1,11 @@
+{
+  "_note": "Familles de plantes (section de la liste). Une famille est un regroupement de lecture : elle n'ajoute AUCUNE affirmation clinique. Seules les affirmations des monographies officielles, affichées sur chaque fiche, font foi. Le build refuse une plante inconnue.",
+  "groups": [
+    {
+      "id": "adaptogenes",
+      "fr": "Adaptogènes",
+      "note": "« Adaptogène » est un terme de phytothérapie (issu de la pharmacologie russe du XXe siècle) pour des plantes traditionnellement associées à la fatigue et au stress. Ce n'est pas une catégorie réglementaire de l'Agence européenne des médicaments : seules les indications de la monographie officielle, citées sur chaque fiche, font foi. Pour l'éleuthérocoque, le ginseng et la rhodiole, il s'agit d'un usage traditionnel ; pour le schisandra, l'OMS précise qu'aucun usage n'est étayé par des essais cliniques contrôlés.",
+      "plants": ["panax_ginseng", "eleutherococcus_senticosus", "rhodiola_rosea", "schisandra_chinensis"]
+    }
+  ]
+}

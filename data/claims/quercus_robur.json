@@ -1,0 +1,532 @@
+[
+  {
+    "id": "quercus_robur-ind-01",
+    "plant": "quercus_robur",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique de la diarrhée légère.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic treatment of mild diarrhoea."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-ind-02",
+    "plant": "quercus_robur",
+    "type": "indication",
+    "statement": "Usage traditionnel : traitement symptomatique des inflammations mineures de la muqueuse buccale ou de la peau.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic treatment of minor inflammation of the oral mucosa or skin."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-ind-03",
+    "plant": "quercus_robur",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement symptomatique des démangeaisons et brûlures associées aux hémorroïdes, après que des affections graves ont été exclues par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Traditional herbal medicinal product for symptomatic relief of itching and burning associated with haemorrhoids, after serious conditions have been excluded by a medical doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-ind-04",
+    "plant": "quercus_robur",
+    "type": "indication",
+    "statement": "Produit à usage traditionnel pour les indications spécifiées, fondé exclusivement sur un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in specified indications exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-01",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, diarrhée légère : 3 g de substance végétale broyée dans 250 ml d'eau, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "3 g comminuted herbal substance in 250 ml of water, three times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-02",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Diarrhée légère, autre forme : 1 g de substance végétale en poudre, en gélules ou comprimés pour usage oral, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "1 g powdered herbal substance in capsules/tablets for oral use, three times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-03",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Diarrhée légère, extrait sec : 140 mg, 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Dry extract: 140 mg, 4 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-04",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Inflammations mineures de la muqueuse buccale ou de la peau, par voie oromuqueuse : décoction à 20 g/L.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Decoction for oromucosal use: 20 g/L."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-05",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Bain (indications 2 et 3) : décoction de 5 g de substance végétale broyée par litre, à ajouter au bain (durée du bain : 20 minutes).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Decoction for bath preparation: 5 g comminuted herbal substance/1L to be added to the bath (bath duration 20"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-06",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Bain : un bain complet ou partiel par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "One full or partial bath daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-07",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Rinçages ou cataplasmes locaux : plusieurs fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Topical rinses or poultices several times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-08",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Voies d'administration : orale, cutanée, oromuqueuse et anorectale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Oral use. Cutaneous use. Oromucosal use. Anorectal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-09",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Diarrhée légère (indication 1) : ne pas utiliser plus de 3 jours.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Not to be used for more than 3 days."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-10",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Indications 2 et 3 : ne pas utiliser plus d'une semaine.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Not to be used for more than 1 week."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-pos-11",
+    "plant": "quercus_robur",
+    "type": "posology",
+    "statement": "Si les symptômes persistent pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "If the symptoms persist during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "quercus_robur-01",
+    "plant": "quercus_robur",
+    "type": "contraindication",
+    "statement": "Contre-indiqué en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "quercus_robur-02",
+    "plant": "quercus_robur",
+    "type": "contraindication",
+    "statement": "Usage en additif de bain : contre-indiqué en cas de plaies ouvertes, de lésions étendues de la peau et des muqueuses, et d'infection de la peau et des muqueuses.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Open wounds, large skin and mucosa injuries and infection of the skin and mucosa."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-03",
+    "plant": "quercus_robur",
+    "type": "age",
+    "statement": "Usage non recommandé chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "quercus_robur-04",
+    "plant": "quercus_robur",
+    "type": "warning",
+    "statement": "Les bains chauds ne doivent pas être utilisés en cas de maladie fébrile ou infectieuse.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Hot bathes should not be used in case of febrile or infectious illnesses"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-05",
+    "plant": "quercus_robur",
+    "type": "contraindication",
+    "statement": "Les bains chauds ne doivent pas être utilisés en cas d'insuffisance cardiaque ni d'hypertension.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Hot bathes should not be used in case of febrile or infectious illnesses, in heart insufficiency and hypertension."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "cardiovascular_disease",
+      "hypertension"
+    ]
+  },
+  {
+    "id": "quercus_robur-06",
+    "plant": "quercus_robur",
+    "type": "warning",
+    "statement": "En cas de diarrhée récurrente ou de selles sanglantes, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "If recurrent diarrhoea or bloody stools occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-07",
+    "plant": "quercus_robur",
+    "type": "warning",
+    "statement": "En cas de saignement rectal pendant le traitement des hémorroïdes, consulter un médecin.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "If rectal bleeding occurs during the treatment of haemorrhoids a doctor should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-08",
+    "plant": "quercus_robur",
+    "type": "warning",
+    "statement": "Des réactions allergiques ont été rapportées ; leur fréquence n'est pas connue.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Allergic reactions have been reported. The frequency is not known."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-09",
+    "plant": "quercus_robur",
+    "type": "warning",
+    "statement": "En cas d'autres effets indésirables non mentionnés ci-dessus, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-10",
+    "plant": "quercus_robur",
+    "type": "interaction",
+    "statement": "L'absorption interne d'un médicament administré en même temps peut être retardée ; prendre le produit 1 heure ou plus avant ou après les autres médicaments.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "Internal absorption of concomitantly administered medicine may be delayed. For this reason, the product should be taken 1 hour or more before or after intake of other medicinal products."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "quercus_robur-11",
+    "plant": "quercus_robur",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; en l'absence de données suffisantes, l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "quercus_robur-12",
+    "plant": "quercus_robur",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "quercus_robur-13",
+    "plant": "quercus_robur",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été rapporté.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Quercus robur L., Quercus petraea (Matt.) Liebl., Quercus pubescens Willd., cortex (EMA/HMPC/3203/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-quercus-robur-l-quercus-petraea-matt-liebl-quercus-pubescens-willd-cortex_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  }
+]

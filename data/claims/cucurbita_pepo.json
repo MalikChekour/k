@@ -1,0 +1,477 @@
+[
+  {
+    "id": "cucurbita_pepo-ind-01",
+    "plant": "cucurbita_pepo",
+    "type": "indication",
+    "statement": "Usage traditionnel : soulagement des symptômes urinaires bas liés à une affection bénigne.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Traditional herbal medicinal product for the relief of lower urinary tract symptoms related to benign"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-ind-02",
+    "plant": "cucurbita_pepo",
+    "type": "indication",
+    "statement": "Indication limitée à l'hyperplasie bénigne de la prostate ou à une vessie hyperactive, après que des affections graves ont été écartées par un médecin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "prostatic hyperplasia or related to an overactive bladder, after serious conditions have been excluded by a medical doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-ind-03",
+    "plant": "cucurbita_pepo",
+    "type": "indication",
+    "statement": "Médicament à base de plantes traditionnel, utilisé pour cette indication exclusivement sur la base d'un usage de longue date.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-01",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, substance végétale (graines entières) ou substance végétale broyée : dose unitaire 2,5 à 7,5 g, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Single dose: 2.5"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-02",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait mou : dose unitaire 500 mg, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Single dose: 500 mg, 2 times daily."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-03",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec : dose unitaire 105 mg, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Single dose: 105 mg, 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-04",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait sec : autre schéma possible, 152 mg par prise, 2 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "or 152 mg, 2 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-05",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, huile grasse : dose unitaire 1 à 1,2 g, 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Single dose: 1"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-06",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Huile grasse : dose quotidienne de 3 à 4 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Daily dose: 3 - 4 g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-07",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Enfants et adolescents de moins de 18 ans : l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-pos-08",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Durée : une utilisation prolongée est possible.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Long-term use is possible"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-pos-09",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-01",
+    "plant": "cucurbita_pepo",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Hypersensitivity to the active substance."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-02",
+    "plant": "cucurbita_pepo",
+    "type": "age",
+    "statement": "Enfants et adolescents de moins de 18 ans et femmes enceintes : l'usage n'est pas recommandé, les symptômes urinaires chez ces populations nécessitant une supervision médicale.",
+    "severity": "precaution",
+    "population": "moins de 18 ans, femmes enceintes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age and the use in pregnant women"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-03",
+    "plant": "cucurbita_pepo",
+    "type": "warning",
+    "statement": "Si les symptômes s'aggravent ou si surviennent de la fièvre, des spasmes, du sang dans les urines, une douleur à la miction ou une rétention urinaire pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "If complaints worsen or if symptoms such as fever, spasms or blood in the urine, painful urination or urinary retention occur during the use of the medicinal product, a doctor or a qualified health care professional should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-04",
+    "plant": "cucurbita_pepo",
+    "type": "warning",
+    "statement": "Troubles gastro-intestinaux légers signalés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Mild gastrointestinal complaints have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-05",
+    "plant": "cucurbita_pepo",
+    "type": "warning",
+    "statement": "Fréquence des troubles gastro-intestinaux : fréquent (4 %).",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "The frequency is common (4%)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-06",
+    "plant": "cucurbita_pepo",
+    "type": "warning",
+    "statement": "Si d'autres effets indésirables non mentionnés ci-dessus surviennent, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-07",
+    "plant": "cucurbita_pepo",
+    "type": "overdose",
+    "statement": "Aucun cas de surdosage n'a été signalé.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-08",
+    "plant": "cucurbita_pepo",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-09",
+    "plant": "cucurbita_pepo",
+    "type": "pregnancy",
+    "statement": "En l'absence de données suffisantes, l'usage pendant la grossesse et l'allaitement n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-10",
+    "plant": "cucurbita_pepo",
+    "type": "pregnancy",
+    "statement": "Aucune préoccupation n'a été soulevée concernant une malformation chez l'humain après consommation de graines et d'huile grasse de courge.",
+    "severity": "aucune_rapportee",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "No concern has arisen about any malformation in humans, following the consumption of pumpkin seeds and fatty oil."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-11",
+    "plant": "cucurbita_pepo",
+    "type": "pregnancy",
+    "statement": "Peut être utilisée pendant la grossesse et l'allaitement si cliniquement nécessaire.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Can be used during pregnancy and lactation if clinically needed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-12",
+    "plant": "cucurbita_pepo",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-13",
+    "plant": "cucurbita_pepo",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  }
+]

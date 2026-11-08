@@ -3,7 +3,7 @@ import { Image, Pressable, ScrollView, Text, TextInput, View } from 'react-nativ
 
 import type { PlantData } from '../safety';
 import { bundle, plants } from '../bundle';
-import { RUBRICS, filterPlants, plantIdsForSymptomQuery } from '../library';
+import { RUBRICS, filterPlants, plantIdsForGroupQuery, plantIdsForSymptomQuery } from '../library';
 import type { Rubric } from '../library';
 import { styleFor } from '../plantStyle';
 import { F } from '../fonts';
@@ -17,7 +17,11 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
 }) {
   const [q, setQ] = useState('');
   const [rubric, setRubric] = useState<Rubric | null>(null);
-  const list = filterPlants(plants, q, rubric, plantIdsForSymptomQuery(bundle, bundle.usages, q));
+  const [family, setFamily] = useState<string | null>(null);
+  const groups = bundle.groups ?? [];
+  const activeGroup = groups.find(g => g.id === family) ?? null;
+  const via = new Set([...plantIdsForSymptomQuery(bundle, bundle.usages, q), ...plantIdsForGroupQuery(groups, q)]);
+  const list = filterPlants(plants, q, rubric, via, activeGroup ? activeGroup.plants : null);
   return (
     <ScrollView contentContainerStyle={s.pad} keyboardShouldPersistTaps="handled">
       <View style={{ gap: 4, marginTop: 4 }}>
@@ -39,6 +43,17 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
           <Chip key={r.id} label={r.fr} on={rubric === r.id} onPress={() => setRubric(rubric === r.id ? null : r.id)} />
         ))}
       </View>
+      {groups.length > 0 && (
+        <View style={{ gap: 6 }}>
+          <Text style={s.tag}>Familles</Text>
+          <View style={s.wrap}>
+            {groups.map(g => (
+              <Chip key={g.id} label={g.fr} on={family === g.id} onPress={() => setFamily(family === g.id ? null : g.id)} />
+            ))}
+          </View>
+          {activeGroup && <View style={{ backgroundColor: C.soft, borderRadius: 16, padding: 12 }}><Text style={s.warn}>{activeGroup.note}</Text></View>}
+        </View>
+      )}
       {list.length === 0 && <Text style={s.muted}>Aucune plante ne correspond à ces critères.</Text>}
       <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
         {list.map((p, i) => {

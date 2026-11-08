@@ -1,0 +1,399 @@
+[
+  {
+    "id": "centaurium_erythraea-ind-01",
+    "plant": "centaurium_erythraea",
+    "type": "indication",
+    "statement": "Usage traditionnel : produit à base de plante utilisé dans les troubles dyspeptiques/gastro-intestinaux légers et la perte d'appétit passagère.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Traditional herbal medicinal product used in mild dyspeptic/gastrointestinal disorders and in temporary loss of appetite."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-ind-02",
+    "plant": "centaurium_erythraea",
+    "type": "indication",
+    "statement": "Usage fondé exclusivement sur un usage de longue date (usage traditionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "The product is a traditional herbal medicinal product for use in the specified indication exclusively based upon long-standing use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-01",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, tisane (substance végétale broyée) : 1 à 4 g dans 200 ml d'eau bouillante, en infusion, jusqu'à 4 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Herbal tea: 1-4 g of the comminuted herbal substance in 200 ml of boiling water as a herbal infusion, up to 4 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-02",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, substance végétale pulvérisée : dose unique de 0,25 à 2 g, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Powdered herbal substance: single dose 0.25-2 g, up to 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-03",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait liquide : dose unique de 2 à 4 ml, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Liquid extract: single dose: 2-4 ml, up to 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-04",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, teinture : dose unique de 1,5 à 5 g, jusqu'à 3 fois par jour.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Tincture: single dose: 1.5-5 g, up to 3 times daily"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-05",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Adultes et personnes âgées, extrait mou : dose unique de 0,2 g ; dose quotidienne de 1 à 2 g.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Soft extract: single dose 0.2 g; daily dose: 1-2g"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-06",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Utilisation non recommandée chez les enfants et adolescents de moins de 18 ans.",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-pos-07",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Durée : si les symptômes persistent plus de 2 semaines pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "If the symptoms persist longer than 2 weeks during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-pos-08",
+    "plant": "centaurium_erythraea",
+    "type": "posology",
+    "statement": "Voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-01",
+    "plant": "centaurium_erythraea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'hypersensibilité à la substance active.",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Hypersensitivity to the active substance(s)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "plant_allergy"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-02",
+    "plant": "centaurium_erythraea",
+    "type": "contraindication",
+    "statement": "Contre-indiquée en cas d'ulcère gastro-duodénal (ulcère peptique).",
+    "severity": "contraindiquee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Peptic ulcer."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "gastric_ulcer"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-03",
+    "plant": "centaurium_erythraea",
+    "type": "age",
+    "statement": "Utilisation non établie chez les enfants et adolescents de moins de 18 ans, faute de données adéquates.",
+    "severity": "precaution",
+    "population": "enfants et adolescents de moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age has not been established due to lack of adequate data."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-04",
+    "plant": "centaurium_erythraea",
+    "type": "warning",
+    "statement": "En cas d'aggravation des symptômes pendant l'utilisation, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "If the symptoms worsen during the use of the medicinal product, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-05",
+    "plant": "centaurium_erythraea",
+    "type": "warning",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, l'étiquetage approprié concernant l'éthanol, tiré de la ligne directrice sur les excipients, doit être inclus.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol, the appropriate labelling for ethanol, taken from the `Guideline on excipients in the label and package leaflet of medicinal products for human use', must be included."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-06",
+    "plant": "centaurium_erythraea",
+    "type": "pregnancy",
+    "statement": "Sécurité pendant la grossesse et l'allaitement non établie ; usage non recommandé en l'absence de données suffisantes.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "In the absence of sufficient data, the use during pregnancy and lactation is not recommended."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-07",
+    "plant": "centaurium_erythraea",
+    "type": "fertility",
+    "statement": "Aucune donnée de fertilité disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-08",
+    "plant": "centaurium_erythraea",
+    "type": "driving",
+    "statement": "Aucune étude sur l'aptitude à conduire et à utiliser des machines n'a été réalisée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "No studies on the effect on the ability to drive and use machines have been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "drives"
+    ]
+  },
+  {
+    "id": "centaurium_erythraea-09",
+    "plant": "centaurium_erythraea",
+    "type": "interaction",
+    "statement": "Aucune interaction rapportée dans la monographie EMA (usage traditionnel). Ne vaut pas absence d'interaction.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "None reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-10",
+    "plant": "centaurium_erythraea",
+    "type": "undesirable_effect",
+    "statement": "Aucun effet indésirable connu. En cas de réactions indésirables, consulter un médecin ou un professionnel de santé qualifié.",
+    "severity": "aucune_rapportee",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "None known. If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "centaurium_erythraea-11",
+    "plant": "centaurium_erythraea",
+    "type": "overdose",
+    "statement": "Surdosage : troubles gastriques et nausées ont été rapportés.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+      "quote": "Stomach disturbances and nausea have been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  }
+]

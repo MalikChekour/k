@@ -64,8 +64,16 @@ for p in infusions:
     if c["plant"] != p["plant"]: errors.append(f"infusion {p['claim']}: plante {p['plant']} != {c['plant']}")
     if p["min_g"] > p["max_g"]: errors.append(f"infusion {p['claim']}: fourchette inversee")
     if p["quote_fragment"] not in c["source"]["quote"]: errors.append(f"infusion {p['claim']}: '{p['quote_fragment']}' absent de l'extrait cite")
-    if f"{p['water_ml']} ml" not in c["source"]["quote"]: errors.append(f"infusion {p['claim']}: {p['water_ml']} ml absent de l'extrait cite")
+    if f"{p['water_ml']} ml" not in c["source"]["quote"].lower(): errors.append(f"infusion {p['claim']}: {p['water_ml']} ml absent de l'extrait cite")
 
+if errors:
+    sys.exit("BUILD REFUSE :\n  " + "\n  ".join(errors))
+
+# Familles de plantes (regroupement de lecture, sans affirmation clinique)
+groups = load("data/groups.json")["groups"]
+for g in groups:
+    for pid in g["plants"]:
+        if pid not in plant_ids: errors.append(f"famille {g['id']}: plante inconnue {pid}")
 if errors:
     sys.exit("BUILD REFUSE :\n  " + "\n  ".join(errors))
 
@@ -78,7 +86,8 @@ for p in plants:
     p["claims"] = by_plant.get(p["id"], [])
 
 out = {"plants": plants, "classes": meds["classes"], "rules": [{"plant": r["plant"], "class": r["class"], "claim": r["claim"]} for r in rules],
-       "usages": [{"id": u["id"], "fr": u["fr"], "claims": u["claims"]} for u in usages], "infusions": infusions}
+       "usages": [{"id": u["id"], "fr": u["fr"], "claims": u["claims"]} for u in usages], "infusions": infusions,
+       "groups": [{"id": g["id"], "fr": g["fr"], "note": g["note"], "plants": g["plants"]} for g in groups]}
 os.makedirs(os.path.join(root, "app", "src", "data"), exist_ok=True)
 json.dump(out, open(os.path.join(root, "app", "src", "data", "bundle.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(f"{len(plants)} plantes, {len(claims)} affirmations, {len(rules)} règles, {len(meds['classes'])} classes")
