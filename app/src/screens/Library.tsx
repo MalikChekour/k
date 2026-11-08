@@ -39,21 +39,14 @@ export function Library({ onOpen, favorites, onToggleFav, writable }: {
       />
       <View style={s.wrap}>
         <Chip label="Toutes" on={rubric === null} onPress={() => setRubric(null)} />
+        {groups.map(g => (
+          <Chip key={g.id} label={g.fr} on={family === g.id} onPress={() => setFamily(family === g.id ? null : g.id)} />
+        ))}
         {RUBRICS.map(r => (
           <Chip key={r.id} label={r.fr} on={rubric === r.id} onPress={() => setRubric(rubric === r.id ? null : r.id)} />
         ))}
       </View>
-      {groups.length > 0 && (
-        <View style={{ gap: 6 }}>
-          <Text style={s.tag}>Familles</Text>
-          <View style={s.wrap}>
-            {groups.map(g => (
-              <Chip key={g.id} label={g.fr} on={family === g.id} onPress={() => setFamily(family === g.id ? null : g.id)} />
-            ))}
-          </View>
-          {activeGroup && <View style={{ backgroundColor: C.soft, borderRadius: 16, padding: 12 }}><Text style={s.warn}>{activeGroup.note}</Text></View>}
-        </View>
-      )}
+      {activeGroup && <View style={{ backgroundColor: C.soft, borderRadius: 16, padding: 12 }}><Text style={s.warn}>{activeGroup.note}</Text></View>}
       {list.length === 0 && <Text style={s.muted}>Aucune plante ne correspond à ces critères.</Text>}
       <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 12 }}>
         {list.map((p, i) => {

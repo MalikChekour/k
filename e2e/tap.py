@@ -107,6 +107,7 @@ tap(root, 'Enceinte'); time.sleep(1.5); root = dump('armoire_enceinte')
 report.append('armoire: puce Enceinte active=' + str(any((n.get('content-desc') == 'Enceinte' and n.get('checked') == 'true') for n in root.iter('node'))))
 # --- recherche par nom chinois / symptome, puis favoris -> verification de securite ---
 tap(root, 'Plantes'); time.sleep(2); root = dump('p1')
+report.append('plantes: famille Adaptogenes presente=' + str(has_text(root, 'Adaptogènes')))
 tap(root, 'Rechercher une plante'); time.sleep(1)
 subprocess.run(['adb', 'shell', 'input', 'text', 'Di%sHuang']); time.sleep(2); root = dump('recherche_pinyin')
 report.append('plantes: recherche "Di Huang" trouve la rehmannia=' + str(bool(center(root, 'Ouvrir la fiche Rehmannia (racine)'))))
@@ -117,6 +118,9 @@ for _ in range(8): subprocess.run(['adb', 'shell', 'input', 'keyevent', '67'])
 subprocess.run(['adb', 'shell', 'input', 'text', 'sommeil']); time.sleep(2); root = dump('recherche_symptome')
 report.append('plantes: recherche "sommeil" trouve la valeriane=' + str(any((n.get('content-desc') or '').startswith('Ouvrir la fiche Val') for n in root.iter('node'))))
 c = center_prefix(root, 'Ajouter ')
+if not c:
+    subprocess.run(['adb', 'shell', 'input', 'swipe', '540', '1800', '540', '900', '300']); time.sleep(1.2); root = dump('recherche_symptome2')
+    c = center_prefix(root, 'Ajouter ')
 if c:
     subprocess.run(['adb', 'shell', 'input', 'tap', str(c[0]), str(c[1])]); time.sleep(1.5)
 hide_kb()
