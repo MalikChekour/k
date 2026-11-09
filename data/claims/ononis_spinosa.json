@@ -395,5 +395,23 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "ononis_spinosa-add-01",
+    "plant": "ononis_spinosa",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale broyée, administrée en tisane, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

@@ -376,5 +376,77 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "vaccinium_myrtillus-add-01",
+    "plant": "vaccinium_myrtillus",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale entière ou broyée, en tisane pour usage oral, ou en décoction pour usage bucco-muqueux.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+      "quote": "Herbal substance or comminuted herbal substance as herbal tea for oral use or for decoction preparation for oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_myrtillus-add-02",
+    "plant": "vaccinium_myrtillus",
+    "type": "posology",
+    "statement": "Substance végétale : fruits mûrs et secs, à l'état entier ou broyé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+      "quote": "Ripe, dry fruits"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_myrtillus-add-03",
+    "plant": "vaccinium_myrtillus",
+    "type": "posology",
+    "statement": "Enfants de moins de 12 ans : l'usage n'est pas recommandé (posologie).",
+    "severity": null,
+    "population": "enfants de moins de 12 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+      "quote": "The use in children under 12 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "vaccinium_myrtillus-add-04",
+    "plant": "vaccinium_myrtillus",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

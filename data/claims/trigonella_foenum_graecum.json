@@ -720,5 +720,43 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-add-01",
+    "plant": "trigonella_foenum_graecum",
+    "type": "preclinical",
+    "statement": "Pour la baisse des taux d'hormones thyroïdiennes observée chez les rongeurs, aucune dose sans effet nocif observé (NOAEL) n'a été déterminée.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "(NOAEL) was not determined."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "trigonella_foenum_graecum-add-02",
+    "plant": "trigonella_foenum_graecum",
+    "type": "posology",
+    "statement": "Voie orale : préparations à base de la plante sous formes solides.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+      "quote": "Herbal preparations in solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

@@ -601,5 +601,113 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "marrubium_vulgare-add-01",
+    "plant": "marrubium_vulgare",
+    "type": "posology",
+    "statement": "Pour les indications digestives et la perte d'appétit : prendre les préparations ½ heure avant les repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+      "quote": "The herbal preparations should be taken ½ hour before meal."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "marrubium_vulgare-add-02",
+    "plant": "marrubium_vulgare",
+    "type": "posology",
+    "statement": "Les posologies suivantes s'appliquent aux trois indications (toux associée au rhume, troubles dyspeptiques légers, perte d'appétit temporaire).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+      "quote": "Indications 1), 2) and 3)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "marrubium_vulgare-add-03",
+    "plant": "marrubium_vulgare",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations à base de plante sous forme solide ou liquide, pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+      "quote": "Herbal preparations in solid or liquid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "marrubium_vulgare-add-04",
+    "plant": "marrubium_vulgare",
+    "type": "posology",
+    "statement": "Jus exprimé : rapport drogue-extrait (DER) 1:0,70 à 0,90.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+      "quote": "Expressed juice (DER 1:0.70-0.90)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "marrubium_vulgare-add-05",
+    "plant": "marrubium_vulgare",
+    "type": "posology",
+    "statement": "Extrait liquide : rapport drogue-extrait (DER) 1:0,9 à 1,1, solvant éthanol 20 à 30 % V/V.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+      "quote": "Liquid extract (DER 1:0.9-1.1), extraction solvent ethanol 20-30% V/V"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "marrubium_vulgare-add-06",
+    "plant": "marrubium_vulgare",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

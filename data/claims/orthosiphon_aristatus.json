@@ -521,5 +521,41 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-add-01",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Tisane : substance végétale broyée, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "orthosiphon_aristatus-add-02",
+    "plant": "orthosiphon_aristatus",
+    "type": "posology",
+    "statement": "Autres préparations à base de plante : formes liquides ou solides pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+      "quote": "Herbal preparations in liquid or solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

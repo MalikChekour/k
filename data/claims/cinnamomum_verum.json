@@ -474,5 +474,131 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-01",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale broyée à préparer en tisane, pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-02",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Préparations liquides (extrait liquide et teinture) : forme liquide destinée à un usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Herbal preparation in liquid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-03",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Extrait liquide : rapport drogue-extrait 1:1 (DER), solvant éthanol 70 % V/V.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 70% V/V"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-04",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Teinture : rapport substance végétale / solvant d'extraction 1:5, solvant éthanol 70 % V/V.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Tincture (ratio of herbal substance to extraction solvent 1:5), extraction solvent ethanol 70% V/V"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-05",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Tisane (substance végétale broyée en infusion) : utilisable pour l'indication 1 (troubles gastro-intestinaux légers et spasmodiques) et l'indication 2 (diarrhée légère), avec la même posologie pour les deux.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Indications 1) and 2)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-06",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Extrait liquide et teinture : indication 1 (troubles gastro-intestinaux) uniquement ; la monographie ne les retient pas pour la diarrhée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Indication 1)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cinnamomum_verum-add-07",
+    "plant": "cinnamomum_verum",
+    "type": "posology",
+    "statement": "Posologie établie pour les adultes et les personnes âgées uniquement ; la monographie ne donne aucune posologie pour les enfants ni les adolescents.",
+    "severity": null,
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+      "quote": "Adults and elderly"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

@@ -535,5 +535,41 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "syzygium_aromaticum-add-01",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations à base de plantes sous forme liquide, pour usage dentaire et oromuqueux (usage traditionnel).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Herbal preparations in liquid dosage forms for dental and oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "syzygium_aromaticum-add-02",
+    "plant": "syzygium_aromaticum",
+    "type": "posology",
+    "statement": "Préparation : huile essentielle obtenue par distillation à la vapeur d'eau des boutons floraux séchés de Syzygium aromaticum (clou de girofle).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+      "quote": "Essential oil obtained by steam distillation from the dried flower buds of Syzygium aromaticum"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

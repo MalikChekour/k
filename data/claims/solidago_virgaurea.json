@@ -378,5 +378,131 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-01",
+    "plant": "solidago_virgaurea",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations à base de plante sous forme solide ou liquide, ou tisane (thé à base de plante), pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "Herbal preparation in solid or liquid dosage forms or herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-02",
+    "plant": "solidago_virgaurea",
+    "type": "posology",
+    "statement": "Préparation en tisane : substance végétale broyée destinée à la préparation d'une infusion. La monographie ne précise ni le volume d'eau ni le temps d'infusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "Comminuted herbal substance for preparation"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-03",
+    "plant": "solidago_virgaurea",
+    "type": "posology",
+    "statement": "Extrait liquide (ratio 1:1) préparé avec de l'éthanol/eau à 25 % v/v.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "Liquid extract (1:1) prepared with ethanol/water 25% v/v"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-04",
+    "plant": "solidago_virgaurea",
+    "type": "posology",
+    "statement": "Teinture (ratio 1:5 v/v) préparée avec de l'éthanol/eau à 45 % v/v.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "Tincture (1:5 v/v) prepared with ethanol/water 45% v/v"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-05",
+    "plant": "solidago_virgaurea",
+    "type": "posology",
+    "statement": "Extrait sec (ratio 5 à 7 pour 1) préparé avec de l'éthanol/eau à 30 à 60 % v/v.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "Dry extract (5-7:1) prepared with ethanol/water 30 – 60% v/v"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-06",
+    "plant": "solidago_virgaurea",
+    "type": "information",
+    "statement": "Pour les teintures et extraits contenant de l'éthanol, un étiquetage approprié concernant l'éthanol doit être prévu.",
+    "severity": "precaution",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "For tinctures and extracts containing ethanol the appropriate labelling for ethanol"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "solidago_virgaurea-add-07",
+    "plant": "solidago_virgaurea",
+    "type": "preclinical",
+    "statement": "Aucun test de toxicité pour la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

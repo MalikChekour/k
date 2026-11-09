@@ -342,5 +342,157 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-add-01",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "Forme d'utilisation : préparations solides à usage oral, à base de substance végétale pulvérisée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Herbal preparations in solid dosage forms for oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-add-02",
+    "plant": "tanacetum_parthenium",
+    "type": "posology",
+    "statement": "Enfants et adolescents de moins de 18 ans : l'usage n'est pas recommandé.",
+    "severity": "precaution",
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "age_lt_18"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-add-03",
+    "plant": "tanacetum_parthenium",
+    "type": "warning",
+    "statement": "La sécurité pendant la grossesse et l'allaitement n'a pas été établie.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Safety during pregnancy and breast-feeding has not been established"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-add-04",
+    "plant": "tanacetum_parthenium",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "No fertility data available"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-add-05",
+    "plant": "tanacetum_parthenium",
+    "type": "preclinical",
+    "statement": "Une étude unique avec administration orale de la plante, à la dose de 839 mg/kg de poids corporel chez la rate gravide, a montré une toxicité maternelle et une embryotoxicité.",
+    "severity": null,
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "A single study with oral administration of feverfew in dose of 839 mg/kg bw in pregnant rats showed maternal toxicity and embryotoxicity"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "tanacetum_parthenium-add-06",
+    "plant": "tanacetum_parthenium",
+    "type": "preclinical",
+    "statement": "Dans cette étude, la dose administrée était 11 fois supérieure à la dose humaine quotidienne maximale de 600 mg.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "The dose of feverfew was 11-fold higher than the maximum human daily dose of 600 mg"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-add-07",
+    "plant": "tanacetum_parthenium",
+    "type": "preclinical",
+    "statement": "Des études adéquates de toxicité pour la reproduction n'ont pas été réalisées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "adequate studies on reproductive toxicity have not been performed"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "tanacetum_parthenium-add-08",
+    "plant": "tanacetum_parthenium",
+    "type": "preclinical",
+    "statement": "Les essais de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+      "quote": "Tests on genotoxicity and carcinogenicity have not been performed"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

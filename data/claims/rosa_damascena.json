@@ -341,5 +341,113 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "rosa_damascena-add-01",
+    "plant": "rosa_damascena",
+    "type": "posology",
+    "statement": "Voies d'administration : usage cutané et usage oromuqueux.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+      "quote": "Cutaneous use. Oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosa_damascena-add-02",
+    "plant": "rosa_damascena",
+    "type": "posology",
+    "statement": "Partie utilisée : pétales séchés (substance végétale).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+      "quote": "Dried petals"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosa_damascena-add-03",
+    "plant": "rosa_damascena",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : infusion de substance végétale ou de substance végétale broyée, pour usage oromuqueux ou cutané.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+      "quote": "for infusion preparation for oromucosal or cutaneous use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosa_damascena-add-04",
+    "plant": "rosa_damascena",
+    "type": "posology",
+    "statement": "Inflammations légères de la muqueuse buccale et pharyngée (indication 1) : infusion de 1 à 2 g de substance végétale dans 200 ml d'eau bouillante, dose unique, en rince buccal jusqu'à 3 fois par jour, pour adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+      "quote": "1 – 2 g of the herbal substance or comminuted herbal substance in 200 ml of boiling water"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosa_damascena-add-05",
+    "plant": "rosa_damascena",
+    "type": "posology",
+    "statement": "Inflammations cutanées mineures (indication 2) : infusion de 1 à 2 g de substance végétale dans 200 ml d'eau bouillante, dose unique, en compresse humide imprégnée appliquée sur la zone atteinte jusqu'à 3 fois par jour, pour adolescents, adultes et personnes âgées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+      "quote": "1 – 2 g of the herbal substance or comminuted herbal substance in 200 ml of boiling water"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rosa_damascena-add-06",
+    "plant": "rosa_damascena",
+    "type": "posology",
+    "statement": "Préparation végétale : substance végétale broyée, pour infusion.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+      "quote": "Comminuted herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

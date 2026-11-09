@@ -75,7 +75,7 @@
     "id": "rubus_idaeus-pos-01",
     "plant": "rubus_idaeus",
     "type": "posology",
-    "statement": "Adultes et personnes âgées, spasmes des règles, extrait sec : dose unique de 113 à 226 mg, jusqu'à 3 à 4 fois par jour.",
+    "statement": "Adultes, spasmes des règles, extrait sec : dose unique de 113 à 226 mg, jusqu'à 3 à 4 fois par jour.",
     "severity": null,
     "population": null,
     "source": {
@@ -444,6 +444,80 @@
       "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
       "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
       "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
+  },
+  {
+    "id": "rubus_idaeus-add-01",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Préparations à base de substance végétale broyée : tisane pour usage oral, et infusion pour usage oromuqueux.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use and for infusion preparation for oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-add-02",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Préparation d'extrait sec (DER 4:1, extraction à l'eau), pour l'indication spasmes des règles.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Dry extract (DER 4:1): extraction solvent water"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-add-03",
+    "plant": "rubus_idaeus",
+    "type": "posology",
+    "statement": "Préparations à base de plante sous forme solide, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Herbal preparations in solid dosage form for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "rubus_idaeus-add-04",
+    "plant": "rubus_idaeus",
+    "type": "preclinical",
+    "statement": "Tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity and tests on genotoxicity and carcinogenicity have not been performed."
     },
     "status": "verifie",
     "reviewed_by": null,

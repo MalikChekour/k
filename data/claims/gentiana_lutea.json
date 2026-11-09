@@ -521,5 +521,41 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-add-01",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Préparations liquides (tisane, extrait liquide, teinture) : à prendre une demi-heure avant le repas.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "The liquid preparations a), c), and d) are to be taken ½ hour before meal."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "gentiana_lutea-add-02",
+    "plant": "gentiana_lutea",
+    "type": "posology",
+    "statement": "Posologie identique pour la perte temporaire d'appétit et pour les troubles dyspeptiques ou gastro-intestinaux légers (indications 1 et 2).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+      "quote": "Indication 1) and 2):"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

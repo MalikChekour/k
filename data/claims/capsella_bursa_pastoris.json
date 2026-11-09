@@ -299,5 +299,113 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-add-01",
+    "plant": "capsella_bursa_pastoris",
+    "type": "indication",
+    "statement": "Indication limitée aux femmes ayant des cycles menstruels réguliers.",
+    "severity": null,
+    "population": "femmes ayant des cycles menstruels réguliers",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "with regular menstrual cycles, after serious"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-add-02",
+    "plant": "capsella_bursa_pastoris",
+    "type": "information",
+    "statement": "L'usage suppose qu'un médecin a préalablement écarté des affections graves.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "conditions have been excluded by a medical doctor."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-add-03",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Forme : substance végétale broyée, sous forme de tisane, pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-add-04",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Extrait liquide : DER 1:1, solvant d'extraction éthanol à 25 % V/V.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 25% V/V"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-add-05",
+    "plant": "capsella_bursa_pastoris",
+    "type": "posology",
+    "statement": "Aucune posologie n'est établie pour les moins de 18 ans : la monographie ne prévoit que la posologie des adultes.",
+    "severity": null,
+    "population": "moins de 18 ans",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "The use in adolescents under 18 years of age is not recommended"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "capsella_bursa_pastoris-add-06",
+    "plant": "capsella_bursa_pastoris",
+    "type": "preclinical",
+    "statement": "Aucun test de toxicité pour la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

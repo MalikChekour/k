@@ -341,5 +341,41 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "levisticum_officinale-add-01",
+    "plant": "levisticum_officinale",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : drogue végétale broyée, préparée en tisane, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "levisticum_officinale-add-02",
+    "plant": "levisticum_officinale",
+    "type": "posology",
+    "statement": "Partie de la plante utilisée : la racine (Levisticum officinale Koch, radix, racine de livèche).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+      "quote": "Levisticum officinale Koch, radix (lovage root)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

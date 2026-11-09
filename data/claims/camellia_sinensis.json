@@ -447,5 +447,79 @@
     "applies_to": [
       "always"
     ]
+  },
+  {
+    "id": "camellia_sinensis-add-01",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Forme traditionnelle : substance végétale entière ou coupée, préparée en tisane, pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-add-02",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Préparations à base de plante sous formes solides, pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Herbal preparations in solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-add-03",
+    "plant": "camellia_sinensis",
+    "type": "posology",
+    "statement": "Substance végétale de référence : feuille entière séchée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Whole dried leaf."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "camellia_sinensis-add-04",
+    "plant": "camellia_sinensis",
+    "type": "preclinical",
+    "statement": "Des tests adéquats sur la toxicité pour la reproduction et la cancérogénicité n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "always"
+    ]
   }
 ]

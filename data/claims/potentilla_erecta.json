@@ -563,5 +563,113 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-add-01",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Voie d'administration : indication 1 (diarrhée) par voie orale ; indication 2 (muqueuse buccale) par voie oromuqueuse.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Indication 1) Oral use. Indication 2) Oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-add-02",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Forme pharmaceutique de la tisane : substance végétale broyée, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-add-03",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Forme pour usage oromuqueux (muqueuse buccale) : substance végétale broyée destinée à la préparation d'une infusion ou d'une décoction.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Comminuted herbal substance for infusion or decoction preparation for oromucosal use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-add-04",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Extrait liquide (DER 1:1) préparé avec de l'éthanol 25 % (V/V), utilisé pour l'indication 1 (diarrhée).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 25% (V/V)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-add-05",
+    "plant": "potentilla_erecta",
+    "type": "posology",
+    "statement": "Extrait sec (DER 3,5 à 4,5:1) préparé avec de l'éthanol 60 % (V/V), utilisé pour l'indication 1 (diarrhée).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Dry extract (DER 3.5-4.5:1), extraction solvent ethanol 60% (V/V)"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "potentilla_erecta-add-06",
+    "plant": "potentilla_erecta",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité pour la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

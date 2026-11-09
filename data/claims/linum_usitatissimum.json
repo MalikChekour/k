@@ -696,5 +696,185 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-01",
+    "plant": "linum_usitatissimum",
+    "type": "posology",
+    "statement": "Voie orale : les graines de lin se prennent par voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "Herbal substance for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-02",
+    "plant": "linum_usitatissimum",
+    "type": "posology",
+    "statement": "Usage bien établi : prendre le produit pendant la journée.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "The product should be taken during the day at least"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-03",
+    "plant": "linum_usitatissimum",
+    "type": "posology",
+    "statement": "Usage traditionnel : les préparations mucilagineuses peuvent être consommées avec ou sans les graines.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "The mucilaginous preparations may be consumed with or without the seeds."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-04",
+    "plant": "linum_usitatissimum",
+    "type": "posology",
+    "statement": "Usage traditionnel : au moment de la consommation, le gonflement doit être achevé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "At the time of consumption the process of swelling has to be accomplished"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-05",
+    "plant": "linum_usitatissimum",
+    "type": "pharmacodynamics",
+    "statement": "L'effet maximal peut ne pas être atteint avant 2 ou 3 jours.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "Sometimes the maximum effect is not reached before 2 or 3 days."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-06",
+    "plant": "linum_usitatissimum",
+    "type": "pharmacodynamics",
+    "statement": "Le mucilage fixe l'eau et gonfle pour former un gel adoucissant dans l'intestin.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "mucilage that binds with water and swells to form a demulcent gel in the intestine"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-07",
+    "plant": "linum_usitatissimum",
+    "type": "pharmacodynamics",
+    "statement": "Les graines concassées ne provoquent pas toujours l'effet d'étirement, car le gonflement peut déjà commencer dans l'estomac.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "Broken seeds do not always cause a stretch stimulus because the increase in volume may already start in the stomach."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-08",
+    "plant": "linum_usitatissimum",
+    "type": "pharmacokinetics",
+    "statement": "Cette fermentation colique peut produire des gaz et des flatulences.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "This process of fermentation can produce gas and flatulence."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-09",
+    "plant": "linum_usitatissimum",
+    "type": "preclinical",
+    "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "linum_usitatissimum-add-10",
+    "plant": "linum_usitatissimum",
+    "type": "pharmacodynamics",
+    "statement": "Les graines contiennent près de 25 % de substances de charge (3 à 6 % de mucilage, 4 à 7 % de fibres alimentaires).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+      "quote": "The seeds contain nearly 25 % of bulk materials (3 - 6 % of mucilage, 4 - 7 % of alimentary fibres)."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

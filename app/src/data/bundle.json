@@ -27333,6 +27333,97 @@
      "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "cinnamomum_verum-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : substance végétale broyée à préparer en tisane, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "cinnamomum_verum-add-02",
+     "type": "posology",
+     "statement": "Préparations liquides (extrait liquide et teinture) : forme liquide destinée à un usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Herbal preparation in liquid dosage forms for oral use."
+    },
+    {
+     "id": "cinnamomum_verum-add-03",
+     "type": "posology",
+     "statement": "Extrait liquide : rapport drogue-extrait 1:1 (DER), solvant éthanol 70 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 70% V/V"
+    },
+    {
+     "id": "cinnamomum_verum-add-04",
+     "type": "posology",
+     "statement": "Teinture : rapport substance végétale / solvant d'extraction 1:5, solvant éthanol 70 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Tincture (ratio of herbal substance to extraction solvent 1:5), extraction solvent ethanol 70% V/V"
+    },
+    {
+     "id": "cinnamomum_verum-add-05",
+     "type": "posology",
+     "statement": "Tisane (substance végétale broyée en infusion) : utilisable pour l'indication 1 (troubles gastro-intestinaux légers et spasmodiques) et l'indication 2 (diarrhée légère), avec la même posologie pour les deux.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Indications 1) and 2)"
+    },
+    {
+     "id": "cinnamomum_verum-add-06",
+     "type": "posology",
+     "statement": "Extrait liquide et teinture : indication 1 (troubles gastro-intestinaux) uniquement ; la monographie ne les retient pas pour la diarrhée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Indication 1)"
+    },
+    {
+     "id": "cinnamomum_verum-add-07",
+     "type": "posology",
+     "statement": "Posologie établie pour les adultes et les personnes âgées uniquement ; la monographie ne donne aucune posologie pour les enfants ni les adolescents.",
+     "severity": null,
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/community-herbal-monograph-cinnamomum-verum-js-presl-cortex_en.pdf",
+     "quote": "Adults and elderly"
     }
    ]
   },
@@ -27729,6 +27820,32 @@
      "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "gentiana_lutea-add-01",
+     "type": "posology",
+     "statement": "Préparations liquides (tisane, extrait liquide, teinture) : à prendre une demi-heure avant le repas.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "The liquid preparations a), c), and d) are to be taken ½ hour before meal."
+    },
+    {
+     "id": "gentiana_lutea-add-02",
+     "type": "posology",
+     "statement": "Posologie identique pour la perte temporaire d'appétit et pour les troubles dyspeptiques ou gastro-intestinaux légers (indications 1 et 2).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Gentiana lutea L., radix (EMA/HMPC/607861/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-herbal-monograph-gentiana-lutea-l-radix-revision-1_en.pdf",
+     "quote": "Indication 1) and 2):"
     }
    ]
   },
@@ -27996,6 +28113,32 @@
      "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "levisticum_officinale-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : drogue végétale broyée, préparée en tisane, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "levisticum_officinale-add-02",
+     "type": "posology",
+     "statement": "Partie de la plante utilisée : la racine (Levisticum officinale Koch, radix, racine de livèche).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Levisticum officinale Koch, radix (EMA/HMPC/524621/2011)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-levisticum-officinale-koch-radix_en.pdf",
+     "quote": "Levisticum officinale Koch, radix (lovage root)"
     }
    ]
   },
@@ -28529,6 +28672,136 @@
      "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "linum_usitatissimum-add-01",
+     "type": "posology",
+     "statement": "Voie orale : les graines de lin se prennent par voie orale.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Herbal substance for oral use."
+    },
+    {
+     "id": "linum_usitatissimum-add-02",
+     "type": "posology",
+     "statement": "Usage bien établi : prendre le produit pendant la journée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The product should be taken during the day at least"
+    },
+    {
+     "id": "linum_usitatissimum-add-03",
+     "type": "posology",
+     "statement": "Usage traditionnel : les préparations mucilagineuses peuvent être consommées avec ou sans les graines.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The mucilaginous preparations may be consumed with or without the seeds."
+    },
+    {
+     "id": "linum_usitatissimum-add-04",
+     "type": "posology",
+     "statement": "Usage traditionnel : au moment de la consommation, le gonflement doit être achevé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "At the time of consumption the process of swelling has to be accomplished"
+    },
+    {
+     "id": "linum_usitatissimum-add-05",
+     "type": "pharmacodynamics",
+     "statement": "L'effet maximal peut ne pas être atteint avant 2 ou 3 jours.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Sometimes the maximum effect is not reached before 2 or 3 days."
+    },
+    {
+     "id": "linum_usitatissimum-add-06",
+     "type": "pharmacodynamics",
+     "statement": "Le mucilage fixe l'eau et gonfle pour former un gel adoucissant dans l'intestin.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "mucilage that binds with water and swells to form a demulcent gel in the intestine"
+    },
+    {
+     "id": "linum_usitatissimum-add-07",
+     "type": "pharmacodynamics",
+     "statement": "Les graines concassées ne provoquent pas toujours l'effet d'étirement, car le gonflement peut déjà commencer dans l'estomac.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Broken seeds do not always cause a stretch stimulus because the increase in volume may already start in the stomach."
+    },
+    {
+     "id": "linum_usitatissimum-add-08",
+     "type": "pharmacokinetics",
+     "statement": "Cette fermentation colique peut produire des gaz et des flatulences.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "This process of fermentation can produce gas and flatulence."
+    },
+    {
+     "id": "linum_usitatissimum-add-09",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "linum_usitatissimum-add-10",
+     "type": "pharmacodynamics",
+     "statement": "Les graines contiennent près de 25 % de substances de charge (3 à 6 % de mucilage, 4 à 7 % de fibres alimentaires).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Linum usitatissimum L., semen (EMA/HMPC/377675/2014)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-linum-usitatissimum-l-semen_en.pdf",
+     "quote": "The seeds contain nearly 25 % of bulk materials (3 - 6 % of mucilage, 4 - 7 % of alimentary fibres)."
     }
    ]
   },
@@ -28985,6 +29258,84 @@
      "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "marrubium_vulgare-add-01",
+     "type": "posology",
+     "statement": "Pour les indications digestives et la perte d'appétit : prendre les préparations ½ heure avant les repas.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "The herbal preparations should be taken ½ hour before meal."
+    },
+    {
+     "id": "marrubium_vulgare-add-02",
+     "type": "posology",
+     "statement": "Les posologies suivantes s'appliquent aux trois indications (toux associée au rhume, troubles dyspeptiques légers, perte d'appétit temporaire).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Indications 1), 2) and 3)"
+    },
+    {
+     "id": "marrubium_vulgare-add-03",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations à base de plante sous forme solide ou liquide, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Herbal preparations in solid or liquid dosage forms for oral use."
+    },
+    {
+     "id": "marrubium_vulgare-add-04",
+     "type": "posology",
+     "statement": "Jus exprimé : rapport drogue-extrait (DER) 1:0,70 à 0,90.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Expressed juice (DER 1:0.70-0.90)"
+    },
+    {
+     "id": "marrubium_vulgare-add-05",
+     "type": "posology",
+     "statement": "Extrait liquide : rapport drogue-extrait (DER) 1:0,9 à 1,1, solvant éthanol 20 à 30 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Liquid extract (DER 1:0.9-1.1), extraction solvent ethanol 20-30% V/V"
+    },
+    {
+     "id": "marrubium_vulgare-add-06",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Marrubium vulgare L., herba (EMA/HMPC/604271/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-marrubium-vulgare-l-herba-first-version_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -29291,6 +29642,19 @@
      "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed."
+    },
+    {
+     "id": "ononis_spinosa-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : substance végétale broyée, administrée en tisane, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Ononis spinosa L., radix (EMA/HMPC/138317/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-ononis-spinosa-l-radix_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
     }
    ]
   },
@@ -29688,6 +30052,32 @@
      "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
      "quote": "Adequate tests on genotoxicity have not been performed."
+    },
+    {
+     "id": "orthosiphon_aristatus-add-01",
+     "type": "posology",
+     "statement": "Tisane : substance végétale broyée, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "orthosiphon_aristatus-add-02",
+     "type": "posology",
+     "statement": "Autres préparations à base de plante : formes liquides ou solides pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Orthosiphon aristatus (Blume) Miq. var. aristatus, folium (EMA/HMPC/486551/2020)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-orthosiphon-aristatus-blume-miq-var-aristatus-folium-revision-1_en.pdf",
+     "quote": "Herbal preparations in liquid or solid dosage forms for oral use."
     }
    ]
   },
@@ -29982,6 +30372,84 @@
      "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
      "quote": "considered to be relevant in the specified conditions of use (short term use in adolescents, adults and elderly) due to the small amount present in herbal infusions prepared from aniseed."
+    },
+    {
+     "id": "pimpinella_anisum-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : substance végétale ou préparation à base de plante, sous forme de tisane, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Herbal substance or herbal preparation as herbal tea for oral use."
+    },
+    {
+     "id": "pimpinella_anisum-add-02",
+     "type": "posology",
+     "statement": "Préparation à base de plante : fruit d'anis séché, broyé ou concassé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Dried aniseed, comminuted or crushed"
+    },
+    {
+     "id": "pimpinella_anisum-add-03",
+     "type": "posology",
+     "statement": "Posologie identique pour les deux indications : troubles gastro-intestinaux spasmodiques légers et toux associée au rhume.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Indications 1) and 2)"
+    },
+    {
+     "id": "pimpinella_anisum-add-04",
+     "type": "posology",
+     "statement": "Adolescents de plus de 12 ans, adultes et personnes âgées : posologie en dose unique.",
+     "severity": null,
+     "population": "adolescents de plus de 12 ans, adultes, personnes âgées",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Adolescents over 12 years of age, adults, elderly:"
+    },
+    {
+     "id": "pimpinella_anisum-add-05",
+     "type": "preclinical",
+     "statement": "Un extrait d'anis préparé à l'eau s'est révélé négatif au test d'Ames (Salmonella typhimurium, souches TA98, TA100, TA102).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "An aniseed extract prepared with water was tested in an Ames test on Salmonella typhimurium strains TA98, TA100, TA102 and turned out as negative."
+    },
+    {
+     "id": "pimpinella_anisum-add-06",
+     "type": "preclinical",
+     "statement": "Des études non cliniques ont montré un faible potentiel mutagène de l'anéthol ; l'anéthol et ses métabolites sont peu susceptibles d'être génotoxiques in vivo.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Pimpinella anisum L., fructus (EMA/HMPC/321184/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-pimpinella-anisum-l-fructus_en.pdf",
+     "quote": "Results from non-clinical studies showed a weak mutagenic potential of anethole. Anethole and its metabolites are unlikely to be genotoxic in vivo."
     }
    ]
   },
@@ -30411,6 +30879,84 @@
      "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "potentilla_erecta-add-01",
+     "type": "posology",
+     "statement": "Voie d'administration : indication 1 (diarrhée) par voie orale ; indication 2 (muqueuse buccale) par voie oromuqueuse.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Indication 1) Oral use. Indication 2) Oromucosal use."
+    },
+    {
+     "id": "potentilla_erecta-add-02",
+     "type": "posology",
+     "statement": "Forme pharmaceutique de la tisane : substance végétale broyée, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "potentilla_erecta-add-03",
+     "type": "posology",
+     "statement": "Forme pour usage oromuqueux (muqueuse buccale) : substance végétale broyée destinée à la préparation d'une infusion ou d'une décoction.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Comminuted herbal substance for infusion or decoction preparation for oromucosal use."
+    },
+    {
+     "id": "potentilla_erecta-add-04",
+     "type": "posology",
+     "statement": "Extrait liquide (DER 1:1) préparé avec de l'éthanol 25 % (V/V), utilisé pour l'indication 1 (diarrhée).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 25% (V/V)"
+    },
+    {
+     "id": "potentilla_erecta-add-05",
+     "type": "posology",
+     "statement": "Extrait sec (DER 3,5 à 4,5:1) préparé avec de l'éthanol 60 % (V/V), utilisé pour l'indication 1 (diarrhée).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Dry extract (DER 3.5-4.5:1), extraction solvent ethanol 60% (V/V)"
+    },
+    {
+     "id": "potentilla_erecta-add-06",
+     "type": "preclinical",
+     "statement": "Des tests adéquats de toxicité pour la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (EMA/HMPC/5513/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-potentilla-erecta-l-raeusch-rhizoma_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -30705,6 +31251,97 @@
      "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "solidago_virgaurea-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations à base de plante sous forme solide ou liquide, ou tisane (thé à base de plante), pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Herbal preparation in solid or liquid dosage forms or herbal tea for oral use."
+    },
+    {
+     "id": "solidago_virgaurea-add-02",
+     "type": "posology",
+     "statement": "Préparation en tisane : substance végétale broyée destinée à la préparation d'une infusion. La monographie ne précise ni le volume d'eau ni le temps d'infusion.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Comminuted herbal substance for preparation"
+    },
+    {
+     "id": "solidago_virgaurea-add-03",
+     "type": "posology",
+     "statement": "Extrait liquide (ratio 1:1) préparé avec de l'éthanol/eau à 25 % v/v.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Liquid extract (1:1) prepared with ethanol/water 25% v/v"
+    },
+    {
+     "id": "solidago_virgaurea-add-04",
+     "type": "posology",
+     "statement": "Teinture (ratio 1:5 v/v) préparée avec de l'éthanol/eau à 45 % v/v.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Tincture (1:5 v/v) prepared with ethanol/water 45% v/v"
+    },
+    {
+     "id": "solidago_virgaurea-add-05",
+     "type": "posology",
+     "statement": "Extrait sec (ratio 5 à 7 pour 1) préparé avec de l'éthanol/eau à 30 à 60 % v/v.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Dry extract (5-7:1) prepared with ethanol/water 30 – 60% v/v"
+    },
+    {
+     "id": "solidago_virgaurea-add-06",
+     "type": "information",
+     "statement": "Pour les teintures et extraits contenant de l'éthanol, un étiquetage approprié concernant l'éthanol doit être prévu.",
+     "severity": "precaution",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "For tinctures and extracts containing ethanol the appropriate labelling for ethanol"
+    },
+    {
+     "id": "solidago_virgaurea-add-07",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité pour la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Solidago virgaurea L., herba (EMEA/HMPC/285758/2007)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-solidago-virgaurea-l-herba_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -31272,6 +31909,84 @@
      "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
      "quote": "These effects on male rat fertility were observed at approximately twice the maximal human daily dose."
+    },
+    {
+     "id": "allium_sativum-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations à base de plante en formes solides à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
+     "quote": "Herbal preparations in solid dosage forms for oral use."
+    },
+    {
+     "id": "allium_sativum-add-02",
+     "type": "posology",
+     "statement": "Extrait liquide préparé à partir de bulbe frais, rapport drogue/extrait (DER) de 2-3:1.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
+     "quote": "Liquid extract from fresh bulb (DER 2-3:1)"
+    },
+    {
+     "id": "allium_sativum-add-03",
+     "type": "posology",
+     "statement": "Extrait liquide : solvant d'extraction, huile de colza raffinée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
+     "quote": "extraction solvent rapeseed oil, refined"
+    },
+    {
+     "id": "allium_sativum-add-04",
+     "type": "posology",
+     "statement": "Extrait sec : rapport drogue/extrait (DER) de 5:1, solvant d'extraction éthanol.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
+     "quote": "Dry extract (DER 5:1), extraction solvent ethanol"
+    },
+    {
+     "id": "allium_sativum-add-05",
+     "type": "posology",
+     "statement": "Extrait sec : éthanol à 34 % V/V comme solvant d'extraction.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
+     "quote": "extraction solvent ethanol 34% V/V"
+    },
+    {
+     "id": "allium_sativum-add-06",
+     "type": "preclinical",
+     "statement": "Une NOAEL n'a pas pu être déterminée pour la poudre d'ail.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Allium sativum L., bulbus (EMA/HMPC/7685/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-allium-sativum-l-bulbus_en.pdf",
+     "quote": "a NOAEL was not determined for the garlic powder"
     }
    ]
   },
@@ -31621,6 +32336,60 @@
      "source": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
      "quote": "If adverse reactions occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "camellia_sinensis-add-01",
+     "type": "posology",
+     "statement": "Forme traditionnelle : substance végétale entière ou coupée, préparée en tisane, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+     "quote": "as herbal tea for oral use."
+    },
+    {
+     "id": "camellia_sinensis-add-02",
+     "type": "posology",
+     "statement": "Préparations à base de plante sous formes solides, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+     "quote": "Herbal preparations in solid dosage forms for oral use."
+    },
+    {
+     "id": "camellia_sinensis-add-03",
+     "type": "posology",
+     "statement": "Substance végétale de référence : feuille entière séchée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+     "quote": "Whole dried leaf."
+    },
+    {
+     "id": "camellia_sinensis-add-04",
+     "type": "preclinical",
+     "statement": "Des tests adéquats sur la toxicité pour la reproduction et la cancérogénicité n'ont pas été réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Camellia sinensis (L.) Kuntze, non fermentatum folium (EMA/HMPC/283630/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-camellia-sinensis-l-kuntze-non-fermentatum-folium_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -31890,6 +32659,84 @@
      "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "rosa_damascena-add-01",
+     "type": "posology",
+     "statement": "Voies d'administration : usage cutané et usage oromuqueux.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+     "quote": "Cutaneous use. Oromucosal use."
+    },
+    {
+     "id": "rosa_damascena-add-02",
+     "type": "posology",
+     "statement": "Partie utilisée : pétales séchés (substance végétale).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+     "quote": "Dried petals"
+    },
+    {
+     "id": "rosa_damascena-add-03",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : infusion de substance végétale ou de substance végétale broyée, pour usage oromuqueux ou cutané.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+     "quote": "for infusion preparation for oromucosal or cutaneous use"
+    },
+    {
+     "id": "rosa_damascena-add-04",
+     "type": "posology",
+     "statement": "Inflammations légères de la muqueuse buccale et pharyngée (indication 1) : infusion de 1 à 2 g de substance végétale dans 200 ml d'eau bouillante, dose unique, en rince buccal jusqu'à 3 fois par jour, pour adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+     "quote": "1 – 2 g of the herbal substance or comminuted herbal substance in 200 ml of boiling water"
+    },
+    {
+     "id": "rosa_damascena-add-05",
+     "type": "posology",
+     "statement": "Inflammations cutanées mineures (indication 2) : infusion de 1 à 2 g de substance végétale dans 200 ml d'eau bouillante, dose unique, en compresse humide imprégnée appliquée sur la zone atteinte jusqu'à 3 fois par jour, pour adolescents, adultes et personnes âgées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+     "quote": "1 – 2 g of the herbal substance or comminuted herbal substance in 200 ml of boiling water"
+    },
+    {
+     "id": "rosa_damascena-add-06",
+     "type": "posology",
+     "statement": "Préparation végétale : substance végétale broyée, pour infusion.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rosa gallica L., Rosa centifolia L., Rosa damascena Mill., flos (EMA/HMPC/137299/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rosa-gallica-l-rosa-centifolia-l-rosa-damascena-mill-flos_en.pdf",
+     "quote": "Comminuted herbal substance"
     }
    ]
   },
@@ -31961,7 +32808,7 @@
     {
      "id": "rubus_idaeus-pos-01",
      "type": "posology",
-     "statement": "Adultes et personnes âgées, spasmes des règles, extrait sec : dose unique de 113 à 226 mg, jusqu'à 3 à 4 fois par jour.",
+     "statement": "Adultes, spasmes des règles, extrait sec : dose unique de 113 à 226 mg, jusqu'à 3 à 4 fois par jour.",
      "severity": null,
      "population": null,
      "status": "verifie",
@@ -32238,6 +33085,60 @@
      "source": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "rubus_idaeus-add-01",
+     "type": "posology",
+     "statement": "Préparations à base de substance végétale broyée : tisane pour usage oral, et infusion pour usage oromuqueux.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use and for infusion preparation for oromucosal use."
+    },
+    {
+     "id": "rubus_idaeus-add-02",
+     "type": "posology",
+     "statement": "Préparation d'extrait sec (DER 4:1, extraction à l'eau), pour l'indication spasmes des règles.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+     "quote": "Dry extract (DER 4:1): extraction solvent water"
+    },
+    {
+     "id": "rubus_idaeus-add-03",
+     "type": "posology",
+     "statement": "Préparations à base de plante sous forme solide, à usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+     "quote": "Herbal preparations in solid dosage form for oral use."
+    },
+    {
+     "id": "rubus_idaeus-add-04",
+     "type": "preclinical",
+     "statement": "Tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "Community herbal monograph on Rubus idaeus L., folium (EMA/HMPC/44211/2012)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-rubus-idaeus-l-folium_en.pdf",
+     "quote": "Adequate tests on reproductive toxicity and tests on genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -32651,6 +33552,32 @@
      "source": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity of the entire clove oil have not been performed."
+    },
+    {
+     "id": "syzygium_aromaticum-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : préparations à base de plantes sous forme liquide, pour usage dentaire et oromuqueux (usage traditionnel).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+     "quote": "Herbal preparations in liquid dosage forms for dental and oromucosal use."
+    },
+    {
+     "id": "syzygium_aromaticum-add-02",
+     "type": "posology",
+     "statement": "Préparation : huile essentielle obtenue par distillation à la vapeur d'eau des boutons floraux séchés de Syzygium aromaticum (clou de girofle).",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Syzygium aromaticum (L.) Merill et L. M. Perry, floris aetheroleum (EMA/HMPC/534924/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-syzygium-aromaticum-l-merill-et-l-m-perry-floris-aetheroleum_en.pdf",
+     "quote": "Essential oil obtained by steam distillation from the dried flower buds of Syzygium aromaticum"
     }
    ]
   },
@@ -32920,6 +33847,118 @@
      "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "tanacetum_parthenium-add-01",
+     "type": "posology",
+     "statement": "Forme d'utilisation : préparations solides à usage oral, à base de substance végétale pulvérisée.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "Herbal preparations in solid dosage forms for oral use"
+    },
+    {
+     "id": "tanacetum_parthenium-add-02",
+     "type": "posology",
+     "statement": "Enfants et adolescents de moins de 18 ans : l'usage n'est pas recommandé.",
+     "severity": "precaution",
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "age_lt_18"
+     ],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "The use in children and adolescents under 18 years of age is not recommended"
+    },
+    {
+     "id": "tanacetum_parthenium-add-03",
+     "type": "warning",
+     "statement": "La sécurité pendant la grossesse et l'allaitement n'a pas été établie.",
+     "severity": "precaution",
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "Safety during pregnancy and breast-feeding has not been established"
+    },
+    {
+     "id": "tanacetum_parthenium-add-04",
+     "type": "fertility",
+     "statement": "Aucune donnée sur la fertilité n'est disponible.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "No fertility data available"
+    },
+    {
+     "id": "tanacetum_parthenium-add-05",
+     "type": "preclinical",
+     "statement": "Une étude unique avec administration orale de la plante, à la dose de 839 mg/kg de poids corporel chez la rate gravide, a montré une toxicité maternelle et une embryotoxicité.",
+     "severity": null,
+     "population": "femmes enceintes ou allaitantes",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "pregnant",
+      "lactating"
+     ],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "A single study with oral administration of feverfew in dose of 839 mg/kg bw in pregnant rats showed maternal toxicity and embryotoxicity"
+    },
+    {
+     "id": "tanacetum_parthenium-add-06",
+     "type": "preclinical",
+     "statement": "Dans cette étude, la dose administrée était 11 fois supérieure à la dose humaine quotidienne maximale de 600 mg.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "The dose of feverfew was 11-fold higher than the maximum human daily dose of 600 mg"
+    },
+    {
+     "id": "tanacetum_parthenium-add-07",
+     "type": "preclinical",
+     "statement": "Des études adéquates de toxicité pour la reproduction n'ont pas été réalisées.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "adequate studies on reproductive toxicity have not been performed"
+    },
+    {
+     "id": "tanacetum_parthenium-add-08",
+     "type": "preclinical",
+     "statement": "Les essais de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Tanacetum parthenium (L.) Schultz Bip., herba (EMA/HMPC/48715/2017)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-tanacetum-parthenium-l-schulz-bip-herba-revision-1_en.pdf",
+     "quote": "Tests on genotoxicity and carcinogenicity have not been performed"
     }
    ]
   },
@@ -33466,6 +34505,34 @@
      "source": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
      "quote": "If other adverse reactions not mentioned above occur, a doctor or a qualified health care practitioner should be consulted."
+    },
+    {
+     "id": "trigonella_foenum_graecum-add-01",
+     "type": "preclinical",
+     "statement": "Pour la baisse des taux d'hormones thyroïdiennes observée chez les rongeurs, aucune dose sans effet nocif observé (NOAEL) n'a été déterminée.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [
+      "always"
+     ],
+     "source": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+     "quote": "(NOAEL) was not determined."
+    },
+    {
+     "id": "trigonella_foenum_graecum-add-02",
+     "type": "posology",
+     "statement": "Voie orale : préparations à base de la plante sous formes solides.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Trigonella foenum-graecum L., semen (EMA/HMPC/179591/2018)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-trigonella-foenum-graecum-l-semen-revision-1_en.pdf",
+     "quote": "Herbal preparations in solid dosage forms for oral use."
     }
    ]
   },
@@ -33758,6 +34825,58 @@
      "source": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "vaccinium_myrtillus-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : substance végétale entière ou broyée, en tisane pour usage oral, ou en décoction pour usage bucco-muqueux.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+     "quote": "Herbal substance or comminuted herbal substance as herbal tea for oral use or for decoction preparation for oromucosal use."
+    },
+    {
+     "id": "vaccinium_myrtillus-add-02",
+     "type": "posology",
+     "statement": "Substance végétale : fruits mûrs et secs, à l'état entier ou broyé.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+     "quote": "Ripe, dry fruits"
+    },
+    {
+     "id": "vaccinium_myrtillus-add-03",
+     "type": "posology",
+     "statement": "Enfants de moins de 12 ans : l'usage n'est pas recommandé (posologie).",
+     "severity": null,
+     "population": "enfants de moins de 12 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+     "quote": "The use in children under 12 years of age is not recommended"
+    },
+    {
+     "id": "vaccinium_myrtillus-add-04",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogénicité non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Vaccinium myrtillus L., fructus siccus (EMA/HMPC/678995/2013)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-vaccinium-myrtillus-l-fructus-siccus_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -33993,6 +35112,84 @@
      "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
      "quote": "No case of overdose has been reported."
+    },
+    {
+     "id": "capsella_bursa_pastoris-add-01",
+     "type": "indication",
+     "statement": "Indication limitée aux femmes ayant des cycles menstruels réguliers.",
+     "severity": null,
+     "population": "femmes ayant des cycles menstruels réguliers",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+     "quote": "with regular menstrual cycles, after serious"
+    },
+    {
+     "id": "capsella_bursa_pastoris-add-02",
+     "type": "information",
+     "statement": "L'usage suppose qu'un médecin a préalablement écarté des affections graves.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+     "quote": "conditions have been excluded by a medical doctor."
+    },
+    {
+     "id": "capsella_bursa_pastoris-add-03",
+     "type": "posology",
+     "statement": "Forme : substance végétale broyée, sous forme de tisane, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "capsella_bursa_pastoris-add-04",
+     "type": "posology",
+     "statement": "Extrait liquide : DER 1:1, solvant d'extraction éthanol à 25 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+     "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 25% V/V"
+    },
+    {
+     "id": "capsella_bursa_pastoris-add-05",
+     "type": "posology",
+     "statement": "Aucune posologie n'est établie pour les moins de 18 ans : la monographie ne prévoit que la posologie des adultes.",
+     "severity": null,
+     "population": "moins de 18 ans",
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+     "quote": "The use in adolescents under 18 years of age is not recommended"
+    },
+    {
+     "id": "capsella_bursa_pastoris-add-06",
+     "type": "preclinical",
+     "statement": "Aucun test de toxicité pour la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "Community herbal monograph on Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-capsella-bursa-pastoris-l-medikus-herba-first-version_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
@@ -34300,6 +35497,84 @@
      "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
      "quote": "Stomach disturbances and nausea have been reported."
+    },
+    {
+     "id": "centaurium_erythraea-add-01",
+     "type": "posology",
+     "statement": "Forme pharmaceutique : substance végétale broyée à préparer en tisane, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+     "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    {
+     "id": "centaurium_erythraea-add-02",
+     "type": "posology",
+     "statement": "Autres préparations à base de plante sous forme liquide ou solide, pour usage oral.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+     "quote": "Herbal preparations in liquid or solid dosage forms for oral use."
+    },
+    {
+     "id": "centaurium_erythraea-add-03",
+     "type": "posology",
+     "statement": "Extrait liquide : rapport drogue/extrait 1:1, solvant d'extraction éthanol à 25 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+     "quote": "Liquid extract (DER 1:1), extraction solvent ethanol 25% V/V"
+    },
+    {
+     "id": "centaurium_erythraea-add-04",
+     "type": "posology",
+     "statement": "Teinture : rapport drogue/extrait 1:5, solvant d'extraction éthanol à 70 % V/V.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+     "quote": "Tincture (DER 1:5), extraction solvent ethanol 70% V/V"
+    },
+    {
+     "id": "centaurium_erythraea-add-05",
+     "type": "posology",
+     "statement": "Extrait mou : rapport drogue/extrait 1:10, solvant d'extraction eau.",
+     "severity": null,
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+     "quote": "Soft extract (DER 1:10), extraction solvent water"
+    },
+    {
+     "id": "centaurium_erythraea-add-06",
+     "type": "preclinical",
+     "statement": "Tests de toxicité sur la reproduction, de génotoxicité et de cancérogenèse non réalisés.",
+     "severity": "donnees_absentes",
+     "population": null,
+     "status": "verifie",
+     "reviewed_by": null,
+     "applies_to": [],
+     "source": "European Union herbal monograph on Centaurium erythraea Rafn. s.l., herba (EMA/HMPC/277493/2015)",
+     "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/european-union-herbal-monograph-centaurium-erythraea-rafn-sl-herba_en.pdf",
+     "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
     }
    ]
   },
