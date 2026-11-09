@@ -31,7 +31,7 @@ def title_match(cited, actual):
     return len(a & b) / min(len(a), len(b))
 
 
-def http(url, timeout=60, tries=5):
+def http(url, timeout=60, tries=6):
     """Telechargement avec reprises : archive.org renvoie des HTTP 500 et des PDF tronques depuis les runners CI."""
     import time
     last = None
@@ -45,7 +45,8 @@ def http(url, timeout=60, tries=5):
             return raw
         except Exception as e:
             last = e
-            time.sleep(3 * (k + 1))
+            # EMA limite le debit (HTTP 429) : attente longue, sinon courte
+            time.sleep(25 * (k + 1) if getattr(e, 'code', None) == 429 else 3 * (k + 1))
     raise last
 
 
@@ -74,6 +75,8 @@ _doc_cache = {}
 def doc_texts(url):
     """Liste de textes candidats (un par mode d'extraction)."""
     if url not in _doc_cache:
+        import time
+        time.sleep(1.5)  # courtoisie envers le serveur : ~100 PDF telecharges a la suite
         raw = http(url)
         _doc_cache[url] = pdf_texts(raw) if raw[:4] == b"%PDF" else [raw.decode("utf-8", "replace")]
     return _doc_cache[url]
