@@ -93,7 +93,7 @@
     "id": "melilotus_officinalis-pos-04",
     "plant": "melilotus_officinalis",
     "type": "posology",
-    "statement": "Adultes et personnes âgées, usage cutané, extrait liquide : 3 g par dose unique, en patch appliqué sur la zone de peau atteinte ; dose journalière de 3 à 6 g (jusqu'à deux patchs).",
+    "statement": "Usage cutané, extrait liquide (indication 2) : 3 g par dose unique, en patch appliqué sur la zone de peau atteinte ; dose journalière de 3 à 6 g (jusqu'à deux patchs). La monographie ne précise pas de population pour cette indication.",
     "severity": null,
     "population": null,
     "source": {
@@ -392,6 +392,132 @@
       "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
       "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
       "quote": "No case of overdose has been reported."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-01",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Indication 1 (symptômes d'inconfort et de lourdeur des jambes liés à de légères perturbations de la circulation veineuse) : voie orale, sous forme de tisane (infusion) ou de poudre de plante, pour adultes et personnes âgées.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Indication 1) Adults and elderly a) Single dose: Herbal tea: 1.0–1.2 g of comminuted herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-02",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Indication 2 (petites inflammations de la peau) : usage cutané, extrait liquide appliqué en patch sur la zone de peau atteinte.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Indication 2) c) Single dose: 3 g of liquid extract, as a cutaneous patch applied to the affected skin"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-03",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Extrait liquide (usage cutané) : rapport substance végétale / solvant d'extraction de 1:3 ; solvants d'extraction : éthanol 70 % (V/V) ou huile de colza.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "1:3, extraction solvents: ethanol 70% (V/V), rapeseed oil"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-04",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale broyée, en tisane ou en infusion, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "a) Comminuted herbal substance as herbal tea, infusion, for oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-05",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale sous forme solide, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "b) Herbal substance in solid dosage forms for oral use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-06",
+    "plant": "melilotus_officinalis",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparations à usage cutané sous forme semi-solide.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "c) Herbal preparations in semi-solid dosage forms for cutaneous use"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "melilotus_officinalis-add-07",
+    "plant": "melilotus_officinalis",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction et de cancérogénicité non réalisés. Tests adéquats de génotoxicité non réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Melilotus officinalis (L.) Lam., herba (EMA/HMPC/44166/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-melilotus-officinalis-l-lam-herba_en.pdf",
+      "quote": "Tests on reproductive toxicity and carcinogenicity have not been performed. Adequate tests on genotoxicity have not been performed."
     },
     "status": "verifie",
     "reviewed_by": null,

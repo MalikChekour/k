@@ -418,5 +418,113 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-add-01",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale broyée, en tisane pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Comminuted herbal substance as herbal tea for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-add-02",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : préparation à base de plante en formes solides pour usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Herbal preparation in solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-add-03",
+    "plant": "peumus_boldus",
+    "type": "quality",
+    "statement": "Deux préparations sont visées : a) substance végétale broyée et b) extrait sec DER 5:1, solvant d'extraction eau.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "a) Comminuted herbal substance b) Dry extract (DER 5:1), extraction solvent water"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-add-04",
+    "plant": "peumus_boldus",
+    "type": "preclinical",
+    "statement": "Tests de toxicité sur la reproduction réalisés chez le rat gravide avec un extrait sec éthanolique de feuille de boldo et de la boldine, administrés par voie orale.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Tests on reproductive toxicity have been performed with a dry ethanolic extract of boldo leaf and boldine administered orally to pregnant rats."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-add-05",
+    "plant": "peumus_boldus",
+    "type": "posology",
+    "statement": "Posologie indiquée pour les adultes et les personnes âgées ; aucune dose distincte n'est mentionnée pour les personnes âgées.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "Adults and elderly"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "peumus_boldus-add-06",
+    "plant": "peumus_boldus",
+    "type": "quality",
+    "statement": "La forme pharmaceutique doit être décrite par le terme complet de la Pharmacopée européenne.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "European Union herbal monograph on Peumus boldus Molina, folium (EMA/HMPC/453725/2016)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-european-union-herbal-monograph-peumus-boldus-molina-folium_en.pdf",
+      "quote": "The pharmaceutical form should be described by the European Pharmacopoeia full standard term."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

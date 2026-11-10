@@ -473,5 +473,152 @@
     "applies_to": [
       "drives"
     ]
+  },
+  {
+    "id": "cucurbita_pepo-add-01",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Préparation : extrait mou (DER 15-25:1), solvant d'extraction éthanol 92 % m/m.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Soft extract (DER 15-25:1), extraction solvent ethanol 92% m/m"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-add-02",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Préparation : extrait sec (rapport 15-30:1), solvant d'extraction éthanol 60 % v/v.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Dry extract (15-30:1), extraction solvent ethanol 60% v/v"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-add-03",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Préparation : substance végétale broyée (graines de courge broyées).",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "a) Comminuted herbal substance"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-add-04",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Substance végétale : graines entières, mûres et séchées.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Whole, ripe and dried seeds"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-add-05",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Préparation : huile grasse de courge.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "d) Fatty oil"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-add-06",
+    "plant": "cucurbita_pepo",
+    "type": "posology",
+    "statement": "Forme pharmaceutique : substance végétale ou préparations végétales sous forme de dosage solide, à usage oral.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Herbal substance or herbal preparations in solid dosage forms for oral use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "cucurbita_pepo-add-07",
+    "plant": "cucurbita_pepo",
+    "type": "warning",
+    "statement": "La sécurité pendant la grossesse et l'allaitement n'a pas été établie pour les extraits de courge.",
+    "severity": "precaution",
+    "population": "femmes enceintes ou allaitantes",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Safety during pregnancy and lactation has not been established for pumpkin extracts."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": [
+      "pregnant",
+      "lactating"
+    ]
+  },
+  {
+    "id": "cucurbita_pepo-add-08",
+    "plant": "cucurbita_pepo",
+    "type": "preclinical",
+    "statement": "Aucun essai de toxicité sur la reproduction, de génotoxicité ni de cancérogénicité n'a été réalisé.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Cucurbita pepo L., semen (EMA/HMPC/136024/2010)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-cucurbita-pepo-l-semen_en.pdf",
+      "quote": "Tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]

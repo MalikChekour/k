@@ -416,5 +416,77 @@
     "reviewed_by": null,
     "reviewed_on": null,
     "applies_to": []
+  },
+  {
+    "id": "juglans_regia-add-01",
+    "plant": "juglans_regia",
+    "type": "posology",
+    "statement": "Forme et préparation : substance végétale fragmentée destinée à la préparation d'une décoction, pour usage cutané.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Juglans regia L., folium (EMA/HMPC/346737/2011)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+      "quote": "Comminuted herbal substance for decoction preparation for cutaneous use."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "juglans_regia-add-02",
+    "plant": "juglans_regia",
+    "type": "indication",
+    "statement": "Usage traditionnel chez les adultes et les personnes âgées, pour les deux indications.",
+    "severity": null,
+    "population": "adultes et personnes âgées",
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Juglans regia L., folium (EMA/HMPC/346737/2011)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+      "quote": "Adults and elderly"
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "juglans_regia-add-03",
+    "plant": "juglans_regia",
+    "type": "fertility",
+    "statement": "Aucune donnée sur la fertilité n'est disponible.",
+    "severity": null,
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Juglans regia L., folium (EMA/HMPC/346737/2011)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+      "quote": "No fertility data available."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
+  },
+  {
+    "id": "juglans_regia-add-04",
+    "plant": "juglans_regia",
+    "type": "preclinical",
+    "statement": "Des tests adéquats de toxicité sur la reproduction, de génotoxicité et de cancérogénicité n'ont pas été réalisés.",
+    "severity": "donnees_absentes",
+    "population": null,
+    "source": {
+      "kind": "doc",
+      "title": "Community herbal monograph on Juglans regia L., folium (EMA/HMPC/346737/2011)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-monograph/final-community-herbal-monograph-juglans-regia-l-folium_en.pdf",
+      "quote": "Adequate tests on reproductive toxicity, genotoxicity and carcinogenicity have not been performed."
+    },
+    "status": "verifie",
+    "reviewed_by": null,
+    "reviewed_on": null,
+    "applies_to": []
   }
 ]
